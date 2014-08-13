@@ -24,7 +24,7 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 | Controlled - cents/kWh	| 23.90| 	6.16| 
 | Night - cents/kWh	| 17.48| 	3.83| 
 
-- Prices effective 23 May 2014.
+- Prices effective 18 May 2014.
 - Standard [Terms and Conditions](http://www.energyonline.co.nz/Default.aspx?tabid=169) apply.
 - If your account is paid in full by the due date our Prompt Payment Discount of 20% will apply.
 - All rates include the Electricity Authority levy (the Electricity Authority is a government organisation that regulates New Zealand’s electricity market).
