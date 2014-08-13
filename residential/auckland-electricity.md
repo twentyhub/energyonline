@@ -39,7 +39,7 @@ If you pay on time, you'll receive our Prompt Payment Discount of 20%
 - All rates rounded to two decimal places.
 
 
-Back to regions
+[Back to regions](http://www.energyonline.co.nz/residential/pricing_plans/residential_electricity_pricing_plans)
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
 
