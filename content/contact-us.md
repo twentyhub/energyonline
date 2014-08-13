@@ -15,8 +15,8 @@ Monday to Thursday 8am to 6pm and Friday 8am to 5pm.
 09 539 4633
 
 ### Email
-help@energyonline.co.nz
-reads@energyonline.co.nz
+mailto:help@energyonline.co.nz
+mailto:reads@energyonline.co.nz
 
 ### By post
 Freepost
@@ -32,7 +32,7 @@ Monday to Thursday 8am to 6pm and Friday 8am to 5pm.
 0800 089 089
 
 ### Email
-sales@energyonline.co.nz
+mailto:sales@energyonline.co.nz
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
 
