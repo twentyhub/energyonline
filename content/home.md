@@ -1,6 +1,8 @@
 # Welcome to Energy Online
 Energy Online is an expanding energy retailer. We offer great service and work continuously to improve through new offerings to our customers.
 
+Join us today. [Sign-up online](https://join-us.energyonline.co.nz/web/eol/join)
+
 [Sign-up online](https://join-us.energyonline.co.nz/web/eol/join )
 [Six Month Price Promise](http://www.energyonline.co.nz/residential/six_month_price_promise )
 
