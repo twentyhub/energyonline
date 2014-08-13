@@ -1,5 +1,5 @@
 # About my account
-My Account is our online service designed to make your life a whole lot easier.  You'll find a host of features to help you manage your Energy Online account at your convenience 24 hours a day, 7 days a week.
+<p class="intro">My Account is our online service designed to make your life a whole lot easier.  You'll find a host of features to help you manage your Energy Online account at your convenience 24 hours a day, 7 days a week.</p>
 
 By logging on to My Account you can:
 
@@ -14,7 +14,7 @@ By logging on to My Account you can:
 
 Best of all, registering is easy and it's free!  Just have your latest Energy Online invoice handy and you can [register right now.](https://www.energyonline.co.nz/my_account_-_login/controltype/1/m/403)  If you've already registered, you can log in on the left using your customer number and password.
 
-## Click here to become an Energy Online customer.[Join](https://join-us.energyonline.co.nz/web/eol/join)
+## [Click here to become an Energy Online customer.](https://join-us.energyonline.co.nz/web/eol/join)
  
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
