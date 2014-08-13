@@ -1,5 +1,5 @@
 # Welcome to Energy Online
-If you need to contact us for any reason, we're here to help. We've listed our contact details below; please choose the option that best meets your needs.
+<p class="intro>If you need to contact us for any reason, we're here to help. We've listed our contact details below; please choose the option that best meets your needs.</p>
 
 
 ## Customer Care Team
