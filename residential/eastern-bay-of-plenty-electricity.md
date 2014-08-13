@@ -18,7 +18,7 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 | Daily Charge - cents/day	| 37.50	| 15.00| 
 | General - cents/kWh	| 30.00	| 10.55| 
 
-- Prices effective 23 May 2014.
+- Prices effective from 18 May 2014. Prices are subject to change.
 - Standard [Terms and Conditions](http://www.energyonline.co.nz/Default.aspx?tabid=169) apply.
 - If your account is paid in full by the due date our Prompt Payment Discount of 20% will apply.
 - All rates include the Electricity Authority levy (the Electricity Authority is a government organisation that regulates New Zealand’s electricity market).
