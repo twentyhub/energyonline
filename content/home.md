@@ -8,7 +8,6 @@ Energy Online is an expanding energy retailer. We offer great service and work c
 
 [Sign up for 'My Account'](https://www.energyonline.co.nz/my_account_-_login/controltype/1/m/403 )
 
-Join Now
  
 ## We’ve heard you don’t like door knockers – so we’ve decided to stop using them.
 It’s just another way we’re making life better for homes around New Zealand. Trying our best to keep customers happy is also why we’ve picked up the Roy Morgan Customer Service Award three times.
