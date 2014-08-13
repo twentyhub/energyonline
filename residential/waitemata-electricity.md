@@ -8,7 +8,7 @@ Auckland, here’s something to warm you up this winter. It’s $100 off your en
 
 [Sign up now](http://cheaperenergy.co.nz/index.php/join) and let’s get cosy.
 
-Terms and Conditions apply. Promotion ends 14 July 2014.
+<p class="legals">Terms and Conditions apply. Promotion ends 14 July 2014.</p>
 
  
 
