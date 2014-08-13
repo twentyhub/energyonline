@@ -31,7 +31,7 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
  
 
 - Prices effective 23 May 2014.
-- Standard [Terms and Conditions](http://www.energyonline.co.nz/Default.aspx?tabid=169)apply.
+- Standard [Terms and Conditions](http://www.energyonline.co.nz/Default.aspx?tabid=169) apply.
 - If your account is paid in full by the due date our Prompt Payment Discount of 20% will apply.
 - All rates include the Electricity Authority levy (the Electricity Authority is a government organisation that regulates New Zealand’s electricity market).
 - Network Operator Charges are shown before Vector's prompt payment discount of 10%.
