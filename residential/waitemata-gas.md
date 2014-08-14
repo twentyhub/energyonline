@@ -18,7 +18,7 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 <p class="intro">If you pay on time, you'll receive our Prompt Payment Discount of 20%</p>
 
 
-## Electricity
+### Electricity
 The below pricing plans are available to residential customers who do not have an electrical hot water cylinder in excess of 50 litres connected to United Networks’ load management system.
 
 |Standard User	|Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
@@ -46,7 +46,7 @@ The below pricing plans are available to residential customers with an electrica
 |All Inclusive - cents/kWh	|26.88|	9.30|
  
 
-## Gas
+### Gas
 |Residential	|Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
 |-------------------|
 |Daily Charge - cents/day|	87.00|	24.00|
