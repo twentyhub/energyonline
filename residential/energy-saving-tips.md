@@ -86,3 +86,18 @@
 For further Residential Energy Saving Tips, you can find a helpful brochure from the Energy Efficiency Conservation Authority (EECA) [here](http://www.eeca.govt.nz/eeca-library/residential/brochure/getting-warmer-by-degrees-brochure-06.pdf)*.
 
 _*Requires Adobe PDF Reader software. If you do not have this software, you can download a free viewer from Adobe's web site._
+
+
+
+
+
+[Terms & Conditions](http://www.energyonline.co.nz/terms)
+
+[Sitemap](http://www.energyonline.co.nz/home/site_map)
+
+[Disclaimer](http://www.energyonline.co.nz/home/site_map/disclaimer)
+
+[Privacy Policy](http://www.energyonline.co.nz/home/site_map/privacy_policy)
+
+
+
