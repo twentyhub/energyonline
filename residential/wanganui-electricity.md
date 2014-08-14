@@ -35,6 +35,7 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 - If your account is paid in full by the due date our Prompt Payment Discount of 20% will apply.
 - All rates include the Electricity Authority levy (the Electricity Authority is a government organisation that regulates New Zealand’s electricity market).
 - The Low User Pricing Plan is beneficial to households using 8,000 kWh or less per year and is only available to primary residences - for more information , please click [here](http://www.energyonline.co.nz/Default.aspx?tabid=148).
+- Network Operator Charges for this network are assessed by Energy Online.  We do this by converting the network operator charges, which are at a GXP-level, to ICP-based charges.  If you'd like more information on how these charges are assessed, please [contact us](http://www.energyonline.co.nz/Default.aspx?tabid=66).
 - All rates rounded to two decimal places.
 
 
