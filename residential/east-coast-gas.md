@@ -7,7 +7,7 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 <p class="intro">If you pay on time, you'll receive our Prompt Payment Discount of 20%</p>
 
 
-## Electricity (high density)
+### Electricity (high density)
 
 |Standard User	|Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
 |-----------------------|
@@ -27,7 +27,7 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 |Night Only - cents/kWh	|14.56|	1.89|
  
 
-## Electricity (low density)
+### Electricity (low density)
 |Standard User|	Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
 |-----------------------|
 |Daily Charge - cents/day|	100.00	|15.00|
@@ -46,7 +46,7 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 |Night Only - cents/kWh|	14.82|	2.21|
  
 
-## Gas
+### Gas
 |Standard User	|Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
 |---------------------|
 |Daily Charge - cents/day|	125.00|	30.00|
