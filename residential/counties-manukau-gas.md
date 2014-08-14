@@ -45,6 +45,7 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 - All rates rounded to two decimal places.
 
 [Back to regions](http://www.energyonline.co.nz/residential/pricing_plans/electricity_and_gas_pricing_plans)
+
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
 
 [Sitemap](http://www.energyonline.co.nz/home/site_map)
