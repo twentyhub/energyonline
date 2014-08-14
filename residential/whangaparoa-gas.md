@@ -49,6 +49,7 @@ The below pricing plans are available to residential customers with an electrica
 - All rates rounded to two decimal places.
 
 [Back to regions](http://www.energyonline.co.nz/residential/pricing_plans/electricity_and_gas_pricing_plans)
+
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
 
 [Sitemap](http://www.energyonline.co.nz/home/site_map)
