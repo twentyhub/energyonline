@@ -2,10 +2,10 @@
 <p- class="intro">We sometimes have to bill for services over and above your normal electricity supply charges. So to help avoid unexpected costs, we have listed our service fee pricing schedule.</p>
 
 ## Electricity service charges
- 
- 
+
+ | | 
+ |-------------------- | 
  | Reconnection	 | $50.00 | 
-  |-------------------- | 
  | Disconnection	 | $50.00 |  
  | Disconnection Site Visit	 | $50.00 | 
  | Special / final read	 | $17.00 | 
@@ -25,8 +25,10 @@
  
  
 ## Gas service fees
+ 
+ | | 
+ |-------------------- |
  |Reconnection on next working day (normal hours)	 |$140.00 |
-  |-------------------- |
  |Reconnection on next working day (after hours)	 |$180.00
  |Reconnection on same day (normal hours) |	$175.00 |
  |Reconnection on same day (after hours) |	$225.00 |
@@ -37,8 +39,9 @@
  |Special / final read |	$17.00 |
  
  ## Other service fees
+ | | 
+ | ----------------------| 
  |Dishonoured payment fee |	$8.00 |
-  |----------------------------- |
  | Refund of credit balance**********	 |$5.00 |
 
 *** Charged when no access provided to our contractor after an appointment has been previously arranged.
