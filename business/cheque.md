@@ -12,7 +12,9 @@ Auckland 1542
 No stamp is needed.
 
 
-[Back to Payment Options](http://www.energyonline.co.nz/residential/residential_faqs/residential_faqs_-_payment_options)
+[Back to Payment Options](http://www.energyonline.co.nz/business/business_faqs/business_faqs_-_payment_options)
+
+
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
 
