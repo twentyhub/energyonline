@@ -424,24 +424,24 @@ Energy Online is a member of the Electricity and Gas Complaints Commissioner Sch
 
 If **you** have a complaint, please contact our Customer Care Team. Our contact details are set out in section 1, or alternatively **you** can make an appointment to see us at our offices.  Our free internal complaints resolution service is explained on our website.
 
-We will try to resolve your complaint straight away. If it is complex, or involves other parties, such as your network company or meter company, our Customer Resolutions Team will investigate it for you. We may also refer it to your network company or meter company. If we do this, we will tell you. 
+We will try to resolve **your** complaint straight away. If it is complex, or involves other parties, such as **your** network company or meter company, our Customer Resolutions Team will investigate it for **you**. We may also refer it to **your** network company or meter company. If we do this, we will tell **you**. 
 
-In any event, we will acknowledge your complaint in writing within 2 business days after we receive your complaint. 
+In any event, we will acknowledge **your** complaint in writing within 2 business days after we receive **your** complaint. 
 
-If we can't resolve your complaint straight away, we will give you a response within 7 business days after we receive your complaint. 
+If we can't resolve **your** complaint straight away, we will give **you** a response within 7 business days after we receive **your** complaint. 
 
 If:
 
-• we have not resolved your complaint within 20 working days and have not written to you explaining why we need more time to reach a resolution; or
-• we have taken longer than 40 working days to resolve your complaint; or
-• you are not happy with our proposed resolution,
+• we have not resolved **your** complaint within 20 working days and have not written to **you** explaining why we need more time to reach a resolution; or
+• we have taken longer than 40 working days to resolve **your** complaint; or
+• **you** are not happy with our proposed resolution,
 
-you may refer your complaint to the free independent dispute resolution service provided by the Electricity and Gas Complaints Commissioner on 0800 22 33 40 or visit www.egcomplaints.co.nz.  You may also refer your complaint to the Disputes Tribunal, the Court or other third party. 
+**you** may refer **your** complaint to the free independent dispute resolution service provided by the Electricity and Gas Complaints Commissioner on 0800 22 33 40 or visit www.egcomplaints.co.nz.  **You** may also refer **your** complaint to the Disputes Tribunal, the Court or other third party. 
 
 17 WHAT IS ENERGY ONLINE’S LIABILITY FOR LOSS OR DAMAGE?
 17.1 What will we be liable for? 
 
-We will not be liable to you (in contract, tort (including negligence) or otherwise) for any loss or damage you may suffer unless, and to the extent that, that loss or damage is direct loss of or damage to your physical property and it occurs due to:
+We will not be liable to **you** (in contract, tort (including negligence) or otherwise) for any loss or damage **you** may suffer unless, and to the extent that, that loss or damage is direct loss of or damage to **your** physical property and it occurs due to:
 
 • our breach of this agreement; or 
 • our negligence;
@@ -455,13 +455,13 @@ but we will not be liable in any cases for any other loss or damage including in
 
 17.2 What is an event beyond our control? 
 
-An event or cause beyond our control includes, but is not limited to: acts of God, war, riot, civil commotion, malicious damage, compliance with any law or governmental order, rule, regulation or direction, accident, earthquake, fire, lightning, storm, flood or other similar event, interference with the network from birds, animals or vegetation, traffic accidents, faults in the network, acts or omissions by the network company or meter company, problems with generation, transmission or distribution of energy, problems with your wiring, problems arising because of health and safety hazards at your premises, and other things which we do not have control over. 
+An event or cause beyond our control includes, but is not limited to: acts of God, war, riot, civil commotion, malicious damage, compliance with any law or governmental order, rule, regulation or direction, accident, earthquake, fire, lightning, storm, flood or other similar event, interference with the network from birds, animals or vegetation, traffic accidents, faults in the network, acts or omissions by the network company or meter company, problems with generation, transmission or distribution of energy, problems with **your** wiring, problems arising because of health and safety hazards at **your** premises, and other things which we do not have control over. 
 
 17.3 What is our maximum liability? 
 
-If we are liable to you, the maximum amount we will pay as compensation for your loss is $10,000 in respect of any event or series of closely related events. We may choose to replace any damaged property or goods, up to the same maximum amount, instead of paying cash. We are not required to honour this agreement in circumstances where an event has occurred which is beyond our control and which prevents us from doing the things we would normally do. In these circumstances, we will carry on honouring our obligations as soon as it is reasonably practicable for us to do so. 
+If we are liable to **you**, the maximum amount we will pay as compensation for **your** loss is $10,000 in respect of any event or series of closely related events. We may choose to replace any damaged property or goods, up to the same maximum amount, instead of paying cash. We are not required to honour this agreement in circumstances where an event has occurred which is beyond our control and which prevents us from doing the things we would normally do. In these circumstances, we will carry on honouring our obligations as soon as it is reasonably practicable for us to do so. 
 
-If you acquire goods or services from us for personal, domestic or household use or consumption, any rights you have under the Consumer Guarantees Act 1993 are not affected by our limitations of liability. However, if you acquire goods or services from us for the purposes of a business, the Consumer Guarantees Act 1993 does not apply. 
+If **you** acquire goods or services from us for personal, domestic or household use or consumption, any rights **you** have under the Consumer Guarantees Act 1993 are not affected by our limitations of liability. However, if **you** acquire goods or services from us for the purposes of a business, the Consumer Guarantees Act 1993 does not apply. 
 
 Our limitations of liability extend to our employees and agents for the purposes of the Contracts (Privity) Act 1982. 
 
@@ -471,13 +471,13 @@ Notwithstanding any provision to the contrary in this agreement, nothing in this
 • cause any part of this section 17 to be void.
 
 18 CAN WE CHANGE THIS AGREEMENT?
-18.1 We may make changes to this agreement, the network requirements, your payment methods, or our price list. If we make changes to this agreement, the network requirements, your payment methods, or if we increase the energy prices set out in our price list, we will give you notice of the changes as soon as possible and not later than 30 days before the change is to take effect, together with our reasons for making the changes. We will do this by any reasonable method of communication including by:
+18.1 We may make changes to this agreement, the network requirements, **your** payment methods, or our price list. If we make changes to this agreement, the network requirements, **your** payment methods, or if we increase the energy prices set out in our price list, we will give **you** notice of the changes as soon as possible and not later than 30 days before the change is to take effect, together with our reasons for making the changes. We will do this by any reasonable method of communication including by:
 
 • advertising in a local daily newspaper; or 
 • posting a notice on our website; or
-• writing to you; or
-• emailing you; or
-• notifying you by other electronic means,
+• writing to **you**; or
+• emailing **you**; or
+• notifying **you** by other electronic means,
 
 or by a combination of these methods.
 
