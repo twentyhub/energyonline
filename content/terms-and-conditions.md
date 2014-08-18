@@ -501,68 +501,68 @@ Except as otherwise provided in this agreement, our invoices or notices to **you
 • mailed to the most recent postal address **you** have given us; or
 • emailed to the most recent email address **you** have given us, posted on our internet billing system or sent to **you** by electronic means (where **you** have agreed to receive **your** invoices in this manner).
 
-All notices sent to you will be considered to have been received by you:
+All notices sent to **you** will be considered to have been received by **you**:
 
-• on the day it was delivered to the address to which you asked us to send notices; or
-• 3 days after being posted by us to the postal address you provided to us; or
-• the day after it was transmitted to the email address or fax number you provided to us, or posted to our internet billing system or sent to you by electronic means; or
-• on the day after it was published on our website, or the notice appeared in your local newspaper.
+• on the day it was delivered to the address to which **you** asked us to send notices; or
+• 3 days after being posted by us to the postal address **you** provided to us; or
+• the day after it was transmitted to the email address or fax number **you** provided to us, or posted to our internet billing system or sent to **you** by electronic means; or
+• on the day after it was published on our website, or the notice appeared in **your** local newspaper.
 
 21 GETTING OUR ENERGY TO YOU
-21.1 The network companies and meter companies we work with require us to ensure that the information contained below is agreed to by you. When you become our customer, you agree to those arrangements as part of this agreement. 
+21.1 The network companies and meter companies we work with require us to ensure that the information contained below is agreed to by **you**. When **you** become our customer, **you** agree to those arrangements as part of this agreement. 
 
-The network company owns and operates the network which transports energy to your premises. We will make arrangements with the network company to use the network and get our energy to you. 
+The network company owns and operates the network which transports energy to **your** premises. We will make arrangements with the network company to use the network and get our energy to **you**. 
 
 21.2 Do you need an agreement with the network company?
 
-In some cases, the network company may require you to have an agreement directly with it to use the network. If this is the case, we will provide you with the contact details of the network company, and:
+In some cases, the network company may require **you** to have an agreement directly with it to use the network. If this is the case, we will provide **you** with the contact details of the network company, and:
 
-• you must ensure that you have such an agreement; and
+• **you** must ensure that **you** have such an agreement; and
 • our agreement will cover the supply of energy only.
 
-You agree to comply with statutory and regulatory requirements and the network company's distribution code or other similar connection standards (a copy of the code or standards may be obtained from the network company). 
+**You** agree to comply with statutory and regulatory requirements and the network company's distribution code or other similar connection standards (a copy of the code or standards may be obtained from the network company). 
 
-You must also comply with the network company's technical requirements and specifications for connection to the network which are published from time to time.  This information can be obtained from the network company.  You can contact us to find out who your network company is.
+**You** must also comply with the network company's technical requirements and specifications for connection to the network which are published from time to time.  This information can be obtained from the network company.  **You** can contact us to find out who **your** network company is.
 
 21.3 Interference with the network 
 
-You must not, without the prior written consent of the local network company:
+**You** must not, without the prior written consent of the local network company:
 
 • attempt to send or receive signals or other forms of communication through the network;
 • install electricity generating equipment that will export energy back into the network;
-• connect or re-connect your equipment directly to the network; or 
+• connect or re-connect **your** equipment directly to the network; or 
 • interfere in any other way with the network.
 
-You must not, without our prior written consent, connect or modify any fittings or other equipment on your premises to enable any electricity generated on the premises to be conveyed through the network.
+**You** must not, without our prior written consent, connect or modify any fittings or other equipment on **your** premises to enable any electricity generated on the premises to be conveyed through the network.
 
 21.4 Some technical requirements relating to electricity 
 
-In relation to your electricity supply, you agree that:
+In relation to **your** electricity supply, **you** agree that:
 
-• the power factor shall not be less than 0.95 lagging each month, or such other amount as specified by your local network company;
-• there is to be no interconnection at any time between your point of supply and any other point of supply without the network company's prior written consent;
-• if the characteristics of your equipment or demand interferes with the quality of supply of energy to any other consumer on the network or interferes with the operation of any remote signalling services or other fittings of the network company, you will, upon notice from the network company or us, remedy the interference at your own cost as soon as practicable (and in any event within 20 business days of the date of the notice). If we become liable to any third party as a result of such interference, you must compensate us to the full extent of such liability and for all associated costs incurred by us; 
-• you will use all reasonable measures to ensure that the levels of harmonic voltages and currents injected back into the network from your premises conform with the New Zealand Electrical Code of Practice for Harmonic levels NZECP 36:1993 insofar as the harmonic disturbance results from a cause within your control; and
-• you agree to comply with all line function services, safety and technical requirements provided for under statute, regulations and codes of practice. 
+• the power factor shall not be less than 0.95 lagging each month, or such other amount as specified by **your** local network company;
+• there is to be no interconnection at any time between **your** point of supply and any other point of supply without the network company's prior written consent;
+• if the characteristics of **your** equipment or demand interferes with the quality of supply of energy to any other consumer on the network or interferes with the operation of any remote signalling services or other fittings of the network company, **you** will, upon notice from the network company or us, remedy the interference at **your** own cost as soon as practicable (and in any event within 20 business days of the date of the notice). If we become liable to any third party as a result of such interference, **you** must compensate us to the full extent of such liability and for all associated costs incurred by us; 
+• **you** will use all reasonable measures to ensure that the levels of harmonic voltages and currents injected back into the network from **your** premises conform with the New Zealand Electrical Code of Practice for Harmonic levels NZECP 36:1993 insofar as the harmonic disturbance results from a cause within **your** control; and
+• **you** agree to comply with all line function services, safety and technical requirements provided for under statute, regulations and codes of practice. 
 
 For more information contact the network company.
 
 22 WHAT SHOULD YOU DO ABOUT SENSITIVE EQUIPMENT?
 There may be planned or unplanned events which may cause outages or voltage fluctuations which could damage sensitive electrical appliances like computers, televisions, videos, cordless phones, computerised appliances and fridges and freezers. Voltage fluctuations can occur at any time and may be caused by events beyond our control, such as the events listed in section 17.2 above.
 
-You should consider arranging insurance that covers damage from power fluctuations, install your own back-up devices such as an uninterruptible power supply (UPS), and / or make other arrangements to protect your equipment or meet your special needs. Power conditioners and surge protectors may help reduce such fluctuations and can be plugged into appliances or wired into your house mains. Further information regarding protection that you may take against outages or voltage fluctuations, and information on high-risk areas, is available by visiting our website. 
+**You** should consider arranging insurance that covers damage from power fluctuations, install **your** own back-up devices such as an uninterruptible power supply (UPS), and / or make other arrangements to protect **your** equipment or meet **your** special needs. Power conditioners and surge protectors may help reduce such fluctuations and can be plugged into appliances or wired into **your** house mains. Further information regarding protection that **you** may take against outages or voltage fluctuations, and information on high-risk areas, is available by visiting our website. 
 
 We take no responsibility for any loss or damage caused to equipment or appliances, including loss of data, arising from these kinds of fluctuations.
 
 23 METERING EQUIPMENT AND NETWORK COMPANY EQUIPMENT
-23.1 The energy supplied to you will be metered. Different pricing options may require separate meters. We, or the metering company, will retain all ownership rights in any meter and metering equipment installed at your premises.  All electricity and gas meters will comply with applicable regulations and good industry practice.  
+23.1 The energy supplied to **you** will be metered. Different pricing options may require separate meters. We, or the metering company, will retain all ownership rights in any meter and metering equipment installed at **your** premises.  All electricity and gas meters will comply with applicable regulations and good industry practice.  
 
-23.2 If you do not have a suitable meter for your energy use or pricing option we will choose and arrange to install the appropriate meter. You may not provide or install your own meter. You must pay all reasonable costs relating to the installation of any metering equipment. However, you will not be charged:
+23.2 If **you** do not have a suitable meter for **your** energy use or pricing option we will choose and arrange to install the appropriate meter. **You** may not provide or install **your** own meter. **You** must pay all reasonable costs relating to the installation of any metering equipment. However, **you** will not be charged:
 
-• for the installation of the first advanced meter at your premises, unless additional work is required to install the meter or metering equipment (this includes additional wiring required to install the meter or work required to re-locate the position of the metering equipment) in which case we may charge you for this additional work;
-• where we decide to replace meters or related equipment if the existing meters or related equipment are unsuitable for your energy use or pricing option. In some cases it may be necessary to upgrade your meter if your energy use or pricing option changes. We may charge you the costs of installing a new meter. We will inform you if any upgrade is required and the costs of that upgrade.
+• for the installation of the first advanced meter at **your** premises, unless additional work is required to install the meter or metering equipment (this includes additional wiring required to install the meter or work required to re-locate the position of the metering equipment) in which case we may charge **you** for this additional work;
+• where we decide to replace meters or related equipment if the existing meters or related equipment are unsuitable for **your** energy use or pricing option. In some cases it may be necessary to upgrade **your** meter if **your** energy use or pricing option changes. We may charge **you** the costs of installing a new meter. We will inform **you** if any upgrade is required and the costs of that upgrade.
 
-23.3 If you request that a new meter be installed you will be charged for the installation of that new meter (as well as the cost of the new meter).
+23.3 If **you** request that a new meter be installed **you** will be charged for the installation of that new meter (as well as the cost of the new meter).
 
 23.4 How should you deal with equipment at your premises?
 
