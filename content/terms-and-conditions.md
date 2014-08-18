@@ -511,7 +511,7 @@ All notices sent to **you** will be considered to have been received by **you**:
 21 GETTING OUR ENERGY TO YOU
 21.1 The network companies and meter companies **we** work with require **us** to ensure that the information contained below is agreed to by **you**. When **you** become our customer, **you** agree to those arrangements as part of this agreement. 
 
-The network company owns and operates the network which transports **energy** to **your** premises. **We** will make arrangements with the network company to use the network and get our **energy** to **you**. 
+The network company owns and operates the network which transports **energy** to **your** **premises**. **We** will make arrangements with the network company to use the network and get our **energy** to **you**. 
 
 21.2 Do you need an agreement with the network company?
 
@@ -533,7 +533,7 @@ In some cases, the network company may require **you** to have an agreement dire
 • connect or re-connect **your** equipment directly to the network; or 
 • interfere in any other way with the network.
 
-**You** must not, without our prior written consent, connect or modify any fittings or other equipment on **your** premises to enable any electricity generated on the premises to be conveyed through the network.
+**You** must not, without our prior written consent, connect or modify any fittings or other equipment on **your** **premises** to enable any electricity generated on the **premises** to be conveyed through the network.
 
 21.4 Some technical requirements relating to electricity 
 
@@ -542,7 +542,7 @@ In relation to **your** electricity supply, **you** agree that:
 • the power factor shall not be less than 0.95 lagging each month, or such other amount as specified by **your** local network company;
 • there is to be no interconnection at any time between **your** point of supply and any other point of supply without the network company's prior written consent;
 • if the characteristics of **your** equipment or demand interferes with the quality of supply of **energy** to any other consumer on the network or interferes with the operation of any remote signalling services or other fittings of the network company, **you** will, upon notice from the network company or **us**, remedy the interference at **your** own cost as soon as practicable (and in any event within 20 business days of the date of the notice). If **we** become liable to any third party as a result of such interference, **you** must compensate **us** to the full extent of such liability and for all associated costs incurred by **us**; 
-• **you** will use all reasonable measures to ensure that the levels of harmonic voltages and currents injected back into the network from **your** premises conform with the New Zealand Electrical Code of Practice for Harmonic levels NZECP 36:1993 insofar as the harmonic disturbance results from a cause within **your** control; and
+• **you** will use all reasonable measures to ensure that the levels of harmonic voltages and currents injected back into the network from **your** **premises** conform with the New Zealand Electrical Code of Practice for Harmonic levels NZECP 36:1993 insofar as the harmonic disturbance results from a cause within **your** control; and
 • **you** agree to comply with all line function services, safety and technical requirements provided for under statute, regulations and codes of practice. 
 
 For more information contact the network company.
@@ -555,11 +555,11 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 **We** take no responsibility for any loss or damage caused to equipment or appliances, including loss of data, arising from these kinds of fluctuations.
 
 23 METERING EQUIPMENT AND NETWORK COMPANY EQUIPMENT
-23.1 The **energy** supplied to **you** will be metered. Different pricing options may require separate meters. **We**, or the metering company, will retain all ownership rights in any meter and metering equipment installed at **your** premises.  All electricity and gas meters will comply with applicable regulations and good industry practice.  
+23.1 The **energy** supplied to **you** will be metered. Different pricing options may require separate meters. **We**, or the metering company, will retain all ownership rights in any meter and metering equipment installed at **your** **premises**.  All electricity and gas meters will comply with applicable regulations and good industry practice.  
 
 23.2 If **you** do not have a suitable meter for **your** **energy** use or pricing option **we** will choose and arrange to install the appropriate meter. **You** may not provide or install **your** own meter. **You** must pay all reasonable costs relating to the installation of any metering equipment. However, **you** will not be charged:
 
-• for the installation of the first advanced meter at **your** premises, unless additional work is required to install the meter or metering equipment (this includes additional wiring required to install the meter or work required to re-locate the position of the metering equipment) in which case **we** may charge **you** for this additional work;
+• for the installation of the first advanced meter at **your** **premises**, unless additional work is required to install the meter or metering equipment (this includes additional wiring required to install the meter or work required to re-locate the position of the metering equipment) in which case **we** may charge **you** for this additional work;
 • where **we** decide to replace meters or related equipment if the existing meters or related equipment are unsuitable for **your** **energy** use or pricing option. In some cases it may be necessary to upgrade **your** meter if **your** **energy** use or pricing option changes. **We** may charge **you** the costs of installing a new meter. **We** will inform **you** if any upgrade is required and the costs of that upgrade.
 
 23.3 If **you** request that a new meter be installed **you** will be charged for the installation of that new meter (as well as the cost of the new meter).
@@ -570,15 +570,15 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 
 • is not removed from its location without our consent;
 • is not encumbered or used as security in any way;
-• is not, and does not, become a fixture or fitting of the premises; and
+• is not, and does not, become a fixture or fitting of the **premises**; and
 • is not switched off other than in accordance with section 7.11 above.
 
 **You** agree:
 
-• to provide **us**, the meter company, network company and any other third party who owns **energy** supply equipment on **your** premises with reasonable space for the safe, secure, weather tight, insect and vermin free, and accessible housing of the metering equipment and the equipment of the network company or other third party at no cost to **us**, and ensure the housing remains in such condition; and
+• to provide **us**, the meter company, network company and any other third party who owns **energy** supply equipment on **your** **premises** with reasonable space for the safe, secure, weather tight, insect and vermin free, and accessible housing of the metering equipment and the equipment of the network company or other third party at no cost to **us**, and ensure the housing remains in such condition; and
 • to look after the meter and prevent interference with, or damage to, or loss of, the metering equipment, the **energy** supply equipment of the network company or other third party and the metering communications network.
 
-If **you** do not own **your** premises, you confirm that **you** have any necessary approvals required from the owner, landlord or body corporate for the installation of any meter or metering equipment at **your** premises, for any alterations to **your** premises required to install any such equipment and to enable **us** to exercise our other rights under these terms and conditions. **You** will bear any costs incurred by **us**, the meter company, network company or our respective contractors if **you** do not have any such approval.
+If **you** do not own **your** **premises**, you confirm that **you** have any necessary approvals required from the owner, landlord or body corporate for the installation of any meter or metering equipment at **your** **premises**, for any alterations to **your** **premises** required to install any such equipment and to enable **us** to exercise our other rights under these terms and conditions. **You** will bear any costs incurred by **us**, the meter company, network company or our respective contractors if **you** do not have any such approval.
 
 23.5 What if the meter is damaged?
 
@@ -587,7 +587,7 @@ If **you** do not own **your** premises, you confirm that **you** have any neces
 • any metering equipment or any **energy** supply equipment of the network company or other third party is damaged, defective, or looks unsafe; or 
 • **you** discover any fault with, or interference with, any metering equipment, the metering communication network or any **energy** supply equipment of the network company or other third party.
 
-**You** agree to co-operate in good faith with any investigations by **us**, the meter company or other third party that owns **energy** supply equipment on **your** premises in respect of interference with any metering equipment on **your** premises. If **we** and/or the metering company's and/or other third party's investigations identify that the interference was caused by **you**, **you** agree to pay our and/or the metering company's and/or the third party's reasonable expenses of the investigation on demand. If **we** believe on reasonable grounds that:
+**You** agree to co-operate in good faith with any investigations by **us**, the meter company or other third party that owns **energy** supply equipment on **your** **premises** in respect of interference with any metering equipment on **your** **premises**. If **we** and/or the metering company's and/or other third party's investigations identify that the interference was caused by **you**, **you** agree to pay our and/or the metering company's and/or the third party's reasonable expenses of the investigation on demand. If **we** believe on reasonable grounds that:
 
 • somebody has damaged, or tampered or interfered with, any metering equipment or **energy** supply equipment of the network company or any other third party; 
 • **you** have benefited from the fact that the meter was inaccurate or not working properly; 
@@ -612,23 +612,23 @@ If **you** do not own **your** premises, you confirm that **you** have any neces
 **You** must repair and maintain:
 
 • **your** electricity and/or gas lines, pipes or cables (including any poles and fittings) from the point of supply;
-• the meter box or meter board itself, any sub or fuse board and any other wiring or piping on **your** premises; and
+• the meter box or meter board itself, any sub or fuse board and any other wiring or piping on **your** **premises**; and
 • any electrical and/or gas appliances and equipment not included above,
 
 and if any of this equipment looks unsafe, **you** should contact **your** own electrician and/or gas fitter (as appropriate) immediately. 
 
 If **you** need to immediately turn off **your** gas supply in the case of an emergency situation, **you** should locate the lever on **your** gas meter and turn the lever to a horizontal position or 90 degrees from the pipes.
 
-**You** own and are responsible for **energy** supplied from **your** point of supply to the point where the **energy** is consumed. **You** must not supply **energy** to another property or person from **your** premises.  Where **your** point of supply supplies more than one customer **you** will be jointly responsible for the metering equipment and other equipment **you** are responsible for, and **we** may estimate the apportionment of **energy** consumption between customers or require **you** to install additional metering equipment, so that the **energy** consumption can be accurately apportioned.
+**You** own and are responsible for **energy** supplied from **your** point of supply to the point where the **energy** is consumed. **You** must not supply **energy** to another property or person from **your** **premises**.  Where **your** point of supply supplies more than one customer **you** will be jointly responsible for the metering equipment and other equipment **you** are responsible for, and **we** may estimate the apportionment of **energy** consumption between customers or require **you** to install additional metering equipment, so that the **energy** consumption can be accurately apportioned.
 
 **You** must not interfere with the network company's equipment or allow anyone else to do so. **Your** rights and obligations in relation to trees are set out in the Electricity (Hazards from Trees) Regulations 2003. For more information, please contact **your** network company. If **you** do not know how to contact **your** network company, please ask **us**.
 
 25 WHAT IS THE NETWORK COMPANY'S LIABILITY FOR LOSS OR DAMAGE?
 25.1 If the network company causes **you** loss or damage, **you** may wish to advise **us**.
 
-25.2 If the network company is not a member of the Electricity and Gas Complaints Commissioner Scheme, then **you** agree that the network company has no liability to **you** (including liability in contract or in negligence) relating to the supply of **energy** to **your** premises. However, the network company has agreed to be liable to **us** in certain instances.
+25.2 If the network company is not a member of the Electricity and Gas Complaints Commissioner Scheme, then **you** agree that the network company has no liability to **you** (including liability in contract or in negligence) relating to the supply of **energy** to **your** **premises**. However, the network company has agreed to be liable to **us** in certain instances.
 
-25.3 As explained in section 21.1, **we** contract with the network company to deliver **energy** to **your** premises. To achieve a better quality and reliability of service from **you**, **we** encourage the network company to give service guarantees. As these guarantees are for **your** benefit, **we** will pass on to **you**, as a credit in your next invoice from **us**, any payments **we** receive from the network company for a failure by the network company to satisfy any guarantees they may give **us** in relation to their services that can be reasonably considered as compensation for the network company's failure to satisfy its guarantees. **We** will also pass on to **you** any payments **we** receive from other third parties who breach service guarantees that have been provided to **us** for **your** benefit.  On request, **we** will provide **you** with an explanation of how the credit passed on to **you** was determined.  Other than paying **you** such amount, **we** will have no liability to **you** in respect of any defaults by the network company.
+25.3 As explained in section 21.1, **we** contract with the network company to deliver **energy** to **your** **premises**. To achieve a better quality and reliability of service from **you**, **we** encourage the network company to give service guarantees. As these guarantees are for **your** benefit, **we** will pass on to **you**, as a credit in your next invoice from **us**, any payments **we** receive from the network company for a failure by the network company to satisfy any guarantees they may give **us** in relation to their services that can be reasonably considered as compensation for the network company's failure to satisfy its guarantees. **We** will also pass on to **you** any payments **we** receive from other third parties who breach service guarantees that have been provided to **us** for **your** benefit.  On request, **we** will provide **you** with an explanation of how the credit passed on to **you** was determined.  Other than paying **you** such amount, **we** will have no liability to **you** in respect of any defaults by the network company.
 
 25.4 If the network company is a member of the Electricity and Gas Complaints Commissioner Scheme then the network company will not be liable to **you** (in contract or in negligence) for any loss or damage **you** may suffer unless that loss or damage is physical damage to property where it can be shown that the network company has been negligent and the amount and nature of the loss was reasonably foreseeable. The network company will not have any liability to **you**, whether in contract or in negligence, for an event or series of closely related events relating to the network for any amount exceeding $10,000 in value. Notwithstanding the preceding sentence, the network company's aggregate liability to all customers connected to its network for an event or series of closely related events relating to the network shall not exceed $10,000. 
 
@@ -642,9 +642,9 @@ If **you** do not have a direct agreement with **your** meter company, then the 
 27 WORDS WE USE IN THIS AGREEMENT
 advanced meter means a remotely read interval meter and all associated metering equipment.
 
-decommission means the permanent disconnection of **your** premises and removal of **your** ICP so that **you** cannot receive the supply of **energy**, and will involve the permanent removal of metering equipment and may include removal of **your** service lines.
+decommission means the permanent disconnection of **your** **premises** and removal of **your** ICP so that **you** cannot receive the supply of **energy**, and will involve the permanent removal of metering equipment and may include removal of **your** service lines.
 
-disconnection and disconnected means the isolation of **your** premises from the network. **Your** premises remain connected to the network but **you** cannot receive supply of **energy**.
+disconnection and disconnected means the isolation of **your** **premises** from the network. **Your** **premises** remain connected to the network but **you** cannot receive supply of **energy**.
 
 Electricity Code means the Electricity Industry Participation Code 2010, as amended from time to time.
 
@@ -660,7 +660,7 @@ medically dependent customer means a customer who is dependent on mains electric
 
 metering communications network means the equipment and systems used to convey meter reading information from a meter to **us**.
 
-meter company means the company or companies that own the meter situated on **your** premises and/or are responsible for installing, maintaining, repairing and reading meters.
+meter company means the company or companies that own the meter situated on **your** **premises** and/or are responsible for installing, maintaining, repairing and reading meters.
 
 metering equipment and meter means the metering and other equipment which is used to measure and/or provide information about **your** consumption (and, if appropriate, demand) of **energy**, including any covering or housing for such equipment, and meters, loggers, communication devices, relays, current transformers, voltage transformers and any other equipment required to measure **energy** usage, and includes an advanced meter and the metering communications network.
 
@@ -674,11 +674,11 @@ network requirements means the rights and responsibilities relating to the netwo
 
 point of supply means the point at which **we** or the network company determine that the network ends and **your** lines, cables or pipes and fittings and equipment begin. For **your** information, the point of supply for electricity is generally the point on the boundary of a property where the electricity supply enters.  The point of supply for gas is usually the outlet of the gas meter that supplies gas to **you**.  If **you** are not sure where **your** point of supply is, please contact **your** network company.  If **you** are not sure who **your** network company is, please call **us** on one of the numbers listed in section 1 above, and **we** will refer **you** to the appropriate network company.  
 
-premises means the property supplied with **energy** under this agreement. 
+**premises** means the property supplied with **energy** under this agreement. 
 
 price list means **Energy Online's energy** prices relating to **energy** consumption, and special fees and charges for other services. **Your** current relevant price lists are available by calling our Customer Care Team.
 
-vulnerable customer means a customer who has told **us**, or about whom it appears to **us**, that disconnection of **energy** at the customer's premises presents a clear threat to the health or well-being of the customer or a member of the customer's household, or who has mains powered equipment for critical medical support. This could be because of age, health or disability.  A vulnerable customer may also be a customer who cannot genuinely pay his or her bill because of severe financial difficulty, whether temporary or permanent. 
+vulnerable customer means a customer who has told **us**, or about whom it appears to **us**, that disconnection of **energy** at the customer's **premises** presents a clear threat to the health or well-being of the customer or a member of the customer's household, or who has mains powered equipment for critical medical support. This could be because of age, health or disability.  A vulnerable customer may also be a customer who cannot genuinely pay his or her bill because of severe financial difficulty, whether temporary or permanent. 
 
 **you**/**your** means **you**, the customer.
  
