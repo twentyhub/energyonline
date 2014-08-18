@@ -566,59 +566,60 @@ We take no responsibility for any loss or damage caused to equipment or applianc
 
 23.4 How should you deal with equipment at your premises?
 
-You must ensure that any metering equipment which is supplied by us or a meter company, and any energy supply equipment of the network company or any other third party:
+**You** must ensure that any metering equipment which is supplied by us or a meter company, and any energy supply equipment of the network company or any other third party:
 
 • is not removed from its location without our consent;
 • is not encumbered or used as security in any way;
 • is not, and does not, become a fixture or fitting of the premises; and
 • is not switched off other than in accordance with section 7.11 above.
 
-You agree:
+**You** agree:
 
-• to provide us, the meter company, network company and any other third party who owns energy supply equipment on your premises with reasonable space for the safe, secure, weather tight, insect and vermin free, and accessible housing of the metering equipment and the equipment of the network company or other third party at no cost to us, and ensure the housing remains in such condition; and
+• to provide us, the meter company, network company and any other third party who owns energy supply equipment on **your** premises with reasonable space for the safe, secure, weather tight, insect and vermin free, and accessible housing of the metering equipment and the equipment of the network company or other third party at no cost to us, and ensure the housing remains in such condition; and
 • to look after the meter and prevent interference with, or damage to, or loss of, the metering equipment, the energy supply equipment of the network company or other third party and the metering communications network.
 
-If you do not own your premises, you confirm that you have any necessary approvals required from the owner, landlord or body corporate for the installation of any meter or metering equipment at your premises, for any alterations to your premises required to install any such equipment and to enable us to exercise our other rights under these terms and conditions. You will bear any costs incurred by us, the meter company, network company or our respective contractors if you do not have any such approval.
+If **you** do not own **your** premises, you confirm that **you** have any necessary approvals required from the owner, landlord or body corporate for the installation of any meter or metering equipment at **your** premises, for any alterations to **your** premises required to install any such equipment and to enable us to exercise our other rights under these terms and conditions. **You** will bear any costs incurred by us, the meter company, network company or our respective contractors if **you** do not have any such approval.
 
 23.5 What if the meter is damaged?
 
-You must tell us immediately if: 
+**You** must tell us immediately if: 
 
 • any metering equipment or any energy supply equipment of the network company or other third party is damaged, defective, or looks unsafe; or 
-• you discover any fault with, or interference with, any metering equipment, the metering communication network or any energy supply equipment of the network company or other third party.
+• **you** discover any fault with, or interference with, any metering equipment, the metering communication network or any energy supply equipment of the network company or other third party.
 
-You agree to co-operate in good faith with any investigations by us, the meter company or other third party that owns energy supply equipment on your premises in respect of interference with any metering equipment on your premises. If we and/or the metering company's and/or other third party's investigations identify that the interference was caused by you, you agree to pay our and/or the metering company's and/or the third party's reasonable expenses of the investigation on demand. If we believe on reasonable grounds that:
+**You** agree to co-operate in good faith with any investigations by us, the meter company or other third party that owns energy supply equipment on **your** premises in respect of interference with any metering equipment on **your** premises. If we and/or the metering company's and/or other third party's investigations identify that the interference was caused by **you**, **you** agree to pay our and/or the metering company's and/or the third party's reasonable expenses of the investigation on demand. If we believe on reasonable grounds that:
 
 • somebody has damaged, or tampered or interfered with, any metering equipment or energy supply equipment of the network company or any other third party; 
-• you have benefited from the fact that the meter was inaccurate or not working properly; 
+• **you** have benefited from the fact that the meter was inaccurate or not working properly; 
 • somebody has caused any loss or damage to us, a meter company, a network company and/or any of our other contractors; or 
-• you have allowed anyone else to do so,
+• **you** have allowed anyone else to do so,
 
-you will be responsible for the resulting loss, damage or costs suffered, including our and/or the metering company and/or the network company's and/or the other third party's reasonable expenses of the investigation on demand.
+**you** will be responsible for the resulting loss, damage or costs suffered, including our and/or the metering company and/or the network company's and/or the other third party's reasonable expenses of the investigation on demand.
 
 We may also:
 
-• immediately disconnect, either temporarily or permanently, your supply if your action or omission constitutes a material breach of these terms and conditions;
-• estimate the value of energy stolen or lost and require you to pay for that energy;
-• charge you for the costs of any repairs and/or replacement of metering equipment;
-• terminate this agreement and refuse to reconnect your supply; and/or
+• immediately disconnect, either temporarily or permanently, **your** supply if **your** action or omission constitutes a material breach of these terms and conditions;
+• estimate the value of energy stolen or lost and require **you** to pay for that energy;
+• charge **you** for the costs of any repairs and/or replacement of metering equipment;
+• terminate this agreement and refuse to reconnect **your** supply; and/or
 • inform the Police.
+
 24 WHAT ABOUT OTHER EQUIPMENT AT YOUR PREMISES?
 24.1 We, or a meter company, will repair and maintain meters and associated equipment supplied by us or a meter company, except as outlined below.
 
 24.2 What equipment are you responsible for?
 
-You must repair and maintain:
+**You** must repair and maintain:
 
-• your electricity and/or gas lines, pipes or cables (including any poles and fittings) from the point of supply;
-• the meter box or meter board itself, any sub or fuse board and any other wiring or piping on your premises; and
+• **your** electricity and/or gas lines, pipes or cables (including any poles and fittings) from the point of supply;
+• the meter box or meter board itself, any sub or fuse board and any other wiring or piping on **your** premises; and
 • any electrical and/or gas appliances and equipment not included above,
 
-and if any of this equipment looks unsafe, you should contact your own electrician and/or gas fitter (as appropriate) immediately. 
+and if any of this equipment looks unsafe, **you** should contact **your** own electrician and/or gas fitter (as appropriate) immediately. 
 
-If you need to immediately turn off your gas supply in the case of an emergency situation, you should locate the lever on your gas meter and turn the lever to a horizontal position or 90 degrees from the pipes.
+If **you** need to immediately turn off **your** gas supply in the case of an emergency situation, **you** should locate the lever on **your** gas meter and turn the lever to a horizontal position or 90 degrees from the pipes.
 
-You own and are responsible for energy supplied from your point of supply to the point where the energy is consumed. You must not supply energy to another property or person from your premises.  Where your point of supply supplies more than one customer you will be jointly responsible for the metering equipment and other equipment you are responsible for, and we may estimate the apportionment of energy consumption between customers or require you to install additional metering equipment, so that the energy consumption can be accurately apportioned.
+**You** own and are responsible for energy supplied from **your** point of supply to the point where the energy is consumed. **You** must not supply energy to another property or person from **your** premises.  Where **your** point of supply supplies more than one customer **you** will be jointly responsible for the metering equipment and other equipment **you** are responsible for, and we may estimate the apportionment of energy consumption between customers or require **you** to install additional metering equipment, so that the energy consumption can be accurately apportioned.
 
 You must not interfere with the network company's equipment or allow anyone else to do so. Your rights and obligations in relation to trees are set out in the Electricity (Hazards from Trees) Regulations 2003. For more information, please contact your network company. If you do not know how to contact your network company, please ask us.
 
