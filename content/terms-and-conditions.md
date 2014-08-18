@@ -56,37 +56,37 @@ If any of **your** personal information changes (including **your** contact deta
 
 2.4 What do we do with your personal information? 
 
-Any personal information **you **give us is strictly confidential and will be kept secure and held by us in accordance with the Privacy Act 1993. **You** can view our privacy policy here. That policy outlines how we deal with **your** personal information. **You** can access **your** personal information held by us on request and correct it if it is wrong. 
+Any personal information **you **give **us** is strictly confidential and will be kept secure and held by **us** in accordance with the Privacy Act 1993. **You** can view our privacy policy here. That policy outlines how we deal with **your** personal information. **You** can access **your** personal information held by **us** on request and correct it if it is wrong. 
 
 2.5 Can more than one person be a customer?
 
-If more than one person is the customer at any premises, these terms will apply to each of **you **jointly and severally. This means that each of **you** may individually be responsible for paying our entire invoice, and that everyone who wishes to become a customer will have to contact us. 
+If more than one person is the customer at any premises, these terms will apply to each of **you **jointly and severally. This means that each of **you** may individually be responsible for paying our entire invoice, and that everyone who wishes to become a customer will have to contact **us**. 
 
 **You** may nominate a person as an account authority to make decisions for **you** under these terms. However, **you** are still responsible as a customer for payment of **your** account and for any costs associated with decisions made by the account authority. 
 
 2.6 What if you have unpaid invoices?
 
-As a customer **you** will be responsible for paying all fees and charges and for making sure the requirements of this agreement are met.  We will give **you** reasonable notice if circumstances arise, or are likely to arise, which will mean that **you** will incur a fee in addition to **your** standard rates for energy supplied by us, including for unpaid invoices.  
+As a customer **you** will be responsible for paying all fees and charges and for making sure the requirements of this agreement are met.  We will give **you** reasonable notice if circumstances arise, or are likely to arise, which will mean that **you** will incur a fee in addition to **your** standard rates for energy supplied by **us**, including for unpaid invoices.  
 
-**You** agree that we may add any of **your** unpaid invoices with us from other premises to **your** next invoice for energy used at **your** new premises. The amount owing must be paid in accordance with the terms of **your** previous account, unless we agree otherwise, but a default in payment of **your** previous account may be treated by us as a default under this agreement. 
+**You** agree that we may add any of **your** unpaid invoices with **us** from other premises to **your** next invoice for energy used at **your** new premises. The amount owing must be paid in accordance with the terms of **your** previous account, unless we agree otherwise, but a default in payment of **your** previous account may be treated by **us** as a default under this agreement. 
 
-Please note that if **you**, or another person at **your** premises, have any unpaid invoices with us, we may refuse to supply energy to **your** premises or accept **you** as a customer until that invoice has been paid.
+Please note that if **you**, or another person at **your** premises, have any unpaid invoices with **us**, we may refuse to supply energy to **your** premises or accept **you** as a customer until that invoice has been paid.
 
 3 IS A BOND REQUIRED?
 3.1 We may ask **you** for a cash bond and/or a satisfactory credit check before **you** become our customer and we supply energy or other services. If this is the case, we will tell **you** when **you** become our customer and we will give **you** reasons for our decision.  This decision will comply with any relevant regulations or industry standards. If we require a bond, it will be invoiced as early as possible after we accept **you** as a customer. **You** must pay the bond within the timeframe specified on the invoice.
 
-We may also ask **you** for a bond at any time if **you** are unable to establish a satisfactory credit record or maintain a satisfactory payment record with us.
+We may also ask **you** for a bond at any time if **you** are unable to establish a satisfactory credit record or maintain a satisfactory payment record with **us**.
 
 Any bond for electricity-only residential customers or for gas-only residential customers will not exceed $150. If we supply **you** with both electricity and gas for **your** residential premises, **your** bond will not exceed $200. If **you** are a commercial customer **your** bond will be as agreed with **you**, or as per our schedule of fees.  We will not pay interest on the bond. The bond will be held in trust on **your** behalf in a separate account. 
 
-3.2 We will repay **your** bond, less any amounts **you** owe us, within one month of:
+3.2 We will repay **your** bond, less any amounts **you** owe **us**, within one month of:
 
 • **you** maintaining a satisfactory payment record for at least 12 months; or
 • terminating our supply of energy to **you**, whichever is earlier.
 
 We will do this by:
 
-• crediting **your** account with us;
+• crediting **your** account with **us**;
 • sending **you** a cheque; or
 • paying **you** by direct credit to **your** nominated bank account. 
 
@@ -95,42 +95,42 @@ If we keep **your** bond for longer than one year, we will explain why.
 4 WHAT IF YOU’RE MOVING HOUSE?
 4.1 If **you** move house **you** must:
 
-• give us at least three business days’ notice of **your** move and **your** new address so we can send **you** a final invoice.  This requirement for **you** to provide us with three business days' notice of **your** move is consistent with applicable regulations and industry standards as at the date of these terms; and 
-• let us complete a final meter reading at **your** old premises (a charge applies) or let us take a final meter reading remotely if an advanced meter has been installed at **your** old premises (a charge may apply) or, at our discretion, provide us with a final reading over the phone or via our website.
+• give **us** at least three business days’ notice of **your** move and **your** new address so we can send **you** a final invoice.  This requirement for **you** to provide **us** with three business days' notice of **your** move is consistent with applicable regulations and industry standards as at the date of these terms; and 
+• let **us** complete a final meter reading at **your** old premises (a charge applies) or let **us** take a final meter reading remotely if an advanced meter has been installed at **your** old premises (a charge may apply) or, at our discretion, provide **us** with a final reading over the phone or via our website.
 
-If the final meter reading provided by **you** does not match **your** rate of consumption we may ask for a final meter reading to be carried out by an approved meter reader, or take a final meter reading remotely if an advanced meter has been installed, and we may adjust **your** final invoice accordingly. If this is the case we will endeavour to contact **you** at the phone number **you** have provided us.  We will only take a reading from the meter at **your** premises in circumstances that are consistent with applicable regulations and industry standards.  
+If the final meter reading provided by **you** does not match **your** rate of consumption we may ask for a final meter reading to be carried out by an approved meter reader, or take a final meter reading remotely if an advanced meter has been installed, and we may adjust **your** final invoice accordingly. If this is the case we will endeavour to contact **you** at the phone number **you** have provided **us**.  We will only take a reading from the meter at **your** premises in circumstances that are consistent with applicable regulations and industry standards.  
 
 If we agree to supply energy to **your** new premises, these terms and conditions will apply to **your** new premises.
 
 4.2 What if you’re moving out but others are staying?
 
-If **you** leave **your** premises (e.g. if **you** move from a flat but **your** flatmates are staying on) and **your** name is on the energy account, it’s important to tell us that **you** are terminating your account with us, and if necessary make arrangements to transfer it to someone else. If **you** wish to transfer **your** account to someone else at the premises, we will need to speak to that person(s) and accept them as our customer before the account can be transferred. If **you** remain the account holder and energy is consumed at the premises after **you** leave, **you** will remain liable to us. 
+If **you** leave **your** premises (e.g. if **you** move from a flat but **your** flatmates are staying on) and **your** name is on the energy account, it’s important to tell **us** that **you** are terminating your account with **us**, and if necessary make arrangements to transfer it to someone else. If **you** wish to transfer **your** account to someone else at the premises, we will need to speak to that person(s) and accept them as our customer before the account can be transferred. If **you** remain the account holder and energy is consumed at the premises after **you** leave, **you** will remain liable to **us**. 
 
 4.3 What if you have a new connection, an altered connection or a reconnection?
 
 For safety reasons, if **you** have a new or altered gas or electricity connection, or if **your** supply has been disconnected, we may require **you** to provide a certificate of compliance or certificate of verification from a certified service provider before we can supply **you** with energy. We may also request a copy of this certificate at any time.
 
 5 WILL THE SUPPLY OF ENERGY BE CONTINUOUS?
-5.1 Circumstances or events beyond our control (including the events specified in section 17.2 below) may cause supply to be interrupted from time to time. For example, the network company may shut down all or part of its network or the meter company may interrupt supply for maintenance or improving the reliability of supply.  The network may also be affected by a storm, high winds, third party interference like a car accident or for other reasons. We cannot give warning or notice of sudden, unplanned shutdowns or outages. We are not required to honour this agreement where circumstances or events that are beyond our control prevent us from doing the things we would normally do.  In these circumstances, we will carry on honouring our obligations as soon as it is reasonably practicable for us to do so.
+5.1 Circumstances or events beyond our control (including the events specified in section 17.2 below) may cause supply to be interrupted from time to time. For example, the network company may shut down all or part of its network or the meter company may interrupt supply for maintenance or improving the reliability of supply.  The network may also be affected by a storm, high winds, third party interference like a car accident or for other reasons. We cannot give warning or notice of sudden, unplanned shutdowns or outages. We are not required to honour this agreement where circumstances or events that are beyond our control prevent **us** from doing the things we would normally do.  In these circumstances, we will carry on honouring our obligations as soon as it is reasonably practicable for **us** to do so.
 
 5.2 Energy Online or the applicable network company or meter company will give **you** at least 4 working days’ notice of any planned shutdowns, unless the shutdown is urgently required for reasons that were not reasonably foreseeable such that 4 working days' notice is not possible.  In the event of any urgent shutdown of this nature, we will give **you** as much notice of the shutdown as possible.  
 
-**You** can call us at any time for information about any planned interruption. 
+**You** can call **us** at any time for information about any planned interruption. 
 
 5.3 The time that it will take to reconnect **your** supply of energy following any shutdown will depend on the network company that is responsible for the supply of energy to **your** premises, as that network company will be the person which reconnects **your** supply. 
 
-5.4 **You** can access a list of telephone numbers to contact us if **you** need to report a supply interruption, or access information about a supply interruption, by clicking here.  Alternatively, **you** can contact us at any time on 0800 083 285 and we will direct **you** to someone who can help.  Information about a supply interruption will be updated regularly in accordance with good industry practice in New Zealand. 
+5.4 **You** can access a list of telephone numbers to contact **us** if **you** need to report a supply interruption, or access information about a supply interruption, by clicking here.  Alternatively, **you** can contact **us** at any time on 0800 083 285 and we will direct **you** to someone who can help.  Information about a supply interruption will be updated regularly in accordance with good industry practice in New Zealand. 
 
 If **you** have sensitive equipment or property which may be affected by an interrupted supply, we strongly recommend that **you** protect that equipment or property in case of an unplanned shutdown or outage. See also section 22 below on sensitive equipment. 
 
-5.5 If **you** have a controlled load pricing option i.e. a price plan that allows Energy Online to either directly, or via a third party, remotely control the supply of energy to some or all equipment in **your** premises, some of **your** electrical appliances (e.g. hot water cylinders and night store heaters) will be switched off or adjusted as agreed from time to time. Controlled load periods will be limited to those set out in our price list and we will respond to controlled load system faults in accordance with our normal practices, after you have advised us of the problem. 
+5.5 If **you** have a controlled load pricing option i.e. a price plan that allows Energy Online to either directly, or via a third party, remotely control the supply of energy to some or all equipment in **your** premises, some of **your** electrical appliances (e.g. hot water cylinders and night store heaters) will be switched off or adjusted as agreed from time to time. Controlled load periods will be limited to those set out in our price list and we will respond to controlled load system faults in accordance with our normal practices, after you have advised **us** of the problem. 
 
 In the event of a local or national energy shortage, or in circumstances of extreme wholesale prices, **your** energy supply may be rationed or restricted. Energy may also be rationed as part of an energy industry rationing plan.
 
 6 METERS AND METER READINGS
 6.1 We will read the meter(s) at **your** premises on a regular basis and, as long as we have access, we plan to read the meter(s) at least once every two months, unless we both agree otherwise. In addition to these regular meter readings, we may also read the meter(s) at **your** premises for any special or final meter reading.  The provisions of this agreement relating to metering and the circumstances in which we will take a reading from the meter at **your** premises will be in accordance with applicable regulations and industry standards.  
 
- **You** can provide us with additional meter readings here or by calling us. 
+ **You** can provide **us** with additional meter readings here or by calling **us**. 
 
 We can decide whether or not to accept **your** readings. If we do not accept **your** readings, we may carry out a special meter reading within 5 days. If it turns out **your** reading was accurate, we will not charge **you** for the cost of our special meter reading. If **your** reading was inaccurate, we may charge **you** for the cost of our special meter reading.
 
