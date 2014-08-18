@@ -130,56 +130,56 @@ In the event of a local or national energy shortage, or in circumstances of extr
 6 METERS AND METER READINGS
 6.1 We will read the meter(s) at **your** premises on a regular basis and, as long as we have access, we plan to read the meter(s) at least once every two months, unless we both agree otherwise. In addition to these regular meter readings, we may also read the meter(s) at **your** premises for any special or final meter reading.  The provisions of this agreement relating to metering and the circumstances in which we will take a reading from the meter at **your** premises will be in accordance with applicable regulations and industry standards.  
 
- You can provide us with additional meter readings here or by calling us. 
+ **You** can provide us with additional meter readings here or by calling us. 
 
-We can decide whether or not to accept your readings. If we do not accept your readings, we may carry out a special meter reading within 5 days. If it turns out your reading was accurate, we will not charge you for the cost of our special meter reading. If your reading was inaccurate, we may charge you for the cost of our special meter reading.
+We can decide whether or not to accept **your** readings. If we do not accept **your** readings, we may carry out a special meter reading within 5 days. If it turns out **your** reading was accurate, we will not charge **you** for the cost of our special meter reading. If **your** reading was inaccurate, we may charge **you** for the cost of our special meter reading.
 
 6.2 What if you are a new customer? 
 
-If you are a new customer, we will use the previous final meter reading at the premises as your initial meter reading, unless you read the meter before using any energy and advise us of that meter reading within one business day of you moving in. If your meter reading differs from the previous final meter reading at the premises, we may arrange for the meter to be read and we will use that reading as your initial meter reading.
+If **you** are a new customer, we will use the previous final meter reading at the premises as **your** initial meter reading, unless **you** read the meter before using any energy and advise us of that meter reading within one business day of **you** moving in. If **your** meter reading differs from the previous final meter reading at the premises, we may arrange for the meter to be read and we will use that reading as **your** initial meter reading.
 
-Alternatively, if an advanced meter has been installed at your premises, we may, in our discretion, take an initial meter reading remotely and any such reading will be conclusive evidence of the initial meter reading from the date you become our customer. 
+Alternatively, if an advanced meter has been installed at **your** premises, we may, in our discretion, take an initial meter reading remotely and any such reading will be conclusive evidence of the initial meter reading from the date **you** become our customer. 
 
 6.3 What if the meter is faulty?
 
-We may arrange to have the meter at your premises tested if we think it is faulty or if you tell us that you think it is faulty or not reflective of your actual consumption.
+We may arrange to have the meter at **your** premises tested if we think it is faulty or if **you** tell us that **you** think it is faulty or not reflective of **your** actual consumption.
 
-We will remove the meter for testing within 5 business days if you ask us to.
+We will remove the meter for testing within 5 business days if **you** ask us to.
 
-If we test a meter, we will inform you of the results of the test on request and if: 
+If we test a meter, we will inform **you** of the results of the test on request and if: 
 
 • it is clear that there is an inherent fault with the meter itself, we will replace or repair the meter at our, or the metering company's, cost; or 
-• otherwise, we may charge you our costs for testing, replacing and/or repairing the meter. 
+• otherwise, we may charge **you** our costs for testing, replacing and/or repairing the meter. 
 
-We will inform you of any extra charge you might incur if we do test your meter prior to undertaking this work.  We will also inform you prior to taking any action on your meter which may impact on your invoices or result in an extra charge. The process set out above for remedying faulty meters complies with relevant regulations and industry standards as at the date of these terms.
+We will inform **you** of any extra charge **you** might incur if we do test **your** meter prior to undertaking this work.  We will also inform **you** prior to taking any action on **your** meter which may impact on **your** invoices or result in an extra charge. The process set out above for remedying faulty meters complies with relevant regulations and industry standards as at the date of these terms.
 
-Our obligation to inform you under this section 6.3 does not apply where: 
+Our obligation to inform **you** under this section 6.3 does not apply where: 
 
 • there is a safety issue; or
-• you have materially breached these terms and conditions. 
+• **you** have materially breached these terms and conditions. 
 
-You must notify us immediately if you become aware that the meter or related equipment is tampered with, damaged, defective or looks unsafe.
+**You** must notify us immediately if **you** become aware that the meter or related equipment is tampered with, damaged, defective or looks unsafe.
 
 6.4 What do we do with meter reading information?
 
-You agree that we own all meter reading information. 
+**You** agree that we own all meter reading information. 
 
-To the extent that any meter reading information constitutes "personal information" for the purposes of the Privacy Act 1993, we will ensure that that meter reading information is held by us in accordance with the Privacy Act 1993 and our privacy policy. You consent to us:
+To the extent that any meter reading information constitutes "personal information" for the purposes of the Privacy Act 1993, we will ensure that that meter reading information is held by us in accordance with the Privacy Act 1993 and our privacy policy. **You** consent to us:
 
-• receiving and collecting meter reading information in respect of you and your premises;
-• storing meter reading information in respect of you and your premises in a way that is referenced back to you individually and/or your premises;
-• using meter reading information in respect of you and your premises for any other purpose, including, without limitation, for the purposes outlined in section 2.4 and to invoice you accurately for your energy usage; and 
-• disclosing meter reading information in respect of you and your premises to third parties. 
+• receiving and collecting meter reading information in respect of **you** and **your** premises;
+• storing meter reading information in respect of **you** and **your** premises in a way that is referenced back to **you** individually and/or **your** premises;
+• using meter reading information in respect of **you** and **your** premises for any other purpose, including, without limitation, for the purposes outlined in section 2.4 and to invoice **you** accurately for **your** energy usage; and 
+• disclosing meter reading information in respect of **you** and **your** premises to third parties. 
 
-You may not sell, assign or provide any meter reading information to any third party without our prior written consent, except for the purpose of comparing prices with other energy retailers. 
+**You** may not sell, assign or provide any meter reading information to any third party without our prior written consent, except for the purpose of comparing prices with other energy retailers. 
 
 6.5 Advanced meters
 
-We may, at any time, replace the meter at your premises with an advanced meter. You agree that you will not object to us, or prevent us from, replacing your meter with an advanced meter. 
+We may, at any time, replace the meter at **your** premises with an advanced meter. **You** agree that **you** will not object to us, or prevent us from, replacing **your** meter with an advanced meter. 
 
 6.6 What if an advanced meter cannot be installed at your premises?
 
-If an advanced meter cannot be installed at your premises because the wiring at your premises does not comply with any applicable laws, regulations, codes or standards, or because the advanced meter would, when installed, represent a safety hazard or where there is insufficient space on the meter board, we may require you to fix, remedy or repair the wiring or safety hazard, or install a larger meter board or otherwise address the lack of space on your meter board at your cost before an advanced meter is installed at your premises.
+If an advanced meter cannot be installed at **your** premises because the wiring at **your** premises does not comply with any applicable laws, regulations, codes or standards, or because the advanced meter would, when installed, represent a safety hazard or where there is insufficient space on the meter board, we may require **you** to fix, remedy or repair the wiring or safety hazard, or install a larger meter board or otherwise address the lack of space on **your** meter board at **your** cost before an advanced meter is installed at **your** premises.
 
 We may also require you to provide a certificate of compliance from a certified service provider at your cost before the advanced meter is installed. We may also request a copy of this certificate at any time.
 
