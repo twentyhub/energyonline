@@ -208,41 +208,41 @@ If **we** or a meter company make an appointment with **you** to install, connec
 • when access to **your** premises will be required; and
 • the purpose for requiring access to **your** premises.
 
-7.4 We will give **you** at least 10 working days notice of the intention to access **your** premises if the reason for requiring access relates to construction, upgrade, repair or maintenance.  Where we require access to **your** premises for any other reason (except for routine situations or emergency situations), we will give **you** reasonable notice.
+7.4 **We** will give **you** at least 10 working days notice of the intention to access **your** premises if the reason for requiring access relates to construction, upgrade, repair or maintenance.  Where **we** require access to **your** premises for any other reason (except for routine situations or emergency situations), **we** will give **you** reasonable notice.
 
-7.5 Where we require access to **your** premises, we will:
+7.5 Where **we** require access to **your** premises, **we** will:
 • take reasonable steps to minimise any direct impacts on **your** property and any inconvenience to **you**; and
 
 • try to comply with any reasonable requirements that **you** have given **us** (such as closing gates etc). 
 
-7.6 Where we are able to, we will instruct the metering company or network company to take such steps and comply with such requirements.
+7.6 Where **we** are able to, **we** will instruct the metering company or network company to take such steps and comply with such requirements.
 
 When accessing **your** property, our representatives will act in a courteous, considerate and professional manner at all times.  
 
 For more information on energy safety matters, contact the Energy Safety Service or the network company. 
 
-7.7 Any of our representatives or any representatives of a meter company or the network company or other third parties who own energy supply equipment on **your** premises who are requesting access to **your** premises will carry identification and present their identification to **you** on request. If our representatives are visiting at **your** request and **you** are at **your** premises, they will identify themselves to **you** before entering **your** property (and we will procure that any representatives of a meter company or the network company and/or other third parties who own energy supply equipment on **your** premises requesting access to **your** premises will also identify themselves to **you**).  In all other circumstances, **you** can ask the representative(s) to identify themselves at any time while they are on **your** property.  If they are unable or unwilling to show **you** their identification, **you** should not give them access.
+7.7 Any of our representatives or any representatives of a meter company or the network company or other third parties who own energy supply equipment on **your** premises who are requesting access to **your** premises will carry identification and present their identification to **you** on request. If our representatives are visiting at **your** request and **you** are at **your** premises, they will identify themselves to **you** before entering **your** property (and **we** will procure that any representatives of a meter company or the network company and/or other third parties who own energy supply equipment on **your** premises requesting access to **your** premises will also identify themselves to **you**).  In all other circumstances, **you** can ask the representative(s) to identify themselves at any time while they are on **your** property.  If they are unable or unwilling to show **you** their identification, **you** should not give them access.
 
 7.8 What if we have problems gaining access to your premises?
 
 If **you** are not able to grant **us** access, please contact **us** to discuss alternative access options.
 
-If **you** do not provide access to **your** meter or to any other meters (where **you** control access to those other meters) we  may charge **you** for any callout fees where we could not gain access, and such refusal will be considered a material breach of these terms and conditions for which we may disconnect **your** supply.
+If **you** do not provide access to **your** meter or to any other meters (where **you** control access to those other meters) **we**  may charge **you** for any callout fees where **we** could not gain access, and such refusal will be considered a material breach of these terms and conditions for which **we** may disconnect **your** supply.
 
 7.9 What if we can't read the meter? 
 
-If we have been unable to obtain a reading from the meter for any reason, the amount of energy **you** have used may be estimated by **us** and **you** will be charged on the basis of our estimate. **You** can, however, provide **us** with a meter reading via our website or by calling **us**.
+If **we** have been unable to obtain a reading from the meter for any reason, the amount of energy **you** have used may be estimated by **us** and **you** will be charged on the basis of our estimate. **You** can, however, provide **us** with a meter reading via our website or by calling **us**.
 
 7.10 What if we hold keys to your premises?
 
-If we have a key or security information to enable **us** to gain access to **your** premises, we will be responsible for its safe keeping and will use it only for the purposes described in this section 7. We will comply with any direction from **you** to return or destroy keys that **you** have given **us**, and/or the meter company or the network company.
+If **we** have a key or security information to enable **us** to gain access to **your** premises, **we** will be responsible for its safe keeping and will use it only for the purposes described in this section 7. **We** will comply with any direction from **you** to return or destroy keys that **you** have given **us**, and/or the meter company or the network company.
 
 7.11 What if you wish to turn off your electricity at the mains? 
 
-Switching off **your** energy at the mains affects our ability to read **your** advanced meter remotely. **You** should only switch off **your** energy at the mains for essential maintenance or in the case of an emergency situation. If **you** wish to turn off **your** energy at the mains for longer than a week, **you** should contact **us** so we can explain how to turn off the energy at the advanced meter.
+Switching off **your** energy at the mains affects our ability to read **your** advanced meter remotely. **You** should only switch off **your** energy at the mains for essential maintenance or in the case of an emergency situation. If **you** wish to turn off **your** energy at the mains for longer than a week, **you** should contact **us** so **we** can explain how to turn off the energy at the advanced meter.
 
 8 HOW WILL WE INVOICE YOU?
-8.1 We will send **you** an invoice for payment on a monthly basis unless we have agreed otherwise. **Your** invoice will be delivered to the address provided by **you**.
+8.1 **We** will send **you** an invoice for payment on a monthly basis unless **we** have agreed otherwise. **Your** invoice will be delivered to the address provided by **you**.
 
 **Your** invoice will show:
 
@@ -252,7 +252,7 @@ Switching off **your** energy at the mains affects our ability to read **your** 
 • a clear due date; and
 • the identifier number of all installation control points on **your** property.
 
-8.2 Any penalties or other charges that are additional to our usual fees will be separately itemised on **your** invoice.  We cannot tell **you** who **your** network company is on **your** invoice.  However, if **you** would like to know who **your** network company is, please call our Customer Care Team on 0800 086 400.
+8.2 Any penalties or other charges that are additional to our usual fees will be separately itemised on **your** invoice.  **We** cannot tell **you** who **your** network company is on **your** invoice.  However, if **you** would like to know who **your** network company is, please call our Customer Care Team on 0800 086 400.
 
 8.3 Our charges for energy consumption will be based on either an actual meter reading or an estimate of the energy consumed. Any estimate will be based on previous consumption if available or will be determined by following generally accepted industry practices and it will normally be clearly stated on **your** invoice if an estimate is used. 
 
@@ -260,34 +260,34 @@ Switching off **your** energy at the mains affects our ability to read **your** 
 
 8.4 What if you have a dispute? 
 
-If **you** dispute any amount payable under an invoice, **you** must give **us** notice at least 3 business days prior to the due date of the invoice, identifying the amount in dispute, and giving full reasons for the dispute. We will investigate **your** dispute as quickly as possible. 
+If **you** dispute any amount payable under an invoice, **you** must give **us** notice at least 3 business days prior to the due date of the invoice, identifying the amount in dispute, and giving full reasons for the dispute. **We** will investigate **your** dispute as quickly as possible. 
 
 If **you** dispute the amount on **your** invoice, or any part of **your** invoice, **you** must still pay the undisputed amount by the due date. 
 
-We will not stop supplying **you** with energy if there is a genuine dispute between **us** in relation to an invoice and **you** have paid **us** any undisputed amount by the due date. Within 10 days of resolving any dispute about **your** invoice, we will credit your account with any amount we owe **you**, or **you** will pay **us** any amount **you** owe **us**, unless agreed otherwise.
+**We** will not stop supplying **you** with energy if there is a genuine dispute between **us** in relation to an invoice and **you** have paid **us** any undisputed amount by the due date. Within 10 days of resolving any dispute about **your** invoice, **we** will credit your account with any amount **we** owe **you**, or **you** will pay **us** any amount **you** owe **us**, unless agreed otherwise.
 
 8.5 What if you don't pay? 
 
-We will try to help **you** in making payment arrangements with **us**, but if **you** do not pay amounts due to **us**, we may disconnect or limit **your** supply (see section 11.1 below) and **you** may incur fees for disconnection and debt collection. If circumstances arise, or are likely to arise, that mean **you** may incur a fee for disconnection or debt collection, we will provide reasonable notice to **you** that such a fee will be payable.
+**We** will try to help **you** in making payment arrangements with **us**, but if **you** do not pay amounts due to **us**, **we** may disconnect or limit **your** supply (see section 11.1 below) and **you** may incur fees for disconnection and debt collection. If circumstances arise, or are likely to arise, that mean **you** may incur a fee for disconnection or debt collection, **we** will provide reasonable notice to **you** that such a fee will be payable.
 
 Any costs incurred in collecting money owing to **us** by **you**, including bank fees, credit agency fees and legal and court costs, are payable by **you**. 
 
 If **you** are having difficulties in paying **your** invoice to **us** because **you** are a low income customer or a vulnerable customer, **you** may arrange for payment alternatives. Please call our Customer Care Team to discuss alternative payment methods. 
 
-If **you** are a vulnerable customer, we will not disconnect **your** energy supply unless all assistance with payment has been given under section 14 of this agreement.
+If **you** are a vulnerable customer, **we** will not disconnect **your** energy supply unless all assistance with payment has been given under section 14 of this agreement.
 
-If **you** have verified **your** status as a medically dependent customer with **us**, we will not disconnect **your** electricity supply. In order to verify **your** status as a medically dependent customer, **you** will need to provide **us** with a Notice of Potential Medically Dependent Consumer Status Form.  **You** can request this form from **your** primary healthcare provider.  We may ask **you** to re-confirm **your** status as a medically dependent customer by providing **us** with a further Notice of Potential Medically Dependent Consumer Status Form no more than once every 12 months.
+If **you** have verified **your** status as a medically dependent customer with **us**, **we** will not disconnect **your** electricity supply. In order to verify **your** status as a medically dependent customer, **you** will need to provide **us** with a Notice of Potential Medically Dependent Consumer Status Form.  **You** can request this form from **your** primary healthcare provider.  **We** may ask **you** to re-confirm **your** status as a medically dependent customer by providing **us** with a further Notice of Potential Medically Dependent Consumer Status Form no more than once every 12 months.
 
 8.6 What if you don't receive an invoice or your invoice was late?
 
-If **you** have not received an invoice, **you** should contact **us**.  If we determine that **you** are not responsible for the lateness of an invoice and:
+If **you** have not received an invoice, **you** should contact **us**.  If **we** determine that **you** are not responsible for the lateness of an invoice and:
 
 • the invoice is sent more than two months after the end of the period to which it relates, **you** will have at least the length of time covered by the invoice to pay it; or
-• ­the invoice is more than three months late, we will give **you** a discount of 5%.
+• ­the invoice is more than three months late, **we** will give **you** a discount of 5%.
 
 8.7 What if your invoice is based on an estimate? 
 
-If **your** invoice is based on our estimate of **your** energy consumption, **your** invoice will normally state clearly that an estimate has been used.  **You** may still pay for the exact amount of energy **you** have used by reading **your** own meter and advising **us** of **your** meter reading.  We will send **you** a new invoice based on this meter reading (unless we believe it is not correct), and **you** agree to pay the amount shown on that new invoice.  **You** can contact **us** if **you** would like a simple explanation of how any estimate has been calculated.  
+If **your** invoice is based on our estimate of **your** energy consumption, **your** invoice will normally state clearly that an estimate has been used.  **You** may still pay for the exact amount of energy **you** have used by reading **your** own meter and advising **us** of **your** meter reading.  **We** will send **you** a new invoice based on this meter reading (unless **we** believe it is not correct), and **you** agree to pay the amount shown on that new invoice.  **You** can contact **us** if **you** would like a simple explanation of how any estimate has been calculated.  
 
 8.8 What if your invoice is wrong? 
 
