@@ -181,47 +181,47 @@ We may, at any time, replace the meter at **your** premises with an advanced met
 
 If an advanced meter cannot be installed at **your** premises because the wiring at **your** premises does not comply with any applicable laws, regulations, codes or standards, or because the advanced meter would, when installed, represent a safety hazard or where there is insufficient space on the meter board, we may require **you** to fix, remedy or repair the wiring or safety hazard, or install a larger meter board or otherwise address the lack of space on **your** meter board at **your** cost before an advanced meter is installed at **your** premises.
 
-We may also require you to provide a certificate of compliance from a certified service provider at your cost before the advanced meter is installed. We may also request a copy of this certificate at any time.
+We may also require **you** to provide a certificate of compliance from a certified service provider at **your** cost before the advanced meter is installed. We may also request a copy of this certificate at any time.
 
 6.7 Will there be manual meter readings with advanced meters?
 
-If an advanced meter has been installed at your premises, we may still need to read your meter manually in some situations (e.g. if the advanced meter is faulty, the mains switch is turned off or if there have been failures in the metering communications network). If the manual reading is required because you have caused a communications fault, we may pass on the cost of the manual reading to you.
+If an advanced meter has been installed at **your** premises, we may still need to read **your** meter manually in some situations (e.g. if the advanced meter is faulty, the mains switch is turned off or if there have been failures in the metering communications network). If the manual reading is required because **you** have caused a communications fault, we may pass on the cost of the manual reading to **you**.
 
 6.8 What if I miss an appointment?
 
-If we or a meter company make an appointment with you to install, connect, test, inspect, maintain, repair, replace, alter, service, clean, disconnect or remove any metering equipment or other equipment, and you miss the agreed appointment, we may pass on to you any reasonable charges we incur as a result of you missing the appointment.
+If we or a meter company make an appointment with **you** to install, connect, test, inspect, maintain, repair, replace, alter, service, clean, disconnect or remove any metering equipment or other equipment, and **you** miss the agreed appointment, we may pass on to **you** any reasonable charges we incur as a result of **you** missing the appointment.
 
 7 WHAT ACCESS DO YOU NEED TO PROVIDE?
-7.1 You must:
+7.1 **You** must:
 
-• provide to us, the meter company, the network company and/or other third parties who own energy supply equipment on your premises, safe and unobstructed access to metering equipment, and any equipment of the network company or any other person on your premises between 8.00am and 7.00pm, Monday to Sunday, excluding public holidays;
-• provide to us, the meter company, the network company and/or other third parties who own energy supply equipment on your premises, immediate access to your premises at any time for safety reasons or to prevent serious damage to property or the environment;
-• allow to us, the meter company, the network company and/or other third parties who own energy supply equipment on your premises, access for installation, connection, testing, inspection, maintenance, repair, replacement, alteration, servicing, cleaning, disconnection or removal of any equipment owned by us and/or a meter company and/or a network company and/or other third parties including removal of any equipment up to 6 months after termination of supply to you;
+• provide to us, the meter company, the network company and/or other third parties who own energy supply equipment on **your** premises, safe and unobstructed access to metering equipment, and any equipment of the network company or any other person on **your** premises between 8.00am and 7.00pm, Monday to Sunday, excluding public holidays;
+• provide to us, the meter company, the network company and/or other third parties who own energy supply equipment on **your** premises, immediate access to **your** premises at any time for safety reasons or to prevent serious damage to property or the environment;
+• allow to us, the meter company, the network company and/or other third parties who own energy supply equipment on **your** premises, access for installation, connection, testing, inspection, maintenance, repair, replacement, alteration, servicing, cleaning, disconnection or removal of any equipment owned by us and/or a meter company and/or a network company and/or other third parties including removal of any equipment up to 6 months after termination of supply to **you**;
 • ensure that any dog or other animal that may make entry unsafe is secured to enable safe and easy access;
-• keep us informed about any health and safety and/or Resource Management Act 1991 requirements or issues at your premises that could be relevant to our representatives or the representatives of a meter company or a network company or other third parties who own energy supply equipment on your premises when they visit your premises; 
-• keep your trees and other vegetation regularly trimmed to a safe distance from any lines, pipes, substations, meters or equipment, to comply with the Electricity (Safety) Regulations 2010 in relation to any work near lines, the network or other electrical equipment, and the Electricity (Hazards from Trees) Regulations 2003. The Electricity (Hazards from Trees) Regulations 2003 specify the distances trees and other vegetation must be kept from power lines. If vegetation grows within these minimum distances (or Zones) cutting or trimming will be necessary.  You can view a summary of these regulations here. If you do not comply with these regulations (including any amendments to these regulations), you will be liable for the costs of carrying out any work arising as a result of your non-compliance.
+• keep us informed about any health and safety and/or Resource Management Act 1991 requirements or issues at **your** premises that could be relevant to our representatives or the representatives of a meter company or a network company or other third parties who own energy supply equipment on **your** premises when they visit your premises; 
+• keep **your** trees and other vegetation regularly trimmed to a safe distance from any lines, pipes, substations, meters or equipment, to comply with the Electricity (Safety) Regulations 2010 in relation to any work near lines, the network or other electrical equipment, and the Electricity (Hazards from Trees) Regulations 2003. The Electricity (Hazards from Trees) Regulations 2003 specify the distances trees and other vegetation must be kept from power lines. If vegetation grows within these minimum distances (or Zones) cutting or trimming will be necessary.  **You** can view a summary of these regulations here. If **you** do not comply with these regulations (including any amendments to these regulations), **you** will be liable for the costs of carrying out any work arising as a result of **your** non-compliance.
 
-7.2 You must, if requested by us, turn off the energy at your premises to enable access for the purposes referred to above.
+7.2 **You** must, if requested by us, turn off the energy at **your** premises to enable access for the purposes referred to above.
 
-7.3 Except in routine situations (such as reading or inspecting a meter that is located on the outside of a building) or emergency situations, before accessing your premises, either we, the meter company, network company and/or the other third parties who own energy supply equipment on your premises, will provide written notice to you of:
+7.3 Except in routine situations (such as reading or inspecting a meter that is located on the outside of a building) or emergency situations, before accessing **your** premises, either we, the meter company, network company and/or the other third parties who own energy supply equipment on **your** premises, will provide written notice to **you** of:
 
-• when access to your premises will be required; and
-• the purpose for requiring access to your premises.
+• when access to **your** premises will be required; and
+• the purpose for requiring access to **your** premises.
 
-7.4 We will give you at least 10 working days notice of the intention to access your premises if the reason for requiring access relates to construction, upgrade, repair or maintenance.  Where we require access to your premises for any other reason (except for routine situations or emergency situations), we will give you reasonable notice.
+7.4 We will give **you** at least 10 working days notice of the intention to access **your** premises if the reason for requiring access relates to construction, upgrade, repair or maintenance.  Where we require access to **your** premises for any other reason (except for routine situations or emergency situations), we will give **you** reasonable notice.
 
-7.5 Where we require access to your premises, we will:
-• take reasonable steps to minimise any direct impacts on your property and any inconvenience to you; and
+7.5 Where we require access to **your** premises, we will:
+• take reasonable steps to minimise any direct impacts on **your** property and any inconvenience to **you**; and
 
-• try to comply with any reasonable requirements that you have given us (such as closing gates etc). 
+• try to comply with any reasonable requirements that **you** have given us (such as closing gates etc). 
 
 7.6 Where we are able to, we will instruct the metering company or network company to take such steps and comply with such requirements.
 
-When accessing your property, our representatives will act in a courteous, considerate and professional manner at all times.  
+When accessing **your** property, our representatives will act in a courteous, considerate and professional manner at all times.  
 
 For more information on energy safety matters, contact the Energy Safety Service or the network company. 
 
-7.7 Any of our representatives or any representatives of a meter company or the network company or other third parties who own energy supply equipment on your premises who are requesting access to your premises will carry identification and present their identification to you on request. If our representatives are visiting at your request and you are at your premises, they will identify themselves to you before entering your property (and we will procure that any representatives of a meter company or the network company and/or other third parties who own energy supply equipment on your premises requesting access to your premises will also identify themselves to you).  In all other circumstances, you can ask the representative(s) to identify themselves at any time while they are on your property.  If they are unable or unwilling to show you their identification, you should not give them access.
+7.7 Any of our representatives or any representatives of a meter company or the network company or other third parties who own energy supply equipment on **your** premises who are requesting access to **your** premises will carry identification and present their identification to **you** on request. If our representatives are visiting at **your** request and **you** are at **your** premises, they will identify themselves to **you** before entering **your** property (and we will procure that any representatives of a meter company or the network company and/or other third parties who own energy supply equipment on **your** premises requesting access to **your** premises will also identify themselves to **you**).  In all other circumstances, **you** can ask the representative(s) to identify themselves at any time while they are on **your** property.  If they are unable or unwilling to show **you** their identification, **you** should not give them access.
 
 7.8 What if we have problems gaining access to your premises?
 
