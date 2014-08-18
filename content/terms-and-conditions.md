@@ -376,64 +376,64 @@ If an advanced meter has been installed at **your** premises, **we** may reconne
 
 If **you** don’t give **us** 3 business days' notice **you** will be required to pay for any energy used at the premises while the premises remain connected to the network, even if **you** are no longer at the premises, until the date on which 3 business days' notice has been given. 
 
-If **you** are not going to remain our customer after **your** move, our charges to **you** will stop on the date 3 business days after **you** have given **us** notice in accordance with this section, or if **you** have failed to give **us** notice, when we disconnect the premises, or a new customer has notified **us** that it has taken over the premises.  Where **you** have given **us** notice in accordance with this section, disconnection of **your** premises will occur as soon as possible on or from the date on which **your** notice takes effect.
+If **you** are not going to remain our customer after **your** move, our charges to **you** will stop on the date 3 business days after **you** have given **us** notice in accordance with this section, or if **you** have failed to give **us** notice, when **we** disconnect the premises, or a new customer has notified **us** that it has taken over the premises.  Where **you** have given **us** notice in accordance with this section, disconnection of **your** premises will occur as soon as possible on or from the date on which **your** notice takes effect.
 
-Where **you** have instructed **us** that **you** are switching to another retailer, we will work with **you** to facilitate the switch and terminate **your** supply in accordance with applicable regulations and industry standards. 
+Where **you** have instructed **us** that **you** are switching to another retailer, **we** will work with **you** to facilitate the switch and terminate **your** supply in accordance with applicable regulations and industry standards. 
 
-13.2 What if you want to stop receiving electricity where we also supply you with gas? 
+13.2 What if you want to stop receiving electricity where **we** also supply you with gas? 
 
-We will only supply gas to **your** premises if we also supply **your** premises with electricity, therefore, if **you** no longer wish to receive electricity from **us**, we will also terminate our supply of gas to **you**.   **You** must provide **us** with at least 3 business days notice to terminate supply.
+**We** will only supply gas to **your** premises if **we** also supply **your** premises with electricity, therefore, if **you** no longer wish to receive electricity from **us**, **we** will also terminate our supply of gas to **you**.   **You** must provide **us** with at least 3 business days notice to terminate supply.
 
-If the energy supply at **your** premises is disconnected (but not decommissioned), we may still charge **you** a daily fixed charge. However, we will not charge **you** a daily fixed charge for energy if the energy supply at **your** premises has been decommissioned.
+If the energy supply at **your** premises is disconnected (but not decommissioned), **we** may still charge **you** a daily fixed charge. However, **we** will not charge **you** a daily fixed charge for energy if the energy supply at **your** premises has been decommissioned.
 
 13.3 Will a final meter reading be taken? 
 
-We will arrange for a final meter reading and we will send a final invoice to **you** at **your** forwarding address. We may ask **you** to pay a final meter reading fee.  We will give **you** reasonable notice that **you** may incur a final meter reading fee and how **you** may avoid the fee if possible. 
+**We** will arrange for a final meter reading and **we** will send a final invoice to **you** at **your** forwarding address. **We** may ask **you** to pay a final meter reading fee.  **We** will give **you** reasonable notice that **you** may incur a final meter reading fee and how **you** may avoid the fee if possible. 
 
 14 CONTACTING WORK AND INCOME AND NOMINATED PERSON
 **You** are a vulnerable customer if **you** have told **us**, or it appears to **us**, that disconnection of energy at **your** premises presents a clear threat to the health or well-being of **you** or a member of **your** household, or if **you** have mains powered equipment for critical medical support. This could be because of age, health or disability. **You** can inform **us** at any time if **you** are or become a vulnerable customer. 
 
 If: 
 
-• for any reason we form the honest belief that **you** are a vulnerable customer; and
+• for any reason **we** form the honest belief that **you** are a vulnerable customer; and
 • **you** do not make regular bill payments and **your** supply is at risk of disconnection; and
-• we have provided **you** with all the assistance we are reasonably able to; and
+• **we** have provided **you** with all the assistance **we** are reasonably able to; and
 • **you** are still unable to make **your** payments,
 
 **you** authorise **us** to consult with Work and Income, District Health Boards, private health providers or any other social agency or service provider as necessary. 
 
-We may also maintain **your** information on a register of vulnerable customers. If, after we have informed **you** of the opportunity to notify **us** that **you** are a vulnerable customer, **you** have not told **us**, or it does not appear to **us**, that **you** are a vulnerable customer, we will assume that **you** are not a vulnerable customer.
+**We** may also maintain **your** information on a register of vulnerable customers. If, after **we** have informed **you** of the opportunity to notify **us** that **you** are a vulnerable customer, **you** have not told **us**, or it does not appear to **us**, that **you** are a vulnerable customer, **we** will assume that **you** are not a vulnerable customer.
 
-If **you** are not a vulnerable customer, **you** can still agree that we consult with Work and Income, District Health Boards, private health providers or any other social agency or service provider if:
+If **you** are not a vulnerable customer, **you** can still agree that **we** consult with Work and Income, District Health Boards, private health providers or any other social agency or service provider if:
 
 • **you** do not pay **your** invoices regularly and **your** supply is at risk of disconnection; and
-• we have provided **you** with all the assistance we are reasonably able to; and
+• **we** have provided **you** with all the assistance **we** are reasonably able to; and
 • **you** are still unable to make **your** payments.
 
-If **you** have nominated a person as an account authority with whom we can discuss the details of **your** account under section 2.5, we may also discuss financial assistance with that person.
+If **you** have nominated a person as an account authority with whom **we** can discuss the details of **your** account under section 2.5, **we** may also discuss financial assistance with that person.
 
 15 OUR PERFORMANCE COMMITMENTS
-We will supply energy to **your** premises at quality and reliability levels in accordance with good industry practice in New Zealand and in accordance with current laws including, but not limited to, the Consumer Guarantees Act 1993 (where **you** are a residential customer), the Gas Act 1992, the Electricity Industry Act 2010 and the Electricity Code and technical electricity and gas codes of practice. 
+**We** will supply energy to **your** premises at quality and reliability levels in accordance with good industry practice in New Zealand and in accordance with current laws including, but not limited to, the Consumer Guarantees Act 1993 (where **you** are a residential customer), the Gas Act 1992, the Electricity Industry Act 2010 and the Electricity Code and technical electricity and gas codes of practice. 
 
 What if you think that we have not met our performance commitments?
 
-If **you** think that we have failed to meet our performance commitments, **you** can make a complaint. We will respond to any complaints and will seek to resolve them in accordance with section 16 below.
+If **you** think that **we** have failed to meet our performance commitments, **you** can make a complaint. **We** will respond to any complaints and will seek to resolve them in accordance with section 16 below.
 
 16 WHAT HAPPENS IF YOU HAVE A COMPLAINT?
 Energy Online is a member of the Electricity and Gas Complaints Commissioner Scheme and will deal with any complaints **you** have in relation to **your** energy supply in accordance with the requirements of the Scheme. 
 
 If **you** have a complaint, please contact our Customer Care Team. Our contact details are set out in section 1, or alternatively **you** can make an appointment to see **us** at our offices.  Our free internal complaints resolution service is explained on our website.
 
-We will try to resolve **your** complaint straight away. If it is complex, or involves other parties, such as **your** network company or meter company, our Customer Resolutions Team will investigate it for **you**. We may also refer it to **your** network company or meter company. If we do this, we will tell **you**. 
+**We** will try to resolve **your** complaint straight away. If it is complex, or involves other parties, such as **your** network company or meter company, our Customer Resolutions Team will investigate it for **you**. **We** may also refer it to **your** network company or meter company. If **we** do this, **we** will tell **you**. 
 
-In any event, we will acknowledge **your** complaint in writing within 2 business days after we receive **your** complaint. 
+In any event, **we** will acknowledge **your** complaint in writing within 2 business days after **we** receive **your** complaint. 
 
-If we can't resolve **your** complaint straight away, we will give **you** a response within 7 business days after we receive **your** complaint. 
+If **we** can't resolve **your** complaint straight away, **we** will give **you** a response within 7 business days after **we** receive **your** complaint. 
 
 If:
 
-• we have not resolved **your** complaint within 20 working days and have not written to **you** explaining why we need more time to reach a resolution; or
-• we have taken longer than 40 working days to resolve **your** complaint; or
+• **we** have not resolved **your** complaint within 20 working days and have not written to **you** explaining why **we** need more time to reach a resolution; or
+• **we** have taken longer than 40 working days to resolve **your** complaint; or
 • **you** are not happy with our proposed resolution,
 
 **you** may refer **your** complaint to the free independent dispute resolution service provided by the Electricity and Gas Complaints Commissioner on 0800 22 33 40 or visit www.egcomplaints.co.nz.  **You** may also refer **your** complaint to the Disputes Tribunal, the Court or other third party. 
@@ -441,7 +441,7 @@ If:
 17 WHAT IS ENERGY ONLINE’S LIABILITY FOR LOSS OR DAMAGE?
 17.1 What will we be liable for? 
 
-We will not be liable to **you** (in contract, tort (including negligence) or otherwise) for any loss or damage **you** may suffer unless, and to the extent that, that loss or damage is direct loss of or damage to **your** physical property and it occurs due to:
+**We** will not be liable to **you** (in contract, tort (including negligence) or otherwise) for any loss or damage **you** may suffer unless, and to the extent that, that loss or damage is direct loss of or damage to **your** physical property and it occurs due to:
 
 • our breach of this agreement; or 
 • our negligence;
@@ -451,21 +451,21 @@ and the loss or damage is:
 • reasonably foreseeable and is directly caused by our breach or our negligence; and
 • is not caused by something beyond our control,
 
-but we will not be liable in any cases for any other loss or damage including indirect or consequential losses, loss of profits or revenue, or similar.
+but **we** will not be liable in any cases for any other loss or damage including indirect or consequential losses, loss of profits or revenue, or similar.
 
 17.2 What is an event beyond our control? 
 
-An event or cause beyond our control includes, but is not limited to: acts of God, war, riot, civil commotion, malicious damage, compliance with any law or governmental order, rule, regulation or direction, accident, earthquake, fire, lightning, storm, flood or other similar event, interference with the network from birds, animals or vegetation, traffic accidents, faults in the network, acts or omissions by the network company or meter company, problems with generation, transmission or distribution of energy, problems with **your** wiring, problems arising because of health and safety hazards at **your** premises, and other things which we do not have control over. 
+An event or cause beyond our control includes, but is not limited to: acts of God, war, riot, civil commotion, malicious damage, compliance with any law or governmental order, rule, regulation or direction, accident, earthquake, fire, lightning, storm, flood or other similar event, interference with the network from birds, animals or vegetation, traffic accidents, faults in the network, acts or omissions by the network company or meter company, problems with generation, transmission or distribution of energy, problems with **your** wiring, problems arising because of health and safety hazards at **your** premises, and other things which **we** do not have control over. 
 
 17.3 What is our maximum liability? 
 
-If we are liable to **you**, the maximum amount we will pay as compensation for **your** loss is $10,000 in respect of any event or series of closely related events. We may choose to replace any damaged property or goods, up to the same maximum amount, instead of paying cash. We are not required to honour this agreement in circumstances where an event has occurred which is beyond our control and which prevents **us** from doing the things we would normally do. In these circumstances, we will carry on honouring our obligations as soon as it is reasonably practicable for **us** to do so. 
+If **we** are liable to **you**, the maximum amount **we** will pay as compensation for **your** loss is $10,000 in respect of any event or series of closely related events. **We** may choose to replace any damaged property or goods, up to the same maximum amount, instead of paying cash. **We** are not required to honour this agreement in circumstances where an event has occurred which is beyond our control and which prevents **us** from doing the things **we** would normally do. In these circumstances, **we** will carry on honouring our obligations as soon as it is reasonably practicable for **us** to do so. 
 
 If **you** acquire goods or services from **us** for personal, domestic or household use or consumption, any rights **you** have under the Consumer Guarantees Act 1993 are not affected by our limitations of liability. However, if **you** acquire goods or services from **us** for the purposes of a business, the Consumer Guarantees Act 1993 does not apply. 
 
 Our limitations of liability extend to our employees and agents for the purposes of the Contracts (Privity) Act 1982. 
 
-Notwithstanding any provision to the contrary in this agreement, nothing in this agreement will exclude or limit the application of any law in New Zealand where such law applies to the supply of energy, or any other services we supply, to the extent that to do so would:
+Notwithstanding any provision to the contrary in this agreement, nothing in this agreement will exclude or limit the application of any law in New Zealand where such law applies to the supply of energy, or any other services **we** supply, to the extent that to do so would:
 
 • contravene that law; or 
 • cause any part of this section 17 to be void.
