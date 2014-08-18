@@ -246,15 +246,15 @@ Switching off **your** **energy** at the mains affects our ability to read **you
 
 **Your** invoice will show:
 
-• a breakdown of the energy charges into gas and electricity (if **you** are supplied with both by **us**);
-• the fixed charge component (if any) of **your** invoice including the quantity of energy supplied (or estimated to have been supplied);
-• any charges for goods or services **you** have asked **us** to provide other than energy and lines services;
+• a breakdown of the **energy** charges into gas and electricity (if **you** are supplied with both by **us**);
+• the fixed charge component (if any) of **your** invoice including the quantity of **energy** supplied (or estimated to have been supplied);
+• any charges for goods or services **you** have asked **us** to provide other than **energy** and lines services;
 • a clear due date; and
 • the identifier number of all installation control points on **your** property.
 
 8.2 Any penalties or other charges that are additional to our usual fees will be separately itemised on **your** invoice.  **We** cannot tell **you** who **your** network company is on **your** invoice.  However, if **you** would like to know who **your** network company is, please call our Customer Care Team on 0800 086 400.
 
-8.3 Our charges for energy consumption will be based on either an actual meter reading or an estimate of the energy consumed. Any estimate will be based on previous consumption if available or will be determined by following generally accepted industry practices and it will normally be clearly stated on **your** invoice if an estimate is used. 
+8.3 Our charges for **energy** consumption will be based on either an actual meter reading or an estimate of the **energy** consumed. Any estimate will be based on previous consumption if available or will be determined by following generally accepted industry practices and it will normally be clearly stated on **your** invoice if an estimate is used. 
 
 **You** must pay the total amount shown on each invoice (including GST).  Payment must be received by **us** by the due date specified on the invoice, whether the invoice is based on an actual or estimated meter reading. **You** may not deduct or set off any amount from the amount shown on the invoice.
 
@@ -264,7 +264,7 @@ If **you** dispute any amount payable under an invoice, **you** must give **us**
 
 If **you** dispute the amount on **your** invoice, or any part of **your** invoice, **you** must still pay the undisputed amount by the due date. 
 
-**We** will not stop supplying **you** with energy if there is a genuine dispute between **us** in relation to an invoice and **you** have paid **us** any undisputed amount by the due date. Within 10 days of resolving any dispute about **your** invoice, **we** will credit your account with any amount **we** owe **you**, or **you** will pay **us** any amount **you** owe **us**, unless agreed otherwise.
+**We** will not stop supplying **you** with **energy** if there is a genuine dispute between **us** in relation to an invoice and **you** have paid **us** any undisputed amount by the due date. Within 10 days of resolving any dispute about **your** invoice, **we** will credit your account with any amount **we** owe **you**, or **you** will pay **us** any amount **you** owe **us**, unless agreed otherwise.
 
 8.5 What if you don't pay? 
 
@@ -274,7 +274,7 @@ Any costs incurred in collecting money owing to **us** by **you**, including ban
 
 If **you** are having difficulties in paying **your** invoice to **us** because **you** are a low income customer or a vulnerable customer, **you** may arrange for payment alternatives. Please call our Customer Care Team to discuss alternative payment methods. 
 
-If **you** are a vulnerable customer, **we** will not disconnect **your** energy supply unless all assistance with payment has been given under section 14 of this agreement.
+If **you** are a vulnerable customer, **we** will not disconnect **your** **energy** supply unless all assistance with payment has been given under section 14 of this agreement.
 
 If **you** have verified **your** status as a medically dependent customer with **us**, **we** will not disconnect **your** electricity supply. In order to verify **your** status as a medically dependent customer, **you** will need to provide **us** with a Notice of Potential Medically Dependent Consumer Status Form.  **You** can request this form from **your** primary healthcare provider.  **We** may ask **you** to re-confirm **your** status as a medically dependent customer by providing **us** with a further Notice of Potential Medically Dependent Consumer Status Form no more than once every 12 months.
 
@@ -287,13 +287,13 @@ If **you** have not received an invoice, **you** should contact **us**.  If **we
 
 8.7 What if your invoice is based on an estimate? 
 
-If **your** invoice is based on our estimate of **your** energy consumption, **your** invoice will normally state clearly that an estimate has been used.  **You** may still pay for the exact amount of energy **you** have used by reading **your** own meter and advising **us** of **your** meter reading.  **We** will send **you** a new invoice based on this meter reading (unless **we** believe it is not correct), and **you** agree to pay the amount shown on that new invoice.  **You** can contact **us** if **you** would like a simple explanation of how any estimate has been calculated.  
+If **your** invoice is based on our estimate of **your** **energy** consumption, **your** invoice will normally state clearly that an estimate has been used.  **You** may still pay for the exact amount of **energy** **you** have used by reading **your** own meter and advising **us** of **your** meter reading.  **We** will send **you** a new invoice based on this meter reading (unless **we** believe it is not correct), and **you** agree to pay the amount shown on that new invoice.  **You** can contact **us** if **you** would like a simple explanation of how any estimate has been calculated.  
 
 8.8 What if your invoice is wrong? 
 
 If **your** invoice is incorrect, **you** are only liable to pay the correct amount and **we** will refund any amount that **we** have over-charged, or **you** will pay any amount that **we** have under-charged. Any refunds for amounts that **we** have over-charged will be made promptly.  **We** may offset against any refund any amounts **you** owe **us** (or any debt collection agency to whom **we** have transferred any debt owing to **us** by **you**). Any amounts that **you** are required to pay because **we** have under-charged **you** will take into account whether **you** have contributed to the error in any way or could reasonably have been expected to know of the error.  
 
-This does not apply where **your** invoice is based on an estimate of **your** energy consumption, as an adjustment will be made automatically in the next invoice based on an actual meter reading. In any event, **you** will be responsible for the payment of all of the energy **you** use.
+This does not apply where **your** invoice is based on an estimate of **your** **energy** consumption, as an adjustment will be made automatically in the next invoice based on an actual meter reading. In any event, **you** will be responsible for the payment of all of the **energy** **you** use.
 
 8.9 Is interest payable? 
 
