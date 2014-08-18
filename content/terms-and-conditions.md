@@ -301,17 +301,17 @@ No interest is due on any amounts over-paid or under-paid by **you** or **us** i
 
 8.10 Payment if meter is faulty 
 
-If **your** meter is faulty, **we** may not be able to tell for certain how much energy has actually been used. Therefore:
+If **your** meter is faulty, **we** may not be able to tell for certain how much **energy** has actually been used. Therefore:
 
 • ­subject to section 23, **you** will be liable, in relation to the variable rate component of **your** price plan, for the quantity measured by the meter, unless **you** contributed to the fault, or could have reasonably been expected to know about the fault. In addition, you will still be liable for the fixed daily rate component of **your** price plan; and
-• ­if it is apparent that **your** meter has measured more energy than **you** actually used and **you** have over-paid **us**, **we** will refund to **you** an amount **we** reasonably believe is a realistic estimate of the over-payment.
+• ­if it is apparent that **your** meter has measured more **energy** than **you** actually used and **you** have over-paid **us**, **we** will refund to **you** an amount **we** reasonably believe is a realistic estimate of the over-payment.
 
 9 WHAT FEES AND CHARGES WILL YOU PAY?
-9.1 **You** must pay the fees and charges set out in the Energy Online price list based on the energy **you** consume and the services **you** use unless **we** have agreed otherwise in writing. These fees and charges may change from time to time. 
+9.1 **You** must pay the fees and charges set out in the **Energy Online** price list based on the **energy** **you** consume and the services **you** use unless **we** have agreed otherwise in writing. These fees and charges may change from time to time. 
 
 Please call our Customer Care Team, or click here, for a copy of our most recent price list.  **You** can contact **us** to check if **you** are on the right pricing plan for **your** requirements. 
 
-9.2 **We** don’t offer prepay pricing plans.  If **you** are interested in a prepay pricing plan, **you** may wish to contact another energy retailer to see if they can offer y**ou** a prepay pricing plan in **your** area. 
+9.2 **We** don’t offer prepay pricing plans.  If **you** are interested in a prepay pricing plan, **you** may wish to contact another **energy** retailer to see if they can offer y**ou** a prepay pricing plan in **your** area. 
 
 Please contact **us** if **you** would like to change **your** pricing plan, products, or services.  If **you** do change pricing plans the change will be effected as soon as possible. If you choose to change **your** pricing plan more than once in any 12 month period a charge may be payable.
 
@@ -322,20 +322,20 @@ Please contact **us** if **you** would like to change **your** pricing plan, pro
 **You** may pay **your** invoice by any of the methods described in the welcome pack sent to **you** when **you** became our customer, as updated from time to time on our website. If you would like to receive further details, please call our Customer Care Team.
 
 11 WHEN WILL WE DISCONNECT YOUR SUPPLY?
-11.1 In addition to our, the network company's and the meter company's other rights of disconnection under this agreement, **your** energy supply may be disconnected: 
+11.1 In addition to our, the network company's and the meter company's other rights of disconnection under this agreement, **your** **energy** supply may be disconnected: 
 
-• ­for non payment of the undisputed portion of any invoice associated with the supply of energy, lines services or other services supplied to **you**;
+• ­for non payment of the undisputed portion of any invoice associated with the supply of **energy**, lines services or other services supplied to **you**;
 • ­if **we** cease to have an agreement with the network company that provides lines services to **you**;
 • ­for a planned or unplanned supply interruption (including for safety reasons); or
 • ­if **you** materially or persistently breach any term of this agreement.
 
-If **you** materially or persistently breach a term of this agreement in a way that is capable of being remedied, **we** will give **you** notice of the steps **you** can take to avoid the disconnection of **your** energy and/or termination of this agreement and **you** will have 5 business days to remedy the breach in accordance with the notice.
+If **you** materially or persistently breach a term of this agreement in a way that is capable of being remedied, **we** will give **you** notice of the steps **you** can take to avoid the disconnection of **your** **energy** and/or termination of this agreement and **you** will have 5 business days to remedy the breach in accordance with the notice.
 
-If an advanced meter has been installed at **your** premises, **we** may disconnect **your** supply of energy remotely.
+If an advanced meter has been installed at **your** premises, **we** may disconnect **your** supply of **energy** remotely.
 
 11.2 Will we tell you about disconnecting your supply? 
 
-Except in the case of an emergency situation or for safety reasons, or where **we** suspect the metering equipment or other equipment at **your** premises supplied by **us** or a network company or meter company has been tampered or interfered with, **we** will tell **you** at least 7 days (and allow a further 3 days for delivery of the notice) before **we** disconnect **your** supply of energy. **We** will also contact **you**, at the contact details provided by **you**, to provide **you** with a final warning at least 24 hours prior to disconnecting **your** supply. If disconnection is not prevented by **you** and not completed within the timeframe notified to **you** (including where **we** grant **you** an extension to that timeframe, at our discretion), **we** will issue **you** with another final warning no less than 24 hours, or not more than 7 days, before disconnection. Any notice of disconnection from **us** will include information that **you** need to prevent disconnection if prevention is possible.  **We** may ask **you** to pay a disconnection fee or an attendance fee (where the disconnection does not proceed) in respect of the action taken by **us** under this section. **We** will provide reasonable notice to **you** if **you** are likely to incur a disconnection fee.
+Except in the case of an emergency situation or for safety reasons, or where **we** suspect the metering equipment or other equipment at **your** premises supplied by **us** or a network company or meter company has been tampered or interfered with, **we** will tell **you** at least 7 days (and allow a further 3 days for delivery of the notice) before **we** disconnect **your** supply of **energy**. **We** will also contact **you**, at the contact details provided by **you**, to provide **you** with a final warning at least 24 hours prior to disconnecting **your** supply. If disconnection is not prevented by **you** and not completed within the timeframe notified to **you** (including where **we** grant **you** an extension to that timeframe, at our discretion), **we** will issue **you** with another final warning no less than 24 hours, or not more than 7 days, before disconnection. Any notice of disconnection from **us** will include information that **you** need to prevent disconnection if prevention is possible.  **We** may ask **you** to pay a disconnection fee or an attendance fee (where the disconnection does not proceed) in respect of the action taken by **us** under this section. **We** will provide reasonable notice to **you** if **you** are likely to incur a disconnection fee.
 
 **We** will not disconnect **your** supply for non-payment of a disputed amount where **you** have initiated a dispute with the Electricity & Gas Complaints Commissioner in relation to that disputed amount, unless the Electricity & Gas Complaints Commissioner dispute resolution process or our own dispute resolution process has been exhausted.
 
@@ -356,7 +356,7 @@ The network company is entitled to disconnect **your** supply if:
 • **you** materially breach any other term of this agreement including the network requirements, and **you** agree that in respect of **your** electricity supply, section 105 of the Electricity Industry Act 2010 shall not apply in respect of such disconnection. 
 
 12 HOW DO YOU RESUME SUPPLY?
-When **you** want to start **your** energy supply again, please call **us**. **You** may not attempt to reconnect the energy supply yourself. Before **we** agree to reconnect **your** energy supply **we** may require **you** to:
+When **you** want to start **your** **energy** supply again, please call **us**. **You** may not attempt to reconnect the **energy** supply yourself. Before **we** agree to reconnect **your** **energy** supply **we** may require **you** to:
 
 • be present at the time of reconnection;
 • pay all outstanding amounts;
@@ -365,16 +365,16 @@ When **you** want to start **your** energy supply again, please call **us**. **Y
 • turn off all appliances at **your** premises; and/or
 • agree to a payment plan or any other reasonable requirements.
 
-Where **you** have met these requirements **we** will arrange to reconnect **your** energy supply as soon as possible. 
+Where **you** have met these requirements **we** will arrange to reconnect **your** **energy** supply as soon as possible. 
 
-If an advanced meter has been installed at **your** premises, **we** may reconnect **your** energy supply remotely. 
+If an advanced meter has been installed at **your** premises, **we** may reconnect **your** **energy** supply remotely. 
 
-**You** will be responsible for any liability suffered or incurred by **you** as a result of **us** disconnecting or reconnecting the energy supply at **your** premises.
+**You** will be responsible for any liability suffered or incurred by **you** as a result of **us** disconnecting or reconnecting the **energy** supply at **your** premises.
 
 13 WHAT IF YOU WANT TO STOP YOUR SUPPLY?
-13.1 If **you** no longer want **us** to supply **you** with energy or **you** want **your** supply disconnected, **you** must let **us** know at least 3 business days beforehand. This timeframe is consistent with applicable regulations and industry standards as at the date of these terms.  If **you** intend to leave **your** present premises, **you** must also tell **us** **your** forwarding address. 
+13.1 If **you** no longer want **us** to supply **you** with **energy** or **you** want **your** supply disconnected, **you** must let **us** know at least 3 business days beforehand. This timeframe is consistent with applicable regulations and industry standards as at the date of these terms.  If **you** intend to leave **your** present premises, **you** must also tell **us** **your** forwarding address. 
 
-If **you** don’t give **us** 3 business days' notice **you** will be required to pay for any energy used at the premises while the premises remain connected to the network, even if **you** are no longer at the premises, until the date on which 3 business days' notice has been given. 
+If **you** don’t give **us** 3 business days' notice **you** will be required to pay for any **energy** used at the premises while the premises remain connected to the network, even if **you** are no longer at the premises, until the date on which 3 business days' notice has been given. 
 
 If **you** are not going to remain our customer after **your** move, our charges to **you** will stop on the date 3 business days after **you** have given **us** notice in accordance with this section, or if **you** have failed to give **us** notice, when **we** disconnect the premises, or a new customer has notified **us** that it has taken over the premises.  Where **you** have given **us** notice in accordance with this section, disconnection of **your** premises will occur as soon as possible on or from the date on which **your** notice takes effect.
 
@@ -384,14 +384,14 @@ Where **you** have instructed **us** that **you** are switching to another retai
 
 **We** will only supply gas to **your** premises if **we** also supply **your** premises with electricity, therefore, if **you** no longer wish to receive electricity from **us**, **we** will also terminate our supply of gas to **you**.   **You** must provide **us** with at least 3 business days notice to terminate supply.
 
-If the energy supply at **your** premises is disconnected (but not decommissioned), **we** may still charge **you** a daily fixed charge. However, **we** will not charge **you** a daily fixed charge for energy if the energy supply at **your** premises has been decommissioned.
+If the **energy** supply at **your** premises is disconnected (but not decommissioned), **we** may still charge **you** a daily fixed charge. However, **we** will not charge **you** a daily fixed charge for **energy** if the **energy** supply at **your** premises has been decommissioned.
 
 13.3 Will a final meter reading be taken? 
 
 **We** will arrange for a final meter reading and **we** will send a final invoice to **you** at **your** forwarding address. **We** may ask **you** to pay a final meter reading fee.  **We** will give **you** reasonable notice that **you** may incur a final meter reading fee and how **you** may avoid the fee if possible. 
 
 14 CONTACTING WORK AND INCOME AND NOMINATED PERSON
-**You** are a vulnerable customer if **you** have told **us**, or it appears to **us**, that disconnection of energy at **your** premises presents a clear threat to the health or well-being of **you** or a member of **your** household, or if **you** have mains powered equipment for critical medical support. This could be because of age, health or disability. **You** can inform **us** at any time if **you** are or become a vulnerable customer. 
+**You** are a vulnerable customer if **you** have told **us**, or it appears to **us**, that disconnection of **energy** at **your** premises presents a clear threat to the health or well-being of **you** or a member of **your** household, or if **you** have mains powered equipment for critical medical support. This could be because of age, health or disability. **You** can inform **us** at any time if **you** are or become a vulnerable customer. 
 
 If: 
 
