@@ -14,20 +14,20 @@ These terms and conditions are a legally binding document between us.
 
 These terms and conditions are effective from 16 January 2014. However, if **you** are an existing Energy Online customer on 16 January 2014, these terms and conditions will apply to **you** from 16 February 2014. These terms and conditions replace any previous agreement(s) we have with **you**.
 
-These terms and conditions apply to both electricity and reticulated gas supplied to **you** by us.
+These terms and conditions apply to both electricity and reticulated gas supplied to **you** by **us**.
 
 Where we have used words in bold in these terms and conditions, they have a special meaning and are defined at the end of these terms and conditions.
 
-If **you** wish to contact us, please:
+If **you** wish to contact **us**, please:
 
-• write to us at:
+• write to **us** at:
 Energy Online
 Private Bag 3131
 Waikato Mail Centre
 Hamilton 3240
 
-• or fax us on 09 539 4633
-• or email us at customer.care@energyonline.co.nz
+• or fax **us** on 09 539 4633
+• or email **us** at customer.care@energyonline.co.nz
 • or call our Customer Care Team on 0800 086 400.
 
 We will try to respond to any written enquiries as soon as reasonably possible. Depending on levels of customer enquiries at the time we receive **your** enquiry, we expect to respond to **your** enquiry within two business days.
@@ -36,23 +36,23 @@ We will try to respond to any written enquiries as soon as reasonably possible. 
 2.1 To apply to become a customer** you **can:
 
 • complete a Customer Application Form, available from our website; or
-• email us at the email address set out above; or
-• call us on the relevant number set out above; or
-• fax us on the number set out above.
+• email **us** at the email address set out above; or
+• call **us** on the relevant number set out above; or
+• fax **us** on the number set out above.
 
 We will respond to **your** application within 2 business days from receipt of **your** application if we require further information from **you** or **your** application to join has been declined. 
 
-2.2 An agreement between **you** and us is formed on these terms and conditions when in our sole discretion we accept **your** application to join us and the agreement will apply from the date on which **you** first use energy supplied by us, and **you** will be liable to pay our charges from that date.  We may require **you** to provide evidence of when **you** first use energy supplied by us through a certificate of title or tenancy agreement.  Where **you** apply to join us before using energy supplied by us, the supply of energy to **you** will commence as soon as possible following our acceptance of **your** application.
+2.2 An agreement between **you** and **us** is formed on these terms and conditions when in our sole discretion we accept **your** application to join **us** and the agreement will apply from the date on which **you** first use energy supplied by **us**, and **you** will be liable to pay our charges from that date.  We may require **you** to provide evidence of when **you** first use energy supplied by **us** through a certificate of title or tenancy agreement.  Where **you** apply to join **us** before using energy supplied by **us**, the supply of energy to **you** will commence as soon as possible following our acceptance of **your** application.
 
-If **you** have moved to premises and started using energy, **you** will still need to call us to become a customer. If **you** do not contact us to become a customer, we will disconnect the property. We may also charge **you** a disconnection fee, the cost of any energy consumed, and any other costs we incur as a result of **you** consuming energy at the premises as specified in our price list.
+If **you** have moved to premises and started using energy, **you** will still need to call **us** to become a customer. If **you** do not contact **us** to become a customer, we will disconnect the property. We may also charge **you** a disconnection fee, the cost of any energy consumed, and any other costs we incur as a result of **you** consuming energy at the premises as specified in our price list.
 
 2.3 What information do we need from you? 
 
-To become a customer **you** will need to provide us with some personal information. We may use this information for a number of purposes, as set out in our Privacy Policy. **You** can view our Privacy Policy here.
+To become a customer **you** will need to provide **us** with some personal information. We may use this information for a number of purposes, as set out in our Privacy Policy. **You** can view our Privacy Policy here.
 
 We may also request information (including credit information) from relevant third parties such as credit reference agencies and other energy retailers prior to **you** becoming an Energy Online customer and at any point while **you** are an Energy Online customer, as part of our credit criteria.
 
-If any of **your** personal information changes (including **your** contact details) please tell us, and we will update **your** account information.
+If any of **your** personal information changes (including **your** contact details) please tell **us**, and we will update **your** account information.
 
 2.4 What do we do with your personal information? 
 
