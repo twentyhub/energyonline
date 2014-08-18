@@ -632,19 +632,19 @@ If **you** need to immediately turn off **your** gas supply in the case of an em
 
 25.4 If the network company is a member of the Electricity and Gas Complaints Commissioner Scheme then the network company will not be liable to **you** (in contract or in negligence) for any loss or damage **you** may suffer unless that loss or damage is physical damage to property where it can be shown that the network company has been negligent and the amount and nature of the loss was reasonably foreseeable. The network company will not have any liability to **you**, whether in contract or in negligence, for an event or series of closely related events relating to the network for any amount exceeding $10,000 in value. Notwithstanding the preceding sentence, the network company's aggregate liability to all customers connected to its network for an event or series of closely related events relating to the network shall not exceed $10,000. 
 
-25.5 If you acquire goods or services from us or the network company for personal, domestic or household use or consumption, any rights you have under the Consumer Guarantees Act 1993 are not affected by this limitation of liability. However, if you acquire goods or services for the purposes of a business, the Consumer Guarantees Act 1993 does not apply to the services provided by us or the network company to the maximum extent permitted by the law.
+25.5 If **you** acquire goods or services from us or the network company for personal, domestic or household use or consumption, any rights **you** have under the Consumer Guarantees Act 1993 are not affected by this limitation of liability. However, if **you** acquire goods or services for the purposes of a business, the Consumer Guarantees Act 1993 does not apply to the services provided by us or the network company to the maximum extent permitted by the law.
 
 25.6 This condition, and the other conditions in this agreement which refer to the network company, are intended to be for the benefit of, and are enforceable by, the network company under the Contracts (Privity) Act 1982.
 
 26 WHAT IS THE METER COMPANY'S LIABILITY FOR LOSS OR DAMAGE?
-If you do not have a direct agreement with your meter company, then the meter company has no liability (in contract and in tort), to the extent permitted by law, in respect of the supply of energy to you under this agreement. This condition, and the other conditions in this agreement which refer to the meter company, are intended to be for the benefit of, and are enforceable by, the meter company under the Contracts (Privity) Act 1982.
+If **you** do not have a direct agreement with **your** meter company, then the meter company has no liability (in contract and in tort), to the extent permitted by law, in respect of the supply of energy to **you** under this agreement. This condition, and the other conditions in this agreement which refer to the meter company, are intended to be for the benefit of, and are enforceable by, the meter company under the Contracts (Privity) Act 1982.
 
 27 WORDS WE USE IN THIS AGREEMENT
 advanced meter means a remotely read interval meter and all associated metering equipment.
 
-decommission means the permanent disconnection of your premises and removal of your ICP so that you cannot receive the supply of energy, and will involve the permanent removal of metering equipment and may include removal of your service lines.
+decommission means the permanent disconnection of **your** premises and removal of **your** ICP so that **you** cannot receive the supply of energy, and will involve the permanent removal of metering equipment and may include removal of **your** service lines.
 
-disconnection and disconnected means the isolation of your premises from the network. Your premises remain connected to the network but you cannot receive supply of energy.
+disconnection and disconnected means the isolation of **your** premises from the network. **Your** premises remain connected to the network but **you** cannot receive supply of energy.
 
 Electricity Code means the Electricity Industry Participation Code 2010, as amended from time to time.
 
@@ -656,29 +656,29 @@ Energy Online, we, us and our means Genesis Energy Limited, its agents, successo
 
 lines services means the provision and maintenance of works for the conveyance of electricity and the operation of such works, including the control of voltage.
 
-medically dependent customer means a customer who is dependent on mains electricity for critical medical support, such that loss of electricity may result in the loss of life or serious harm.  Medically dependent customer status can only be granted through the provision of a Notice of Medically Dependent Consumer Status, which is available from your primary healthcare provider. 
+medically dependent customer means a customer who is dependent on mains electricity for critical medical support, such that loss of electricity may result in the loss of life or serious harm.  Medically dependent customer status can only be granted through the provision of a Notice of Medically Dependent Consumer Status, which is available from **your** primary healthcare provider. 
 
 metering communications network means the equipment and systems used to convey meter reading information from a meter to us.
 
-meter company means the company or companies that own the meter situated on your premises and/or are responsible for installing, maintaining, repairing and reading meters.
+meter company means the company or companies that own the meter situated on **your** premises and/or are responsible for installing, maintaining, repairing and reading meters.
 
-metering equipment and meter means the metering and other equipment which is used to measure and/or provide information about your consumption (and, if appropriate, demand) of energy, including any covering or housing for such equipment, and meters, loggers, communication devices, relays, current transformers, voltage transformers and any other equipment required to measure energy usage, and includes an advanced meter and the metering communications network.
+metering equipment and meter means the metering and other equipment which is used to measure and/or provide information about **your** consumption (and, if appropriate, demand) of energy, including any covering or housing for such equipment, and meters, loggers, communication devices, relays, current transformers, voltage transformers and any other equipment required to measure energy usage, and includes an advanced meter and the metering communications network.
 
 meter reading information means all information and data collected, measured or stored by any metering equipment. 
 
-network means the electricity and/or gas (as the case may be) distribution network to which your point of supply is connected including the network of overhead lines, underground cables and pipelines, substations and other equipment used to distribute gas or electricity.
+network means the electricity and/or gas (as the case may be) distribution network to which **your** point of supply is connected including the network of overhead lines, underground cables and pipelines, substations and other equipment used to distribute gas or electricity.
 
 network company means the company or organisation that owns the network, and its agents. 
 
 network requirements means the rights and responsibilities relating to the network company summarised in these terms and conditions. 
 
-point of supply means the point at which we or the network company determine that the network ends and your lines, cables or pipes and fittings and equipment begin. For your information, the point of supply for electricity is generally the point on the boundary of a property where the electricity supply enters.  The point of supply for gas is usually the outlet of the gas meter that supplies gas to you.  If you are not sure where your point of supply is, please contact your network company.  If you are not sure who your network company is, please call us on one of the numbers listed in section 1 above, and we will refer you to the appropriate network company.  
+point of supply means the point at which we or the network company determine that the network ends and **your** lines, cables or pipes and fittings and equipment begin. For **your** information, the point of supply for electricity is generally the point on the boundary of a property where the electricity supply enters.  The point of supply for gas is usually the outlet of the gas meter that supplies gas to **you**.  If **you** are not sure where **your** point of supply is, please contact **your** network company.  If **you** are not sure who **your** network company is, please call us on one of the numbers listed in section 1 above, and we will refer **you** to the appropriate network company.  
 
 premises means the property supplied with energy under this agreement. 
 
-price list means Energy Online's energy prices relating to energy consumption, and special fees and charges for other services. Your current relevant price lists are available by calling our Customer Care Team.
+price list means Energy Online's energy prices relating to energy consumption, and special fees and charges for other services. **Your** current relevant price lists are available by calling our Customer Care Team.
 
 vulnerable customer means a customer who has told us, or about whom it appears to us, that disconnection of energy at the customer's premises presents a clear threat to the health or well-being of the customer or a member of the customer's household, or who has mains powered equipment for critical medical support. This could be because of age, health or disability.  A vulnerable customer may also be a customer who cannot genuinely pay his or her bill because of severe financial difficulty, whether temporary or permanent. 
 
-you/your means you, the customer.
+**you**/**your** means **you**, the customer.
  
