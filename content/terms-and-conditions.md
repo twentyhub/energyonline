@@ -96,9 +96,9 @@ If **we** keep **your** bond for longer than one year, **we** will explain why.
 4.1 If **you** move house **you** must:
 
 • give **us** at least three business days’ notice of **your** move and **your** new address so **we** can send **you** a final invoice.  This requirement for **you** to provide **us** with three business days' notice of **your** move is consistent with applicable regulations and industry standards as at the date of these terms; and 
-• let **us** complete a final meter reading at **your** old **premises** (a charge applies) or let **us** take a final meter reading remotely if an advanced meter has been installed at **your** old **premises** (a charge may apply) or, at our discretion, provide **us** with a final reading over the phone or via our website.
+• let **us** complete a final **meter** reading at **your** old **premises** (a charge applies) or let **us** take a final **meter** reading remotely if an **advanced meter** has been installed at **your** old **premises** (a charge may apply) or, at our discretion, provide **us** with a final reading over the phone or via our website.
 
-If the final meter reading provided by **you** does not match **your** rate of consumption **we** may ask for a final meter reading to be carried out by an approved meter reader, or take a final meter reading remotely if an advanced meter has been installed, and **we** may adjust **your** final invoice accordingly. If this is the case we will endeavour to contact **you** at the phone number **you** have provided **us**.  **We** will only take a reading from the meter at **your** **premises** in circumstances that are consistent with applicable regulations and industry standards.  
+If the final **meter** reading provided by **you** does not match **your** rate of consumption **we** may ask for a final **meter** reading to be carried out by an approved **meter** reader, or take a final **meter** reading remotely if an **advanced meter** has been installed, and **we** may adjust **your** final invoice accordingly. If this is the case we will endeavour to contact **you** at the phone number **you** have provided **us**.  **We** will only take a reading from the **meter** at **your** **premises** in circumstances that are consistent with applicable regulations and industry standards.  
 
 If **we** agree to supply **energy** to **your** new **premises**, these terms and conditions will apply to **your** new **premises**.
 
@@ -111,9 +111,9 @@ If **you** leave **your** **premises** (e.g. if **you** move from a flat but **y
 For safety reasons, if **you** have a new or altered gas or electricity connection, or if **your** supply has been disconnected, **we** may require **you** to provide a certificate of compliance or certificate of verification from a certified service provider before **we** can supply **you** with **energy**. **We** may also request a copy of this certificate at any time.
 
 5 WILL THE SUPPLY OF ENERGY BE CONTINUOUS?
-5.1 Circumstances or events beyond our control (including the events specified in section 17.2 below) may cause supply to be interrupted from time to time. For example, the network company may shut down all or part of its network or the meter company may interrupt supply for maintenance or improving the reliability of supply.  The network may also be affected by a storm, high winds, third party interference like a car accident or for other reasons. **We** cannot give warning or notice of sudden, unplanned shutdowns or outages. **We** are not required to honour this agreement where circumstances or events that are beyond our control prevent **us** from doing the things **we** would normally do.  In these circumstances, **we** will carry on honouring our obligations as soon as it is reasonably practicable for **us** to do so.
+5.1 Circumstances or events beyond our control (including the events specified in section 17.2 below) may cause supply to be interrupted from time to time. For example, the network company may shut down all or part of its network or the **meter company** may interrupt supply for maintenance or improving the reliability of supply.  The network may also be affected by a storm, high winds, third party interference like a car accident or for other reasons. **We** cannot give warning or notice of sudden, unplanned shutdowns or outages. **We** are not required to honour this agreement where circumstances or events that are beyond our control prevent **us** from doing the things **we** would normally do.  In these circumstances, **we** will carry on honouring our obligations as soon as it is reasonably practicable for **us** to do so.
 
-5.2 **Energy Online** or the applicable network company or meter company will give **you** at least 4 working days’ notice of any planned shutdowns, unless the shutdown is urgently required for reasons that were not reasonably foreseeable such that 4 working days' notice is not possible.  In the event of any urgent shutdown of this nature, **we** will give **you** as much notice of the shutdown as possible.  
+5.2 **Energy Online** or the applicable network company or **meter company** will give **you** at least 4 working days’ notice of any planned shutdowns, unless the shutdown is urgently required for reasons that were not reasonably foreseeable such that 4 working days' notice is not possible.  In the event of any urgent shutdown of this nature, **we** will give **you** as much notice of the shutdown as possible.  
 
 **You** can call **us** at any time for information about any planned interruption. 
 
@@ -128,50 +128,50 @@ If **you** have sensitive equipment or property which may be affected by an inte
 In the event of a local or national **energy** shortage, or in circumstances of extreme wholesale prices, **your** **energy** supply may be rationed or restricted. **Energy** may also be rationed as part of an **energy** industry rationing plan.
 
 6 METERS AND METER READINGS
-6.1 **We** will read the meter(s) at **your** **premises** on a regular basis and, as long as **we** have access, **we** plan to read the meter(s) at least once every two months, unless **we** both agree otherwise. In addition to these regular meter readings, **we** may also read the meter(s) at **your** **premises** for any special or final meter reading.  The provisions of this agreement relating to metering and the circumstances in which **we** will take a reading from the meter at **your** **premises** will be in accordance with applicable regulations and industry standards.  
+6.1 **We** will read the **meter(s**) at **your** **premises** on a regular basis and, as long as **we** have access, **we** plan to read the **meter(s)** at least once every two months, unless **we** both agree otherwise. In addition to these regular **meter** readings, **we** may also read the meter(s) at **your** **premises** for any special or final **meter** reading.  The provisions of this agreement relating to **metering** and the circumstances in which **we** will take a reading from the **meter** at **your** **premises** will be in accordance with applicable regulations and industry standards.  
 
- **You** can provide **us** with additional meter readings here or by calling **us**. 
+ **You** can provide **us** with additional **meter** readings here or by calling **us**. 
 
-**We** can decide whether or not to accept **your** readings. If **we** do not accept **your** readings, **we** may carry out a special meter reading within 5 days. If it turns out **your** reading was accurate, **we** will not charge **you** for the cost of our special meter reading. If **your** reading was inaccurate, **we** may charge **you** for the cost of our special meter reading.
+**We** can decide whether or not to accept **your** readings. If **we** do not accept **your** readings, **we** may carry out a special **meter** reading within 5 days. If it turns out **your** reading was accurate, **we** will not charge **you** for the cost of our special **meter** reading. If **your** reading was inaccurate, **we** may charge **you** for the cost of our special **meter** reading.
 
 6.2 What if you are a new customer? 
 
-If **you** are a new customer, **we** will use the previous final meter reading at the **premises** as **your** initial meter reading, unless **you** read the meter before using any **energy** and advise **us** of that meter reading within one business day of **you** moving in. If **your** meter reading differs from the previous final meter reading at the **premises**, **we** may arrange for the meter to be read and **we** will use that reading as **your** initial meter reading.
+If **you** are a new customer, **we** will use the previous final **meter** reading at the **premises** as **your** initial **meter** reading, unless **you** read the **meter** before using any **energy** and advise **us** of that **meter** reading within one business day of **you** moving in. If **your** **meter** reading differs from the previous final **meter** reading at the **premises**, **we** may arrange for the **meter** to be read and **we** will use that reading as **your** initial **meter** reading.
 
-Alternatively, if an advanced meter has been installed at **your** **premises**, **we** may, in our discretion, take an initial meter reading remotely and any such reading will be conclusive evidence of the initial meter reading from the date **you** become our customer. 
+Alternatively, if an advanced **meter** has been installed at **your** **premises**, **we** may, in our discretion, take an initial **meter** reading remotely and any such reading will be conclusive evidence of the initial **meter** reading from the date **you** become our customer. 
 
 6.3 What if the meter is faulty?
 
-**We** may arrange to have the meter at **your** **premises** tested if **we** think it is faulty or if **you** tell **us** that **you** think it is faulty or not reflective of **your** actual consumption.
+**We** may arrange to have the **meter** at **your** **premises** tested if **we** think it is faulty or if **you** tell **us** that **you** think it is faulty or not reflective of **your** actual consumption.
 
-**We** will remove the meter for testing within 5 business days if **you** ask **us** to.
+**We** will remove the **meter** for testing within 5 business days if **you** ask **us** to.
 
-If **we** test a meter, **we** will inform **you** of the results of the test on request and if: 
+If **we** test a **meter**, **we** will inform **you** of the results of the test on request and if: 
 
-• it is clear that there is an inherent fault with the meter itself, **we** will replace or repair the meter at our, or the metering company's, cost; or 
-• otherwise, **we** may charge **you** our costs for testing, replacing and/or repairing the meter. 
+• it is clear that there is an inherent fault with the **meter** itself, **we** will replace or repair the **meter** at our, or the **metering** company's, cost; or 
+• otherwise, **we** may charge **you** our costs for testing, replacing and/or repairing the **meter**. 
 
-**We** will inform **you** of any extra charge **you** might incur if **we** do test **your** meter prior to undertaking this work.  **We** will also inform **you** prior to taking any action on **your** meter which may impact on **your** invoices or result in an extra charge. The process set out above for remedying faulty meters complies with relevant regulations and industry standards as at the date of these terms.
+**We** will inform **you** of any extra charge **you** might incur if **we** do test **your** **meter** prior to undertaking this work.  **We** will also inform **you** prior to taking any action on **your** **meter** which may impact on **your** invoices or result in an extra charge. The process set out above for remedying faulty meters complies with relevant regulations and industry standards as at the date of these terms.
 
 Our obligation to inform **you** under this section 6.3 does not apply where: 
 
 • there is a safety issue; or
 • **you** have materially breached these terms and conditions. 
 
-**You** must notify **us** immediately if **you** become aware that the meter or related equipment is tampered with, damaged, defective or looks unsafe.
+**You** must notify **us** immediately if **you** become aware that the **meter** or related equipment is tampered with, damaged, defective or looks unsafe.
 
 6.4 What do we do with meter reading information?
 
-**You** agree that **we** own all meter reading information. 
+**You** agree that **we** own all **meter reading** information. 
 
-To the extent that any meter reading information constitutes "personal information" for the purposes of the Privacy Act 1993, **we** will ensure that that meter reading information is held by **us** in accordance with the Privacy Act 1993 and our privacy policy. **You** consent to **us**:
+To the extent that any **meter reading** information constitutes "personal information" for the purposes of the Privacy Act 1993, **we** will ensure that that **meter reading** information is held by **us** in accordance with the Privacy Act 1993 and our privacy policy. **You** consent to **us**:
 
-• receiving and collecting meter reading information in respect of **you** and **your** **premises**;
-• storing meter reading information in respect of **you** and **your** **premises** in a way that is referenced back to **you** individually and/or **your** **premises**;
-• using meter reading information in respect of **you** and **your** **premises** for any other purpose, including, without limitation, for the purposes outlined in section 2.4 and to invoice **you** accurately for **your** **energy** usage; and 
-• disclosing meter reading information in respect of **you** and **your** **premises** to third parties. 
+• receiving and collecting **meter reading** information in respect of **you** and **your** **premises**;
+• storing **meter reading** information in respect of **you** and **your** **premises** in a way that is referenced back to **you** individually and/or **your** **premises**;
+• using **meter reading** information in respect of **you** and **your** **premises** for any other purpose, including, without limitation, for the purposes outlined in section 2.4 and to invoice **you** accurately for **your** **energy** usage; and 
+• disclosing **meter reading** information in respect of **you** and **your** **premises** to third parties. 
 
-**You** may not sell, assign or provide any meter reading information to any third party without our prior written consent, except for the purpose of comparing prices with other **energy** retailers. 
+**You** may not sell, assign or provide any **meter reading** information to any third party without our prior written consent, except for the purpose of comparing prices with other **energy** retailers. 
 
 6.5 Advanced meters
 
