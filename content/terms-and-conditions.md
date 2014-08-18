@@ -123,9 +123,9 @@ For safety reasons, if **you** have a new or altered gas or electricity connecti
 
 If **you** have sensitive equipment or property which may be affected by an interrupted supply, **we** strongly recommend that **you** protect that equipment or property in case of an unplanned shutdown or outage. See also section 22 below on sensitive equipment. 
 
-5.5 If **you** have a controlled load pricing option i.e. a price plan that allows Energy Online to either directly, or via a third party, remotely control the supply of energy to some or all equipment in **your** premises, some of **your** electrical appliances (e.g. hot water cylinders and night store heaters) will be switched off or adjusted as agreed from time to time. Controlled load periods will be limited to those set out in our price list and **we** will respond to controlled load system faults in accordance with our normal practices, after you have advised **us** of the problem. 
+5.5 If **you** have a controlled load pricing option i.e. a price plan that allows** Energy Online** to either directly, or via a third party, remotely control the supply of **energy** to some or all equipment in **your** premises, some of **your** electrical appliances (e.g. hot water cylinders and night store heaters) will be switched off or adjusted as agreed from time to time. Controlled load periods will be limited to those set out in our price list and **we** will respond to controlled load system faults in accordance with our normal practices, after you have advised **us** of the problem. 
 
-In the event of a local or national energy shortage, or in circumstances of extreme wholesale prices, **your** energy supply may be rationed or restricted. Energy may also be rationed as part of an energy industry rationing plan.
+In the event of a local or national **energy** shortage, or in circumstances of extreme wholesale prices, **your** **energy** supply may be rationed or restricted. **Energy** may also be rationed as part of an **energy** industry rationing plan.
 
 6 METERS AND METER READINGS
 6.1 **We** will read the meter(s) at **your** premises on a regular basis and, as long as **we** have access, **we** plan to read the meter(s) at least once every two months, unless **we** both agree otherwise. In addition to these regular meter readings, **we** may also read the meter(s) at **your** premises for any special or final meter reading.  The provisions of this agreement relating to metering and the circumstances in which **we** will take a reading from the meter at **your** premises will be in accordance with applicable regulations and industry standards.  
@@ -136,7 +136,7 @@ In the event of a local or national energy shortage, or in circumstances of extr
 
 6.2 What if you are a new customer? 
 
-If **you** are a new customer, **we** will use the previous final meter reading at the premises as **your** initial meter reading, unless **you** read the meter before using any energy and advise **us** of that meter reading within one business day of **you** moving in. If **your** meter reading differs from the previous final meter reading at the premises, **we** may arrange for the meter to be read and **we** will use that reading as **your** initial meter reading.
+If **you** are a new customer, **we** will use the previous final meter reading at the premises as **your** initial meter reading, unless **you** read the meter before using any **energy** and advise **us** of that meter reading within one business day of **you** moving in. If **your** meter reading differs from the previous final meter reading at the premises, **we** may arrange for the meter to be read and **we** will use that reading as **your** initial meter reading.
 
 Alternatively, if an advanced meter has been installed at **your** premises, **we** may, in our discretion, take an initial meter reading remotely and any such reading will be conclusive evidence of the initial meter reading from the date **you** become our customer. 
 
@@ -168,10 +168,10 @@ To the extent that any meter reading information constitutes "personal informati
 
 • receiving and collecting meter reading information in respect of **you** and **your** premises;
 • storing meter reading information in respect of **you** and **your** premises in a way that is referenced back to **you** individually and/or **your** premises;
-• using meter reading information in respect of **you** and **your** premises for any other purpose, including, without limitation, for the purposes outlined in section 2.4 and to invoice **you** accurately for **your** energy usage; and 
+• using meter reading information in respect of **you** and **your** premises for any other purpose, including, without limitation, for the purposes outlined in section 2.4 and to invoice **you** accurately for **your** **energy** usage; and 
 • disclosing meter reading information in respect of **you** and **your** premises to third parties. 
 
-**You** may not sell, assign or provide any meter reading information to any third party without our prior written consent, except for the purpose of comparing prices with other energy retailers. 
+**You** may not sell, assign or provide any meter reading information to any third party without our prior written consent, except for the purpose of comparing prices with other **energy** retailers. 
 
 6.5 Advanced meters
 
@@ -194,16 +194,16 @@ If **we** or a meter company make an appointment with **you** to install, connec
 7 WHAT ACCESS DO YOU NEED TO PROVIDE?
 7.1 **You** must:
 
-• provide to **us**, the meter company, the network company and/or other third parties who own energy supply equipment on **your** premises, safe and unobstructed access to metering equipment, and any equipment of the network company or any other person on **your** premises between 8.00am and 7.00pm, Monday to Sunday, excluding public holidays;
-• provide to **us**, the meter company, the network company and/or other third parties who own energy supply equipment on **your** premises, immediate access to **your** premises at any time for safety reasons or to prevent serious damage to property or the environment;
-• allow to **us**, the meter company, the network company and/or other third parties who own energy supply equipment on **your** premises, access for installation, connection, testing, inspection, maintenance, repair, replacement, alteration, servicing, cleaning, disconnection or removal of any equipment owned by **us** and/or a meter company and/or a network company and/or other third parties including removal of any equipment up to 6 months after termination of supply to **you**;
+• provide to **us**, the meter company, the network company and/or other third parties who own **energy** supply equipment on **your** premises, safe and unobstructed access to metering equipment, and any equipment of the network company or any other person on **your** premises between 8.00am and 7.00pm, Monday to Sunday, excluding public holidays;
+• provide to **us**, the meter company, the network company and/or other third parties who own **energy** supply equipment on **your** premises, immediate access to **your** premises at any time for safety reasons or to prevent serious damage to property or the environment;
+• allow to **us**, the meter company, the network company and/or other third parties who own **energy** supply equipment on **your** premises, access for installation, connection, testing, inspection, maintenance, repair, replacement, alteration, servicing, cleaning, disconnection or removal of any equipment owned by **us** and/or a meter company and/or a network company and/or other third parties including removal of any equipment up to 6 months after termination of supply to **you**;
 • ensure that any dog or other animal that may make entry unsafe is secured to enable safe and easy access;
-• keep **us** informed about any health and safety and/or Resource Management Act 1991 requirements or issues at **your** premises that could be relevant to our representatives or the representatives of a meter company or a network company or other third parties who own energy supply equipment on **your** premises when they visit your premises; 
+• keep **us** informed about any health and safety and/or Resource Management Act 1991 requirements or issues at **your** premises that could be relevant to our representatives or the representatives of a meter company or a network company or other third parties who own **energy** supply equipment on **your** premises when they visit your premises; 
 • keep **your** trees and other vegetation regularly trimmed to a safe distance from any lines, pipes, substations, meters or equipment, to comply with the Electricity (Safety) Regulations 2010 in relation to any work near lines, the network or other electrical equipment, and the Electricity (Hazards from Trees) Regulations 2003. The Electricity (Hazards from Trees) Regulations 2003 specify the distances trees and other vegetation must be kept from power lines. If vegetation grows within these minimum distances (or Zones) cutting or trimming will be necessary.  **You** can view a summary of these regulations here. If **you** do not comply with these regulations (including any amendments to these regulations), **you** will be liable for the costs of carrying out any work arising as a result of **your** non-compliance.
 
-7.2 **You** must, if requested by **us**, turn off the energy at **your** premises to enable access for the purposes referred to above.
+7.2 **You** must, if requested by **us**, turn off the **energy** at **your** premises to enable access for the purposes referred to above.
 
-7.3 Except in routine situations (such as reading or inspecting a meter that is located on the outside of a building) or emergency situations, before accessing **your** premises, either **we**, the meter company, network company and/or the other third parties who own energy supply equipment on **your** premises, will provide written notice to **you** of:
+7.3 Except in routine situations (such as reading or inspecting a meter that is located on the outside of a building) or emergency situations, before accessing **your** premises, either **we**, the meter company, network company and/or the other third parties who own **energy** supply equipment on **your** premises, will provide written notice to **you** of:
 
 • when access to **your** premises will be required; and
 • the purpose for requiring access to **your** premises.
@@ -219,9 +219,9 @@ If **we** or a meter company make an appointment with **you** to install, connec
 
 When accessing **your** property, our representatives will act in a courteous, considerate and professional manner at all times.  
 
-For more information on energy safety matters, contact the Energy Safety Service or the network company. 
+For more information on **energy** safety matters, contact the Energy Safety Service or the network company. 
 
-7.7 Any of our representatives or any representatives of a meter company or the network company or other third parties who own energy supply equipment on **your** premises who are requesting access to **your** premises will carry identification and present their identification to **you** on request. If our representatives are visiting at **your** request and **you** are at **your** premises, they will identify themselves to **you** before entering **your** property (and **we** will procure that any representatives of a meter company or the network company and/or other third parties who own energy supply equipment on **your** premises requesting access to **your** premises will also identify themselves to **you**).  In all other circumstances, **you** can ask the representative(s) to identify themselves at any time while they are on **your** property.  If they are unable or unwilling to show **you** their identification, **you** should not give them access.
+7.7 Any of our representatives or any representatives of a meter company or the network company or other third parties who own **energy** supply equipment on **your** premises who are requesting access to **your** premises will carry identification and present their identification to **you** on request. If our representatives are visiting at **your** request and **you** are at **your** premises, they will identify themselves to **you** before entering **your** property (and **we** will procure that any representatives of a meter company or the network company and/or other third parties who own **energy** supply equipment on **your** premises requesting access to **your** premises will also identify themselves to **you**).  In all other circumstances, **you** can ask the representative(s) to identify themselves at any time while they are on **your** property.  If they are unable or unwilling to show **you** their identification, **you** should not give them access.
 
 7.8 What if we have problems gaining access to your premises?
 
