@@ -231,7 +231,7 @@ If **you** do not provide access to **your** meter or to any other meters (where
 
 7.9 What if we can't read the meter? 
 
-If **we** have been unable to obtain a reading from the meter for any reason, the amount of energy **you** have used may be estimated by **us** and **you** will be charged on the basis of our estimate. **You** can, however, provide **us** with a meter reading via our website or by calling **us**.
+If **we** have been unable to obtain a reading from the meter for any reason, the amount of **energy** **you** have used may be estimated by **us** and **you** will be charged on the basis of our estimate. **You** can, however, provide **us** with a meter reading via our website or by calling **us**.
 
 7.10 What if we hold keys to your premises?
 
@@ -239,7 +239,7 @@ If **we** have a key or security information to enable **us** to gain access to 
 
 7.11 What if you wish to turn off your electricity at the mains? 
 
-Switching off **your** energy at the mains affects our ability to read **your** advanced meter remotely. **You** should only switch off **your** energy at the mains for essential maintenance or in the case of an emergency situation. If **you** wish to turn off **your** energy at the mains for longer than a week, **you** should contact **us** so **we** can explain how to turn off the energy at the advanced meter.
+Switching off **your** **energy** at the mains affects our ability to read **your** advanced meter remotely. **You** should only switch off **your** **energy** at the mains for essential maintenance or in the case of an emergency situation. If **you** wish to turn off **your** **energy** at the mains for longer than a week, **you** should contact **us** so **we** can explain how to turn off the **energy** at the advanced meter.
 
 8 HOW WILL WE INVOICE YOU?
 8.1 **We** will send **you** an invoice for payment on a monthly basis unless **we** have agreed otherwise. **Your** invoice will be delivered to the address provided by **you**.
