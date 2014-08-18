@@ -382,7 +382,7 @@ Where **you** have instructed **us** that **you** are switching to another retai
 
 13.2 What if you want to stop receiving electricity where we also supply you with gas? 
 
-We will only supply gas to **your** premises if we also supply **your** premises with electricity, therefore, if **you** no longer wish to receive electricity from us, we will also terminate our supply of gas to **you**.   **You** must provide us with at least 3 business days notice to terminate supply.
+We will only supply gas to **your** premises if we also supply **your** premises with electricity, therefore, if **you** no longer wish to receive electricity from **us**, we will also terminate our supply of gas to **you**.   **You** must provide **us** with at least 3 business days notice to terminate supply.
 
 If the energy supply at **your** premises is disconnected (but not decommissioned), we may still charge **you** a daily fixed charge. However, we will not charge **you** a daily fixed charge for energy if the energy supply at **your** premises has been decommissioned.
 
@@ -391,7 +391,7 @@ If the energy supply at **your** premises is disconnected (but not decommissione
 We will arrange for a final meter reading and we will send a final invoice to **you** at **your** forwarding address. We may ask **you** to pay a final meter reading fee.  We will give **you** reasonable notice that **you** may incur a final meter reading fee and how **you** may avoid the fee if possible. 
 
 14 CONTACTING WORK AND INCOME AND NOMINATED PERSON
-**You** are a vulnerable customer if **you** have told us, or it appears to us, that disconnection of energy at **your** premises presents a clear threat to the health or well-being of **you** or a member of **your** household, or if **you** have mains powered equipment for critical medical support. This could be because of age, health or disability. **You** can inform us at any time if **you** are or become a vulnerable customer. 
+**You** are a vulnerable customer if **you** have told **us**, or it appears to **us**, that disconnection of energy at **your** premises presents a clear threat to the health or well-being of **you** or a member of **your** household, or if **you** have mains powered equipment for critical medical support. This could be because of age, health or disability. **You** can inform **us** at any time if **you** are or become a vulnerable customer. 
 
 If: 
 
@@ -400,9 +400,9 @@ If:
 • we have provided **you** with all the assistance we are reasonably able to; and
 • **you** are still unable to make **your** payments,
 
-**you** authorise us to consult with Work and Income, District Health Boards, private health providers or any other social agency or service provider as necessary. 
+**you** authorise **us** to consult with Work and Income, District Health Boards, private health providers or any other social agency or service provider as necessary. 
 
-We may also maintain **your** information on a register of vulnerable customers. If, after we have informed **you** of the opportunity to notify us that **you** are a vulnerable customer, **you** have not told us, or it does not appear to us, that **you** are a vulnerable customer, we will assume that **you** are not a vulnerable customer.
+We may also maintain **your** information on a register of vulnerable customers. If, after we have informed **you** of the opportunity to notify **us** that **you** are a vulnerable customer, **you** have not told **us**, or it does not appear to **us**, that **you** are a vulnerable customer, we will assume that **you** are not a vulnerable customer.
 
 If **you** are not a vulnerable customer, **you** can still agree that we consult with Work and Income, District Health Boards, private health providers or any other social agency or service provider if:
 
@@ -422,7 +422,7 @@ If **you** think that we have failed to meet our performance commitments, **you*
 16 WHAT HAPPENS IF YOU HAVE A COMPLAINT?
 Energy Online is a member of the Electricity and Gas Complaints Commissioner Scheme and will deal with any complaints **you** have in relation to **your** energy supply in accordance with the requirements of the Scheme. 
 
-If **you** have a complaint, please contact our Customer Care Team. Our contact details are set out in section 1, or alternatively **you** can make an appointment to see us at our offices.  Our free internal complaints resolution service is explained on our website.
+If **you** have a complaint, please contact our Customer Care Team. Our contact details are set out in section 1, or alternatively **you** can make an appointment to see **us** at our offices.  Our free internal complaints resolution service is explained on our website.
 
 We will try to resolve **your** complaint straight away. If it is complex, or involves other parties, such as **your** network company or meter company, our Customer Resolutions Team will investigate it for **you**. We may also refer it to **your** network company or meter company. If we do this, we will tell **you**. 
 
@@ -459,9 +459,9 @@ An event or cause beyond our control includes, but is not limited to: acts of Go
 
 17.3 What is our maximum liability? 
 
-If we are liable to **you**, the maximum amount we will pay as compensation for **your** loss is $10,000 in respect of any event or series of closely related events. We may choose to replace any damaged property or goods, up to the same maximum amount, instead of paying cash. We are not required to honour this agreement in circumstances where an event has occurred which is beyond our control and which prevents us from doing the things we would normally do. In these circumstances, we will carry on honouring our obligations as soon as it is reasonably practicable for us to do so. 
+If we are liable to **you**, the maximum amount we will pay as compensation for **your** loss is $10,000 in respect of any event or series of closely related events. We may choose to replace any damaged property or goods, up to the same maximum amount, instead of paying cash. We are not required to honour this agreement in circumstances where an event has occurred which is beyond our control and which prevents **us** from doing the things we would normally do. In these circumstances, we will carry on honouring our obligations as soon as it is reasonably practicable for **us** to do so. 
 
-If **you** acquire goods or services from us for personal, domestic or household use or consumption, any rights **you** have under the Consumer Guarantees Act 1993 are not affected by our limitations of liability. However, if **you** acquire goods or services from us for the purposes of a business, the Consumer Guarantees Act 1993 does not apply. 
+If **you** acquire goods or services from **us** for personal, domestic or household use or consumption, any rights **you** have under the Consumer Guarantees Act 1993 are not affected by our limitations of liability. However, if **you** acquire goods or services from **us** for the purposes of a business, the Consumer Guarantees Act 1993 does not apply. 
 
 Our limitations of liability extend to our employees and agents for the purposes of the Contracts (Privity) Act 1982. 
 
@@ -498,14 +498,14 @@ We may transfer to someone else all or any part of our rights and responsibiliti
 Except as otherwise provided in this agreement, our invoices or notices to **you** will be:
 
 • delivered to **your** premises; or
-• mailed to the most recent postal address **you** have given us; or
-• emailed to the most recent email address **you** have given us, posted on our internet billing system or sent to **you** by electronic means (where **you** have agreed to receive **your** invoices in this manner).
+• mailed to the most recent postal address **you** have given **us**; or
+• emailed to the most recent email address **you** have given **us**, posted on our internet billing system or sent to **you** by electronic means (where **you** have agreed to receive **your** invoices in this manner).
 
 All notices sent to **you** will be considered to have been received by **you**:
 
-• on the day it was delivered to the address to which **you** asked us to send notices; or
-• 3 days after being posted by us to the postal address **you** provided to us; or
-• the day after it was transmitted to the email address or fax number **you** provided to us, or posted to our internet billing system or sent to **you** by electronic means; or
+• on the day it was delivered to the address to which **you** asked **us** to send notices; or
+• 3 days after being posted by **us** to the postal address **you** provided to **us**; or
+• the day after it was transmitted to the email address or fax number **you** provided to **us**, or posted to our internet billing system or sent to **you** by electronic means; or
 • on the day after it was published on our website, or the notice appeared in **your** local newspaper.
 
 21 GETTING OUR ENERGY TO YOU
