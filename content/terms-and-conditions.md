@@ -44,7 +44,7 @@ Hamilton 3240
 
 2.2 An agreement between **you** and **us** is formed on these terms and conditions when in our sole discretion **we** accept **your** application to join **us** and the agreement will apply from the date on which **you** first use **energy** supplied by **us**, and **you** will be liable to pay our charges from that date.  **We** may require **you** to provide evidence of when **you** first use **energy** supplied by **us** through a certificate of title or tenancy agreement.  Where **you** apply to join **us** before using **energy** supplied by **us**, the supply of **energy** to **you** will commence as soon as possible following our acceptance of **your** application.
 
-If **you** have moved to premises and started using **energy**, **you** will still need to call **us** to become a customer. If **you** do not contact **us** to become a customer, **we** will disconnect the property. **We** may also charge **you** a disconnection fee, the cost of any **energy** consumed, and any other costs **we** incur as a result of **you** consuming **energy** at the premises as specified in our price list.
+If **you** have moved to **premises** and started using **energy**, **you** will still need to call **us** to become a customer. If **you** do not contact **us** to become a customer, **we** will disconnect the property. **We** may also charge **you** a disconnection fee, the cost of any **energy** consumed, and any other costs **we** incur as a result of **you** consuming **energy** at the **premises** as specified in our price list.
 
 2.3 What information do we need from you? 
 
@@ -60,7 +60,7 @@ Any personal information **you **give **us** is strictly confidential and will b
 
 2.5 Can more than one person be a customer?
 
-If more than one person is the customer at any premises, these terms will apply to each of **you **jointly and severally. This means that each of **you** may individually be responsible for paying our entire invoice, and that everyone who wishes to become a customer will have to contact **us**. 
+If more than one person is the customer at any **premises**, these terms will apply to each of **you **jointly and severally. This means that each of **you** may individually be responsible for paying our entire invoice, and that everyone who wishes to become a customer will have to contact **us**. 
 
 **You** may nominate a person as an account authority to make decisions for **you** under these terms. However, **you** are still responsible as a customer for payment of **your** account and for any costs associated with decisions made by the account authority. 
 
@@ -68,16 +68,16 @@ If more than one person is the customer at any premises, these terms will apply 
 
 As a customer **you** will be responsible for paying all fees and charges and for making sure the requirements of this agreement are met.  **We** will give **you** reasonable notice if circumstances arise, or are likely to arise, which will mean that **you** will incur a fee in addition to **your** standard rates for **energy** supplied by **us**, including for unpaid invoices.  
 
-**You** agree that **we** may add any of **your** unpaid invoices with **us** from other premises to **your** next invoice for **energy** used at **your** new premises. The amount owing must be paid in accordance with the terms of **your** previous account, unless **we** agree otherwise, but a default in payment of **your** previous account may be treated by **us** as a default under this agreement. 
+**You** agree that **we** may add any of **your** unpaid invoices with **us** from other **premises** to **your** next invoice for **energy** used at **your** new **premises**. The amount owing must be paid in accordance with the terms of **your** previous account, unless **we** agree otherwise, but a default in payment of **your** previous account may be treated by **us** as a default under this agreement. 
 
-Please note that if **you**, or another person at **your** premises, have any unpaid invoices with **us**, **we** may refuse to supply **energy** to **your** premises or accept **you** as a customer until that invoice has been paid.
+Please note that if **you**, or another person at **your** **premises**, have any unpaid invoices with **us**, **we** may refuse to supply **energy** to **your** **premises** or accept **you** as a customer until that invoice has been paid.
 
 3 IS A BOND REQUIRED?
 3.1 **We** may ask **you** for a cash bond and/or a satisfactory credit check before **you** become our customer and **we** supply **energy** or other services. If this is the case, **we** will tell **you** when **you** become our customer and **we** will give **you** reasons for our decision.  This decision will comply with any relevant regulations or industry standards. If **we** require a bond, it will be invoiced as early as possible after **we** accept **you** as a customer. **You** must pay the bond within the timeframe specified on the invoice.
 
 **We** may also ask **you** for a bond at any time if **you** are unable to establish a satisfactory credit record or maintain a satisfactory payment record with **us**.
 
-Any bond for electricity-only residential customers or for gas-only residential customers will not exceed $150. If **we** supply **you** with both electricity and gas for **your** residential premises, **your** bond will not exceed $200. If **you** are a commercial customer **your** bond will be as agreed with **you**, or as per our schedule of fees.  **We** will not pay interest on the bond. The bond will be held in trust on **your** behalf in a separate account. 
+Any bond for electricity-only residential customers or for gas-only residential customers will not exceed $150. If **we** supply **you** with both electricity and gas for **your** residential **premises**, **your** bond will not exceed $200. If **you** are a commercial customer **your** bond will be as agreed with **you**, or as per our schedule of fees.  **We** will not pay interest on the bond. The bond will be held in trust on **your** behalf in a separate account. 
 
 3.2 **We** will repay **your** bond, less any amounts **you** owe **us**, within one month of:
 
@@ -96,15 +96,15 @@ If **we** keep **your** bond for longer than one year, **we** will explain why.
 4.1 If **you** move house **you** must:
 
 • give **us** at least three business days’ notice of **your** move and **your** new address so **we** can send **you** a final invoice.  This requirement for **you** to provide **us** with three business days' notice of **your** move is consistent with applicable regulations and industry standards as at the date of these terms; and 
-• let **us** complete a final meter reading at **your** old premises (a charge applies) or let **us** take a final meter reading remotely if an advanced meter has been installed at **your** old premises (a charge may apply) or, at our discretion, provide **us** with a final reading over the phone or via our website.
+• let **us** complete a final meter reading at **your** old **premises** (a charge applies) or let **us** take a final meter reading remotely if an advanced meter has been installed at **your** old **premises** (a charge may apply) or, at our discretion, provide **us** with a final reading over the phone or via our website.
 
-If the final meter reading provided by **you** does not match **your** rate of consumption **we** may ask for a final meter reading to be carried out by an approved meter reader, or take a final meter reading remotely if an advanced meter has been installed, and **we** may adjust **your** final invoice accordingly. If this is the case we will endeavour to contact **you** at the phone number **you** have provided **us**.  **We** will only take a reading from the meter at **your** premises in circumstances that are consistent with applicable regulations and industry standards.  
+If the final meter reading provided by **you** does not match **your** rate of consumption **we** may ask for a final meter reading to be carried out by an approved meter reader, or take a final meter reading remotely if an advanced meter has been installed, and **we** may adjust **your** final invoice accordingly. If this is the case we will endeavour to contact **you** at the phone number **you** have provided **us**.  **We** will only take a reading from the meter at **your** **premises** in circumstances that are consistent with applicable regulations and industry standards.  
 
-If **we** agree to supply **energy** to **your** new premises, these terms and conditions will apply to **your** new premises.
+If **we** agree to supply **energy** to **your** new **premises**, these terms and conditions will apply to **your** new **premises**.
 
 4.2 What if you’re moving out but others are staying?
 
-If **you** leave **your** premises (e.g. if **you** move from a flat but **your** flatmates are staying on) and **your** name is on the **energy** account, it’s important to tell **us** that **you** are terminating your account with **us**, and if necessary make arrangements to transfer it to someone else. If **you** wish to transfer **your** account to someone else at the premises, **we** will need to speak to that person(s) and accept them as our customer before the account can be transferred. If **you** remain the account holder and **energy** is consumed at the premises after **you** leave, **you** will remain liable to **us**. 
+If **you** leave **your** **premises** (e.g. if **you** move from a flat but **your** flatmates are staying on) and **your** name is on the **energy** account, it’s important to tell **us** that **you** are terminating your account with **us**, and if necessary make arrangements to transfer it to someone else. If **you** wish to transfer **your** account to someone else at the **premises**, **we** will need to speak to that person(s) and accept them as our customer before the account can be transferred. If **you** remain the account holder and **energy** is consumed at the **premises** after **you** leave, **you** will remain liable to **us**. 
 
 4.3 What if you have a new connection, an altered connection or a reconnection?
 
@@ -117,18 +117,18 @@ For safety reasons, if **you** have a new or altered gas or electricity connecti
 
 **You** can call **us** at any time for information about any planned interruption. 
 
-5.3 The time that it will take to reconnect **your** supply of **energy** following any shutdown will depend on the network company that is responsible for the supply of **energy** to **your** premises, as that network company will be the person which reconnects **your** supply. 
+5.3 The time that it will take to reconnect **your** supply of **energy** following any shutdown will depend on the network company that is responsible for the supply of **energy** to **your** **premises**, as that network company will be the person which reconnects **your** supply. 
 
 5.4 **You** can access a list of telephone numbers to contact **us** if **you** need to report a supply interruption, or access information about a supply interruption, by clicking here.  Alternatively, **you** can contact **us** at any time on 0800 083 285 and **we** will direct **you** to someone who can help.  Information about a supply interruption will be updated regularly in accordance with good industry practice in New Zealand. 
 
 If **you** have sensitive equipment or property which may be affected by an interrupted supply, **we** strongly recommend that **you** protect that equipment or property in case of an unplanned shutdown or outage. See also section 22 below on sensitive equipment. 
 
-5.5 If **you** have a controlled load pricing option i.e. a price plan that allows** Energy Online** to either directly, or via a third party, remotely control the supply of **energy** to some or all equipment in **your** premises, some of **your** electrical appliances (e.g. hot water cylinders and night store heaters) will be switched off or adjusted as agreed from time to time. Controlled load periods will be limited to those set out in our price list and **we** will respond to controlled load system faults in accordance with our normal practices, after you have advised **us** of the problem. 
+5.5 If **you** have a controlled load pricing option i.e. a price plan that allows** Energy Online** to either directly, or via a third party, remotely control the supply of **energy** to some or all equipment in **your** **premises**, some of **your** electrical appliances (e.g. hot water cylinders and night store heaters) will be switched off or adjusted as agreed from time to time. Controlled load periods will be limited to those set out in our price list and **we** will respond to controlled load system faults in accordance with our normal practices, after you have advised **us** of the problem. 
 
 In the event of a local or national **energy** shortage, or in circumstances of extreme wholesale prices, **your** **energy** supply may be rationed or restricted. **Energy** may also be rationed as part of an **energy** industry rationing plan.
 
 6 METERS AND METER READINGS
-6.1 **We** will read the meter(s) at **your** premises on a regular basis and, as long as **we** have access, **we** plan to read the meter(s) at least once every two months, unless **we** both agree otherwise. In addition to these regular meter readings, **we** may also read the meter(s) at **your** premises for any special or final meter reading.  The provisions of this agreement relating to metering and the circumstances in which **we** will take a reading from the meter at **your** premises will be in accordance with applicable regulations and industry standards.  
+6.1 **We** will read the meter(s) at **your** **premises** on a regular basis and, as long as **we** have access, **we** plan to read the meter(s) at least once every two months, unless **we** both agree otherwise. In addition to these regular meter readings, **we** may also read the meter(s) at **your** **premises** for any special or final meter reading.  The provisions of this agreement relating to metering and the circumstances in which **we** will take a reading from the meter at **your** **premises** will be in accordance with applicable regulations and industry standards.  
 
  **You** can provide **us** with additional meter readings here or by calling **us**. 
 
@@ -136,13 +136,13 @@ In the event of a local or national **energy** shortage, or in circumstances of 
 
 6.2 What if you are a new customer? 
 
-If **you** are a new customer, **we** will use the previous final meter reading at the premises as **your** initial meter reading, unless **you** read the meter before using any **energy** and advise **us** of that meter reading within one business day of **you** moving in. If **your** meter reading differs from the previous final meter reading at the premises, **we** may arrange for the meter to be read and **we** will use that reading as **your** initial meter reading.
+If **you** are a new customer, **we** will use the previous final meter reading at the **premises** as **your** initial meter reading, unless **you** read the meter before using any **energy** and advise **us** of that meter reading within one business day of **you** moving in. If **your** meter reading differs from the previous final meter reading at the **premises**, **we** may arrange for the meter to be read and **we** will use that reading as **your** initial meter reading.
 
-Alternatively, if an advanced meter has been installed at **your** premises, **we** may, in our discretion, take an initial meter reading remotely and any such reading will be conclusive evidence of the initial meter reading from the date **you** become our customer. 
+Alternatively, if an advanced meter has been installed at **your** **premises**, **we** may, in our discretion, take an initial meter reading remotely and any such reading will be conclusive evidence of the initial meter reading from the date **you** become our customer. 
 
 6.3 What if the meter is faulty?
 
-**We** may arrange to have the meter at **your** premises tested if **we** think it is faulty or if **you** tell **us** that **you** think it is faulty or not reflective of **your** actual consumption.
+**We** may arrange to have the meter at **your** **premises** tested if **we** think it is faulty or if **you** tell **us** that **you** think it is faulty or not reflective of **your** actual consumption.
 
 **We** will remove the meter for testing within 5 business days if **you** ask **us** to.
 
@@ -166,26 +166,26 @@ Our obligation to inform **you** under this section 6.3 does not apply where:
 
 To the extent that any meter reading information constitutes "personal information" for the purposes of the Privacy Act 1993, **we** will ensure that that meter reading information is held by **us** in accordance with the Privacy Act 1993 and our privacy policy. **You** consent to **us**:
 
-• receiving and collecting meter reading information in respect of **you** and **your** premises;
-• storing meter reading information in respect of **you** and **your** premises in a way that is referenced back to **you** individually and/or **your** premises;
-• using meter reading information in respect of **you** and **your** premises for any other purpose, including, without limitation, for the purposes outlined in section 2.4 and to invoice **you** accurately for **your** **energy** usage; and 
-• disclosing meter reading information in respect of **you** and **your** premises to third parties. 
+• receiving and collecting meter reading information in respect of **you** and **your** **premises**;
+• storing meter reading information in respect of **you** and **your** **premises** in a way that is referenced back to **you** individually and/or **your** **premises**;
+• using meter reading information in respect of **you** and **your** **premises** for any other purpose, including, without limitation, for the purposes outlined in section 2.4 and to invoice **you** accurately for **your** **energy** usage; and 
+• disclosing meter reading information in respect of **you** and **your** **premises** to third parties. 
 
 **You** may not sell, assign or provide any meter reading information to any third party without our prior written consent, except for the purpose of comparing prices with other **energy** retailers. 
 
 6.5 Advanced meters
 
-**We** may, at any time, replace the meter at **your** premises with an advanced meter. **You** agree that **you** will not object to **us**, or prevent **us** from, replacing **your** meter with an advanced meter. 
+**We** may, at any time, replace the meter at **your** **premises** with an advanced meter. **You** agree that **you** will not object to **us**, or prevent **us** from, replacing **your** meter with an advanced meter. 
 
 6.6 What if an advanced meter cannot be installed at your premises?
 
-If an advanced meter cannot be installed at **your** premises because the wiring at **your** premises does not comply with any applicable laws, regulations, codes or standards, or because the advanced meter would, when installed, represent a safety hazard or where there is insufficient space on the meter board, **we** may require **you** to fix, remedy or repair the wiring or safety hazard, or install a larger meter board or otherwise address the lack of space on **your** meter board at **your** cost before an advanced meter is installed at **your** premises.
+If an advanced meter cannot be installed at **your** **premises** because the wiring at **your** **premises** does not comply with any applicable laws, regulations, codes or standards, or because the advanced meter would, when installed, represent a safety hazard or where there is insufficient space on the meter board, **we** may require **you** to fix, remedy or repair the wiring or safety hazard, or install a larger meter board or otherwise address the lack of space on **your** meter board at **your** cost before an advanced meter is installed at **your** **premises**.
 
 **We** may also require **you** to provide a certificate of compliance from a certified service provider at **your** cost before the advanced meter is installed. **We** may also request a copy of this certificate at any time.
 
 6.7 Will there be manual meter readings with advanced meters?
 
-If an advanced meter has been installed at **your** premises, **we** may still need to read **your** meter manually in some situations (e.g. if the advanced meter is faulty, the mains switch is turned off or if there have been failures in the metering communications network). If the manual reading is required because **you** have caused a communications fault, **we** may pass on the cost of the manual reading to **you**.
+If an advanced meter has been installed at **your** **premises**, **we** may still need to read **your** meter manually in some situations (e.g. if the advanced meter is faulty, the mains switch is turned off or if there have been failures in the metering communications network). If the manual reading is required because **you** have caused a communications fault, **we** may pass on the cost of the manual reading to **you**.
 
 6.8 What if I miss an appointment?
 
@@ -194,23 +194,23 @@ If **we** or a meter company make an appointment with **you** to install, connec
 7 WHAT ACCESS DO YOU NEED TO PROVIDE?
 7.1 **You** must:
 
-• provide to **us**, the meter company, the network company and/or other third parties who own **energy** supply equipment on **your** premises, safe and unobstructed access to metering equipment, and any equipment of the network company or any other person on **your** premises between 8.00am and 7.00pm, Monday to Sunday, excluding public holidays;
-• provide to **us**, the meter company, the network company and/or other third parties who own **energy** supply equipment on **your** premises, immediate access to **your** premises at any time for safety reasons or to prevent serious damage to property or the environment;
-• allow to **us**, the meter company, the network company and/or other third parties who own **energy** supply equipment on **your** premises, access for installation, connection, testing, inspection, maintenance, repair, replacement, alteration, servicing, cleaning, disconnection or removal of any equipment owned by **us** and/or a meter company and/or a network company and/or other third parties including removal of any equipment up to 6 months after termination of supply to **you**;
+• provide to **us**, the meter company, the network company and/or other third parties who own **energy** supply equipment on **your** **premises**, safe and unobstructed access to metering equipment, and any equipment of the network company or any other person on **your** **premises** between 8.00am and 7.00pm, Monday to Sunday, excluding public holidays;
+• provide to **us**, the meter company, the network company and/or other third parties who own **energy** supply equipment on **your** **premises**, immediate access to **your** **premises** at any time for safety reasons or to prevent serious damage to property or the environment;
+• allow to **us**, the meter company, the network company and/or other third parties who own **energy** supply equipment on **your** **premises**, access for installation, connection, testing, inspection, maintenance, repair, replacement, alteration, servicing, cleaning, disconnection or removal of any equipment owned by **us** and/or a meter company and/or a network company and/or other third parties including removal of any equipment up to 6 months after termination of supply to **you**;
 • ensure that any dog or other animal that may make entry unsafe is secured to enable safe and easy access;
-• keep **us** informed about any health and safety and/or Resource Management Act 1991 requirements or issues at **your** premises that could be relevant to our representatives or the representatives of a meter company or a network company or other third parties who own **energy** supply equipment on **your** premises when they visit your premises; 
+• keep **us** informed about any health and safety and/or Resource Management Act 1991 requirements or issues at **your** **premises** that could be relevant to our representatives or the representatives of a meter company or a network company or other third parties who own **energy** supply equipment on **your** **premises** when they visit your **premises**; 
 • keep **your** trees and other vegetation regularly trimmed to a safe distance from any lines, pipes, substations, meters or equipment, to comply with the Electricity (Safety) Regulations 2010 in relation to any work near lines, the network or other electrical equipment, and the Electricity (Hazards from Trees) Regulations 2003. The Electricity (Hazards from Trees) Regulations 2003 specify the distances trees and other vegetation must be kept from power lines. If vegetation grows within these minimum distances (or Zones) cutting or trimming will be necessary.  **You** can view a summary of these regulations here. If **you** do not comply with these regulations (including any amendments to these regulations), **you** will be liable for the costs of carrying out any work arising as a result of **your** non-compliance.
 
-7.2 **You** must, if requested by **us**, turn off the **energy** at **your** premises to enable access for the purposes referred to above.
+7.2 **You** must, if requested by **us**, turn off the **energy** at **your** **premises** to enable access for the purposes referred to above.
 
-7.3 Except in routine situations (such as reading or inspecting a meter that is located on the outside of a building) or emergency situations, before accessing **your** premises, either **we**, the meter company, network company and/or the other third parties who own **energy** supply equipment on **your** premises, will provide written notice to **you** of:
+7.3 Except in routine situations (such as reading or inspecting a meter that is located on the outside of a building) or emergency situations, before accessing **your** **premises**, either **we**, the meter company, network company and/or the other third parties who own **energy** supply equipment on **your** **premises**, will provide written notice to **you** of:
 
-• when access to **your** premises will be required; and
-• the purpose for requiring access to **your** premises.
+• when access to **your** **premises** will be required; and
+• the purpose for requiring access to **your** **premises**.
 
-7.4 **We** will give **you** at least 10 working days notice of the intention to access **your** premises if the reason for requiring access relates to construction, upgrade, repair or maintenance.  Where **we** require access to **your** premises for any other reason (except for routine situations or emergency situations), **we** will give **you** reasonable notice.
+7.4 **We** will give **you** at least 10 working days notice of the intention to access **your** **premises** if the reason for requiring access relates to construction, upgrade, repair or maintenance.  Where **we** require access to **your** **premises** for any other reason (except for routine situations or emergency situations), **we** will give **you** reasonable notice.
 
-7.5 Where **we** require access to **your** premises, **we** will:
+7.5 Where **we** require access to **your** **premises**, **we** will:
 • take reasonable steps to minimise any direct impacts on **your** property and any inconvenience to **you**; and
 
 • try to comply with any reasonable requirements that **you** have given **us** (such as closing gates etc). 
