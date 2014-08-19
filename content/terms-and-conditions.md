@@ -237,23 +237,23 @@ For more information on **energy** safety matters, contact the Energy Safety Ser
 <li>Any of our representatives or any representatives of a **meter company** or the **network company** or other third parties who own **energy** supply equipment on **your** **premises** who are requesting access to **your** **premises** will carry identification and present their identification to **you** on request. If our representatives are visiting at **your** request and **you** are at **your** **premises**, they will identify themselves to **you** before entering **your** property (and **we** will procure that any representatives of a **meter company** or the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises** requesting access to **your** **premises** will also identify themselves to **you**).  In all other circumstances, **you** can ask the representative(s) to identify themselves at any time while they are on **your** property.  If they are unable or unwilling to show **you** their identification, **you** should not give them access.</li>
 
 
-<li>**What if we have problems gaining access to your premises?**
+<li><dl><dt>**What if we have problems gaining access to your premises?**</dt>
 
-If **you** are not able to grant **us** access, please contact **us** to discuss alternative access options.
+<dd>If **you** are not able to grant **us** access, please contact **us** to discuss alternative access options.
 
-If **you** do not provide access to **your** **meter** or to any other **meters** (where **you** control access to those other **meters**) **we**  may charge **you** for any callout fees where **we** could not gain access, and such refusal will be considered a material breach of these terms and conditions for which **we** may disconnect **your** supply.</li>
+If **you** do not provide access to **your** **meter** or to any other **meters** (where **you** control access to those other **meters**) **we**  may charge **you** for any callout fees where **we** could not gain access, and such refusal will be considered a material breach of these terms and conditions for which **we** may disconnect **your** supply.</dd></dl></li>
 
-<li>**What if we can't read the meter?** 
+<li><dl><dt>**What if we can't read the meter?**</dt> 
 
-If **we** have been unable to obtain a reading from the **meter** for any reason, the amount of **energy** **you** have used may be estimated by **us** and **you** will be charged on the basis of our estimate. **You** can, however, provide **us** with a **meter** reading via our website or by calling **us**.</li>
+<dd>If **we** have been unable to obtain a reading from the **meter** for any reason, the amount of **energy** **you** have used may be estimated by **us** and **you** will be charged on the basis of our estimate. **You** can, however, provide **us** with a **meter** reading via our website or by calling **us**.</dd></dl></li>
 
-<li>**What if we hold keys to your premises?**
+<li><dl><dt>**What if we hold keys to your premises?**</dt>
 
-If **we** have a key or security information to enable **us** to gain access to **your** **premises**, **we** will be responsible for its safe keeping and will use it only for the purposes described in this section 7. **We** will comply with any direction from **you** to return or destroy keys that **you** have given **us**, and/or the **meter company** or the **network company**.</li>
+<dd>If **we** have a key or security information to enable **us** to gain access to **your** **premises**, **we** will be responsible for its safe keeping and will use it only for the purposes described in this section 7. **We** will comply with any direction from **you** to return or destroy keys that **you** have given **us**, and/or the **meter company** or the **network company**.</dd></dl></li>
 
-<li>**What if you wish to turn off your electricity at the mains?** 
+<li><dl><dt>**What if you wish to turn off your electricity at the mains?**</dt> 
 
-Switching off **your** **energy** at the mains affects our ability to read **your** **advanced meter** remotely. **You** should only switch off **your** **energy** at the mains for essential maintenance or in the case of an **emergency situation**. If **you** wish to turn off **your** **energy** at the mains for longer than a week, **you** should contact **us** so **we** can explain how to turn off the **energy** at the **advanced meter**.</li></ol>
+<dd>Switching off **your** **energy** at the mains affects our ability to read **your** **advanced meter** remotely. **You** should only switch off **your** **energy** at the mains for essential maintenance or in the case of an **emergency situation**. If **you** wish to turn off **your** **energy** at the mains for longer than a week, **you** should contact **us** so **we** can explain how to turn off the **energy** at the **advanced meter**.</dd></dl></li></ol>
 
 ## 8 HOW WILL WE INVOICE YOU?
 <ol>
