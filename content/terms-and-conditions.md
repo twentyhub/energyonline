@@ -185,7 +185,7 @@ If an **advanced meter** cannot be installed at **your** **premises** because th
 
 6.7 Will there be manual meter readings with advanced meters?
 
-If an **advanced meter** has been installed at **your** **premises**, **we** may still need to read **your** **meter** manually in some situations (e.g. if the **advanced meter** is faulty, the mains switch is turned off or if there have been failures in the **metering** communications network). If the manual reading is required because **you** have caused a communications fault, **we** may pass on the cost of the manual reading to **you**.
+If an **advanced meter** has been installed at **your** **premises**, **we** may still need to read **your** **meter** manually in some situations (e.g. if the **advanced meter** is faulty, the mains switch is turned off or if there have been failures in the **metering communications network**). If the manual reading is required because **you** have caused a communications fault, **we** may pass on the cost of the manual reading to **you**.
 
 6.8 What if I miss an appointment?
 
@@ -194,16 +194,16 @@ If **we** or a **meter company** make an appointment with **you** to install, co
 7 WHAT ACCESS DO YOU NEED TO PROVIDE?
 7.1 **You** must:
 
-• provide to **us**, the **meter company**, the network company and/or other third parties who own **energy** supply equipment on **your** **premises**, safe and unobstructed access to **metering equipment**, and any equipment of the network company or any other person on **your** **premises** between 8.00am and 7.00pm, Monday to Sunday, excluding public holidays;
-• provide to **us**, the **meter company**, the network company and/or other third parties who own **energy** supply equipment on **your** **premises**, immediate access to **your** **premises** at any time for safety reasons or to prevent serious damage to property or the environment;
-• allow to **us**, the **meter company**, the network company and/or other third parties who own **energy** supply equipment on **your** **premises**, access for installation, connection, testing, inspection, maintenance, repair, replacement, alteration, servicing, cleaning, disconnection or removal of any equipment owned by **us** and/or a **meter company** and/or a network company and/or other third parties including removal of any equipment up to 6 months after termination of supply to **you**;
+• provide to **us**, the **meter company**, the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises**, safe and unobstructed access to **metering equipment**, and any equipment of the **network company** or any other person on **your** **premises** between 8.00am and 7.00pm, Monday to Sunday, excluding public holidays;
+• provide to **us**, the **meter company**, the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises**, immediate access to **your** **premises** at any time for safety reasons or to prevent serious damage to property or the environment;
+• allow to **us**, the **meter company**, the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises**, access for installation, connection, testing, inspection, maintenance, repair, replacement, alteration, servicing, cleaning, disconnection or removal of any equipment owned by **us** and/or a **meter company** and/or a **network company** and/or other third parties including removal of any equipment up to 6 months after termination of supply to **you**;
 • ensure that any dog or other animal that may make entry unsafe is secured to enable safe and easy access;
-• keep **us** informed about any health and safety and/or Resource Management Act 1991 requirements or issues at **your** **premises** that could be relevant to our representatives or the representatives of a **meter company** or a network company or other third parties who own **energy** supply equipment on **your** **premises** when they visit your **premises**; 
-• keep **your** trees and other vegetation regularly trimmed to a safe distance from any lines, pipes, substations, **meters** or equipment, to comply with the Electricity (Safety) Regulations 2010 in relation to any work near lines, the network or other electrical equipment, and the Electricity (Hazards from Trees) Regulations 2003. The Electricity (Hazards from Trees) Regulations 2003 specify the distances trees and other vegetation must be kept from power lines. If vegetation grows within these minimum distances (or Zones) cutting or trimming will be necessary.  **You** can view a summary of these regulations here. If **you** do not comply with these regulations (including any amendments to these regulations), **you** will be liable for the costs of carrying out any work arising as a result of **your** non-compliance.
+• keep **us** informed about any health and safety and/or Resource Management Act 1991 requirements or issues at **your** **premises** that could be relevant to our representatives or the representatives of a **meter company** or a **network company** or other third parties who own **energy** supply equipment on **your** **premises** when they visit your **premises**; 
+• keep **your** trees and other vegetation regularly trimmed to a safe distance from any lines, pipes, substations, **meters** or equipment, to comply with the Electricity (Safety) Regulations 2010 in relation to any work near lines, the **network** or other electrical equipment, and the Electricity (Hazards from Trees) Regulations 2003. The Electricity (Hazards from Trees) Regulations 2003 specify the distances trees and other vegetation must be kept from power lines. If vegetation grows within these minimum distances (or Zones) cutting or trimming will be necessary.  **You** can view a summary of these regulations here. If **you** do not comply with these regulations (including any amendments to these regulations), **you** will be liable for the costs of carrying out any work arising as a result of **your** non-compliance.
 
 7.2 **You** must, if requested by **us**, turn off the **energy** at **your** **premises** to enable access for the purposes referred to above.
 
-7.3 Except in routine situations (such as reading or inspecting a **meter** that is located on the outside of a building) or emergency situations, before accessing **your** **premises**, either **we**, the **meter** company, network company and/or the other third parties who own **energy** supply equipment on **your** **premises**, will provide written notice to **you** of:
+7.3 Except in routine situations (such as reading or inspecting a **meter** that is located on the outside of a building) or emergency situations, before accessing **your** **premises**, either **we**, the **meter** company, **network company** and/or the other third parties who own **energy** supply equipment on **your** **premises**, will provide written notice to **you** of:
 
 • when access to **your** **premises** will be required; and
 • the purpose for requiring access to **your** **premises**.
@@ -215,13 +215,13 @@ If **we** or a **meter company** make an appointment with **you** to install, co
 
 • try to comply with any reasonable requirements that **you** have given **us** (such as closing gates etc). 
 
-7.6 Where **we** are able to, **we** will instruct the **metering company** or network company to take such steps and comply with such requirements.
+7.6 Where **we** are able to, **we** will instruct the **metering company** or **network company** to take such steps and comply with such requirements.
 
 When accessing **your** property, our representatives will act in a courteous, considerate and professional manner at all times.  
 
-For more information on **energy** safety matters, contact the Energy Safety Service or the network company. 
+For more information on **energy** safety matters, contact the Energy Safety Service or the **network company**. 
 
-7.7 Any of our representatives or any representatives of a **meter company** or the network company or other third parties who own **energy** supply equipment on **your** **premises** who are requesting access to **your** **premises** will carry identification and present their identification to **you** on request. If our representatives are visiting at **your** request and **you** are at **your** **premises**, they will identify themselves to **you** before entering **your** property (and **we** will procure that any representatives of a **meter company** or the network company and/or other third parties who own **energy** supply equipment on **your** **premises** requesting access to **your** **premises** will also identify themselves to **you**).  In all other circumstances, **you** can ask the representative(s) to identify themselves at any time while they are on **your** property.  If they are unable or unwilling to show **you** their identification, **you** should not give them access.
+7.7 Any of our representatives or any representatives of a **meter company** or the **network company** or other third parties who own **energy** supply equipment on **your** **premises** who are requesting access to **your** **premises** will carry identification and present their identification to **you** on request. If our representatives are visiting at **your** request and **you** are at **your** **premises**, they will identify themselves to **you** before entering **your** property (and **we** will procure that any representatives of a **meter company** or the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises** requesting access to **your** **premises** will also identify themselves to **you**).  In all other circumstances, **you** can ask the representative(s) to identify themselves at any time while they are on **your** property.  If they are unable or unwilling to show **you** their identification, **you** should not give them access.
 
 7.8 What if we have problems gaining access to your premises?
 
@@ -235,7 +235,7 @@ If **we** have been unable to obtain a reading from the **meter** for any reason
 
 7.10 What if we hold keys to your premises?
 
-If **we** have a key or security information to enable **us** to gain access to **your** **premises**, **we** will be responsible for its safe keeping and will use it only for the purposes described in this section 7. **We** will comply with any direction from **you** to return or destroy keys that **you** have given **us**, and/or the **meter company** or the network company.
+If **we** have a key or security information to enable **us** to gain access to **your** **premises**, **we** will be responsible for its safe keeping and will use it only for the purposes described in this section 7. **We** will comply with any direction from **you** to return or destroy keys that **you** have given **us**, and/or the **meter company** or the **network company**.
 
 7.11 What if you wish to turn off your electricity at the mains? 
 
@@ -252,7 +252,7 @@ Switching off **your** **energy** at the mains affects our ability to read **you
 • a clear due date; and
 • the identifier number of all installation control points on **your** property.
 
-8.2 Any penalties or other charges that are additional to our usual fees will be separately itemised on **your** invoice.  **We** cannot tell **you** who **your** network company is on **your** invoice.  However, if **you** would like to know who **your** network company is, please call our Customer Care Team on 0800 086 400.
+8.2 Any penalties or other charges that are additional to our usual fees will be separately itemised on **your** invoice.  **We** cannot tell **you** who **your** **network company** is on **your** invoice.  However, if **you** would like to know who **your** **network company** is, please call our Customer Care Team on 0800 086 400.
 
 8.3 Our charges for **energy** consumption will be based on either an actual **meter** reading or an estimate of the **energy** consumed. Any estimate will be based on previous consumption if available or will be determined by following generally accepted industry practices and it will normally be clearly stated on **your** invoice if an estimate is used. 
 
@@ -322,7 +322,7 @@ Please contact **us** if **you** would like to change **your** pricing plan, pro
 **You** may pay **your** invoice by any of the methods described in the welcome pack sent to **you** when **you** became our customer, as updated from time to time on our website. If you would like to receive further details, please call our Customer Care Team.
 
 11 WHEN WILL WE DISCONNECT YOUR SUPPLY?
-11.1 In addition to our, the network company's and the **meter company's** other rights of disconnection under this agreement, **your** **energy** supply may be disconnected: 
+11.1 In addition to our, the **network company's** and the **meter company's** other rights of disconnection under this agreement, **your** **energy** supply may be disconnected: 
 
 • ­for non payment of the undisputed portion of any invoice associated with the supply of **energy**, lines services or other services supplied to **you**;
 • ­if **we** cease to have an agreement with the network company that provides lines services to **you**;
