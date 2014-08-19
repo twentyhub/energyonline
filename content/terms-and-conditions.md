@@ -111,13 +111,13 @@ If **you** leave **your** **premises** (e.g. if **you** move from a flat but **y
 For safety reasons, if **you** have a new or altered gas or electricity connection, or if **your** supply has been disconnected, **we** may require **you** to provide a certificate of compliance or certificate of verification from a certified service provider before **we** can supply **you** with **energy**. **We** may also request a copy of this certificate at any time.
 
 5 WILL THE SUPPLY OF ENERGY BE CONTINUOUS?
-5.1 Circumstances or events beyond our control (including the events specified in section 17.2 below) may cause supply to be interrupted from time to time. For example, the network company may shut down all or part of its network or the **meter company** may interrupt supply for maintenance or improving the reliability of supply.  The network may also be affected by a storm, high winds, third party interference like a car accident or for other reasons. **We** cannot give warning or notice of sudden, unplanned shutdowns or outages. **We** are not required to honour this agreement where circumstances or events that are beyond our control prevent **us** from doing the things **we** would normally do.  In these circumstances, **we** will carry on honouring our obligations as soon as it is reasonably practicable for **us** to do so.
+5.1 Circumstances or events beyond our control (including the events specified in section 17.2 below) may cause supply to be interrupted from time to time. For example, the **network company** may shut down all or part of its **network** or the **meter company** may interrupt supply for maintenance or improving the reliability of supply.  The **network** may also be affected by a storm, high winds, third party interference like a car accident or for other reasons. **We** cannot give warning or notice of sudden, unplanned shutdowns or outages. **We** are not required to honour this agreement where circumstances or events that are beyond our control prevent **us** from doing the things **we** would normally do.  In these circumstances, **we** will carry on honouring our obligations as soon as it is reasonably practicable for **us** to do so.
 
-5.2 **Energy Online** or the applicable network company or **meter company** will give **you** at least 4 working days’ notice of any planned shutdowns, unless the shutdown is urgently required for reasons that were not reasonably foreseeable such that 4 working days' notice is not possible.  In the event of any urgent shutdown of this nature, **we** will give **you** as much notice of the shutdown as possible.  
+5.2 **Energy Online** or the applicable **network company** or **meter company** will give **you** at least 4 working days’ notice of any planned shutdowns, unless the shutdown is urgently required for reasons that were not reasonably foreseeable such that 4 working days' notice is not possible.  In the event of any urgent shutdown of this nature, **we** will give **you** as much notice of the shutdown as possible.  
 
 **You** can call **us** at any time for information about any planned interruption. 
 
-5.3 The time that it will take to reconnect **your** supply of **energy** following any shutdown will depend on the network company that is responsible for the supply of **energy** to **your** **premises**, as that network company will be the person which reconnects **your** supply. 
+5.3 The time that it will take to reconnect **your** supply of **energy** following any shutdown will depend on the **network company** that is responsible for the supply of **energy** to **your** **premises**, as that **network company** will be the person which reconnects **your** supply. 
 
 5.4 **You** can access a list of telephone numbers to contact **us** if **you** need to report a supply interruption, or access information about a supply interruption, by clicking here.  Alternatively, **you** can contact **us** at any time on 0800 083 285 and **we** will direct **you** to someone who can help.  Information about a supply interruption will be updated regularly in accordance with good industry practice in New Zealand. 
 
@@ -587,14 +587,14 @@ If **you** do not own **your** **premises**, you confirm that **you** have any n
 • any **metering equipment** or any **energy** supply equipment of the network company or other third party is damaged, defective, or looks unsafe; or 
 • **you** discover any fault with, or interference with, any **metering equipment**, the **metering communication network** or any **energy** supply equipment of the network company or other third party.
 
-**You** agree to co-operate in good faith with any investigations by **us**, the **meter** company or other third party that owns **energy** supply equipment on **your** **premises** in respect of interference with any **metering equipment** on **your** **premises**. If **we** and/or the **metering** company's and/or other third party's investigations identify that the interference was caused by **you**, **you** agree to pay our and/or the **metering** company's and/or the third party's reasonable expenses of the investigation on demand. If **we** believe on reasonable grounds that:
+**You** agree to co-operate in good faith with any investigations by **us**, the **meter company** or other third party that owns **energy** supply equipment on **your** **premises** in respect of interference with any **metering equipment** on **your** **premises**. If **we** and/or the **metering company's** and/or other third party's investigations identify that the interference was caused by **you**, **you** agree to pay our and/or the **metering company's** and/or the third party's reasonable expenses of the investigation on demand. If **we** believe on reasonable grounds that:
 
 • somebody has damaged, or tampered or interfered with, any **metering equipment** or **energy** supply equipment of the network company or any other third party; 
 • **you** have benefited from the fact that the **meter** was inaccurate or not working properly; 
-• somebody has caused any loss or damage to **us**, a **meter** company, a network company and/or any of our other contractors; or 
+• somebody has caused any loss or damage to **us**, a **meter company**, a network company and/or any of our other contractors; or 
 • **you** have allowed anyone else to do so,
 
-**you** will be responsible for the resulting loss, damage or costs suffered, including our and/or the **metering** company and/or the network company's and/or the other third party's reasonable expenses of the investigation on demand.
+**you** will be responsible for the resulting loss, damage or costs suffered, including our and/or the **metering company** and/or the network company's and/or the other third party's reasonable expenses of the investigation on demand.
 
 **We** may also:
 
@@ -605,7 +605,7 @@ If **you** do not own **your** **premises**, you confirm that **you** have any n
 • inform the Police.
 
 24 WHAT ABOUT OTHER EQUIPMENT AT YOUR PREMISES?
-24.1 **We**, or a **meter** company, will repair and maintain **meters** and associated equipment supplied by **us** or a **meter** company, except as outlined below.
+24.1 **We**, or a **meter company**, will repair and maintain **meters** and associated equipment supplied by **us** or a **meter company**, except as outlined below.
 
 24.2 What equipment are you responsible for?
 
