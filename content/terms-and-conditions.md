@@ -424,10 +424,10 @@ If:
 **We** may also maintain **your** information on a register of **vulnerable customers**. If, after **we** have informed **you** of the opportunity to notify **us** that **you** are a **vulnerable customer**, **you** have not told **us**, or it does not appear to **us**, that **you** are a **vulnerable customer**, **we** will assume that **you** are not a **vulnerable customer**.
 
 If **you** are not a **vulnerable customer**, **you** can still agree that **we** consult with Work and Income, District Health Boards, private health providers or any other social agency or service provider if:
-
-• **you** do not pay **your** invoices regularly and **your** supply is at risk of **disconnection**; and
-• **we** have provided **you** with all the assistance **we** are reasonably able to; and
-• **you** are still unable to make **your** payments.
+<ul>
+<li>**you** do not pay **your** invoices regularly and **your** supply is at risk of **disconnection**; and</li>
+<li>**we** have provided **you** with all the assistance **we** are reasonably able to; and</li>
+<li>**you** are still unable to make **your** payments.</li></ul>
 
 If **you** have nominated a person as an account authority with whom **we** can discuss the details of **your** account under section 2.5, **we** may also discuss financial assistance with that person.
 
