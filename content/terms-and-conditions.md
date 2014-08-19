@@ -315,12 +315,12 @@ This does not apply where **your** invoice is based on an estimate of **your** *
 
 <dd>No interest is due on any amounts over-paid or under-paid by **you** or **us** in relation to incorrect or late invoices.</dd></dl></li>
 
-<li>**Payment if meter is faulty** 
+<li><dl><dt>**Payment if meter is faulty**</dt> 
 
-If **your** **meter** is faulty, **we** may not be able to tell for certain how much **energy** has actually been used. Therefore:
+<dd>If **your** **meter** is faulty, **we** may not be able to tell for certain how much **energy** has actually been used. Therefore:
 <ul>
 <li>subject to section 23, **you** will be liable, in relation to the variable rate component of **your** price plan, for the quantity measured by the **meter**, unless **you** contributed to the fault, or could have reasonably been expected to know about the fault. In addition, you will still be liable for the fixed daily rate component of **your** price plan; and</li>
-<li>if it is apparent that **your** **meter** has measured more **energy** than **you** actually used and **you** have over-paid **us**, **we** will refund to **you** an amount **we** reasonably believe is a realistic estimate of the over-payment.</li></ul></li></ol>
+<li>if it is apparent that **your** **meter** has measured more **energy** than **you** actually used and **you** have over-paid **us**, **we** will refund to **you** an amount **we** reasonably believe is a realistic estimate of the over-payment.</li></ul></dd></dl></li></ol>
 
 ## 9 WHAT FEES AND CHARGES WILL YOU PAY?
 <ol>
