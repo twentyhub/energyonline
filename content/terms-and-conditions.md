@@ -48,31 +48,31 @@ Hamilton 3240</li>
 
 If **you** have moved to **premises** and started using **energy**, **you** will still need to call **us** to become a customer. If **you** do not contact **us** to become a customer, **we** will disconnect the property. **We** may also charge **you** a **disconnection** fee, the cost of any **energy** consumed, and any other costs **we** incur as a result of **you** consuming **energy** at the **premises** as specified in our **price list**.</li>
 
-<li>**What information do we need from you?** 
+<li><dl><dt>**What information do we need from you?**</dt> 
 
-To become a customer **you** will need to provide **us** with some personal information. **We** may use this information for a number of purposes, as set out in our Privacy Policy. **You** can view our Privacy Policy [here](http://www.energyonline.co.nz/home/site_map/privacy_policy).
+<dd>To become a customer **you** will need to provide **us** with some personal information. **We** may use this information for a number of purposes, as set out in our Privacy Policy. **You** can view our Privacy Policy [here](http://www.energyonline.co.nz/home/site_map/privacy_policy).
 
 **We** may also request information (including credit information) from relevant third parties such as credit reference agencies and other **energy** retailers prior to **you** becoming an **Energy Online** customer and at any point while **you** are an **Energy Online** customer, as part of our credit criteria.
 
-If any of **your** personal information changes (including **your** contact details) please tell **us**, and **we** will update **your** account information.</li>
+If any of **your** personal information changes (including **your** contact details) please tell **us**, and **we** will update **your** account information.</dd></dl></li>
 
-<li>**What do we do with your personal information?** 
+<li><dl><dt>**What do we do with your personal information?**</dt> 
 
-Any personal information **you **give **us** is strictly confidential and will be kept secure and held by **us** in accordance with the Privacy Act 1993. **You** can view our privacy policy [here](http://www.energyonline.co.nz/home/site_map/privacy_policy). That policy outlines how **we** deal with **your** personal information. **You** can access **your** personal information held by **us** on request and correct it if it is wrong.</li> 
+<dd>Any personal information **you **give **us** is strictly confidential and will be kept secure and held by **us** in accordance with the Privacy Act 1993. **You** can view our privacy policy [here](http://www.energyonline.co.nz/home/site_map/privacy_policy). That policy outlines how **we** deal with **your** personal information. **You** can access **your** personal information held by **us** on request and correct it if it is wrong.</dd></dl></li> 
 
-<li>**Can more than one person be a customer?**
+<li><dl><dt>**Can more than one person be a customer?**</dt>
 
-If more than one person is the customer at any **premises**, these terms will apply to each of **you **jointly and severally. This means that each of **you** may individually be responsible for paying our entire invoice, and that everyone who wishes to become a customer will have to contact **us**. 
+<dd>If more than one person is the customer at any **premises**, these terms will apply to each of **you **jointly and severally. This means that each of **you** may individually be responsible for paying our entire invoice, and that everyone who wishes to become a customer will have to contact **us**. 
 
-**You** may nominate a person as an account authority to make decisions for **you** under these terms. However, **you** are still responsible as a customer for payment of **your** account and for any costs associated with decisions made by the account authority.</li> 
+**You** may nominate a person as an account authority to make decisions for **you** under these terms. However, **you** are still responsible as a customer for payment of **your** account and for any costs associated with decisions made by the account authority.</dd></dl></li> 
 
-<li>**What if you have unpaid invoices?**
+<li><dl><dt>**What if you have unpaid invoices?**</dt>
 
-As a customer **you** will be responsible for paying all fees and charges and for making sure the requirements of this agreement are met.  **We** will give **you** reasonable notice if circumstances arise, or are likely to arise, which will mean that **you** will incur a fee in addition to **your** standard rates for **energy** supplied by **us**, including for unpaid invoices.  
+<dd>As a customer **you** will be responsible for paying all fees and charges and for making sure the requirements of this agreement are met.  **We** will give **you** reasonable notice if circumstances arise, or are likely to arise, which will mean that **you** will incur a fee in addition to **your** standard rates for **energy** supplied by **us**, including for unpaid invoices.  
 
 **You** agree that **we** may add any of **your** unpaid invoices with **us** from other **premises** to **your** next invoice for **energy** used at **your** new **premises**. The amount owing must be paid in accordance with the terms of **your** previous account, unless **we** agree otherwise, but a default in payment of **your** previous account may be treated by **us** as a default under this agreement. 
 
-Please note that if **you**, or another person at **your** **premises**, have any unpaid invoices with **us**, **we** may refuse to supply **energy** to **your** **premises** or accept **you** as a customer until that invoice has been paid.</li></ol>
+Please note that if **you**, or another person at **your** **premises**, have any unpaid invoices with **us**, **we** may refuse to supply **energy** to **your** **premises** or accept **you** as a customer until that invoice has been paid.</dd></dl></li></ol>
 
 ## 3 IS A BOND REQUIRED?
 <ol>
@@ -110,9 +110,9 @@ If **we** agree to supply **energy** to **your** new **premises**, these terms a
 
 <dd>If **you** leave **your** **premises** (e.g. if **you** move from a flat but **your** flatmates are staying on) and **your** name is on the **energy** account, it’s important to tell **us** that **you** are terminating your account with **us**, and if necessary make arrangements to transfer it to someone else. If **you** wish to transfer **your** account to someone else at the **premises**, **we** will need to speak to that person(s) and accept them as our customer before the account can be transferred. If **you** remain the account holder and **energy** is consumed at the **premises** after **you** leave, **you** will remain liable to **us**.</dd></dl></li> 
 
-<li>**What if you have a new connection, an altered connection or a reconnection?**
+<li><dl><dt>**What if you have a new connection, an altered connection or a reconnection?**</dt>
 
-For safety reasons, if **you** have a new or altered gas or electricity connection, or if **your** supply has been disconnected, **we** may require **you** to provide a certificate of compliance or certificate of verification from a certified service provider before **we** can supply **you** with **energy**. **We** may also request a copy of this certificate at any time.</li></ol>
+<dd>For safety reasons, if **you** have a new or altered gas or electricity connection, or if **your** supply has been disconnected, **we** may require **you** to provide a certificate of compliance or certificate of verification from a certified service provider before **we** can supply **you** with **energy**. **We** may also request a copy of this certificate at any time.</dd></dl></li></ol>
 
 ## 5 WILL THE SUPPLY OF ENERGY BE CONTINUOUS?
 <ol>
