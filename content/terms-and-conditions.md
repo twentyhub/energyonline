@@ -3,7 +3,7 @@ Print this page
 Energy Online Terms and Conditions
 Energy Online terms and conditions effective on 16 January 2014.
 
-For a copy of the current terms and conditions prior to 16 January 2014 click here.
+For a copy of the current terms and conditions prior to 16 January 2014 [click here](http://www.energyonline.co.nz/terms-pre-16-jan-2014).
 
 1 INTRODUCTION
 These are the terms of **your** relationship with **Energy Online**.
@@ -27,7 +27,7 @@ Waikato Mail Centre
 Hamilton 3240
 
 • or fax **us** on 09 539 4633
-• or email **us** at customer.care@energyonline.co.nz
+• or email **us** at <mailto:customer.care@energyonline.co.nz>
 • or call our Customer Care Team on 0800 086 400.
 
 **We** will try to respond to any written enquiries as soon as reasonably possible. Depending on levels of customer enquiries at the time **we** receive **your** enquiry, **we** expect to respond to **your** enquiry within two business days.
@@ -48,7 +48,7 @@ If **you** have moved to **premises** and started using **energy**, **you** will
 
 2.3 What information do we need from you? 
 
-To become a customer **you** will need to provide **us** with some personal information. **We** may use this information for a number of purposes, as set out in our Privacy Policy. **You** can view our Privacy Policy here.
+To become a customer **you** will need to provide **us** with some personal information. **We** may use this information for a number of purposes, as set out in our Privacy Policy. **You** can view our Privacy Policy [here](http://www.energyonline.co.nz/home/site_map/privacy_policy).
 
 **We** may also request information (including credit information) from relevant third parties such as credit reference agencies and other **energy** retailers prior to **you** becoming an **Energy Online** customer and at any point while **you** are an **Energy Online** customer, as part of our credit criteria.
 
@@ -56,7 +56,7 @@ If any of **your** personal information changes (including **your** contact deta
 
 2.4 What do we do with your personal information? 
 
-Any personal information **you **give **us** is strictly confidential and will be kept secure and held by **us** in accordance with the Privacy Act 1993. **You** can view our privacy policy here. That policy outlines how **we** deal with **your** personal information. **You** can access **your** personal information held by **us** on request and correct it if it is wrong. 
+Any personal information **you **give **us** is strictly confidential and will be kept secure and held by **us** in accordance with the Privacy Act 1993. **You** can view our privacy policy [here](http://www.energyonline.co.nz/home/site_map/privacy_policy). That policy outlines how **we** deal with **your** personal information. **You** can access **your** personal information held by **us** on request and correct it if it is wrong. 
 
 2.5 Can more than one person be a customer?
 
@@ -119,7 +119,7 @@ For safety reasons, if **you** have a new or altered gas or electricity connecti
 
 5.3 The time that it will take to reconnect **your** supply of **energy** following any shutdown will depend on the **network company** that is responsible for the supply of **energy** to **your** **premises**, as that **network company** will be the person which reconnects **your** supply. 
 
-5.4 **You** can access a list of telephone numbers to contact **us** if **you** need to report a supply interruption, or access information about a supply interruption, by clicking here.  Alternatively, **you** can contact **us** at any time on 0800 083 285 and **we** will direct **you** to someone who can help.  Information about a supply interruption will be updated regularly in accordance with good industry practice in New Zealand. 
+5.4 **You** can access a list of telephone numbers to contact **us** if **you** need to report a supply interruption, or access information about a supply interruption, by clicking [here](http://www.energyonline.co.nz/home/contact_us).  Alternatively, **you** can contact **us** at any time on 0800 083 285 and **we** will direct **you** to someone who can help.  Information about a supply interruption will be updated regularly in accordance with good industry practice in New Zealand. 
 
 If **you** have sensitive equipment or property which may be affected by an interrupted supply, **we** strongly recommend that **you** protect that equipment or property in case of an unplanned shutdown or outage. See also section 22 below on sensitive equipment. 
 
@@ -130,7 +130,7 @@ In the event of a local or national **energy** shortage, or in circumstances of 
 6 METERS AND METER READINGS
 6.1 **We** will read the **meter(s**) at **your** **premises** on a regular basis and, as long as **we** have access, **we** plan to read the **meter(s)** at least once every two months, unless **we** both agree otherwise. In addition to these regular **meter** readings, **we** may also read the meter(s) at **your** **premises** for any special or final **meter** reading.  The provisions of this agreement relating to **metering** and the circumstances in which **we** will take a reading from the **meter** at **your** **premises** will be in accordance with applicable regulations and industry standards.  
 
- **You** can provide **us** with additional **meter** readings here or by calling **us**. 
+ **You** can provide **us** with additional **meter** readings [here](http://www.energyonline.co.nz/residential/residential_faqs/residential_faqs_-_meter_reads) or by calling **us**. 
 
 **We** can decide whether or not to accept **your** readings. If **we** do not accept **your** readings, **we** may carry out a special **meter** reading within 5 days. If it turns out **your** reading was accurate, **we** will not charge **you** for the cost of our special **meter** reading. If **your** reading was inaccurate, **we** may charge **you** for the cost of our special **meter** reading.
 
@@ -164,7 +164,7 @@ Our obligation to inform **you** under this section 6.3 does not apply where:
 
 **You** agree that **we** own all **meter reading** **information**. 
 
-To the extent that any **meter reading** **information** constitutes "personal information" for the purposes of the Privacy Act 1993, **we** will ensure that that **meter reading** **information** is held by **us** in accordance with the Privacy Act 1993 and our privacy policy. **You** consent to **us**:
+To the extent that any **meter reading** **information** constitutes "personal information" for the purposes of the Privacy Act 1993, **we** will ensure that that **meter reading** **information** is held by **us** in accordance with the Privacy Act 1993 and our [privacy policy](http://www.energyonline.co.nz/home/site_map/privacy_policy). **You** consent to **us**:
 
 • receiving and collecting **meter reading** **information** in respect of **you** and **your** **premises**;
 • storing **meter reading** **information** in respect of **you** and **your** **premises** in a way that is referenced back to **you** individually and/or **your** **premises**;
@@ -199,7 +199,7 @@ If **we** or a **meter company** make an appointment with **you** to install, co
 • allow to **us**, the **meter company**, the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises**, access for installation, connection, testing, inspection, maintenance, repair, replacement, alteration, servicing, cleaning, **disconnection** or removal of any equipment owned by **us** and/or a **meter company** and/or a **network company** and/or other third parties including removal of any equipment up to 6 months after termination of supply to **you**;
 • ensure that any dog or other animal that may make entry unsafe is secured to enable safe and easy access;
 • keep **us** informed about any health and safety and/or Resource Management Act 1991 requirements or issues at **your** **premises** that could be relevant to our representatives or the representatives of a **meter company** or a **network company** or other third parties who own **energy** supply equipment on **your** **premises** when they visit your **premises**; 
-• keep **your** trees and other vegetation regularly trimmed to a safe distance from any lines, pipes, substations, **meters** or equipment, to comply with the Electricity (Safety) Regulations 2010 in relation to any work near lines, the **network** or other electrical equipment, and the Electricity (Hazards from Trees) Regulations 2003. The Electricity (Hazards from Trees) Regulations 2003 specify the distances trees and other vegetation must be kept from power lines. If vegetation grows within these minimum distances (or Zones) cutting or trimming will be necessary.  **You** can view a summary of these regulations here. If **you** do not comply with these regulations (including any amendments to these regulations), **you** will be liable for the costs of carrying out any work arising as a result of **your** non-compliance.
+• keep **your** trees and other vegetation regularly trimmed to a safe distance from any lines, pipes, substations, **meters** or equipment, to comply with the Electricity (Safety) Regulations 2010 in relation to any work near lines, the **network** or other electrical equipment, and the Electricity (Hazards from Trees) Regulations 2003. The Electricity (Hazards from Trees) Regulations 2003 specify the distances trees and other vegetation must be kept from power lines. If vegetation grows within these minimum distances (or Zones) cutting or trimming will be necessary.  **You** can view a summary of these regulations [here](http://www.legislation.govt.nz/regulation/public/2003/0375/latest/DLM233405.html). If **you** do not comply with these regulations (including any amendments to these regulations), **you** will be liable for the costs of carrying out any work arising as a result of **your** non-compliance.
 
 7.2 **You** must, if requested by **us**, turn off the **energy** at **your** **premises** to enable access for the purposes referred to above.
 
@@ -309,7 +309,7 @@ If **your** **meter** is faulty, **we** may not be able to tell for certain how 
 9 WHAT FEES AND CHARGES WILL YOU PAY?
 9.1 **You** must pay the fees and charges set out in the **Energy Online** **price list** based on the **energy** **you** consume and the services **you** use unless **we** have agreed otherwise in writing. These fees and charges may change from time to time. 
 
-Please call our Customer Care Team, or click here, for a copy of our most recent **price list**.  **You** can contact **us** to check if **you** are on the right pricing plan for **your** requirements. 
+Please call our Customer Care Team, or click [here](http://www.energyonline.co.nz/residential/pricing_plans), for a copy of our most recent **price list**.  **You** can contact **us** to check if **you** are on the right pricing plan for **your** requirements. 
 
 9.2 **We** don’t offer prepay pricing plans.  If **you** are interested in a prepay pricing plan, **you** may wish to contact another **energy** retailer to see if they can offer y**ou** a prepay pricing plan in **your** area. 
 
@@ -474,7 +474,7 @@ Notwithstanding any provision to the contrary in this agreement, nothing in this
 18.1 **We** may make changes to this agreement, the **network** **requirements**, **your** payment methods, or our **price list**. If **we** make changes to this agreement, the **network** **requirements**, **your** payment methods, or if **we** increase the **energy** prices set out in our **price list**, **we** will give **you** notice of the changes as soon as possible and not later than 30 days before the change is to take effect, together with our reasons for making the changes. We will do this by any reasonable method of communication including by:
 
 • advertising in a local daily newspaper; or 
-• posting a notice on our website; or
+• posting a notice on [our website](http://www.energyonline.co.nz/); or
 • writing to **you**; or
 • emailing **you**; or
 • notifying **you** by other electronic means,
