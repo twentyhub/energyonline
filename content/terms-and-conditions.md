@@ -196,9 +196,10 @@ If an **advanced meter** has been installed at **your** **premises**, **we** may
 
 <li>**What if I miss an appointment?**
 
-If **we** or a **meter company** make an appointment with **you** to install, connect, test, inspect, maintain, repair, replace, alter, service, clean, disconnect or remove any **metering** equipment or other equipment, and **you** miss the agreed appointment, **we** may pass on to **you** any reasonable charges **we** incur as a result of **you** missing the appointment.</li>
+If **we** or a **meter company** make an appointment with **you** to install, connect, test, inspect, maintain, repair, replace, alter, service, clean, disconnect or remove any **metering** equipment or other equipment, and **you** miss the agreed appointment, **we** may pass on to **you** any reasonable charges **we** incur as a result of **you** missing the appointment.</li></ol>
 
 ## 7 WHAT ACCESS DO YOU NEED TO PROVIDE?
+
 <ol>
 <li>**You** must:
 <ul>
