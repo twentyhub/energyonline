@@ -44,7 +44,7 @@ Hamilton 3240
 
 2.2 An agreement between **you** and **us** is formed on these terms and conditions when in our sole discretion **we** accept **your** application to join **us** and the agreement will apply from the date on which **you** first use **energy** supplied by **us**, and **you** will be liable to pay our charges from that date.  **We** may require **you** to provide evidence of when **you** first use **energy** supplied by **us** through a certificate of title or tenancy agreement.  Where **you** apply to join **us** before using **energy** supplied by **us**, the supply of **energy** to **you** will commence as soon as possible following our acceptance of **your** application.
 
-If **you** have moved to **premises** and started using **energy**, **you** will still need to call **us** to become a customer. If **you** do not contact **us** to become a customer, **we** will disconnect the property. **We** may also charge **you** a disconnection fee, the cost of any **energy** consumed, and any other costs **we** incur as a result of **you** consuming **energy** at the **premises** as specified in our price list.
+If **you** have moved to **premises** and started using **energy**, **you** will still need to call **us** to become a customer. If **you** do not contact **us** to become a customer, **we** will disconnect the property. **We** may also charge **you** a **disconnection** fee, the cost of any **energy** consumed, and any other costs **we** incur as a result of **you** consuming **energy** at the **premises** as specified in our price list.
 
 2.3 What information do we need from you? 
 
@@ -196,7 +196,7 @@ If **we** or a **meter company** make an appointment with **you** to install, co
 
 • provide to **us**, the **meter company**, the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises**, safe and unobstructed access to **metering equipment**, and any equipment of the **network company** or any other person on **your** **premises** between 8.00am and 7.00pm, Monday to Sunday, excluding public holidays;
 • provide to **us**, the **meter company**, the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises**, immediate access to **your** **premises** at any time for safety reasons or to prevent serious damage to property or the environment;
-• allow to **us**, the **meter company**, the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises**, access for installation, connection, testing, inspection, maintenance, repair, replacement, alteration, servicing, cleaning, disconnection or removal of any equipment owned by **us** and/or a **meter company** and/or a **network company** and/or other third parties including removal of any equipment up to 6 months after termination of supply to **you**;
+• allow to **us**, the **meter company**, the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises**, access for installation, connection, testing, inspection, maintenance, repair, replacement, alteration, servicing, cleaning, **disconnection** or removal of any equipment owned by **us** and/or a **meter company** and/or a **network company** and/or other third parties including removal of any equipment up to 6 months after termination of supply to **you**;
 • ensure that any dog or other animal that may make entry unsafe is secured to enable safe and easy access;
 • keep **us** informed about any health and safety and/or Resource Management Act 1991 requirements or issues at **your** **premises** that could be relevant to our representatives or the representatives of a **meter company** or a **network company** or other third parties who own **energy** supply equipment on **your** **premises** when they visit your **premises**; 
 • keep **your** trees and other vegetation regularly trimmed to a safe distance from any lines, pipes, substations, **meters** or equipment, to comply with the Electricity (Safety) Regulations 2010 in relation to any work near lines, the **network** or other electrical equipment, and the Electricity (Hazards from Trees) Regulations 2003. The Electricity (Hazards from Trees) Regulations 2003 specify the distances trees and other vegetation must be kept from power lines. If vegetation grows within these minimum distances (or Zones) cutting or trimming will be necessary.  **You** can view a summary of these regulations here. If **you** do not comply with these regulations (including any amendments to these regulations), **you** will be liable for the costs of carrying out any work arising as a result of **your** non-compliance.
@@ -268,7 +268,7 @@ If **you** dispute the amount on **your** invoice, or any part of **your** invoi
 
 8.5 What if you don't pay? 
 
-**We** will try to help **you** in making payment arrangements with **us**, but if **you** do not pay amounts due to **us**, **we** may disconnect or limit **your** supply (see section 11.1 below) and **you** may incur fees for disconnection and debt collection. If circumstances arise, or are likely to arise, that mean **you** may incur a fee for disconnection or debt collection, **we** will provide reasonable notice to **you** that such a fee will be payable.
+**We** will try to help **you** in making payment arrangements with **us**, but if **you** do not pay amounts due to **us**, **we** may disconnect or limit **your** supply (see section 11.1 below) and **you** may incur fees for **disconnection** and debt collection. If circumstances arise, or are likely to arise, that mean **you** may incur a fee for **disconnection** or debt collection, **we** will provide reasonable notice to **you** that such a fee will be payable.
 
 Any costs incurred in collecting money owing to **us** by **you**, including bank fees, credit agency fees and legal and court costs, are payable by **you**. 
 
@@ -322,25 +322,25 @@ Please contact **us** if **you** would like to change **your** pricing plan, pro
 **You** may pay **your** invoice by any of the methods described in the welcome pack sent to **you** when **you** became our customer, as updated from time to time on our website. If you would like to receive further details, please call our Customer Care Team.
 
 11 WHEN WILL WE DISCONNECT YOUR SUPPLY?
-11.1 In addition to our, the **network company's** and the **meter company's** other rights of disconnection under this agreement, **your** **energy** supply may be disconnected: 
+11.1 In addition to our, the **network company's** and the **meter company's** other rights of **disconnection** under this agreement, **your** **energy** supply may be disconnected: 
 
 • ­for non payment of the undisputed portion of any invoice associated with the supply of **energy**, lines services or other services supplied to **you**;
 • ­if **we** cease to have an agreement with the **network company** that provides lines services to **you**;
 • ­for a planned or unplanned supply interruption (including for safety reasons); or
 • ­if **you** materially or persistently breach any term of this agreement.
 
-If **you** materially or persistently breach a term of this agreement in a way that is capable of being remedied, **we** will give **you** notice of the steps **you** can take to avoid the disconnection of **your** **energy** and/or termination of this agreement and **you** will have 5 business days to remedy the breach in accordance with the notice.
+If **you** materially or persistently breach a term of this agreement in a way that is capable of being remedied, **we** will give **you** notice of the steps **you** can take to avoid the **disconnection** of **your** **energy** and/or termination of this agreement and **you** will have 5 business days to remedy the breach in accordance with the notice.
 
 If an **advanced meter** has been installed at **your** **premises**, **we** may disconnect **your** supply of **energy** remotely.
 
 11.2 Will we tell you about disconnecting your supply? 
 
-Except in the case of an emergency situation or for safety reasons, or where **we** suspect the **metering equipment** or other equipment at **your** **premises** supplied by **us** or a **network company** or **meter company** has been tampered or interfered with, **we** will tell **you** at least 7 days (and allow a further 3 days for delivery of the notice) before **we** disconnect **your** supply of **energy**. **We** will also contact **you**, at the contact details provided by **you**, to provide **you** with a final warning at least 24 hours prior to disconnecting **your** supply. If disconnection is not prevented by **you** and not completed within the timeframe notified to **you** (including where **we** grant **you** an extension to that timeframe, at our discretion), **we** will issue **you** with another final warning no less than 24 hours, or not more than 7 days, before disconnection. Any notice of disconnection from **us** will include information that **you** need to prevent disconnection if prevention is possible.  **We** may ask **you** to pay a disconnection fee or an attendance fee (where the disconnection does not proceed) in respect of the action taken by **us** under this section. **We** will provide reasonable notice to **you** if **you** are likely to incur a disconnection fee.
+Except in the case of an emergency situation or for safety reasons, or where **we** suspect the **metering equipment** or other equipment at **your** **premises** supplied by **us** or a **network company** or **meter company** has been tampered or interfered with, **we** will tell **you** at least 7 days (and allow a further 3 days for delivery of the notice) before **we** disconnect **your** supply of **energy**. **We** will also contact **you**, at the contact details provided by **you**, to provide **you** with a final warning at least 24 hours prior to disconnecting **your** supply. If **disconnectio**n is not prevented by **you** and not completed within the timeframe notified to **you** (including where **we** grant **you** an extension to that timeframe, at our discretion), **we** will issue **you** with another final warning no less than 24 hours, or not more than 7 days, before **disconnection**. Any notice of **disconnection** from **us** will include information that **you** need to prevent **disconnection** if prevention is possible.  **We** may ask **you** to pay a **disconnection** fee or an attendance fee (where the **disconnection** does not proceed) in respect of the action taken by **us** under this section. **We** will provide reasonable notice to **you** if **you** are likely to incur a **disconnection** fee.
 
 **We** will not disconnect **your** supply for non-payment of a disputed amount where **you** have initiated a dispute with the Electricity & Gas Complaints Commissioner in relation to that disputed amount, unless the Electricity & Gas Complaints Commissioner dispute resolution process or our own dispute resolution process has been exhausted.
 
 **We** will only disconnect **your** supply for non-payment of an invoice based on an estimate if it is fair and reasonable in the circumstances to do so. 
-Where **we** disconnect **your** electricity under this section 11 (other than in the case of an emergency situation or for safety reasons), such disconnection will not take place on a Friday, Saturday, Sunday, public holiday or the day before any public holiday in **your** area. 
+Where **we** disconnect **your** electricity under this section 11 (other than in the case of an emergency situation or for safety reasons), such **disconnection** will not take place on a Friday, Saturday, Sunday, public holiday or the day before any public holiday in **your** area. 
 
 If **your** supply has been disconnected for non-payment and **you** satisfy our requirements for reconnection (see section 12), **we** will restore **your** supply as soon as reasonably practicable.
 
@@ -353,7 +353,7 @@ The **network company** is entitled to disconnect **your** supply if:
 • requested to do so by **us**; 
 • an emergency situation occurs;
 • it considers **your** equipment to be unsafe; or 
-• **you** materially breach any other term of this agreement including the **network** requirements, and **you** agree that in respect of **your** electricity supply, section 105 of the Electricity Industry Act 2010 shall not apply in respect of such disconnection. 
+• **you** materially breach any other term of this agreement including the **network** requirements, and **you** agree that in respect of **your** electricity supply, section 105 of the Electricity Industry Act 2010 shall not apply in respect of such **disconnection**. 
 
 12 HOW DO YOU RESUME SUPPLY?
 When **you** want to start **your** **energy** supply again, please call **us**. **You** may not attempt to reconnect the **energy** supply yourself. Before **we** agree to reconnect **your** **energy** supply **we** may require **you** to:
@@ -376,7 +376,7 @@ If an **advanced meter** has been installed at **your** **premises**, **we** may
 
 If **you** don’t give **us** 3 business days' notice **you** will be required to pay for any **energy** used at the **premises** while the **premises** remain connected to the **network**, even if **you** are no longer at the **premises**, until the date on which 3 business days' notice has been given. 
 
-If **you** are not going to remain our customer after **your** move, our charges to **you** will stop on the date 3 business days after **you** have given **us** notice in accordance with this section, or if **you** have failed to give **us** notice, when **we** disconnect the **premises**, or a new customer has notified **us** that it has taken over the **premises**.  Where **you** have given **us** notice in accordance with this section, disconnection of **your** **premises** will occur as soon as possible on or from the date on which **your** notice takes effect.
+If **you** are not going to remain our customer after **your** move, our charges to **you** will stop on the date 3 business days after **you** have given **us** notice in accordance with this section, or if **you** have failed to give **us** notice, when **we** disconnect the **premises**, or a new customer has notified **us** that it has taken over the **premises**.  Where **you** have given **us** notice in accordance with this section, **disconnection** of **your** **premises** will occur as soon as possible on or from the date on which **your** notice takes effect.
 
 Where **you** have instructed **us** that **you** are switching to another retailer, **we** will work with **you** to facilitate the switch and terminate **your** supply in accordance with applicable regulations and industry standards. 
 
@@ -391,12 +391,12 @@ If the **energy** supply at **your** **premises** is disconnected (but not decom
 **We** will arrange for a final **meter** reading and **we** will send a final invoice to **you** at **your** forwarding address. **We** may ask **you** to pay a final **meter** reading fee.  **We** will give **you** reasonable notice that **you** may incur a final **meter** reading fee and how **you** may avoid the fee if possible. 
 
 14 CONTACTING WORK AND INCOME AND NOMINATED PERSON
-**You** are a vulnerable customer if **you** have told **us**, or it appears to **us**, that disconnection of **energy** at **your** **premises** presents a clear threat to the health or well-being of **you** or a member of **your** household, or if **you** have mains powered equipment for critical medical support. This could be because of age, health or disability. **You** can inform **us** at any time if **you** are or become a vulnerable customer. 
+**You** are a vulnerable customer if **you** have told **us**, or it appears to **us**, that **disconnection** of **energy** at **your** **premises** presents a clear threat to the health or well-being of **you** or a member of **your** household, or if **you** have mains powered equipment for critical medical support. This could be because of age, health or disability. **You** can inform **us** at any time if **you** are or become a vulnerable customer. 
 
 If: 
 
 • for any reason **we** form the honest belief that **you** are a vulnerable customer; and
-• **you** do not make regular bill payments and **your** supply is at risk of disconnection; and
+• **you** do not make regular bill payments and **your** supply is at risk of **disconnection**; and
 • **we** have provided **you** with all the assistance **we** are reasonably able to; and
 • **you** are still unable to make **your** payments,
 
@@ -406,7 +406,7 @@ If:
 
 If **you** are not a vulnerable customer, **you** can still agree that **we** consult with Work and Income, District Health Boards, private health providers or any other social agency or service provider if:
 
-• **you** do not pay **your** invoices regularly and **your** supply is at risk of disconnection; and
+• **you** do not pay **your** invoices regularly and **your** supply is at risk of **disconnection**; and
 • **we** have provided **you** with all the assistance **we** are reasonably able to; and
 • **you** are still unable to make **your** payments.
 
@@ -642,9 +642,9 @@ If **you** do not have a direct agreement with **your** **meter company**, then 
 27 WORDS WE USE IN THIS AGREEMENT
 **advanced meter** means a remotely read interval **meter** and all associated **metering equipment**.
 
-decommission means the permanent disconnection of **your** **premises** and removal of **your** ICP so that **you** cannot receive the supply of **energy**, and will involve the permanent removal of **metering equipment** and may include removal of **your** service lines.
+decommission means the permanent **disconnection** of **your** **premises** and removal of **your** ICP so that **you** cannot receive the supply of **energy**, and will involve the permanent removal of **metering equipment** and may include removal of **your** service lines.
 
-disconnection and disconnected means the isolation of **your** **premises** from the **network**. **Your** **premises** remain connected to the **network** but **you** cannot receive supply of **energy**.
+**disconnection** and disconnected means the isolation of **your** **premises** from the **network**. **Your** **premises** remain connected to the **network** but **you** cannot receive supply of **energy**.
 
 Electricity Code means the Electricity Industry Participation Code 2010, as amended from time to time.
 
@@ -678,7 +678,7 @@ point of supply means the point at which **we** or the **network company** deter
 
 price list means **Energy Online's energy** prices relating to **energy** consumption, and special fees and charges for other services. **Your** current relevant price lists are available by calling our Customer Care Team.
 
-vulnerable customer means a customer who has told **us**, or about whom it appears to **us**, that disconnection of **energy** at the customer's **premises** presents a clear threat to the health or well-being of the customer or a member of the customer's household, or who has mains powered equipment for critical medical support. This could be because of age, health or disability.  A vulnerable customer may also be a customer who cannot genuinely pay his or her bill because of severe financial difficulty, whether temporary or permanent. 
+vulnerable customer means a customer who has told **us**, or about whom it appears to **us**, that **disconnection** of **energy** at the customer's **premises** presents a clear threat to the health or well-being of the customer or a member of the customer's household, or who has mains powered equipment for critical medical support. This could be because of age, health or disability.  A vulnerable customer may also be a customer who cannot genuinely pay his or her bill because of severe financial difficulty, whether temporary or permanent. 
 
 **you**/**your** means **you**, the customer.
  
