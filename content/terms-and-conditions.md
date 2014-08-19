@@ -413,7 +413,7 @@ If **you** are not a **vulnerable customer**, **you** can still agree that **we*
 If **you** have nominated a person as an account authority with whom **we** can discuss the details of **your** account under section 2.5, **we** may also discuss financial assistance with that person.
 
 15 OUR PERFORMANCE COMMITMENTS
-**We** will supply **energy** to **your** **premises** at quality and reliability levels in accordance with good industry practice in New Zealand and in accordance with current laws including, but not limited to, the Consumer Guarantees Act 1993 (where **you** are a residential customer), the Gas Act 1992, the Electricity Industry Act 2010 and the Electricity Code and technical electricity and gas codes of practice. 
+**We** will supply **energy** to **your** **premises** at quality and reliability levels in accordance with good industry practice in New Zealand and in accordance with current laws including, but not limited to, the Consumer Guarantees Act 1993 (where **you** are a residential customer), the Gas Act 1992, the Electricity Industry Act 2010 and the **Electricity Code** and technical electricity and gas codes of practice. 
 
 What if you think that we have not met our performance commitments?
 
@@ -490,7 +490,7 @@ or by a combination of these methods.
 
 **We** may transfer to someone else all or any part of our rights and responsibilities under this agreement. **We** may also sub-contract or delegate our responsibilities under this agreement to other people or companies.  Where **we** transfer our rights and responsibilities under this agreement, **we** will advise **you** that the agreement is being transferred to another company, where **you** can access the information **you** need to contact the new company and when the transfer will take place.  If, for any reason, **we** have, or **we** are likely to have, a receiver, liquidator or other similar officer appointed, **we** will take all reasonable steps to ensure that the supply of **your** **energy** is not affected.
 
-19.2 In addition to the above, the Electricity Authority is able to assign our rights and obligations in respect of the supply of electricity to **you** under these terms to another electricity retailer in the event that **we** commit an "event of default", as that term is defined in the Electricity Code.  In the event that such an assignment occurs, the terms on which **you** will be supplied with electricity by the recipient retailer will be amended to the standard terms that the recipient retailer would normally have offered to **you** immediately before the relevant "event of default" occurred (or such other terms that are more advantageous to **you** than the recipient retailer's standard terms, as the recipient retailer and the Electricity Authority agree).  On such an assignment, these terms may be amended to include a minimum term in respect of which **you** must pay an amount if **you** wish to cancel these terms prior to the expiry of that minimum term.  **We** may provide information about **you** to the Electricity Authority (and the Electricity Authority may pass this information on to the recipient electricity retailer), if required under the Electricity Code.
+19.2 In addition to the above, the Electricity Authority is able to assign our rights and obligations in respect of the supply of electricity to **you** under these terms to another electricity retailer in the event that **we** commit an "event of default", as that term is defined in the **Electricity Code**.  In the event that such an assignment occurs, the terms on which **you** will be supplied with electricity by the recipient retailer will be amended to the standard terms that the recipient retailer would normally have offered to **you** immediately before the relevant "event of default" occurred (or such other terms that are more advantageous to **you** than the recipient retailer's standard terms, as the recipient retailer and the Electricity Authority agree).  On such an assignment, these terms may be amended to include a minimum term in respect of which **you** must pay an amount if **you** wish to cancel these terms prior to the expiry of that minimum term.  **We** may provide information about **you** to the Electricity Authority (and the Electricity Authority may pass this information on to the recipient electricity retailer), if required under the **Electricity Code**.
 
 19.3 The terms set out in section 19.2 are included for the benefit of the Electricity Authority for the purposes of the Contracts (Privity) Act 1982 and may not be amended without the consent of the Electricity Authority.
 
@@ -646,7 +646,7 @@ decommission means the permanent **disconnection** of **your** **premises** and 
 
 **disconnection** and disconnected means the isolation of **your** **premises** from the **network**. **Your** **premises** remain connected to the **network** but **you** cannot receive supply of **energy**.
 
-Electricity Code means the Electricity Industry Participation Code 2010, as amended from time to time.
+**Electricity Code** means the Electricity Industry Participation Code 2010, as amended from time to time.
 
 **emergency situation** means a situation in which there is a probable danger to life or property or immediate risk to the continuity or safety of supply of distribution of **energy**. 
 
