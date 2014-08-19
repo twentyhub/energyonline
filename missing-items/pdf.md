@@ -7,3 +7,5 @@
 [Standard Direct Debit form](http://www.energyonline.co.nz/images/J1883-EOL-Direct-Debit-Form_2.pdf)
 
 [credit card payment form](https://www.energyonline.co.nz/Portals/0/Forms/Direct_Debit_by_Credit_Card.pdf)
+
+[Download our “How to read your Advanced Meter” flyer here](http://www.energyonline.co.nz/Portals/0/PDFs/advanced-meter-flyer.pdf)
