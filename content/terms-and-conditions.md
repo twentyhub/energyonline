@@ -273,17 +273,17 @@ If **you** do not provide access to **your** **meter** or to any other **meters*
 
 **You** must pay the total amount shown on each invoice (including GST).  Payment must be received by **us** by the due date specified on the invoice, whether the invoice is based on an actual or estimated **meter** reading. **You** may not deduct or set off any amount from the amount shown on the invoice.</li>
 
-<li>**What if you have a dispute?**
+<li><dl><dt>**What if you have a dispute?**</dt>
 
-If **you** dispute any amount payable under an invoice, **you** must give **us** notice at least 3 business days prior to the due date of the invoice, identifying the amount in dispute, and giving full reasons for the dispute. **We** will investigate **your** dispute as quickly as possible. 
+<dd>If **you** dispute any amount payable under an invoice, **you** must give **us** notice at least 3 business days prior to the due date of the invoice, identifying the amount in dispute, and giving full reasons for the dispute. **We** will investigate **your** dispute as quickly as possible. 
 
 If **you** dispute the amount on **your** invoice, or any part of **your** invoice, **you** must still pay the undisputed amount by the due date. 
 
-**We** will not stop supplying **you** with **energy** if there is a genuine dispute between **us** in relation to an invoice and **you** have paid **us** any undisputed amount by the due date. Within 10 days of resolving any dispute about **your** invoice, **we** will credit your account with any amount **we** owe **you**, or **you** will pay **us** any amount **you** owe **us**, unless agreed otherwise.</li>
+**We** will not stop supplying **you** with **energy** if there is a genuine dispute between **us** in relation to an invoice and **you** have paid **us** any undisputed amount by the due date. Within 10 days of resolving any dispute about **your** invoice, **we** will credit your account with any amount **we** owe **you**, or **you** will pay **us** any amount **you** owe **us**, unless agreed otherwise.</dd></dl></li>
 
-<li>**What if you don't pay?** 
+<li><dl><dt>**What if you don't pay?**</dt> 
 
-**We** will try to help **you** in making payment arrangements with **us**, but if **you** do not pay amounts due to **us**, **we** may disconnect or limit **your** supply (see section 11.1 below) and **you** may incur fees for **disconnection** and debt collection. If circumstances arise, or are likely to arise, that mean **you** may incur a fee for **disconnection** or debt collection, **we** will provide reasonable notice to **you** that such a fee will be payable.
+<dd>**We** will try to help **you** in making payment arrangements with **us**, but if **you** do not pay amounts due to **us**, **we** may disconnect or limit **your** supply (see section 11.1 below) and **you** may incur fees for **disconnection** and debt collection. If circumstances arise, or are likely to arise, that mean **you** may incur a fee for **disconnection** or debt collection, **we** will provide reasonable notice to **you** that such a fee will be payable.
 
 Any costs incurred in collecting money owing to **us** by **you**, including bank fees, credit agency fees and legal and court costs, are payable by **you**. 
 
@@ -291,29 +291,29 @@ If **you** are having difficulties in paying **your** invoice to **us** because 
 
 If **you** are a **vulnerable customer**, **we** will not disconnect **your** **energy** supply unless all assistance with payment has been given under section 14 of this agreement.
 
-If **you** have verified **your** status as a **medically dependent** **customer** with **us**, **we** will not disconnect **your** electricity supply. In order to verify **your** status as a **medically dependent** **customer**, **you** will need to provide **us** with a Notice of Potential Medically Dependent Consumer Status Form.  **You** can request this form from **your** primary healthcare provider.  **We** may ask **you** to re-confirm **your** status as a **medically dependent** **customer** by providing **us** with a further Notice of Potential Medically Dependent Consumer Status Form no more than once every 12 months.</li>
+If **you** have verified **your** status as a **medically dependent** **customer** with **us**, **we** will not disconnect **your** electricity supply. In order to verify **your** status as a **medically dependent** **customer**, **you** will need to provide **us** with a Notice of Potential Medically Dependent Consumer Status Form.  **You** can request this form from **your** primary healthcare provider.  **We** may ask **you** to re-confirm **your** status as a **medically dependent** **customer** by providing **us** with a further Notice of Potential Medically Dependent Consumer Status Form no more than once every 12 months.</dd></dl></li>
 
-<li>**What if you don't receive an invoice or your invoice was late?**
+<li><dl><dt>**What if you don't receive an invoice or your invoice was late?**</dt>
 
-If **you** have not received an invoice, **you** should contact **us**.  If **we** determine that **you** are not responsible for the lateness of an invoice and:
+<dd>If **you** have not received an invoice, **you** should contact **us**.  If **we** determine that **you** are not responsible for the lateness of an invoice and:
 <ul>
 <li>the invoice is sent more than two months after the end of the period to which it relates, **you** will have at least the length of time covered by the invoice to pay it; or</li>
-<li>the invoice is more than three months late, **we** will give **you** a discount of 5%.</li></ul></li>
+<li>the invoice is more than three months late, **we** will give **you** a discount of 5%.</li></ul></dd></dl></li>
 
-<li>**What if your invoice is based on an estimate?** 
+<li><dl><dt>**What if your invoice is based on an estimate?**</dt> 
 
-If **your** invoice is based on our estimate of **your** **energy** consumption, **your** invoice will normally state clearly that an estimate has been used.  **You** may still pay for the exact amount of **energy** **you** have used by reading **your** own **meter** and advising **us** of **your** **meter** reading.  **We** will send **you** a new invoice based on this **meter** reading (unless **we** believe it is not correct), and **you** agree to pay the amount shown on that new invoice.  **You** can contact **us** if **you** would like a simple explanation of how any estimate has been calculated.</li>  
+<dd>If **your** invoice is based on our estimate of **your** **energy** consumption, **your** invoice will normally state clearly that an estimate has been used.  **You** may still pay for the exact amount of **energy** **you** have used by reading **your** own **meter** and advising **us** of **your** **meter** reading.  **We** will send **you** a new invoice based on this **meter** reading (unless **we** believe it is not correct), and **you** agree to pay the amount shown on that new invoice.  **You** can contact **us** if **you** would like a simple explanation of how any estimate has been calculated.</dd></dl></li>  
 
-<li>**What if your invoice is wrong?** 
+<li><dl><dt>**What if your invoice is wrong?**</dt> 
 
-If **your** invoice is incorrect, **you** are only liable to pay the correct amount and **we** will refund any amount that **we** have over-charged, or **you** will pay any amount that **we** have under-charged. Any refunds for amounts that **we** have over-charged will be made promptly.  **We** may offset against any refund any amounts **you** owe **us** (or any debt collection agency to whom **we** have transferred any debt owing to **us** by **you**). Any amounts that **you** are required to pay because **we** have under-charged **you** will take into account whether **you** have contributed to the error in any way or could reasonably have been expected to know of the error.  
+<dd>If **your** invoice is incorrect, **you** are only liable to pay the correct amount and **we** will refund any amount that **we** have over-charged, or **you** will pay any amount that **we** have under-charged. Any refunds for amounts that **we** have over-charged will be made promptly.  **We** may offset against any refund any amounts **you** owe **us** (or any debt collection agency to whom **we** have transferred any debt owing to **us** by **you**). Any amounts that **you** are required to pay because **we** have under-charged **you** will take into account whether **you** have contributed to the error in any way or could reasonably have been expected to know of the error.  
 
-This does not apply where **your** invoice is based on an estimate of **your** **energy** consumption, as an adjustment will be made automatically in the next invoice based on an actual **meter** reading. In any event, **you** will be responsible for the payment of all of the **energy** **you** use.</li>
+This does not apply where **your** invoice is based on an estimate of **your** **energy** consumption, as an adjustment will be made automatically in the next invoice based on an actual **meter** reading. In any event, **you** will be responsible for the payment of all of the **energy** **you** use.</dd></dl></li>
 
 
-<li>**Is interest payable?** 
+<li><dl><dt>**Is interest payable?**</dt> 
 
-No interest is due on any amounts over-paid or under-paid by **you** or **us** in relation to incorrect or late invoices.</li>
+<dd>No interest is due on any amounts over-paid or under-paid by **you** or **us** in relation to incorrect or late invoices.</dd></dl></li>
 
 <li>8.10 Payment if meter is faulty 
 
@@ -351,20 +351,20 @@ If **you** materially or persistently breach a term of this agreement in a way t
 
 If an **advanced meter** has been installed at **your** **premises**, **we** may disconnect **your** supply of **energy** remotely.</li>
 
-<li>**Will we tell you about disconnecting your supply?** 
+<li><dl><dt>**Will we tell you about disconnecting your supply?**</dt> 
 
-Except in the case of an **emergency situation** or for safety reasons, or where **we** suspect the **metering equipment** or other equipment at **your** **premises** supplied by **us** or a **network company** or **meter company** has been tampered or interfered with, **we** will tell **you** at least 7 days (and allow a further 3 days for delivery of the notice) before **we** disconnect **your** supply of **energy**. **We** will also contact **you**, at the contact details provided by **you**, to provide **you** with a final warning at least 24 hours prior to disconnecting **your** supply. If **disconnectio**n is not prevented by **you** and not completed within the timeframe notified to **you** (including where **we** grant **you** an extension to that timeframe, at our discretion), **we** will issue **you** with another final warning no less than 24 hours, or not more than 7 days, before **disconnection**. Any notice of **disconnection** from **us** will include information that **you** need to prevent **disconnection** if prevention is possible.  **We** may ask **you** to pay a **disconnection** fee or an attendance fee (where the **disconnection** does not proceed) in respect of the action taken by **us** under this section. **We** will provide reasonable notice to **you** if **you** are likely to incur a **disconnection** fee.
+<dd>Except in the case of an **emergency situation** or for safety reasons, or where **we** suspect the **metering equipment** or other equipment at **your** **premises** supplied by **us** or a **network company** or **meter company** has been tampered or interfered with, **we** will tell **you** at least 7 days (and allow a further 3 days for delivery of the notice) before **we** disconnect **your** supply of **energy**. **We** will also contact **you**, at the contact details provided by **you**, to provide **you** with a final warning at least 24 hours prior to disconnecting **your** supply. If **disconnectio**n is not prevented by **you** and not completed within the timeframe notified to **you** (including where **we** grant **you** an extension to that timeframe, at our discretion), **we** will issue **you** with another final warning no less than 24 hours, or not more than 7 days, before **disconnection**. Any notice of **disconnection** from **us** will include information that **you** need to prevent **disconnection** if prevention is possible.  **We** may ask **you** to pay a **disconnection** fee or an attendance fee (where the **disconnection** does not proceed) in respect of the action taken by **us** under this section. **We** will provide reasonable notice to **you** if **you** are likely to incur a **disconnection** fee.
 
 **We** will not disconnect **your** supply for non-payment of a disputed amount where **you** have initiated a dispute with the Electricity & Gas Complaints Commissioner in relation to that disputed amount, unless the Electricity & Gas Complaints Commissioner dispute resolution process or our own dispute resolution process has been exhausted.
 
 **We** will only disconnect **your** supply for non-payment of an invoice based on an estimate if it is fair and reasonable in the circumstances to do so. 
 Where **we** disconnect **your** electricity under this section 11 (other than in the case of an **emergency situation** or for safety reasons), such **disconnection** will not take place on a Friday, Saturday, Sunday, public holiday or the day before any public holiday in **your** area. 
 
-If **your** supply has been disconnected for non-payment and **you** satisfy our requirements for reconnection (see section 12), **we** will restore **your** supply as soon as reasonably practicable.</li>
+If **your** supply has been disconnected for non-payment and **you** satisfy our requirements for reconnection (see section 12), **we** will restore **your** supply as soon as reasonably practicable.</dd></dl></li>
 
-<li>**Can the network company also disconnect your supply?** 
+<li><dl><dt>**Can the network company also disconnect your supply?**</dt> 
 
-The **network company** is entitled to disconnect **your** supply if:
+<dd>The **network company** is entitled to disconnect **your** supply if:
 <ul>
 <li>**you** fail to grant the rights of access specified in this agreement;</li> 
 <li>**your** equipment does not meet the **network company's** requirements;</li> 
@@ -372,7 +372,7 @@ The **network company** is entitled to disconnect **your** supply if:
 <li>an **emergency situation** occurs;
 </li>
 <li>it considers **your** equipment to be unsafe; or</li> 
-<li>**you** materially breach any other term of this agreement including the **network** requirements, and **you** agree that in respect of **your** electricity supply, section 105 of the Electricity Industry Act 2010 shall not apply in respect of such **disconnection**.</li></ul></li></ol> 
+<li>**you** materially breach any other term of this agreement including the **network** requirements, and **you** agree that in respect of **your** electricity supply, section 105 of the Electricity Industry Act 2010 shall not apply in respect of such **disconnection**.</li></ul></dd></dl></li></ol> 
 
 ## 12 HOW DO YOU RESUME SUPPLY?
 When **you** want to start **your** **energy** supply again, please call **us**. **You** may not attempt to reconnect the **energy** supply yourself. Before **we** agree to reconnect **your** **energy** supply **we** may require **you** to:
@@ -400,15 +400,15 @@ If **you** are not going to remain our customer after **your** move, our charges
 
 Where **you** have instructed **us** that **you** are switching to another retailer, **we** will work with **you** to facilitate the switch and terminate **your** supply in accordance with applicable regulations and industry standards.</li> 
 
-<li>**What if you want to stop receiving electricity where we also supply you with gas?**
+<li><dl><dt>**What if you want to stop receiving electricity where we also supply you with gas?**</dt>
 
-**We** will only supply gas to **your** **premises** if **we** also supply **your** **premises** with electricity, therefore, if **you** no longer wish to receive electricity from **us**, **we** will also terminate our supply of gas to **you**.   **You** must provide **us** with at least 3 business days notice to terminate supply.
+<dd>**We** will only supply gas to **your** **premises** if **we** also supply **your** **premises** with electricity, therefore, if **you** no longer wish to receive electricity from **us**, **we** will also terminate our supply of gas to **you**.   **You** must provide **us** with at least 3 business days notice to terminate supply.
 
-If the **energy** supply at **your** **premises** is disconnected (but not **decommissioned**), **we** may still charge **you** a daily fixed charge. However, **we** will not charge **you** a daily fixed charge for **energy** if the **energy** supply at **your** **premises** has been **decommissioned**.</li>
+If the **energy** supply at **your** **premises** is disconnected (but not **decommissioned**), **we** may still charge **you** a daily fixed charge. However, **we** will not charge **you** a daily fixed charge for **energy** if the **energy** supply at **your** **premises** has been **decommissioned**.</dd></dl></li>
 
-<li>**Will a final meter reading be taken?** 
+<li><dl><dt>**Will a final meter reading be taken?**</dt> 
 
-**We** will arrange for a final **meter** reading and **we** will send a final invoice to **you** at **your** forwarding address. **We** may ask **you** to pay a final **meter** reading fee.  **We** will give **you** reasonable notice that **you** may incur a final **meter** reading fee and how **you** may avoid the fee if possible.</li></ol> 
+<dd>**We** will arrange for a final **meter** reading and **we** will send a final invoice to **you** at **your** forwarding address. **We** may ask **you** to pay a final **meter** reading fee.  **We** will give **you** reasonable notice that **you** may incur a final **meter** reading fee and how **you** may avoid the fee if possible.</dd></dl></li></ol> 
 
 ## 14 CONTACTING WORK AND INCOME AND NOMINATED PERSON
 **You** are a **vulnerable customer** if **you** have told **us**, or it appears to **us**, that **disconnection** of **energy** at **your** **premises** presents a clear threat to the health or well-being of **you** or a member of **your** household, or if **you** have mains powered equipment for critical medical support. This could be because of age, health or disability. **You** can inform **us** at any time if **you** are or become a **vulnerable customer**. 
