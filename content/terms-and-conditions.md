@@ -474,13 +474,13 @@ and the loss or damage is:
 
 but **we** will not be liable in any cases for any other loss or damage including indirect or consequential losses, loss of profits or revenue, or similar.
 
-<li>**What is an event beyond our control?** 
+<li><dl><dt>**What is an event beyond our control?**</dt> 
 
-An event or cause beyond our control includes, but is not limited to: acts of God, war, riot, civil commotion, malicious damage, compliance with any law or governmental order, rule, regulation or direction, accident, earthquake, fire, lightning, storm, flood or other similar event, interference with the **network** from birds, animals or vegetation, traffic accidents, faults in the **network**, acts or omissions by the **network company** or **meter company**, problems with generation, transmission or distribution of **energy**, problems with **your** wiring, problems arising because of health and safety hazards at **your** **premises**, and other things which **we** do not have control over.</li> 
+<dd>An event or cause beyond our control includes, but is not limited to: acts of God, war, riot, civil commotion, malicious damage, compliance with any law or governmental order, rule, regulation or direction, accident, earthquake, fire, lightning, storm, flood or other similar event, interference with the **network** from birds, animals or vegetation, traffic accidents, faults in the **network**, acts or omissions by the **network company** or **meter company**, problems with generation, transmission or distribution of **energy**, problems with **your** wiring, problems arising because of health and safety hazards at **your** **premises**, and other things which **we** do not have control over.</dd></dl></li> 
 
-<li>**What is our maximum liability?** 
+<li><dl><dt>**What is our maximum liability?**</dt> 
 
-If **we** are liable to **you**, the maximum amount **we** will pay as compensation for **your** loss is $10,000 in respect of any event or series of closely related events. **We** may choose to replace any damaged property or goods, up to the same maximum amount, instead of paying cash. **We** are not required to honour this agreement in circumstances where an event has occurred which is beyond our control and which prevents **us** from doing the things **we** would normally do. In these circumstances, **we** will carry on honouring our obligations as soon as it is reasonably practicable for **us** to do so. 
+<dd>If **we** are liable to **you**, the maximum amount **we** will pay as compensation for **your** loss is $10,000 in respect of any event or series of closely related events. **We** may choose to replace any damaged property or goods, up to the same maximum amount, instead of paying cash. **We** are not required to honour this agreement in circumstances where an event has occurred which is beyond our control and which prevents **us** from doing the things **we** would normally do. In these circumstances, **we** will carry on honouring our obligations as soon as it is reasonably practicable for **us** to do so. 
 
 If **you** acquire goods or services from **us** for personal, domestic or household use or consumption, any rights **you** have under the Consumer Guarantees Act 1993 are not affected by our limitations of liability. However, if **you** acquire goods or services from **us** for the purposes of a business, the Consumer Guarantees Act 1993 does not apply. 
 
@@ -489,7 +489,7 @@ Our limitations of liability extend to our employees and agents for the purposes
 Notwithstanding any provision to the contrary in this agreement, nothing in this agreement will exclude or limit the application of any law in New Zealand where such law applies to the supply of **energy**, or any other services **we** supply, to the extent that to do so would:
 <ul>
 <li> contravene that law; or</li> 
-<li>cause any part of this section 17 to be void.</li></ul></li></ol>
+<li>cause any part of this section 17 to be void.</li></ul></dd></dl></li></ol>
 
 ## 18 CAN WE CHANGE THIS AGREEMENT?
 <ol>
@@ -537,31 +537,31 @@ All notices sent to **you** will be considered to have been received by **you**:
 
 The **network company** owns and operates the **network** which transports **energy** to **your** **premises**. **We** will make arrangements with the **network company** to use the **network** and get our **energy** to **you**.</li> 
 
-<li>**Do you need an agreement with the network company?**
+<li><dl><dt>**Do you need an agreement with the network company?**</dt>
 
-In some cases, the **network company** may require **you** to have an agreement directly with it to use the **network**. If this is the case, **we** will provide **you** with the contact details of the **network company**, and:
+<dd>In some cases, the **network company** may require **you** to have an agreement directly with it to use the **network**. If this is the case, **we** will provide **you** with the contact details of the **network company**, and:
 <ul>
 <li>**you** must ensure that **you** have such an agreement; and</li>
 <li>our agreement will cover the supply of **energy** only.</li></ul>
 
 **You** agree to comply with statutory and regulatory requirements and the **network company's** distribution code or other similar connection standards (a copy of the code or standards may be obtained from the **network company**). 
 
-**You** must also comply with the **network company's** technical requirements and specifications for connection to the **network** which are published from time to time.  This information can be obtained from the **network company**.  **You** can contact **us** to find out who **your** **network company** is.</li>
+**You** must also comply with the **network company's** technical requirements and specifications for connection to the **network** which are published from time to time.  This information can be obtained from the **network company**.  **You** can contact **us** to find out who **your** **network company** is.</dd></dl></li>
 
-<li>**Interference with the network** 
+<li><dl><dt>**Interference with the network**</dt> 
 
-**You** must not, without the prior written consent of the local **network company**:
+<dd>**You** must not, without the prior written consent of the local **network company**:
 <ul>
 <li>attempt to send or receive signals or other forms of communication through the **network**;</li>
 <li>install electricity generating equipment that will export **energy** back into the **network**;</li>
 <li>connect or re-connect **your** equipment directly to the **network**; or</li> 
 <li>interfere in any other way with the **network**.</li></ul>
 
-**You** must not, without our prior written consent, connect or modify any fittings or other equipment on **your** **premises** to enable any electricity generated on the **premises** to be conveyed through the **network**.</li>
+**You** must not, without our prior written consent, connect or modify any fittings or other equipment on **your** **premises** to enable any electricity generated on the **premises** to be conveyed through the **network**.</dd></dl></li>
 
-<li>**Some technical requirements relating to electricity** 
+<li><dl><dt>**Some technical requirements relating to electricity**</dt> 
 
-In relation to **your** electricity supply, **you** agree that:
+<dd>In relation to **your** electricity supply, **you** agree that:
 <ul>
 <li>the power factor shall not be less than 0.95 lagging each month, or such other amount as specified by **your** local **network company**;</li>
 <li>there is to be no interconnection at any time between **your** **point of supply** and any other **point of supply** without the **network company's** prior written consent;</li>
@@ -569,7 +569,7 @@ In relation to **your** electricity supply, **you** agree that:
 <li>**you** will use all reasonable measures to ensure that the levels of harmonic voltages and currents injected back into the **network** from **your** **premises** conform with the New Zealand Electrical Code of Practice for Harmonic levels NZECP 36:1993 insofar as the harmonic disturbance results from a cause within **your** control; and</li>
 <li>**you** agree to comply with all line function services, safety and technical requirements provided for under statute, regulations and codes of practice.</li></ul> 
 
-For more information contact the **network company**.</li></ol>
+For more information contact the **network company**.</dd></dl></li></ol>
 
 ## 22 WHAT SHOULD YOU DO ABOUT SENSITIVE EQUIPMENT?
 There may be planned or unplanned events which may cause outages or voltage fluctuations which could damage sensitive electrical appliances like computers, televisions, videos, cordless phones, computerised appliances and fridges and freezers. Voltage fluctuations can occur at any time and may be caused by events beyond our control, such as the events listed in section 17.2 above.
@@ -589,9 +589,9 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 
 <li>If **you** request that a new **meter** be installed **you** will be charged for the installation of that new **meter** (as well as the cost of the new **meter**).</li>
 
-<li>How should you deal with equipment at your premises?
+<li><dl><dt>**How should you deal with equipment at your premises?**</dt>
 
-**You** must ensure that any **metering equipment** which is supplied by **us** or a **meter company**, and any **energy** supply equipment of the **network company** or any other third party:
+<dd>**You** must ensure that any **metering equipment** which is supplied by **us** or a **meter company**, and any **energy** supply equipment of the **network company** or any other third party:
 <ul>
 <li>is not removed from its location without our consent;</li>
 <li>is not encumbered or used as security in any way;</li>
@@ -603,11 +603,11 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 <li>to provide **us**, the **meter company**, **network company** and any other third party who owns **energy** supply equipment on **your** **premises** with reasonable space for the safe, secure, weather tight, insect and vermin free, and accessible housing of the **metering equipment** and the equipment of the network company or other third party at no cost to **us**, and ensure the housing remains in such condition; and</li>
 <li>to look after the **meter** and prevent interference with, or damage to, or loss of, the **metering equipment**, the **energy** supply equipment of the **network company** or other third party and the **metering** **communications** network**.</li></ul>
 
-If **you** do not own **your** **premises**, you confirm that **you** have any necessary approvals required from the owner, landlord or body corporate for the installation of any **meter** or **metering equipment** at **your** **premises**, for any alterations to **your** **premises** required to install any such equipment and to enable **us** to exercise our other rights under these terms and conditions. **You** will bear any costs incurred by **us**, the **meter company**, **network company** or our respective contractors if **you** do not have any such approval.</li>
+If **you** do not own **your** **premises**, you confirm that **you** have any necessary approvals required from the owner, landlord or body corporate for the installation of any **meter** or **metering equipment** at **your** **premises**, for any alterations to **your** **premises** required to install any such equipment and to enable **us** to exercise our other rights under these terms and conditions. **You** will bear any costs incurred by **us**, the **meter company**, **network company** or our respective contractors if **you** do not have any such approval.</dd></dl></li>
 
-<li>**What if the meter is damaged?**
+<li><dl><dt>**What if the meter is damaged?**</dt>
 
-**You** must tell **us** immediately if: 
+<dd>**You** must tell **us** immediately if: 
 <ul>
 <li>any **metering equipment** or any **energy** supply equipment of the **network company** or other third party is damaged, defective, or looks unsafe; or</li> 
 </li>**you** discover any fault with, or interference with, any **metering equipment**, the metering communication network or any **energy** supply equipment of the **network company** or other third party.</li></ul>
@@ -627,15 +627,15 @@ If **you** do not own **your** **premises**, you confirm that **you** have any n
 <li>estimate the value of **energy** stolen or lost and require **you** to pay for that **energy**;</li>
 <li>charge **you** for the costs of any repairs and/or replacement of **metering equipment**;</li>
 <li>terminate this agreement and refuse to reconnect **your** supply; and/or</li>
-<li>inform the Police.</li></ul></li></ol>
+<li>inform the Police.</li></ul></dd></dl></li></ol>
 
 ## 24 WHAT ABOUT OTHER EQUIPMENT AT YOUR PREMISES?
 <ol>
 <li>**We**, or a **meter company**, will repair and maintain **meters** and associated equipment supplied by **us** or a **meter company**, except as outlined below.</li>
 
-<li>**What equipment are you responsible for?**
+<li><dl><dt>**What equipment are you responsible for?**</dt>
 
-**You** must repair and maintain:
+<dd>**You** must repair and maintain:
 <ul>
 <li>**your** electricity and/or gas lines, pipes or cables (including any poles and fittings) from the **point of supply**;</li>
 <li>the **meter** box or **meter** board itself, any sub or fuse board and any other wiring or piping on **your** **premises**; and</li>
@@ -647,7 +647,7 @@ If **you** need to immediately turn off **your** gas supply in the case of an **
 
 **You** own and are responsible for **energy** supplied from **your** **point of supply** to the point where the **energy** is consumed. **You** must not supply **energy** to another property or person from **your** **premises**.  Where **your** **point of supply** supplies more than one customer **you** will be jointly responsible for the **metering equipment** and other equipment **you** are responsible for, and **we** may estimate the apportionment of **energy** consumption between customers or require **you** to install additional **metering equipment**, so that the **energy** consumption can be accurately apportioned.
 
-**You** must not interfere with the **network company's** equipment or allow anyone else to do so. **Your** rights and obligations in relation to trees are set out in the Electricity (Hazards from Trees) Regulations 2003. For more information, please contact **your** **network company**. If **you** do not know how to contact **your** **network company**, please ask **us**.</li></ol>
+**You** must not interfere with the **network company's** equipment or allow anyone else to do so. **Your** rights and obligations in relation to trees are set out in the Electricity (Hazards from Trees) Regulations 2003. For more information, please contact **your** **network company**. If **you** do not know how to contact **your** **network company**, please ask **us**.</dd></dl></li></ol>
 
 ## 25 WHAT IS THE NETWORK COMPANY'S LIABILITY FOR LOSS OR DAMAGE?
 <ol>
