@@ -434,7 +434,7 @@ If **you** have nominated a person as an account authority with whom **we** can 
 ## 15 OUR PERFORMANCE COMMITMENTS
 **We** will supply **energy** to **your** **premises** at quality and reliability levels in accordance with good industry practice in New Zealand and in accordance with current laws including, but not limited to, the Consumer Guarantees Act 1993 (where **you** are a residential customer), the Gas Act 1992, the Electricity Industry Act 2010 and the **Electricity Code** and technical electricity and gas codes of practice. 
 
-What if you think that we have not met our performance commitments?
+**What if you think that we have not met our performance commitments?**
 
 If **you** think that **we** have failed to meet our performance commitments, **you** can make a complaint. **We** will respond to any complaints and will seek to resolve them in accordance with section 16 below.
 
@@ -583,7 +583,7 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 
 <li>If **you** do not have a suitable **meter** for **your** **energy** use or pricing option **we** will choose and arrange to install the appropriate **meter**. **You** may not provide or install **your** own **meter**. **You** must pay all reasonable costs relating to the installation of any **metering equipment**. However, **you** will not be charged:
 <ul>
-<li>for the installation of the first **advanced meter** at **your** **premises**, unless additional work is required to install the **meter** or **metering equipment** (this includes additional wiring required to install the **meter **or work required to re-locate the position of the **metering equipment**) in which case **we** may charge **you** for this additional work;</li>
+<li>for the installation of the first **advanced meter** at **your** **premises**, unless additional work is required to install the **meter** or **metering equipment** (this includes additional wiring required to install the **meter** or work required to re-locate the position of the **metering equipment**) in which case **we** may charge **you** for this additional work;</li>
 <li>where **we** decide to replace **meters** or related equipment if the existing **meters** or related equipment are unsuitable for **your** **energy** use or pricing option. In some cases it may be necessary to upgrade **your** **meter** if **your** **energy** use or pricing option changes. **We** may charge **you** the costs of installing a new **meter**. **We** will inform **you** if any upgrade is required and the costs of that upgrade.</li><ul>
 
 <li>If **you** request that a new **meter** be installed **you** will be charged for the installation of that new **meter** (as well as the cost of the new **meter**).</li>
@@ -600,7 +600,7 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 **You** agree:
 <ul>
 <li>to provide **us**, the **meter company**, **network company** and any other third party who owns **energy** supply equipment on **your** **premises** with reasonable space for the safe, secure, weather tight, insect and vermin free, and accessible housing of the **metering equipment** and the equipment of the network company or other third party at no cost to **us**, and ensure the housing remains in such condition; and</li>
-<li>to look after the **meter** and prevent interference with, or damage to, or loss of, the **metering equipment**, the **energy** supply equipment of the **network company** or other third party and the **metering** **communications** network**.</li></ul>
+<li>to look after the **meter** and prevent interference with, or damage to, or loss of, the **metering equipment**, the **energy** supply equipment of the **network company** or other third party and the **metering** **communications** **network**.</li></ul>
 
 If **you** do not own **your** **premises**, you confirm that **you** have any necessary approvals required from the owner, landlord or body corporate for the installation of any **meter** or **metering equipment** at **your** **premises**, for any alterations to **your** **premises** required to install any such equipment and to enable **us** to exercise our other rights under these terms and conditions. **You** will bear any costs incurred by **us**, the **meter company**, **network company** or our respective contractors if **you** do not have any such approval.</dd></dl></li>
 
