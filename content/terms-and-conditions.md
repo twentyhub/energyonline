@@ -660,10 +660,10 @@ If **you** need to immediately turn off **your** gas supply in the case of an **
 
 <li>This condition, and the other conditions in this agreement which refer to the **network company**, are intended to be for the benefit of, and are enforceable by, the **network company** under the Contracts (Privity) Act 1982.</li></ol>
 
-26 WHAT IS THE METER COMPANY'S LIABILITY FOR LOSS OR DAMAGE?
+## 26 WHAT IS THE METER COMPANY'S LIABILITY FOR LOSS OR DAMAGE?
 If **you** do not have a direct agreement with **your** **meter company**, then the **meter company** has no liability (in contract and in tort), to the extent permitted by law, in respect of the supply of **energy** to **you** under this agreement. This condition, and the other conditions in this agreement which refer to the **meter company**, are intended to be for the benefit of, and are enforceable by, the **meter company** under the Contracts (Privity) Act 1982.
 
-27 WORDS WE USE IN THIS AGREEMENT
+## 27 WORDS WE USE IN THIS AGREEMENT
 **advanced meter** means a remotely read interval **meter** and all associated **metering equipment**.
 
 **decommission** means the permanent **disconnection** of **your** **premises** and removal of **your** ICP so that **you** cannot receive the supply of **energy**, and will involve the permanent removal of **metering equipment** and may include removal of **your** service lines.
