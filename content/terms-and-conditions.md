@@ -483,7 +483,7 @@ or by a combination of these methods.
 
 18.2 If **we** increase the special fees or charges set out in our price list **we** will notify **you** of these changes by advertising on our website or placing a statement on **your** invoice. **We** do not need to give **you** notice if **we** decrease **your** **energy** prices or the special fees and charges set out in our price list. 
 
-18.3 If **we** increase a fee or service charge by more than 5% or if **we** increase the total invoiced price for **energ**y **we** supply to **you** by more than 5% (and, in the case of a fee or service charge, the increase is reasonably likely to have a material effect on **you**), or change the frequency of billing or meter reading, **we** will always give **you** an individual written notice as soon as possible. However, **we** will not provide individual written notice of price increases where **you** have signed up to a flexible pricing plan, under which electricity prices may vary depending on the time and volume of **your** electricity consumption. **We** will not change the frequency of billing to less than approximately once a month (depending on when your meter is read) unless **you** have agreed otherwise, except for any one-off circumstances where it is necessary to send **you** a bill other than on a monthly basis.  If there has been an increase in **your** **energy** prices, the notice will explain the reasons for the increase. 
+18.3 If **we** increase a fee or service charge by more than 5% or if **we** increase the total invoiced price for **energ**y **we** supply to **you** by more than 5% (and, in the case of a fee or service charge, the increase is reasonably likely to have a material effect on **you**), or change the frequency of billing or **meter** reading, **we** will always give **you** an individual written notice as soon as possible. However, **we** will not provide individual written notice of price increases where **you** have signed up to a flexible pricing plan, under which electricity prices may vary depending on the time and volume of **your** electricity consumption. **We** will not change the frequency of billing to less than approximately once a month (depending on when your **meter** is read) unless **you** have agreed otherwise, except for any one-off circumstances where it is necessary to send **you** a bill other than on a monthly basis.  If there has been an increase in **your** **energy** prices, the notice will explain the reasons for the increase. 
 
 19 CAN YOU TRANSFER YOUR RIGHTS AND RESPONSIBILITIES?
 19.1 This agreement may not be transferred or assigned by **you** to any other person.
@@ -509,7 +509,7 @@ All notices sent to **you** will be considered to have been received by **you**:
 • on the day after it was published on our website, or the notice appeared in **your** local newspaper.
 
 21 GETTING OUR ENERGY TO YOU
-21.1 The network companies and meter companies **we** work with require **us** to ensure that the information contained below is agreed to by **you**. When **you** become our customer, **you** agree to those arrangements as part of this agreement. 
+21.1 The network companies and **meter** companies **we** work with require **us** to ensure that the information contained below is agreed to by **you**. When **you** become our customer, **you** agree to those arrangements as part of this agreement. 
 
 The network company owns and operates the network which transports **energy** to **your** **premises**. **We** will make arrangements with the network company to use the network and get our **energy** to **you**. 
 
@@ -555,18 +555,18 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 **We** take no responsibility for any loss or damage caused to equipment or appliances, including loss of data, arising from these kinds of fluctuations.
 
 23 METERING EQUIPMENT AND NETWORK COMPANY EQUIPMENT
-23.1 The **energy** supplied to **you** will be metered. Different pricing options may require separate meters. **We**, or the metering company, will retain all ownership rights in any meter and metering equipment installed at **your** **premises**.  All electricity and gas meters will comply with applicable regulations and good industry practice.  
+23.1 The **energy** supplied to **you** will be **metered**. Different pricing options may require separate **meters**. **We**, or the **metering** company, will retain all ownership rights in any **meter** and **metering equipment** installed at **your** **premises**.  All **electricity and gas** **meters** will comply with applicable regulations and good industry practice.  
 
-23.2 If **you** do not have a suitable meter for **your** **energy** use or pricing option **we** will choose and arrange to install the appropriate meter. **You** may not provide or install **your** own meter. **You** must pay all reasonable costs relating to the installation of any metering equipment. However, **you** will not be charged:
+23.2 If **you** do not have a suitable **meter** for **your** **energy** use or pricing option **we** will choose and arrange to install the appropriate **meter**. **You** may not provide or install **your** own **meter**. **You** must pay all reasonable costs relating to the installation of any **metering equipment**. However, **you** will not be charged:
 
-• for the installation of the first advanced meter at **your** **premises**, unless additional work is required to install the meter or metering equipment (this includes additional wiring required to install the meter or work required to re-locate the position of the metering equipment) in which case **we** may charge **you** for this additional work;
-• where **we** decide to replace meters or related equipment if the existing meters or related equipment are unsuitable for **your** **energy** use or pricing option. In some cases it may be necessary to upgrade **your** meter if **your** **energy** use or pricing option changes. **We** may charge **you** the costs of installing a new meter. **We** will inform **you** if any upgrade is required and the costs of that upgrade.
+• for the installation of the first **advanced meter** at **your** **premises**, unless additional work is required to install the **meter** or **metering equipment** (this includes additional wiring required to install the **meter **or work required to re-locate the position of the **metering equipment**) in which case **we** may charge **you** for this additional work;
+• where **we** decide to replace **meters** or related equipment if the existing **meters** or related equipment are unsuitable for **your** **energy** use or pricing option. In some cases it may be necessary to upgrade **your** **meter** if **your** **energy** use or pricing option changes. **We** may charge **you** the costs of installing a new **meter**. **We** will inform **you** if any upgrade is required and the costs of that upgrade.
 
-23.3 If **you** request that a new meter be installed **you** will be charged for the installation of that new meter (as well as the cost of the new meter).
+23.3 If **you** request that a new **meter** be installed **you** will be charged for the installation of that new **meter** (as well as the cost of the new **meter**).
 
 23.4 How should you deal with equipment at your premises?
 
-**You** must ensure that any metering equipment which is supplied by **us** or a meter company, and any **energy** supply equipment of the network company or any other third party:
+**You** must ensure that any **metering equipment** which is supplied by **us** or a **meter** company, and any **energy** supply equipment of the network company or any other third party:
 
 • is not removed from its location without our consent;
 • is not encumbered or used as security in any way;
