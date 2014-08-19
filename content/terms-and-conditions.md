@@ -325,7 +325,7 @@ Please contact **us** if **you** would like to change **your** pricing plan, pro
 11.1 In addition to our, the **network company's** and the **meter company's** other rights of disconnection under this agreement, **your** **energy** supply may be disconnected: 
 
 • ­for non payment of the undisputed portion of any invoice associated with the supply of **energy**, lines services or other services supplied to **you**;
-• ­if **we** cease to have an agreement with the network company that provides lines services to **you**;
+• ­if **we** cease to have an agreement with the **network company** that provides lines services to **you**;
 • ­for a planned or unplanned supply interruption (including for safety reasons); or
 • ­if **you** materially or persistently breach any term of this agreement.
 
@@ -335,7 +335,7 @@ If an **advanced meter** has been installed at **your** **premises**, **we** may
 
 11.2 Will we tell you about disconnecting your supply? 
 
-Except in the case of an emergency situation or for safety reasons, or where **we** suspect the **metering equipment** or other equipment at **your** **premises** supplied by **us** or a network company or **meter company** has been tampered or interfered with, **we** will tell **you** at least 7 days (and allow a further 3 days for delivery of the notice) before **we** disconnect **your** supply of **energy**. **We** will also contact **you**, at the contact details provided by **you**, to provide **you** with a final warning at least 24 hours prior to disconnecting **your** supply. If disconnection is not prevented by **you** and not completed within the timeframe notified to **you** (including where **we** grant **you** an extension to that timeframe, at our discretion), **we** will issue **you** with another final warning no less than 24 hours, or not more than 7 days, before disconnection. Any notice of disconnection from **us** will include information that **you** need to prevent disconnection if prevention is possible.  **We** may ask **you** to pay a disconnection fee or an attendance fee (where the disconnection does not proceed) in respect of the action taken by **us** under this section. **We** will provide reasonable notice to **you** if **you** are likely to incur a disconnection fee.
+Except in the case of an emergency situation or for safety reasons, or where **we** suspect the **metering equipment** or other equipment at **your** **premises** supplied by **us** or a **network company** or **meter company** has been tampered or interfered with, **we** will tell **you** at least 7 days (and allow a further 3 days for delivery of the notice) before **we** disconnect **your** supply of **energy**. **We** will also contact **you**, at the contact details provided by **you**, to provide **you** with a final warning at least 24 hours prior to disconnecting **your** supply. If disconnection is not prevented by **you** and not completed within the timeframe notified to **you** (including where **we** grant **you** an extension to that timeframe, at our discretion), **we** will issue **you** with another final warning no less than 24 hours, or not more than 7 days, before disconnection. Any notice of disconnection from **us** will include information that **you** need to prevent disconnection if prevention is possible.  **We** may ask **you** to pay a disconnection fee or an attendance fee (where the disconnection does not proceed) in respect of the action taken by **us** under this section. **We** will provide reasonable notice to **you** if **you** are likely to incur a disconnection fee.
 
 **We** will not disconnect **your** supply for non-payment of a disputed amount where **you** have initiated a dispute with the Electricity & Gas Complaints Commissioner in relation to that disputed amount, unless the Electricity & Gas Complaints Commissioner dispute resolution process or our own dispute resolution process has been exhausted.
 
@@ -346,14 +346,14 @@ If **your** supply has been disconnected for non-payment and **you** satisfy our
 
 11.3 Can the network company also disconnect your supply? 
 
-The network company is entitled to disconnect **your** supply if:
+The **network company** is entitled to disconnect **your** supply if:
 
 • **you** fail to grant the rights of access specified in this agreement; 
-• **your** equipment does not meet the network company's requirements; 
+• **your** equipment does not meet the **network company's** requirements; 
 • requested to do so by **us**; 
 • an emergency situation occurs;
 • it considers **your** equipment to be unsafe; or 
-• **you** materially breach any other term of this agreement including the network requirements, and **you** agree that in respect of **your** electricity supply, section 105 of the Electricity Industry Act 2010 shall not apply in respect of such disconnection. 
+• **you** materially breach any other term of this agreement including the **network** requirements, and **you** agree that in respect of **your** electricity supply, section 105 of the Electricity Industry Act 2010 shall not apply in respect of such disconnection. 
 
 12 HOW DO YOU RESUME SUPPLY?
 When **you** want to start **your** **energy** supply again, please call **us**. **You** may not attempt to reconnect the **energy** supply yourself. Before **we** agree to reconnect **your** **energy** supply **we** may require **you** to:
@@ -374,7 +374,7 @@ If an **advanced meter** has been installed at **your** **premises**, **we** may
 13 WHAT IF YOU WANT TO STOP YOUR SUPPLY?
 13.1 If **you** no longer want **us** to supply **you** with **energy** or **you** want **your** supply disconnected, **you** must let **us** know at least 3 business days beforehand. This timeframe is consistent with applicable regulations and industry standards as at the date of these terms.  If **you** intend to leave **your** present **premises**, **you** must also tell **us** **your** forwarding address. 
 
-If **you** don’t give **us** 3 business days' notice **you** will be required to pay for any **energy** used at the **premises** while the **premises** remain connected to the network, even if **you** are no longer at the **premises**, until the date on which 3 business days' notice has been given. 
+If **you** don’t give **us** 3 business days' notice **you** will be required to pay for any **energy** used at the **premises** while the **premises** remain connected to the **network**, even if **you** are no longer at the **premises**, until the date on which 3 business days' notice has been given. 
 
 If **you** are not going to remain our customer after **your** move, our charges to **you** will stop on the date 3 business days after **you** have given **us** notice in accordance with this section, or if **you** have failed to give **us** notice, when **we** disconnect the **premises**, or a new customer has notified **us** that it has taken over the **premises**.  Where **you** have given **us** notice in accordance with this section, disconnection of **your** **premises** will occur as soon as possible on or from the date on which **your** notice takes effect.
 
@@ -424,7 +424,7 @@ If **you** think that **we** have failed to meet our performance commitments, **
 
 If **you** have a complaint, please contact our Customer Care Team. Our contact details are set out in section 1, or alternatively **you** can make an appointment to see **us** at our offices.  Our free internal complaints resolution service is explained on our website.
 
-**We** will try to resolve **your** complaint straight away. If it is complex, or involves other parties, such as **your** network company or **meter company**, our Customer Resolutions Team will investigate it for **you**. **We** may also refer it to **your** network company or **meter** company. If **we** do this, **we** will tell **you**. 
+**We** will try to resolve **your** complaint straight away. If it is complex, or involves other parties, such as **your** **network company** or **meter company**, our Customer Resolutions Team will investigate it for **you**. **We** may also refer it to **your** **network company** or **meter** company. If **we** do this, **we** will tell **you**. 
 
 In any event, **we** will acknowledge **your** complaint in writing within 2 business days after **we** receive **your** complaint. 
 
@@ -455,7 +455,7 @@ but **we** will not be liable in any cases for any other loss or damage includin
 
 17.2 What is an event beyond our control? 
 
-An event or cause beyond our control includes, but is not limited to: acts of God, war, riot, civil commotion, malicious damage, compliance with any law or governmental order, rule, regulation or direction, accident, earthquake, fire, lightning, storm, flood or other similar event, interference with the network from birds, animals or vegetation, traffic accidents, faults in the network, acts or omissions by the network company or **meter company**, problems with generation, transmission or distribution of **energy**, problems with **your** wiring, problems arising because of health and safety hazards at **your** **premises**, and other things which **we** do not have control over. 
+An event or cause beyond our control includes, but is not limited to: acts of God, war, riot, civil commotion, malicious damage, compliance with any law or governmental order, rule, regulation or direction, accident, earthquake, fire, lightning, storm, flood or other similar event, interference with the **network** from birds, animals or vegetation, traffic accidents, faults in the **network**, acts or omissions by the **network company** or **meter company**, problems with generation, transmission or distribution of **energy**, problems with **your** wiring, problems arising because of health and safety hazards at **your** **premises**, and other things which **we** do not have control over. 
 
 17.3 What is our maximum liability? 
 
@@ -471,7 +471,7 @@ Notwithstanding any provision to the contrary in this agreement, nothing in this
 • cause any part of this section 17 to be void.
 
 18 CAN WE CHANGE THIS AGREEMENT?
-18.1 **We** may make changes to this agreement, the network requirements, **your** payment methods, or our price list. If **we** make changes to this agreement, the network requirements, **your** payment methods, or if **we** increase the **energy** prices set out in our price list, **we** will give **you** notice of the changes as soon as possible and not later than 30 days before the change is to take effect, together with our reasons for making the changes. We will do this by any reasonable method of communication including by:
+18.1 **We** may make changes to this agreement, the **network** **requirements**, **your** payment methods, or our price list. If **we** make changes to this agreement, the **network** **requirements**, **your** payment methods, or if **we** increase the **energy** prices set out in our price list, **we** will give **you** notice of the changes as soon as possible and not later than 30 days before the change is to take effect, together with our reasons for making the changes. We will do this by any reasonable method of communication including by:
 
 • advertising in a local daily newspaper; or 
 • posting a notice on our website; or
@@ -509,43 +509,43 @@ All notices sent to **you** will be considered to have been received by **you**:
 • on the day after it was published on our website, or the notice appeared in **your** local newspaper.
 
 21 GETTING OUR ENERGY TO YOU
-21.1 The network companies and **meter** companies **we** work with require **us** to ensure that the information contained below is agreed to by **you**. When **you** become our customer, **you** agree to those arrangements as part of this agreement. 
+21.1 The **network companies** and **meter** companies **we** work with require **us** to ensure that the information contained below is agreed to by **you**. When **you** become our customer, **you** agree to those arrangements as part of this agreement. 
 
-The network company owns and operates the network which transports **energy** to **your** **premises**. **We** will make arrangements with the network company to use the network and get our **energy** to **you**. 
+The **network company** owns and operates the **network** which transports **energy** to **your** **premises**. **We** will make arrangements with the **network company** to use the **network** and get our **energy** to **you**. 
 
 21.2 Do you need an agreement with the network company?
 
-In some cases, the network company may require **you** to have an agreement directly with it to use the network. If this is the case, **we** will provide **you** with the contact details of the network company, and:
+In some cases, the **network company** may require **you** to have an agreement directly with it to use the **network**. If this is the case, **we** will provide **you** with the contact details of the **network company**, and:
 
 • **you** must ensure that **you** have such an agreement; and
 • our agreement will cover the supply of **energy** only.
 
-**You** agree to comply with statutory and regulatory requirements and the network company's distribution code or other similar connection standards (a copy of the code or standards may be obtained from the network company). 
+**You** agree to comply with statutory and regulatory requirements and the **network company's** distribution code or other similar connection standards (a copy of the code or standards may be obtained from the **network company**). 
 
-**You** must also comply with the network company's technical requirements and specifications for connection to the network which are published from time to time.  This information can be obtained from the network company.  **You** can contact **us** to find out who **your** network company is.
+**You** must also comply with the **network company's** technical requirements and specifications for connection to the **network** which are published from time to time.  This information can be obtained from the **network company**.  **You** can contact **us** to find out who **your** **network company** is.
 
 21.3 Interference with the network 
 
-**You** must not, without the prior written consent of the local network company:
+**You** must not, without the prior written consent of the local **network company**:
 
-• attempt to send or receive signals or other forms of communication through the network;
-• install electricity generating equipment that will export **energy** back into the network;
-• connect or re-connect **your** equipment directly to the network; or 
-• interfere in any other way with the network.
+• attempt to send or receive signals or other forms of communication through the **network**;
+• install electricity generating equipment that will export **energy** back into the **network**;
+• connect or re-connect **your** equipment directly to the **network**; or 
+• interfere in any other way with the **network**.
 
-**You** must not, without our prior written consent, connect or modify any fittings or other equipment on **your** **premises** to enable any electricity generated on the **premises** to be conveyed through the network.
+**You** must not, without our prior written consent, connect or modify any fittings or other equipment on **your** **premises** to enable any electricity generated on the **premises** to be conveyed through the **network**.
 
 21.4 Some technical requirements relating to electricity 
 
 In relation to **your** electricity supply, **you** agree that:
 
-• the power factor shall not be less than 0.95 lagging each month, or such other amount as specified by **your** local network company;
-• there is to be no interconnection at any time between **your** point of supply and any other point of supply without the network company's prior written consent;
-• if the characteristics of **your** equipment or demand interferes with the quality of supply of **energy** to any other consumer on the network or interferes with the operation of any remote signalling services or other fittings of the network company, **you** will, upon notice from the network company or **us**, remedy the interference at **your** own cost as soon as practicable (and in any event within 20 business days of the date of the notice). If **we** become liable to any third party as a result of such interference, **you** must compensate **us** to the full extent of such liability and for all associated costs incurred by **us**; 
-• **you** will use all reasonable measures to ensure that the levels of harmonic voltages and currents injected back into the network from **your** **premises** conform with the New Zealand Electrical Code of Practice for Harmonic levels NZECP 36:1993 insofar as the harmonic disturbance results from a cause within **your** control; and
+• the power factor shall not be less than 0.95 lagging each month, or such other amount as specified by **your** local **network company**;
+• there is to be no interconnection at any time between **your** point of supply and any other point of supply without the **network company's** prior written consent;
+• if the characteristics of **your** equipment or demand interferes with the quality of supply of **energy** to any other consumer on the **network** or interferes with the operation of any remote signalling services or other fittings of the **network company**, **you** will, upon notice from the **network company** or **us**, remedy the interference at **your** own cost as soon as practicable (and in any event within 20 business days of the date of the notice). If **we** become liable to any third party as a result of such interference, **you** must compensate **us** to the full extent of such liability and for all associated costs incurred by **us**; 
+• **you** will use all reasonable measures to ensure that the levels of harmonic voltages and currents injected back into the **network** from **your** **premises** conform with the New Zealand Electrical Code of Practice for Harmonic levels NZECP 36:1993 insofar as the harmonic disturbance results from a cause within **your** control; and
 • **you** agree to comply with all line function services, safety and technical requirements provided for under statute, regulations and codes of practice. 
 
-For more information contact the network company.
+For more information contact the **network company**.
 
 22 WHAT SHOULD YOU DO ABOUT SENSITIVE EQUIPMENT?
 There may be planned or unplanned events which may cause outages or voltage fluctuations which could damage sensitive electrical appliances like computers, televisions, videos, cordless phones, computerised appliances and fridges and freezers. Voltage fluctuations can occur at any time and may be caused by events beyond our control, such as the events listed in section 17.2 above.
@@ -566,7 +566,7 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 
 23.4 How should you deal with equipment at your premises?
 
-**You** must ensure that any **metering equipment** which is supplied by **us** or a **meter company**, and any **energy** supply equipment of the network company or any other third party:
+**You** must ensure that any **metering equipment** which is supplied by **us** or a **meter company**, and any **energy** supply equipment of the **network company** or any other third party:
 
 • is not removed from its location without our consent;
 • is not encumbered or used as security in any way;
@@ -575,7 +575,7 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 
 **You** agree:
 
-• to provide **us**, the **meter company**, network company and any other third party who owns **energy** supply equipment on **your** **premises** with reasonable space for the safe, secure, weather tight, insect and vermin free, and accessible housing of the **metering equipment** and the equipment of the network company or other third party at no cost to **us**, and ensure the housing remains in such condition; and
+• to provide **us**, the **meter company**, **network company** and any other third party who owns **energy** supply equipment on **your** **premises** with reasonable space for the safe, secure, weather tight, insect and vermin free, and accessible housing of the **metering equipment** and the equipment of the network company or other third party at no cost to **us**, and ensure the housing remains in such condition; and
 • to look after the **meter** and prevent interference with, or damage to, or loss of, the **metering equipment**, the **energy** supply equipment of the network company or other third party and the **metering communications network**.
 
 If **you** do not own **your** **premises**, you confirm that **you** have any necessary approvals required from the owner, landlord or body corporate for the installation of any **meter** or **metering equipment** at **your** **premises**, for any alterations to **your** **premises** required to install any such equipment and to enable **us** to exercise our other rights under these terms and conditions. **You** will bear any costs incurred by **us**, the **meter company**, network company or our respective contractors if **you** do not have any such approval.
