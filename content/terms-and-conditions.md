@@ -530,11 +530,11 @@ All notices sent to **you** will be considered to have been received by **you**:
 
 ## 21 GETTING OUR ENERGY TO YOU
 <ol>
-<li>21.1 The **network companies** and **meter** companies **we** work with require **us** to ensure that the information contained below is agreed to by **you**. When **you** become our customer, **you** agree to those arrangements as part of this agreement. 
+<li>The **network companies** and **meter** companies **we** work with require **us** to ensure that the information contained below is agreed to by **you**. When **you** become our customer, **you** agree to those arrangements as part of this agreement. 
 
 The **network company** owns and operates the **network** which transports **energy** to **your** **premises**. **We** will make arrangements with the **network company** to use the **network** and get our **energy** to **you**.</li> 
 
-<li>21.2 Do you need an agreement with the network company?
+<li>**Do you need an agreement with the network company?**
 
 In some cases, the **network company** may require **you** to have an agreement directly with it to use the **network**. If this is the case, **we** will provide **you** with the contact details of the **network company**, and:
 <ul>
@@ -545,7 +545,7 @@ In some cases, the **network company** may require **you** to have an agreement 
 
 **You** must also comply with the **network company's** technical requirements and specifications for connection to the **network** which are published from time to time.  This information can be obtained from the **network company**.  **You** can contact **us** to find out who **your** **network company** is.</li>
 
-<li>21.3 Interference with the network 
+<li>**Interference with the network** 
 
 **You** must not, without the prior written consent of the local **network company**:
 <ul>
@@ -556,7 +556,7 @@ In some cases, the **network company** may require **you** to have an agreement 
 
 **You** must not, without our prior written consent, connect or modify any fittings or other equipment on **your** **premises** to enable any electricity generated on the **premises** to be conveyed through the **network**.</li>
 
-<li>21.4 Some technical requirements relating to electricity 
+<li>**Some technical requirements relating to electricity** 
 
 In relation to **your** electricity supply, **you** agree that:
 <ul>
@@ -568,25 +568,25 @@ In relation to **your** electricity supply, **you** agree that:
 
 For more information contact the **network company**.</li></ol>
 
-22 WHAT SHOULD YOU DO ABOUT SENSITIVE EQUIPMENT?
+## 22 WHAT SHOULD YOU DO ABOUT SENSITIVE EQUIPMENT?
 There may be planned or unplanned events which may cause outages or voltage fluctuations which could damage sensitive electrical appliances like computers, televisions, videos, cordless phones, computerised appliances and fridges and freezers. Voltage fluctuations can occur at any time and may be caused by events beyond our control, such as the events listed in section 17.2 above.
 
 **You** should consider arranging insurance that covers damage from power fluctuations, install **your** own back-up devices such as an uninterruptible power supply (UPS), and / or make other arrangements to protect **your** equipment or meet **your** special needs. Power conditioners and surge protectors may help reduce such fluctuations and can be plugged into appliances or wired into **your** house mains. Further information regarding protection that **you** may take against outages or voltage fluctuations, and information on high-risk areas, is available by visiting our website. 
 
 **We** take no responsibility for any loss or damage caused to equipment or appliances, including loss of data, arising from these kinds of fluctuations.
 
-23 METERING EQUIPMENT AND NETWORK COMPANY EQUIPMENT
+## 23 METERING EQUIPMENT AND NETWORK COMPANY EQUIPMENT
 <ol>
-<li>23.1 The **energy** supplied to **you** will be **metered**. Different pricing options may require separate **meters**. **We**, or the **metering** company, will retain all ownership rights in any **meter** and **metering equipment** installed at **your** **premises**.  All **electricity and gas** **meters** will comply with applicable regulations and good industry practice.</li>  
+<li>The **energy** supplied to **you** will be **metered**. Different pricing options may require separate **meters**. **We**, or the **metering** company, will retain all ownership rights in any **meter** and **metering equipment** installed at **your** **premises**.  All **electricity and gas** **meters** will comply with applicable regulations and good industry practice.</li>  
 
-<li>23.2 If **you** do not have a suitable **meter** for **your** **energy** use or pricing option **we** will choose and arrange to install the appropriate **meter**. **You** may not provide or install **your** own **meter**. **You** must pay all reasonable costs relating to the installation of any **metering equipment**. However, **you** will not be charged:
+<li>If **you** do not have a suitable **meter** for **your** **energy** use or pricing option **we** will choose and arrange to install the appropriate **meter**. **You** may not provide or install **your** own **meter**. **You** must pay all reasonable costs relating to the installation of any **metering equipment**. However, **you** will not be charged:
 <ul>
 <li>for the installation of the first **advanced meter** at **your** **premises**, unless additional work is required to install the **meter** or **metering equipment** (this includes additional wiring required to install the **meter **or work required to re-locate the position of the **metering equipment**) in which case **we** may charge **you** for this additional work;</li>
 <li>where **we** decide to replace **meters** or related equipment if the existing **meters** or related equipment are unsuitable for **your** **energy** use or pricing option. In some cases it may be necessary to upgrade **your** **meter** if **your** **energy** use or pricing option changes. **We** may charge **you** the costs of installing a new **meter**. **We** will inform **you** if any upgrade is required and the costs of that upgrade.</li><ul>
 
-<li>23.3 If **you** request that a new **meter** be installed **you** will be charged for the installation of that new **meter** (as well as the cost of the new **meter**).</li>
+<li>If **you** request that a new **meter** be installed **you** will be charged for the installation of that new **meter** (as well as the cost of the new **meter**).</li>
 
-<li>23.4 How should you deal with equipment at your premises?
+<li>How should you deal with equipment at your premises?
 
 **You** must ensure that any **metering equipment** which is supplied by **us** or a **meter company**, and any **energy** supply equipment of the **network company** or any other third party:
 <ul>
@@ -602,7 +602,7 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 
 If **you** do not own **your** **premises**, you confirm that **you** have any necessary approvals required from the owner, landlord or body corporate for the installation of any **meter** or **metering equipment** at **your** **premises**, for any alterations to **your** **premises** required to install any such equipment and to enable **us** to exercise our other rights under these terms and conditions. **You** will bear any costs incurred by **us**, the **meter company**, **network company** or our respective contractors if **you** do not have any such approval.</li>
 
-<li>23.5 What if the meter is damaged?
+<li>**What if the meter is damaged?**
 
 **You** must tell **us** immediately if: 
 <ul>
@@ -626,11 +626,11 @@ If **you** do not own **your** **premises**, you confirm that **you** have any n
 <li>terminate this agreement and refuse to reconnect **your** supply; and/or</li>
 <li>inform the Police.</li></ul></li></ol>
 
-24 WHAT ABOUT OTHER EQUIPMENT AT YOUR PREMISES?
+## 24 WHAT ABOUT OTHER EQUIPMENT AT YOUR PREMISES?
 <ol>
-<li>24.1 **We**, or a **meter company**, will repair and maintain **meters** and associated equipment supplied by **us** or a **meter company**, except as outlined below.</li>
+<li>**We**, or a **meter company**, will repair and maintain **meters** and associated equipment supplied by **us** or a **meter company**, except as outlined below.</li>
 
-<li>24.2 What equipment are you responsible for?
+<li>**What equipment are you responsible for?**
 
 **You** must repair and maintain:
 <ul>
@@ -646,19 +646,19 @@ If **you** need to immediately turn off **your** gas supply in the case of an **
 
 **You** must not interfere with the **network company's** equipment or allow anyone else to do so. **Your** rights and obligations in relation to trees are set out in the Electricity (Hazards from Trees) Regulations 2003. For more information, please contact **your** **network company**. If **you** do not know how to contact **your** **network company**, please ask **us**.</li></ol>
 
-25 WHAT IS THE NETWORK COMPANY'S LIABILITY FOR LOSS OR DAMAGE?
+## 25 WHAT IS THE NETWORK COMPANY'S LIABILITY FOR LOSS OR DAMAGE?
 <ol>
-<li>25.1 If the **network company** causes **you** loss or damage, **you** may wish to advise **us**.</li>
+<li>If the **network company** causes **you** loss or damage, **you** may wish to advise **us**.</li>
 
-<li>25.2 If the network company is not a member of the Electricity and Gas Complaints Commissioner Scheme, then **you** agree that the **network company** has no liability to **you** (including liability in contract or in negligence) relating to the supply of **energy** to **your** **premises**. However, the **network company** has agreed to be liable to **us** in certain instances.</li>
+<li>If the network company is not a member of the Electricity and Gas Complaints Commissioner Scheme, then **you** agree that the **network company** has no liability to **you** (including liability in contract or in negligence) relating to the supply of **energy** to **your** **premises**. However, the **network company** has agreed to be liable to **us** in certain instances.</li>
 
-<li>25.3 As explained in section 21.1, **we** contract with the **network company** to deliver **energy** to **your** **premises**. To achieve a better quality and reliability of service from **you**, **we** encourage the **network company** to give service guarantees. As these guarantees are for **your** benefit, **we** will pass on to **you**, as a credit in your next invoice from **us**, any payments **we** receive from the **network company** for a failure by the **network company** to satisfy any guarantees they may give **us** in relation to their services that can be reasonably considered as compensation for the network company's failure to satisfy its guarantees. **We** will also pass on to **you** any payments **we** receive from other third parties who breach service guarantees that have been provided to **us** for **your** benefit.  On request, **we** will provide **you** with an explanation of how the credit passed on to **you** was determined.  Other than paying **you** such amount, **we** will have no liability to **you** in respect of any defaults by the **network company**.</li>
+<li>As explained in section 21.1, **we** contract with the **network company** to deliver **energy** to **your** **premises**. To achieve a better quality and reliability of service from **you**, **we** encourage the **network company** to give service guarantees. As these guarantees are for **your** benefit, **we** will pass on to **you**, as a credit in your next invoice from **us**, any payments **we** receive from the **network company** for a failure by the **network company** to satisfy any guarantees they may give **us** in relation to their services that can be reasonably considered as compensation for the network company's failure to satisfy its guarantees. **We** will also pass on to **you** any payments **we** receive from other third parties who breach service guarantees that have been provided to **us** for **your** benefit.  On request, **we** will provide **you** with an explanation of how the credit passed on to **you** was determined.  Other than paying **you** such amount, **we** will have no liability to **you** in respect of any defaults by the **network company**.</li>
 
-<li>25.4 If the network company is a member of the Electricity and Gas Complaints Commissioner Scheme then the **network company** will not be liable to **you** (in contract or in negligence) for any loss or damage **you** may suffer unless that loss or damage is physical damage to property where it can be shown that the **network company** has been negligent and the amount and nature of the loss was reasonably foreseeable. The **network company** will not have any liability to **you**, whether in contract or in negligence, for an event or series of closely related events relating to the **network** for any amount exceeding $10,000 in value. Notwithstanding the preceding sentence, the **network company's** aggregate liability to all customers connected to its **network** for an event or series of closely related events relating to the **network** shall not exceed $10,000.</li> 
+<li>If the network company is a member of the Electricity and Gas Complaints Commissioner Scheme then the **network company** will not be liable to **you** (in contract or in negligence) for any loss or damage **you** may suffer unless that loss or damage is physical damage to property where it can be shown that the **network company** has been negligent and the amount and nature of the loss was reasonably foreseeable. The **network company** will not have any liability to **you**, whether in contract or in negligence, for an event or series of closely related events relating to the **network** for any amount exceeding $10,000 in value. Notwithstanding the preceding sentence, the **network company's** aggregate liability to all customers connected to its **network** for an event or series of closely related events relating to the **network** shall not exceed $10,000.</li> 
 
-<li>25.5 If **you** acquire goods or services from **us** or the **network company** for personal, domestic or household use or consumption, any rights **you** have under the Consumer Guarantees Act 1993 are not affected by this limitation of liability. However, if **you** acquire goods or services for the purposes of a business, the Consumer Guarantees Act 1993 does not apply to the services provided by **us** or the **network company** to the maximum extent permitted by the law.</li>
+<li>If **you** acquire goods or services from **us** or the **network company** for personal, domestic or household use or consumption, any rights **you** have under the Consumer Guarantees Act 1993 are not affected by this limitation of liability. However, if **you** acquire goods or services for the purposes of a business, the Consumer Guarantees Act 1993 does not apply to the services provided by **us** or the **network company** to the maximum extent permitted by the law.</li>
 
-<li>25.6 This condition, and the other conditions in this agreement which refer to the **network company**, are intended to be for the benefit of, and are enforceable by, the **network company** under the Contracts (Privity) Act 1982.</li></ol>
+<li>This condition, and the other conditions in this agreement which refer to the **network company**, are intended to be for the benefit of, and are enforceable by, the **network company** under the Contracts (Privity) Act 1982.</li></ol>
 
 26 WHAT IS THE METER COMPANY'S LIABILITY FOR LOSS OR DAMAGE?
 If **you** do not have a direct agreement with **your** **meter company**, then the **meter company** has no liability (in contract and in tort), to the extent permitted by law, in respect of the supply of **energy** to **you** under this agreement. This condition, and the other conditions in this agreement which refer to the **meter company**, are intended to be for the benefit of, and are enforceable by, the **meter company** under the Contracts (Privity) Act 1982.
