@@ -44,7 +44,7 @@ Hamilton 3240
 
 2.2 An agreement between **you** and **us** is formed on these terms and conditions when in our sole discretion **we** accept **your** application to join **us** and the agreement will apply from the date on which **you** first use **energy** supplied by **us**, and **you** will be liable to pay our charges from that date.  **We** may require **you** to provide evidence of when **you** first use **energy** supplied by **us** through a certificate of title or tenancy agreement.  Where **you** apply to join **us** before using **energy** supplied by **us**, the supply of **energy** to **you** will commence as soon as possible following our acceptance of **your** application.
 
-If **you** have moved to **premises** and started using **energy**, **you** will still need to call **us** to become a customer. If **you** do not contact **us** to become a customer, **we** will disconnect the property. **We** may also charge **you** a **disconnection** fee, the cost of any **energy** consumed, and any other costs **we** incur as a result of **you** consuming **energy** at the **premises** as specified in our price list.
+If **you** have moved to **premises** and started using **energy**, **you** will still need to call **us** to become a customer. If **you** do not contact **us** to become a customer, **we** will disconnect the property. **We** may also charge **you** a **disconnection** fee, the cost of any **energy** consumed, and any other costs **we** incur as a result of **you** consuming **energy** at the **premises** as specified in our **price list**.
 
 2.3 What information do we need from you? 
 
@@ -123,7 +123,7 @@ For safety reasons, if **you** have a new or altered gas or electricity connecti
 
 If **you** have sensitive equipment or property which may be affected by an interrupted supply, **we** strongly recommend that **you** protect that equipment or property in case of an unplanned shutdown or outage. See also section 22 below on sensitive equipment. 
 
-5.5 If **you** have a controlled load pricing option i.e. a price plan that allows** Energy Online** to either directly, or via a third party, remotely control the supply of **energy** to some or all equipment in **your** **premises**, some of **your** electrical appliances (e.g. hot water cylinders and night store heaters) will be switched off or adjusted as agreed from time to time. Controlled load periods will be limited to those set out in our price list and **we** will respond to controlled load system faults in accordance with our normal practices, after you have advised **us** of the problem. 
+5.5 If **you** have a controlled load pricing option i.e. a price plan that allows** Energy Online** to either directly, or via a third party, remotely control the supply of **energy** to some or all equipment in **your** **premises**, some of **your** electrical appliances (e.g. hot water cylinders and night store heaters) will be switched off or adjusted as agreed from time to time. Controlled load periods will be limited to those set out in our **price list** and **we** will respond to controlled load system faults in accordance with our normal practices, after you have advised **us** of the problem. 
 
 In the event of a local or national **energy** shortage, or in circumstances of extreme wholesale prices, **your** **energy** supply may be rationed or restricted. **Energy** may also be rationed as part of an **energy** industry rationing plan.
 
@@ -307,9 +307,9 @@ If **your** **meter** is faulty, **we** may not be able to tell for certain how 
 • ­if it is apparent that **your** **meter** has measured more **energy** than **you** actually used and **you** have over-paid **us**, **we** will refund to **you** an amount **we** reasonably believe is a realistic estimate of the over-payment.
 
 9 WHAT FEES AND CHARGES WILL YOU PAY?
-9.1 **You** must pay the fees and charges set out in the **Energy Online** price list based on the **energy** **you** consume and the services **you** use unless **we** have agreed otherwise in writing. These fees and charges may change from time to time. 
+9.1 **You** must pay the fees and charges set out in the **Energy Online** **price list** based on the **energy** **you** consume and the services **you** use unless **we** have agreed otherwise in writing. These fees and charges may change from time to time. 
 
-Please call our Customer Care Team, or click here, for a copy of our most recent price list.  **You** can contact **us** to check if **you** are on the right pricing plan for **your** requirements. 
+Please call our Customer Care Team, or click here, for a copy of our most recent **price list**.  **You** can contact **us** to check if **you** are on the right pricing plan for **your** requirements. 
 
 9.2 **We** don’t offer prepay pricing plans.  If **you** are interested in a prepay pricing plan, **you** may wish to contact another **energy** retailer to see if they can offer y**ou** a prepay pricing plan in **your** area. 
 
@@ -471,7 +471,7 @@ Notwithstanding any provision to the contrary in this agreement, nothing in this
 • cause any part of this section 17 to be void.
 
 18 CAN WE CHANGE THIS AGREEMENT?
-18.1 **We** may make changes to this agreement, the **network** **requirements**, **your** payment methods, or our price list. If **we** make changes to this agreement, the **network** **requirements**, **your** payment methods, or if **we** increase the **energy** prices set out in our price list, **we** will give **you** notice of the changes as soon as possible and not later than 30 days before the change is to take effect, together with our reasons for making the changes. We will do this by any reasonable method of communication including by:
+18.1 **We** may make changes to this agreement, the **network** **requirements**, **your** payment methods, or our **price list**. If **we** make changes to this agreement, the **network** **requirements**, **your** payment methods, or if **we** increase the **energy** prices set out in our **price list**, **we** will give **you** notice of the changes as soon as possible and not later than 30 days before the change is to take effect, together with our reasons for making the changes. We will do this by any reasonable method of communication including by:
 
 • advertising in a local daily newspaper; or 
 • posting a notice on our website; or
@@ -481,7 +481,7 @@ Notwithstanding any provision to the contrary in this agreement, nothing in this
 
 or by a combination of these methods.
 
-18.2 If **we** increase the special fees or charges set out in our price list **we** will notify **you** of these changes by advertising on our website or placing a statement on **your** invoice. **We** do not need to give **you** notice if **we** decrease **your** **energy** prices or the special fees and charges set out in our price list. 
+18.2 If **we** increase the special fees or charges set out in our **price list** **we** will notify **you** of these changes by advertising on our website or placing a statement on **your** invoice. **We** do not need to give **you** notice if **we** decrease **your** **energy** prices or the special fees and charges set out in our **price list**. 
 
 18.3 If **we** increase a fee or service charge by more than 5% or if **we** increase the total invoiced price for **energ**y **we** supply to **you** by more than 5% (and, in the case of a fee or service charge, the increase is reasonably likely to have a material effect on **you**), or change the frequency of billing or **meter** reading, **we** will always give **you** an individual written notice as soon as possible. However, **we** will not provide individual written notice of price increases where **you** have signed up to a flexible pricing plan, under which electricity prices may vary depending on the time and volume of **your** electricity consumption. **We** will not change the frequency of billing to less than approximately once a month (depending on when your **meter** is read) unless **you** have agreed otherwise, except for any one-off circumstances where it is necessary to send **you** a bill other than on a monthly basis.  If there has been an increase in **your** **energy** prices, the notice will explain the reasons for the increase. 
 
@@ -540,7 +540,7 @@ In some cases, the **network company** may require **you** to have an agreement 
 In relation to **your** electricity supply, **you** agree that:
 
 • the power factor shall not be less than 0.95 lagging each month, or such other amount as specified by **your** local **network company**;
-• there is to be no interconnection at any time between **your** point of supply and any other point of supply without the **network company's** prior written consent;
+• there is to be no interconnection at any time between **your** **point of supply** and any other **point of supply** without the **network company's** prior written consent;
 • if the characteristics of **your** equipment or demand interferes with the quality of supply of **energy** to any other consumer on the **network** or interferes with the operation of any remote signalling services or other fittings of the **network company**, **you** will, upon notice from the **network company** or **us**, remedy the interference at **your** own cost as soon as practicable (and in any event within 20 business days of the date of the notice). If **we** become liable to any third party as a result of such interference, **you** must compensate **us** to the full extent of such liability and for all associated costs incurred by **us**; 
 • **you** will use all reasonable measures to ensure that the levels of harmonic voltages and currents injected back into the **network** from **your** **premises** conform with the New Zealand Electrical Code of Practice for Harmonic levels NZECP 36:1993 insofar as the harmonic disturbance results from a cause within **your** control; and
 • **you** agree to comply with all line function services, safety and technical requirements provided for under statute, regulations and codes of practice. 
@@ -611,7 +611,7 @@ If **you** do not own **your** **premises**, you confirm that **you** have any n
 
 **You** must repair and maintain:
 
-• **your** electricity and/or gas lines, pipes or cables (including any poles and fittings) from the point of supply;
+• **your** electricity and/or gas lines, pipes or cables (including any poles and fittings) from the **point of supply**;
 • the **meter** box or **meter** board itself, any sub or fuse board and any other wiring or piping on **your** **premises**; and
 • any electrical and/or gas appliances and equipment not included above,
 
@@ -619,7 +619,7 @@ and if any of this equipment looks unsafe, **you** should contact **your** own e
 
 If **you** need to immediately turn off **your** gas supply in the case of an **emergency situation**, **you** should locate the lever on **your** gas **meter** and turn the lever to a horizontal position or 90 degrees from the pipes.
 
-**You** own and are responsible for **energy** supplied from **your** point of supply to the point where the **energy** is consumed. **You** must not supply **energy** to another property or person from **your** **premises**.  Where **your** point of supply supplies more than one customer **you** will be jointly responsible for the **metering equipment** and other equipment **you** are responsible for, and **we** may estimate the apportionment of **energy** consumption between customers or require **you** to install additional **metering equipment**, so that the **energy** consumption can be accurately apportioned.
+**You** own and are responsible for **energy** supplied from **your** **point of supply** to the point where the **energy** is consumed. **You** must not supply **energy** to another property or person from **your** **premises**.  Where **your** **point of supply** supplies more than one customer **you** will be jointly responsible for the **metering equipment** and other equipment **you** are responsible for, and **we** may estimate the apportionment of **energy** consumption between customers or require **you** to install additional **metering equipment**, so that the **energy** consumption can be accurately apportioned.
 
 **You** must not interfere with the **network company's** equipment or allow anyone else to do so. **Your** rights and obligations in relation to trees are set out in the Electricity (Hazards from Trees) Regulations 2003. For more information, please contact **your** **network company**. If **you** do not know how to contact **your** **network company**, please ask **us**.
 
@@ -666,17 +666,17 @@ If **you** do not have a direct agreement with **your** **meter company**, then 
 
 **meter reading** **information** means all information and data collected, measured or stored by any **metering equipment**. 
 
-**network** means the electricity and/or gas (as the case may be) distribution **network** to which **your** point of supply is connected including the **network** of overhead lines, underground cables and pipelines, substations and other equipment used to distribute gas or electricity.
+**network** means the electricity and/or gas (as the case may be) distribution **network** to which **your** **point of supply** is connected including the **network** of overhead lines, underground cables and pipelines, substations and other equipment used to distribute gas or electricity.
 
 **network company** means the company or organisation that owns the **network**, and its agents. 
 
 **network requirements** means the rights and responsibilities relating to the **network company** summarised in these terms and conditions. 
 
-point of supply means the point at which **we** or the **network company** determine that the **network** ends and **your** lines, cables or pipes and fittings and equipment begin. For **your** information, the point of supply for electricity is generally the point on the boundary of a property where the electricity supply enters.  The point of supply for gas is usually the outlet of the gas **meter** that supplies gas to **you**.  If **you** are not sure where **your** point of supply is, please contact **your** **network company**.  If **you** are not sure who **your** **network company** is, please call **us** on one of the numbers listed in section 1 above, and **we** will refer **you** to the appropriate **network company**.  
+**point of supply** means the point at which **we** or the **network company** determine that the **network** ends and **your** lines, cables or pipes and fittings and equipment begin. For **your** information, the **point of supply** for electricity is generally the point on the boundary of a property where the electricity supply enters.  The **point of supply** for gas is usually the outlet of the gas **meter** that supplies gas to **you**.  If **you** are not sure where **your** **point of supply** is, please contact **your** **network company**.  If **you** are not sure who **your** **network company** is, please call **us** on one of the numbers listed in section 1 above, and **we** will refer **you** to the appropriate **network company**.  
 
 **premises** means the property supplied with **energy** under this agreement. 
 
-price list means **Energy Online's energy** prices relating to **energy** consumption, and special fees and charges for other services. **Your** current relevant price lists are available by calling our Customer Care Team.
+**price list** means **Energy Online's energy** prices relating to **energy** consumption, and special fees and charges for other services. **Your** current relevant **price lists** are available by calling our Customer Care Team.
 
 **vulnerable customer** means a customer who has told **us**, or about whom it appears to **us**, that **disconnection** of **energy** at the customer's **premises** presents a clear threat to the health or well-being of the customer or a member of the customer's household, or who has mains powered equipment for critical medical support. This could be because of age, health or disability.  A **vulnerable customer** may also be a customer who cannot genuinely pay his or her bill because of severe financial difficulty, whether temporary or permanent. 
 
