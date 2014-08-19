@@ -167,7 +167,7 @@ Our obligation to inform **you** under this section 6.3 does not apply where:
 
 **You** must notify **us** immediately if **you** become aware that the **meter** or related equipment is tampered with, damaged, defective or looks unsafe.</dd></dl></li>
 
-<li><dl><dt>What do we do with meter reading information?</dt>
+<li><dl><dt>**What do we do with meter reading information?**</dt>
 
 **You** agree that **we** own all **meter reading** **information**. 
 
