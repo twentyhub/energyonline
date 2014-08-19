@@ -576,25 +576,25 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 **You** agree:
 
 • to provide **us**, the **meter company**, **network company** and any other third party who owns **energy** supply equipment on **your** **premises** with reasonable space for the safe, secure, weather tight, insect and vermin free, and accessible housing of the **metering equipment** and the equipment of the network company or other third party at no cost to **us**, and ensure the housing remains in such condition; and
-• to look after the **meter** and prevent interference with, or damage to, or loss of, the **metering equipment**, the **energy** supply equipment of the network company or other third party and the **metering communications network**.
+• to look after the **meter** and prevent interference with, or damage to, or loss of, the **metering equipment**, the **energy** supply equipment of the **network company** or other third party and the metering communications network.
 
-If **you** do not own **your** **premises**, you confirm that **you** have any necessary approvals required from the owner, landlord or body corporate for the installation of any **meter** or **metering equipment** at **your** **premises**, for any alterations to **your** **premises** required to install any such equipment and to enable **us** to exercise our other rights under these terms and conditions. **You** will bear any costs incurred by **us**, the **meter company**, network company or our respective contractors if **you** do not have any such approval.
+If **you** do not own **your** **premises**, you confirm that **you** have any necessary approvals required from the owner, landlord or body corporate for the installation of any **meter** or **metering equipment** at **your** **premises**, for any alterations to **your** **premises** required to install any such equipment and to enable **us** to exercise our other rights under these terms and conditions. **You** will bear any costs incurred by **us**, the **meter company**, **network company** or our respective contractors if **you** do not have any such approval.
 
 23.5 What if the meter is damaged?
 
 **You** must tell **us** immediately if: 
 
-• any **metering equipment** or any **energy** supply equipment of the network company or other third party is damaged, defective, or looks unsafe; or 
-• **you** discover any fault with, or interference with, any **metering equipment**, the **metering communication network** or any **energy** supply equipment of the network company or other third party.
+• any **metering equipment** or any **energy** supply equipment of the **network company** or other third party is damaged, defective, or looks unsafe; or 
+• **you** discover any fault with, or interference with, any **metering equipment**, the metering communication network or any **energy** supply equipment of the **network company** or other third party.
 
 **You** agree to co-operate in good faith with any investigations by **us**, the **meter company** or other third party that owns **energy** supply equipment on **your** **premises** in respect of interference with any **metering equipment** on **your** **premises**. If **we** and/or the **metering company's** and/or other third party's investigations identify that the interference was caused by **you**, **you** agree to pay our and/or the **metering company's** and/or the third party's reasonable expenses of the investigation on demand. If **we** believe on reasonable grounds that:
 
-• somebody has damaged, or tampered or interfered with, any **metering equipment** or **energy** supply equipment of the network company or any other third party; 
+• somebody has damaged, or tampered or interfered with, any **metering equipment** or **energy** supply equipment of the **network company** or any other third party; 
 • **you** have benefited from the fact that the **meter** was inaccurate or not working properly; 
-• somebody has caused any loss or damage to **us**, a **meter company**, a network company and/or any of our other contractors; or 
+• somebody has caused any loss or damage to **us**, a **meter company**, a **network company** and/or any of our other contractors; or 
 • **you** have allowed anyone else to do so,
 
-**you** will be responsible for the resulting loss, damage or costs suffered, including our and/or the **metering company** and/or the network company's and/or the other third party's reasonable expenses of the investigation on demand.
+**you** will be responsible for the resulting loss, damage or costs suffered, including our and/or the **metering company** and/or the **network company's** and/or the other third party's reasonable expenses of the investigation on demand.
 
 **We** may also:
 
@@ -621,14 +621,14 @@ If **you** need to immediately turn off **your** gas supply in the case of an em
 
 **You** own and are responsible for **energy** supplied from **your** point of supply to the point where the **energy** is consumed. **You** must not supply **energy** to another property or person from **your** **premises**.  Where **your** point of supply supplies more than one customer **you** will be jointly responsible for the **metering equipment** and other equipment **you** are responsible for, and **we** may estimate the apportionment of **energy** consumption between customers or require **you** to install additional **metering equipment**, so that the **energy** consumption can be accurately apportioned.
 
-**You** must not interfere with the network company's equipment or allow anyone else to do so. **Your** rights and obligations in relation to trees are set out in the Electricity (Hazards from Trees) Regulations 2003. For more information, please contact **your** network company. If **you** do not know how to contact **your** network company, please ask **us**.
+**You** must not interfere with the **network company's** equipment or allow anyone else to do so. **Your** rights and obligations in relation to trees are set out in the Electricity (Hazards from Trees) Regulations 2003. For more information, please contact **your** **network company**. If **you** do not know how to contact **your** **network company**, please ask **us**.
 
 25 WHAT IS THE NETWORK COMPANY'S LIABILITY FOR LOSS OR DAMAGE?
-25.1 If the network company causes **you** loss or damage, **you** may wish to advise **us**.
+25.1 If the **network company** causes **you** loss or damage, **you** may wish to advise **us**.
 
-25.2 If the network company is not a member of the Electricity and Gas Complaints Commissioner Scheme, then **you** agree that the network company has no liability to **you** (including liability in contract or in negligence) relating to the supply of **energy** to **your** **premises**. However, the network company has agreed to be liable to **us** in certain instances.
+25.2 If the network company is not a member of the Electricity and Gas Complaints Commissioner Scheme, then **you** agree that the **network company** has no liability to **you** (including liability in contract or in negligence) relating to the supply of **energy** to **your** **premises**. However, the **network company** has agreed to be liable to **us** in certain instances.
 
-25.3 As explained in section 21.1, **we** contract with the network company to deliver **energy** to **your** **premises**. To achieve a better quality and reliability of service from **you**, **we** encourage the network company to give service guarantees. As these guarantees are for **your** benefit, **we** will pass on to **you**, as a credit in your next invoice from **us**, any payments **we** receive from the network company for a failure by the network company to satisfy any guarantees they may give **us** in relation to their services that can be reasonably considered as compensation for the network company's failure to satisfy its guarantees. **We** will also pass on to **you** any payments **we** receive from other third parties who breach service guarantees that have been provided to **us** for **your** benefit.  On request, **we** will provide **you** with an explanation of how the credit passed on to **you** was determined.  Other than paying **you** such amount, **we** will have no liability to **you** in respect of any defaults by the network company.
+25.3 As explained in section 21.1, **we** contract with the **network company** to deliver **energy** to **your** **premises**. To achieve a better quality and reliability of service from **you**, **we** encourage the **network company** to give service guarantees. As these guarantees are for **your** benefit, **we** will pass on to **you**, as a credit in your next invoice from **us**, any payments **we** receive from the **network company** for a failure by the **network company** to satisfy any guarantees they may give **us** in relation to their services that can be reasonably considered as compensation for the network company's failure to satisfy its guarantees. **We** will also pass on to **you** any payments **we** receive from other third parties who breach service guarantees that have been provided to **us** for **your** benefit.  On request, **we** will provide **you** with an explanation of how the credit passed on to **you** was determined.  Other than paying **you** such amount, **we** will have no liability to **you** in respect of any defaults by the **network company**.
 
 25.4 If the network company is a member of the Electricity and Gas Complaints Commissioner Scheme then the network company will not be liable to **you** (in contract or in negligence) for any loss or damage **you** may suffer unless that loss or damage is physical damage to property where it can be shown that the network company has been negligent and the amount and nature of the loss was reasonably foreseeable. The network company will not have any liability to **you**, whether in contract or in negligence, for an event or series of closely related events relating to the network for any amount exceeding $10,000 in value. Notwithstanding the preceding sentence, the network company's aggregate liability to all customers connected to its network for an event or series of closely related events relating to the network shall not exceed $10,000. 
 
