@@ -162,16 +162,16 @@ Our obligation to inform **you** under this section 6.3 does not apply where:
 
 6.4 What do we do with meter reading information?
 
-**You** agree that **we** own all **meter reading** information. 
+**You** agree that **we** own all **meter reading** **information**. 
 
-To the extent that any **meter reading** information constitutes "personal information" for the purposes of the Privacy Act 1993, **we** will ensure that that **meter reading** information is held by **us** in accordance with the Privacy Act 1993 and our privacy policy. **You** consent to **us**:
+To the extent that any **meter reading** **information** constitutes "personal information" for the purposes of the Privacy Act 1993, **we** will ensure that that **meter reading** **information** is held by **us** in accordance with the Privacy Act 1993 and our privacy policy. **You** consent to **us**:
 
-• receiving and collecting **meter reading** information in respect of **you** and **your** **premises**;
-• storing **meter reading** information in respect of **you** and **your** **premises** in a way that is referenced back to **you** individually and/or **your** **premises**;
-• using **meter reading** information in respect of **you** and **your** **premises** for any other purpose, including, without limitation, for the purposes outlined in section 2.4 and to invoice **you** accurately for **your** **energy** usage; and 
-• disclosing **meter reading** information in respect of **you** and **your** **premises** to third parties. 
+• receiving and collecting **meter reading** **information** in respect of **you** and **your** **premises**;
+• storing **meter reading** **information** in respect of **you** and **your** **premises** in a way that is referenced back to **you** individually and/or **your** **premises**;
+• using **meter reading** **information** in respect of **you** and **your** **premises** for any other purpose, including, without limitation, for the purposes outlined in section 2.4 and to invoice **you** accurately for **your** **energy** usage; and 
+• disclosing **meter reading** **information** in respect of **you** and **your** **premises** to third parties. 
 
-**You** may not sell, assign or provide any **meter reading** information to any third party without our prior written consent, except for the purpose of comparing prices with other **energy** retailers. 
+**You** may not sell, assign or provide any **meter reading** **information** to any third party without our prior written consent, except for the purpose of comparing prices with other **energy** retailers. 
 
 6.5 Advanced meters
 
@@ -658,13 +658,13 @@ lines services means the provision and maintenance of works for the conveyance o
 
 medically dependent customer means a customer who is dependent on mains electricity for critical medical support, such that loss of electricity may result in the loss of life or serious harm.  Medically dependent customer status can only be granted through the provision of a Notice of Medically Dependent Consumer Status, which is available from **your** primary healthcare provider. 
 
-**metering** communications **network** means the equipment and systems used to convey **meter** reading information from a **meter** to **us**.
+**metering** communications **network** means the equipment and systems used to convey **meter** **reading information** from a **meter** to **us**.
 
 **meter company** means the company or companies that own the **meter** situated on **your** **premises** and/or are responsible for installing, maintaining, repairing and reading **meters**.
 
 **metering equipment** and **meter** means the **metering** and other equipment which is used to measure and/or provide information about **your** consumption (and, if appropriate, demand) of **energy**, including any covering or housing for such equipment, and **meters**, loggers, communication devices, relays, current transformers, voltage transformers and any other equipment required to measure **energy** usage, and includes an **advanced meter** and the metering communications **network**.
 
-**meter reading** information means all information and data collected, measured or stored by any **metering equipment**. 
+**meter reading** **information** means all information and data collected, measured or stored by any **metering equipment**. 
 
 **network** means the electricity and/or gas (as the case may be) distribution **network** to which **your** point of supply is connected including the **network** of overhead lines, underground cables and pipelines, substations and other equipment used to distribute gas or electricity.
 
