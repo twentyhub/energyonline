@@ -272,9 +272,9 @@ If **you** dispute the amount on **your** invoice, or any part of **your** invoi
 
 Any costs incurred in collecting money owing to **us** by **you**, including bank fees, credit agency fees and legal and court costs, are payable by **you**. 
 
-If **you** are having difficulties in paying **your** invoice to **us** because **you** are a low income customer or a vulnerable customer, **you** may arrange for payment alternatives. Please call our Customer Care Team to discuss alternative payment methods. 
+If **you** are having difficulties in paying **your** invoice to **us** because **you** are a low income customer or a **vulnerable customer**, **you** may arrange for payment alternatives. Please call our Customer Care Team to discuss alternative payment methods. 
 
-If **you** are a vulnerable customer, **we** will not disconnect **your** **energy** supply unless all assistance with payment has been given under section 14 of this agreement.
+If **you** are a **vulnerable customer**, **we** will not disconnect **your** **energy** supply unless all assistance with payment has been given under section 14 of this agreement.
 
 If **you** have verified **your** status as a **medically dependent** customer with **us**, **we** will not disconnect **your** electricity supply. In order to verify **your** status as a **medically dependent** customer, **you** will need to provide **us** with a Notice of Potential **Medically Dependent** Consumer Status Form.  **You** can request this form from **your** primary healthcare provider.  **We** may ask **you** to re-confirm **your** status as a **medically dependent** customer by providing **us** with a further Notice of Potential **Medically Dependent** Consumer Status Form no more than once every 12 months.
 
@@ -391,20 +391,20 @@ If the **energy** supply at **your** **premises** is disconnected (but not decom
 **We** will arrange for a final **meter** reading and **we** will send a final invoice to **you** at **your** forwarding address. **We** may ask **you** to pay a final **meter** reading fee.  **We** will give **you** reasonable notice that **you** may incur a final **meter** reading fee and how **you** may avoid the fee if possible. 
 
 14 CONTACTING WORK AND INCOME AND NOMINATED PERSON
-**You** are a vulnerable customer if **you** have told **us**, or it appears to **us**, that **disconnection** of **energy** at **your** **premises** presents a clear threat to the health or well-being of **you** or a member of **your** household, or if **you** have mains powered equipment for critical medical support. This could be because of age, health or disability. **You** can inform **us** at any time if **you** are or become a vulnerable customer. 
+**You** are a **vulnerable customer** if **you** have told **us**, or it appears to **us**, that **disconnection** of **energy** at **your** **premises** presents a clear threat to the health or well-being of **you** or a member of **your** household, or if **you** have mains powered equipment for critical medical support. This could be because of age, health or disability. **You** can inform **us** at any time if **you** are or become a **vulnerable customer**. 
 
 If: 
 
-• for any reason **we** form the honest belief that **you** are a vulnerable customer; and
+• for any reason **we** form the honest belief that **you** are a **vulnerable customer**; and
 • **you** do not make regular bill payments and **your** supply is at risk of **disconnection**; and
 • **we** have provided **you** with all the assistance **we** are reasonably able to; and
 • **you** are still unable to make **your** payments,
 
 **you** authorise **us** to consult with Work and Income, District Health Boards, private health providers or any other social agency or service provider as necessary. 
 
-**We** may also maintain **your** information on a register of vulnerable customers. If, after **we** have informed **you** of the opportunity to notify **us** that **you** are a vulnerable customer, **you** have not told **us**, or it does not appear to **us**, that **you** are a vulnerable customer, **we** will assume that **you** are not a vulnerable customer.
+**We** may also maintain **your** information on a register of **vulnerable customers**. If, after **we** have informed **you** of the opportunity to notify **us** that **you** are a **vulnerable customer**, **you** have not told **us**, or it does not appear to **us**, that **you** are a **vulnerable customer**, **we** will assume that **you** are not a **vulnerable customer**.
 
-If **you** are not a vulnerable customer, **you** can still agree that **we** consult with Work and Income, District Health Boards, private health providers or any other social agency or service provider if:
+If **you** are not a **vulnerable customer**, **you** can still agree that **we** consult with Work and Income, District Health Boards, private health providers or any other social agency or service provider if:
 
 • **you** do not pay **your** invoices regularly and **your** supply is at risk of **disconnection**; and
 • **we** have provided **you** with all the assistance **we** are reasonably able to; and
@@ -678,7 +678,7 @@ point of supply means the point at which **we** or the **network company** deter
 
 price list means **Energy Online's energy** prices relating to **energy** consumption, and special fees and charges for other services. **Your** current relevant price lists are available by calling our Customer Care Team.
 
-vulnerable customer means a customer who has told **us**, or about whom it appears to **us**, that **disconnection** of **energy** at the customer's **premises** presents a clear threat to the health or well-being of the customer or a member of the customer's household, or who has mains powered equipment for critical medical support. This could be because of age, health or disability.  A vulnerable customer may also be a customer who cannot genuinely pay his or her bill because of severe financial difficulty, whether temporary or permanent. 
+**vulnerable customer** means a customer who has told **us**, or about whom it appears to **us**, that **disconnection** of **energy** at the customer's **premises** presents a clear threat to the health or well-being of the customer or a member of the customer's household, or who has mains powered equipment for critical medical support. This could be because of age, health or disability.  A **vulnerable customer** may also be a customer who cannot genuinely pay his or her bill because of severe financial difficulty, whether temporary or permanent. 
 
 **you**/**your** means **you**, the customer.
  
