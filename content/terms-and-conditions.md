@@ -291,7 +291,7 @@ If **you** are having difficulties in paying **your** invoice to **us** because 
 
 If **you** are a **vulnerable customer**, **we** will not disconnect **your** **energy** supply unless all assistance with payment has been given under section 14 of this agreement.
 
-If **you** have verified **your** status as a **medically dependent** customer with **us**, **we** will not disconnect **your** electricity supply. In order to verify **your** status as a **medically dependent** customer, **you** will need to provide **us** with a Notice of Potential **Medically Dependent** Consumer Status Form.  **You** can request this form from **your** primary healthcare provider.  **We** may ask **you** to re-confirm **your** status as a **medically dependent** customer by providing **us** with a further Notice of Potential **Medically Dependent** Consumer Status Form no more than once every 12 months.</li>
+If **you** have verified **your** status as a **medically dependent** **customer** with **us**, **we** will not disconnect **your** electricity supply. In order to verify **your** status as a **medically dependent** **customer**, **you** will need to provide **us** with a Notice of Potential Medically Dependent Consumer Status Form.  **You** can request this form from **your** primary healthcare provider.  **We** may ask **you** to re-confirm **your** status as a **medically dependent** **customer** by providing **us** with a further Notice of Potential Medically Dependent Consumer Status Form no more than once every 12 months.</li>
 
 <li>**What if you don't receive an invoice or your invoice was late?**
 
@@ -683,7 +683,7 @@ If **you** do not have a direct agreement with **your** **meter company**, then 
 
 **lines services** means the provision and maintenance of works for the conveyance of electricity and the operation of such works, including the control of voltage.
 
-**medically dependent** customer means a customer who is dependent on mains electricity for critical medical support, such that loss of electricity may result in the loss of life or serious harm.  **Medically dependent** customer status can only be granted through the provision of a Notice of **Medically Dependent** Consumer Status, which is available from **your** primary healthcare provider. 
+**medically dependent** **customer** means a customer who is dependent on mains electricity for critical medical support, such that loss of electricity may result in the loss of life or serious harm.  **Medically dependent** **customer** status can only be granted through the provision of a Notice of **Medically Dependent** **Consumer** Status, which is available from **your** primary healthcare provider. 
 
 **metering** **communications** **network** means the equipment and systems used to convey **meter** **reading information** from a **meter** to **us**.
 
