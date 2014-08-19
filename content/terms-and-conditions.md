@@ -80,7 +80,7 @@ Please note that if **you**, or another person at **your** **premises**, have an
 
 **We** may also ask **you** for a bond at any time if **you** are unable to establish a satisfactory credit record or maintain a satisfactory payment record with **us**.
 
-Any bond for electricity-only residential customers or for gas-only residential customers will not exceed $150. If **we** supply **you** with both electricity and gas for **your** residential **premises**, **your** bond will not exceed $200. If **you** are a commercial customer **your** bond will be as agreed with **you**, or as per our schedule of fees.  **We** will not pay interest on the bond. The bond will be held in trust on **your** behalf in a separate account.<li> 
+Any bond for electricity-only residential customers or for gas-only residential customers will not exceed $150. If **we** supply **you** with both electricity and gas for **your** residential **premises**, **your** bond will not exceed $200. If **you** are a commercial customer **your** bond will be as agreed with **you**, or as per our schedule of fees.  **We** will not pay interest on the bond. The bond will be held in trust on **your** behalf in a separate account.</li> 
 
 <li>**We** will repay **your** bond, less any amounts **you** owe **us**, within one month of:
 <ul>
