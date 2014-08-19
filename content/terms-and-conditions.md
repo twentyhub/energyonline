@@ -140,15 +140,15 @@ In the event of a local or national **energy** shortage, or in circumstances of 
 
 **We** can decide whether or not to accept **your** readings. If **we** do not accept **your** readings, **we** may carry out a special **meter** reading within 5 days. If it turns out **your** reading was accurate, **we** will not charge **you** for the cost of our special **meter** reading. If **your** reading was inaccurate, **we** may charge **you** for the cost of our special **meter** reading.</li>
 
-<li>What if you are a new customer? 
+<li><dl><dt>**What if you are a new customer?**</dt> 
 
-If **you** are a new customer, **we** will use the previous final **meter** reading at the **premises** as **your** initial **meter** reading, unless **you** read the **meter** before using any **energy** and advise **us** of that **meter** reading within one business day of **you** moving in. If **your** **meter** reading differs from the previous final **meter** reading at the **premises**, **we** may arrange for the **meter** to be read and **we** will use that reading as **your** initial **meter** reading.
+<dd>If **you** are a new customer, **we** will use the previous final **meter** reading at the **premises** as **your** initial **meter** reading, unless **you** read the **meter** before using any **energy** and advise **us** of that **meter** reading within one business day of **you** moving in. If **your** **meter** reading differs from the previous final **meter** reading at the **premises**, **we** may arrange for the **meter** to be read and **we** will use that reading as **your** initial **meter** reading.
 
-Alternatively, if an advanced **meter** has been installed at **your** **premises**, **we** may, in our discretion, take an initial **meter** reading remotely and any such reading will be conclusive evidence of the initial **meter** reading from the date **you** become our customer.</li> 
+Alternatively, if an advanced **meter** has been installed at **your** **premises**, **we** may, in our discretion, take an initial **meter** reading remotely and any such reading will be conclusive evidence of the initial **meter** reading from the date **you** become our customer.</dd></dl></li> 
 
-<li>What if the meter is faulty?
+<li><dl><dt>**What if the meter is faulty?**</dt>
 
-**We** may arrange to have the **meter** at **your** **premises** tested if **we** think it is faulty or if **you** tell **us** that **you** think it is faulty or not reflective of **your** actual consumption.
+<dd>**We** may arrange to have the **meter** at **your** **premises** tested if **we** think it is faulty or if **you** tell **us** that **you** think it is faulty or not reflective of **your** actual consumption.
 
 **We** will remove the **meter** for testing within 5 business days if **you** ask **us** to.
 
@@ -165,9 +165,9 @@ Our obligation to inform **you** under this section 6.3 does not apply where:
 <li>there is a safety issue; or</li>
 <li>**you** have materially breached these terms and conditions.</li></ul> 
 
-**You** must notify **us** immediately if **you** become aware that the **meter** or related equipment is tampered with, damaged, defective or looks unsafe.</li>
+**You** must notify **us** immediately if **you** become aware that the **meter** or related equipment is tampered with, damaged, defective or looks unsafe.</dd></dl></li>
 
-<li>What do we do with meter reading information?
+<li><dl><dt>What do we do with meter reading information?</dt>
 
 **You** agree that **we** own all **meter reading** **information**. 
 
@@ -178,25 +178,25 @@ To the extent that any **meter reading** **information** constitutes "personal i
 <li>using **meter reading** **information** in respect of **you** and **your** **premises** for any other purpose, including, without limitation, for the purposes outlined in section 2.4 and to invoice **you** accurately for **your** **energy** usage; and</li> 
 <li>disclosing **meter reading** **information** in respect of **you** and **your** **premises** to third parties.</li></ul> 
 
-**You** may not sell, assign or provide any **meter reading** **information** to any third party without our prior written consent, except for the purpose of comparing prices with other **energy** retailers.</li> 
+**You** may not sell, assign or provide any **meter reading** **information** to any third party without our prior written consent, except for the purpose of comparing prices with other **energy** retailers.</dd></dl></li> 
 
 <li>**Advanced meters**
 
 **We** may, at any time, replace the **meter** at **your** **premises** with an **advanced meter**. **You** agree that **you** will not object to **us**, or prevent **us** from, replacing **your** **meter** with an **advanced meter**.</li> 
 
-<li>**What if an advanced meter cannot be installed at your premises?**
+<li><dl><dt>**What if an advanced meter cannot be installed at your premises?**</dt>
 
-If an **advanced meter** cannot be installed at **your** **premises** because the wiring at **your** **premises** does not comply with any applicable laws, regulations, codes or standards, or because the **advanced meter** would, when installed, represent a safety hazard or where there is insufficient space on the **meter** board, **we** may require **you** to fix, remedy or repair the wiring or safety hazard, or install a larger **meter** board or otherwise address the lack of space on **your** **meter** board at **your** cost before an **advanced meter** is installed at **your** **premises**.
+<dd>If an **advanced meter** cannot be installed at **your** **premises** because the wiring at **your** **premises** does not comply with any applicable laws, regulations, codes or standards, or because the **advanced meter** would, when installed, represent a safety hazard or where there is insufficient space on the **meter** board, **we** may require **you** to fix, remedy or repair the wiring or safety hazard, or install a larger **meter** board or otherwise address the lack of space on **your** **meter** board at **your** cost before an **advanced meter** is installed at **your** **premises**.
 
-**We** may also require **you** to provide a certificate of compliance from a certified service provider at **your** cost before the **advanced meter** is installed. **We** may also request a copy of this certificate at any time.</li>
+**We** may also require **you** to provide a certificate of compliance from a certified service provider at **your** cost before the **advanced meter** is installed. **We** may also request a copy of this certificate at any time.</dd></dl></li>
 
-<li>**Will there be manual meter readings with advanced meters?**
+<li><dl><dt>**Will there be manual meter readings with advanced meters?**</dt>
 
-If an **advanced meter** has been installed at **your** **premises**, **we** may still need to read **your** **meter** manually in some situations (e.g. if the **advanced meter** is faulty, the mains switch is turned off or if there have been failures in the **metering **communications** network**). If the manual reading is required because **you** have caused a communications fault, **we** may pass on the cost of the manual reading to **you**.</li>
+<dd>If an **advanced meter** has been installed at **your** **premises**, **we** may still need to read **your** **meter** manually in some situations (e.g. if the **advanced meter** is faulty, the mains switch is turned off or if there have been failures in the **metering **communications** network**). If the manual reading is required because **you** have caused a communications fault, **we** may pass on the cost of the manual reading to **you**.</dd></dl></li>
 
-<li>**What if I miss an appointment?**
+<li><dl><dt>**What if I miss an appointment?**</dt>
 
-If **we** or a **meter company** make an appointment with **you** to install, connect, test, inspect, maintain, repair, replace, alter, service, clean, disconnect or remove any **metering** equipment or other equipment, and **you** miss the agreed appointment, **we** may pass on to **you** any reasonable charges **we** incur as a result of **you** missing the appointment.</li></ol>
+<dd>If **we** or a **meter company** make an appointment with **you** to install, connect, test, inspect, maintain, repair, replace, alter, service, clean, disconnect or remove any **metering** equipment or other equipment, and **you** miss the agreed appointment, **we** may pass on to **you** any reasonable charges **we** incur as a result of **you** missing the appointment.</dd></dl></li></ol>
 
 ## 7 WHAT ACCESS DO YOU NEED TO PROVIDE?
 
