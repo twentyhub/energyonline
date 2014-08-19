@@ -388,33 +388,34 @@ If an **advanced meter** has been installed at **your** **premises**, **we** may
 **You** will be responsible for any liability suffered or incurred by **you** as a result of **us** disconnecting or reconnecting the **energy** supply at **your** **premises**.
 
 13 WHAT IF YOU WANT TO STOP YOUR SUPPLY?
-13.1 If **you** no longer want **us** to supply **you** with **energy** or **you** want **your** supply disconnected, **you** must let **us** know at least 3 business days beforehand. This timeframe is consistent with applicable regulations and industry standards as at the date of these terms.  If **you** intend to leave **your** present **premises**, **you** must also tell **us** **your** forwarding address. 
+<ol>
+<li>13.1 If **you** no longer want **us** to supply **you** with **energy** or **you** want **your** supply disconnected, **you** must let **us** know at least 3 business days beforehand. This timeframe is consistent with applicable regulations and industry standards as at the date of these terms.  If **you** intend to leave **your** present **premises**, **you** must also tell **us** **your** forwarding address. 
 
 If **you** don’t give **us** 3 business days' notice **you** will be required to pay for any **energy** used at the **premises** while the **premises** remain connected to the **network**, even if **you** are no longer at the **premises**, until the date on which 3 business days' notice has been given. 
 
 If **you** are not going to remain our customer after **your** move, our charges to **you** will stop on the date 3 business days after **you** have given **us** notice in accordance with this section, or if **you** have failed to give **us** notice, when **we** disconnect the **premises**, or a new customer has notified **us** that it has taken over the **premises**.  Where **you** have given **us** notice in accordance with this section, **disconnection** of **your** **premises** will occur as soon as possible on or from the date on which **your** notice takes effect.
 
-Where **you** have instructed **us** that **you** are switching to another retailer, **we** will work with **you** to facilitate the switch and terminate **your** supply in accordance with applicable regulations and industry standards. 
+Where **you** have instructed **us** that **you** are switching to another retailer, **we** will work with **you** to facilitate the switch and terminate **your** supply in accordance with applicable regulations and industry standards.</li> 
 
-13.2 What if you want to stop receiving electricity where **we** also supply you with gas? 
+<li>13.2 What if you want to stop receiving electricity where **we** also supply you with gas? 
 
 **We** will only supply gas to **your** **premises** if **we** also supply **your** **premises** with electricity, therefore, if **you** no longer wish to receive electricity from **us**, **we** will also terminate our supply of gas to **you**.   **You** must provide **us** with at least 3 business days notice to terminate supply.
 
-If the **energy** supply at **your** **premises** is disconnected (but not **decommissioned**), **we** may still charge **you** a daily fixed charge. However, **we** will not charge **you** a daily fixed charge for **energy** if the **energy** supply at **your** **premises** has been **decommissioned**.
+If the **energy** supply at **your** **premises** is disconnected (but not **decommissioned**), **we** may still charge **you** a daily fixed charge. However, **we** will not charge **you** a daily fixed charge for **energy** if the **energy** supply at **your** **premises** has been **decommissioned**.</li>
 
-13.3 Will a final meter reading be taken? 
+<li>13.3 Will a final meter reading be taken? 
 
-**We** will arrange for a final **meter** reading and **we** will send a final invoice to **you** at **your** forwarding address. **We** may ask **you** to pay a final **meter** reading fee.  **We** will give **you** reasonable notice that **you** may incur a final **meter** reading fee and how **you** may avoid the fee if possible. 
+**We** will arrange for a final **meter** reading and **we** will send a final invoice to **you** at **your** forwarding address. **We** may ask **you** to pay a final **meter** reading fee.  **We** will give **you** reasonable notice that **you** may incur a final **meter** reading fee and how **you** may avoid the fee if possible.</li></ol> 
 
 14 CONTACTING WORK AND INCOME AND NOMINATED PERSON
 **You** are a **vulnerable customer** if **you** have told **us**, or it appears to **us**, that **disconnection** of **energy** at **your** **premises** presents a clear threat to the health or well-being of **you** or a member of **your** household, or if **you** have mains powered equipment for critical medical support. This could be because of age, health or disability. **You** can inform **us** at any time if **you** are or become a **vulnerable customer**. 
 
 If: 
-
-• for any reason **we** form the honest belief that **you** are a **vulnerable customer**; and
-• **you** do not make regular bill payments and **your** supply is at risk of **disconnection**; and
-• **we** have provided **you** with all the assistance **we** are reasonably able to; and
-• **you** are still unable to make **your** payments,
+<ul>
+<li>for any reason **we** form the honest belief that **you** are a **vulnerable customer**; and</li>
+<li>**you** do not make regular bill payments and **your** supply is at risk of **disconnection**; and</li>
+</li>**we** have provided **you** with all the assistance **we** are reasonably able to; and</li>
+<li>**you** are still unable to make **your** payments,</li></ul>
 
 **you** authorise **us** to consult with Work and Income, District Health Boards, private health providers or any other social agency or service provider as necessary. 
 
@@ -447,33 +448,34 @@ In any event, **we** will acknowledge **your** complaint in writing within 2 bus
 If **we** can't resolve **your** complaint straight away, **we** will give **you** a response within 7 business days after **we** receive **your** complaint. 
 
 If:
-
-• **we** have not resolved **your** complaint within 20 working days and have not written to **you** explaining why **we** need more time to reach a resolution; or
-• **we** have taken longer than 40 working days to resolve **your** complaint; or
-• **you** are not happy with our proposed resolution,
+<ul>
+<li>**we** have not resolved **your** complaint within 20 working days and have not written to **you** explaining why **we** need more time to reach a resolution; or</li>
+<li>**we** have taken longer than 40 working days to resolve **your** complaint; or</li>
+<li>**you** are not happy with our proposed resolution,</li></ul>
 
 **you** may refer **your** complaint to the free independent dispute resolution service provided by the Electricity and Gas Complaints Commissioner on 0800 22 33 40 or visit www.egcomplaints.co.nz.  **You** may also refer **your** complaint to the Disputes Tribunal, the Court or other third party. 
 
 17 WHAT IS ENERGY ONLINE’S LIABILITY FOR LOSS OR DAMAGE?
-17.1 What will we be liable for? 
+<ol>
+<li>17.1 What will we be liable for? 
 
 **We** will not be liable to **you** (in contract, tort (including negligence) or otherwise) for any loss or damage **you** may suffer unless, and to the extent that, that loss or damage is direct loss of or damage to **your** physical property and it occurs due to:
-
-• our breach of this agreement; or 
-• our negligence;
+<ul>
+<li>our breach of this agreement; or</li> 
+<li>our negligence;</li>
 
 and the loss or damage is:
 
-• reasonably foreseeable and is directly caused by our breach or our negligence; and
-• is not caused by something beyond our control,
+<li>reasonably foreseeable and is directly caused by our breach or our negligence; and</li>
+<li>is not caused by something beyond our control,</li></ul>
 
 but **we** will not be liable in any cases for any other loss or damage including indirect or consequential losses, loss of profits or revenue, or similar.
 
-17.2 What is an event beyond our control? 
+<li>17.2 What is an event beyond our control? 
 
-An event or cause beyond our control includes, but is not limited to: acts of God, war, riot, civil commotion, malicious damage, compliance with any law or governmental order, rule, regulation or direction, accident, earthquake, fire, lightning, storm, flood or other similar event, interference with the **network** from birds, animals or vegetation, traffic accidents, faults in the **network**, acts or omissions by the **network company** or **meter company**, problems with generation, transmission or distribution of **energy**, problems with **your** wiring, problems arising because of health and safety hazards at **your** **premises**, and other things which **we** do not have control over. 
+An event or cause beyond our control includes, but is not limited to: acts of God, war, riot, civil commotion, malicious damage, compliance with any law or governmental order, rule, regulation or direction, accident, earthquake, fire, lightning, storm, flood or other similar event, interference with the **network** from birds, animals or vegetation, traffic accidents, faults in the **network**, acts or omissions by the **network company** or **meter company**, problems with generation, transmission or distribution of **energy**, problems with **your** wiring, problems arising because of health and safety hazards at **your** **premises**, and other things which **we** do not have control over.</li> 
 
-17.3 What is our maximum liability? 
+<li>17.3 What is our maximum liability? 
 
 If **we** are liable to **you**, the maximum amount **we** will pay as compensation for **your** loss is $10,000 in respect of any event or series of closely related events. **We** may choose to replace any damaged property or goods, up to the same maximum amount, instead of paying cash. **We** are not required to honour this agreement in circumstances where an event has occurred which is beyond our control and which prevents **us** from doing the things **we** would normally do. In these circumstances, **we** will carry on honouring our obligations as soon as it is reasonably practicable for **us** to do so. 
 
@@ -482,14 +484,15 @@ If **you** acquire goods or services from **us** for personal, domestic or house
 Our limitations of liability extend to our employees and agents for the purposes of the Contracts (Privity) Act 1982. 
 
 Notwithstanding any provision to the contrary in this agreement, nothing in this agreement will exclude or limit the application of any law in New Zealand where such law applies to the supply of **energy**, or any other services **we** supply, to the extent that to do so would:
-
-• contravene that law; or 
-• cause any part of this section 17 to be void.
+<ul>
+<li> contravene that law; or</li> 
+<li>cause any part of this section 17 to be void.</li></ul></li></ol>
 
 18 CAN WE CHANGE THIS AGREEMENT?
-18.1 **We** may make changes to this agreement, the **network** **requirements**, **your** payment methods, or our **price list**. If **we** make changes to this agreement, the **network** **requirements**, **your** payment methods, or if **we** increase the **energy** prices set out in our **price list**, **we** will give **you** notice of the changes as soon as possible and not later than 30 days before the change is to take effect, together with our reasons for making the changes. We will do this by any reasonable method of communication including by:
-
-• advertising in a local daily newspaper; or 
+<ol>
+<li>18.1 **We** may make changes to this agreement, the **network** **requirements**, **your** payment methods, or our **price list**. If **we** make changes to this agreement, the **network** **requirements**, **your** payment methods, or if **we** increase the **energy** prices set out in our **price list**, **we** will give **you** notice of the changes as soon as possible and not later than 30 days before the change is to take effect, together with our reasons for making the changes. We will do this by any reasonable method of communication including by:
+<ul>
+<li>advertising in a local daily newspaper; or 
 • posting a notice on [our website](http://www.energyonline.co.nz/); or
 • writing to **you**; or
 • emailing **you**; or
