@@ -310,7 +310,6 @@ If **you** have verified **your** status as a **medically dependent** **customer
 
 This does not apply where **your** invoice is based on an estimate of **your** **energy** consumption, as an adjustment will be made automatically in the next invoice based on an actual **meter** reading. In any event, **you** will be responsible for the payment of all of the **energy** **you** use.</dd></dl></li>
 
-
 <li><dl><dt>**Is interest payable?**</dt> 
 
 <dd>No interest is due on any amounts over-paid or under-paid by **you** or **us** in relation to incorrect or late invoices.</dd></dl></li>
@@ -376,13 +375,13 @@ If **your** supply has been disconnected for non-payment and **you** satisfy our
 
 ## 12 HOW DO YOU RESUME SUPPLY?
 When **you** want to start **your** **energy** supply again, please call **us**. **You** may not attempt to reconnect the **energy** supply yourself. Before **we** agree to reconnect **your** **energy** supply **we** may require **you** to:
-
-• be present at the time of reconnection;
-• pay all outstanding amounts;
-• pay a bond;
-• pay a reconnection fee;
-• turn off all appliances at **your** **remises**; and/or
-• agree to a payment plan or any other reasonable requirements.
+<ul>
+<li>be present at the time of reconnection;</li>
+<li>pay all outstanding amounts;</li>
+<li>pay a bond;</li>
+<li>pay a reconnection fee;</li>
+<li>turn off all appliances at **your** **remises**; and/or</li>
+<li>agree to a payment plan or any other reasonable requirements.</li></ul>
 
 Where **you** have met these requirements **we** will arrange to reconnect **your** **energy** supply as soon as possible. 
 
