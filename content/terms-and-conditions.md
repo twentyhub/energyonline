@@ -148,7 +148,7 @@ Alternatively, if an advanced **meter** has been installed at **your** **premise
 
 If **we** test a **meter**, **we** will inform **you** of the results of the test on request and if: 
 
-• it is clear that there is an inherent fault with the **meter** itself, **we** will replace or repair the **meter** at our, or the **metering** company's, cost; or 
+• it is clear that there is an inherent fault with the **meter** itself, **we** will replace or repair the **meter** at our, or the **metering company's**, cost; or 
 • otherwise, **we** may charge **you** our costs for testing, replacing and/or repairing the **meter**. 
 
 **We** will inform **you** of any extra charge **you** might incur if **we** do test **your** **meter** prior to undertaking this work.  **We** will also inform **you** prior to taking any action on **your** **meter** which may impact on **your** invoices or result in an extra charge. The process set out above for remedying faulty meters complies with relevant regulations and industry standards as at the date of these terms.
@@ -189,16 +189,16 @@ If an **advanced meter** has been installed at **your** **premises**, **we** may
 
 6.8 What if I miss an appointment?
 
-If **we** or a **meter** company make an appointment with **you** to install, connect, test, inspect, maintain, repair, replace, alter, service, clean, disconnect or remove any **metering** equipment or other equipment, and **you** miss the agreed appointment, **we** may pass on to **you** any reasonable charges **we** incur as a result of **you** missing the appointment.
+If **we** or a **meter company** make an appointment with **you** to install, connect, test, inspect, maintain, repair, replace, alter, service, clean, disconnect or remove any **metering** equipment or other equipment, and **you** miss the agreed appointment, **we** may pass on to **you** any reasonable charges **we** incur as a result of **you** missing the appointment.
 
 7 WHAT ACCESS DO YOU NEED TO PROVIDE?
 7.1 **You** must:
 
-• provide to **us**, the **meter** company, the network company and/or other third parties who own **energy** supply equipment on **your** **premises**, safe and unobstructed access to **metering** equipment, and any equipment of the network company or any other person on **your** **premises** between 8.00am and 7.00pm, Monday to Sunday, excluding public holidays;
-• provide to **us**, the **meter** company, the network company and/or other third parties who own **energy** supply equipment on **your** **premises**, immediate access to **your** **premises** at any time for safety reasons or to prevent serious damage to property or the environment;
-• allow to **us**, the **meter** company, the network company and/or other third parties who own **energy** supply equipment on **your** **premises**, access for installation, connection, testing, inspection, maintenance, repair, replacement, alteration, servicing, cleaning, disconnection or removal of any equipment owned by **us** and/or a **meter** company and/or a network company and/or other third parties including removal of any equipment up to 6 months after termination of supply to **you**;
+• provide to **us**, the **meter company**, the network company and/or other third parties who own **energy** supply equipment on **your** **premises**, safe and unobstructed access to **metering equipment**, and any equipment of the network company or any other person on **your** **premises** between 8.00am and 7.00pm, Monday to Sunday, excluding public holidays;
+• provide to **us**, the **meter company**, the network company and/or other third parties who own **energy** supply equipment on **your** **premises**, immediate access to **your** **premises** at any time for safety reasons or to prevent serious damage to property or the environment;
+• allow to **us**, the **meter company**, the network company and/or other third parties who own **energy** supply equipment on **your** **premises**, access for installation, connection, testing, inspection, maintenance, repair, replacement, alteration, servicing, cleaning, disconnection or removal of any equipment owned by **us** and/or a **meter company** and/or a network company and/or other third parties including removal of any equipment up to 6 months after termination of supply to **you**;
 • ensure that any dog or other animal that may make entry unsafe is secured to enable safe and easy access;
-• keep **us** informed about any health and safety and/or Resource Management Act 1991 requirements or issues at **your** **premises** that could be relevant to our representatives or the representatives of a **meter** company or a network company or other third parties who own **energy** supply equipment on **your** **premises** when they visit your **premises**; 
+• keep **us** informed about any health and safety and/or Resource Management Act 1991 requirements or issues at **your** **premises** that could be relevant to our representatives or the representatives of a **meter company** or a network company or other third parties who own **energy** supply equipment on **your** **premises** when they visit your **premises**; 
 • keep **your** trees and other vegetation regularly trimmed to a safe distance from any lines, pipes, substations, **meters** or equipment, to comply with the Electricity (Safety) Regulations 2010 in relation to any work near lines, the network or other electrical equipment, and the Electricity (Hazards from Trees) Regulations 2003. The Electricity (Hazards from Trees) Regulations 2003 specify the distances trees and other vegetation must be kept from power lines. If vegetation grows within these minimum distances (or Zones) cutting or trimming will be necessary.  **You** can view a summary of these regulations here. If **you** do not comply with these regulations (including any amendments to these regulations), **you** will be liable for the costs of carrying out any work arising as a result of **your** non-compliance.
 
 7.2 **You** must, if requested by **us**, turn off the **energy** at **your** **premises** to enable access for the purposes referred to above.
@@ -215,13 +215,13 @@ If **we** or a **meter** company make an appointment with **you** to install, co
 
 • try to comply with any reasonable requirements that **you** have given **us** (such as closing gates etc). 
 
-7.6 Where **we** are able to, **we** will instruct the **metering** company or network company to take such steps and comply with such requirements.
+7.6 Where **we** are able to, **we** will instruct the **metering company** or network company to take such steps and comply with such requirements.
 
 When accessing **your** property, our representatives will act in a courteous, considerate and professional manner at all times.  
 
 For more information on **energy** safety matters, contact the Energy Safety Service or the network company. 
 
-7.7 Any of our representatives or any representatives of a **meter** company or the network company or other third parties who own **energy** supply equipment on **your** **premises** who are requesting access to **your** **premises** will carry identification and present their identification to **you** on request. If our representatives are visiting at **your** request and **you** are at **your** **premises**, they will identify themselves to **you** before entering **your** property (and **we** will procure that any representatives of a **meter** company or the network company and/or other third parties who own **energy** supply equipment on **your** **premises** requesting access to **your** **premises** will also identify themselves to **you**).  In all other circumstances, **you** can ask the representative(s) to identify themselves at any time while they are on **your** property.  If they are unable or unwilling to show **you** their identification, **you** should not give them access.
+7.7 Any of our representatives or any representatives of a **meter company** or the network company or other third parties who own **energy** supply equipment on **your** **premises** who are requesting access to **your** **premises** will carry identification and present their identification to **you** on request. If our representatives are visiting at **your** request and **you** are at **your** **premises**, they will identify themselves to **you** before entering **your** property (and **we** will procure that any representatives of a **meter company** or the network company and/or other third parties who own **energy** supply equipment on **your** **premises** requesting access to **your** **premises** will also identify themselves to **you**).  In all other circumstances, **you** can ask the representative(s) to identify themselves at any time while they are on **your** property.  If they are unable or unwilling to show **you** their identification, **you** should not give them access.
 
 7.8 What if we have problems gaining access to your premises?
 
@@ -235,7 +235,7 @@ If **we** have been unable to obtain a reading from the **meter** for any reason
 
 7.10 What if we hold keys to your premises?
 
-If **we** have a key or security information to enable **us** to gain access to **your** **premises**, **we** will be responsible for its safe keeping and will use it only for the purposes described in this section 7. **We** will comply with any direction from **you** to return or destroy keys that **you** have given **us**, and/or the **meter** company or the network company.
+If **we** have a key or security information to enable **us** to gain access to **your** **premises**, **we** will be responsible for its safe keeping and will use it only for the purposes described in this section 7. **We** will comply with any direction from **you** to return or destroy keys that **you** have given **us**, and/or the **meter company** or the network company.
 
 7.11 What if you wish to turn off your electricity at the mains? 
 
@@ -322,7 +322,7 @@ Please contact **us** if **you** would like to change **your** pricing plan, pro
 **You** may pay **your** invoice by any of the methods described in the welcome pack sent to **you** when **you** became our customer, as updated from time to time on our website. If you would like to receive further details, please call our Customer Care Team.
 
 11 WHEN WILL WE DISCONNECT YOUR SUPPLY?
-11.1 In addition to our, the network company's and the **meter** company's other rights of disconnection under this agreement, **your** **energy** supply may be disconnected: 
+11.1 In addition to our, the network company's and the **meter company's** other rights of disconnection under this agreement, **your** **energy** supply may be disconnected: 
 
 • ­for non payment of the undisputed portion of any invoice associated with the supply of **energy**, lines services or other services supplied to **you**;
 • ­if **we** cease to have an agreement with the network company that provides lines services to **you**;
@@ -335,7 +335,7 @@ If an **advanced meter** has been installed at **your** **premises**, **we** may
 
 11.2 Will we tell you about disconnecting your supply? 
 
-Except in the case of an emergency situation or for safety reasons, or where **we** suspect the **metering equipment** or other equipment at **your** **premises** supplied by **us** or a network company or **meter** company has been tampered or interfered with, **we** will tell **you** at least 7 days (and allow a further 3 days for delivery of the notice) before **we** disconnect **your** supply of **energy**. **We** will also contact **you**, at the contact details provided by **you**, to provide **you** with a final warning at least 24 hours prior to disconnecting **your** supply. If disconnection is not prevented by **you** and not completed within the timeframe notified to **you** (including where **we** grant **you** an extension to that timeframe, at our discretion), **we** will issue **you** with another final warning no less than 24 hours, or not more than 7 days, before disconnection. Any notice of disconnection from **us** will include information that **you** need to prevent disconnection if prevention is possible.  **We** may ask **you** to pay a disconnection fee or an attendance fee (where the disconnection does not proceed) in respect of the action taken by **us** under this section. **We** will provide reasonable notice to **you** if **you** are likely to incur a disconnection fee.
+Except in the case of an emergency situation or for safety reasons, or where **we** suspect the **metering equipment** or other equipment at **your** **premises** supplied by **us** or a network company or **meter company** has been tampered or interfered with, **we** will tell **you** at least 7 days (and allow a further 3 days for delivery of the notice) before **we** disconnect **your** supply of **energy**. **We** will also contact **you**, at the contact details provided by **you**, to provide **you** with a final warning at least 24 hours prior to disconnecting **your** supply. If disconnection is not prevented by **you** and not completed within the timeframe notified to **you** (including where **we** grant **you** an extension to that timeframe, at our discretion), **we** will issue **you** with another final warning no less than 24 hours, or not more than 7 days, before disconnection. Any notice of disconnection from **us** will include information that **you** need to prevent disconnection if prevention is possible.  **We** may ask **you** to pay a disconnection fee or an attendance fee (where the disconnection does not proceed) in respect of the action taken by **us** under this section. **We** will provide reasonable notice to **you** if **you** are likely to incur a disconnection fee.
 
 **We** will not disconnect **your** supply for non-payment of a disputed amount where **you** have initiated a dispute with the Electricity & Gas Complaints Commissioner in relation to that disputed amount, unless the Electricity & Gas Complaints Commissioner dispute resolution process or our own dispute resolution process has been exhausted.
 
@@ -424,7 +424,7 @@ If **you** think that **we** have failed to meet our performance commitments, **
 
 If **you** have a complaint, please contact our Customer Care Team. Our contact details are set out in section 1, or alternatively **you** can make an appointment to see **us** at our offices.  Our free internal complaints resolution service is explained on our website.
 
-**We** will try to resolve **your** complaint straight away. If it is complex, or involves other parties, such as **your** network company or **meter** company, our Customer Resolutions Team will investigate it for **you**. **We** may also refer it to **your** network company or **meter** company. If **we** do this, **we** will tell **you**. 
+**We** will try to resolve **your** complaint straight away. If it is complex, or involves other parties, such as **your** network company or **meter company**, our Customer Resolutions Team will investigate it for **you**. **We** may also refer it to **your** network company or **meter** company. If **we** do this, **we** will tell **you**. 
 
 In any event, **we** will acknowledge **your** complaint in writing within 2 business days after **we** receive **your** complaint. 
 
@@ -455,7 +455,7 @@ but **we** will not be liable in any cases for any other loss or damage includin
 
 17.2 What is an event beyond our control? 
 
-An event or cause beyond our control includes, but is not limited to: acts of God, war, riot, civil commotion, malicious damage, compliance with any law or governmental order, rule, regulation or direction, accident, earthquake, fire, lightning, storm, flood or other similar event, interference with the network from birds, animals or vegetation, traffic accidents, faults in the network, acts or omissions by the network company or **meter** company, problems with generation, transmission or distribution of **energy**, problems with **your** wiring, problems arising because of health and safety hazards at **your** **premises**, and other things which **we** do not have control over. 
+An event or cause beyond our control includes, but is not limited to: acts of God, war, riot, civil commotion, malicious damage, compliance with any law or governmental order, rule, regulation or direction, accident, earthquake, fire, lightning, storm, flood or other similar event, interference with the network from birds, animals or vegetation, traffic accidents, faults in the network, acts or omissions by the network company or **meter company**, problems with generation, transmission or distribution of **energy**, problems with **your** wiring, problems arising because of health and safety hazards at **your** **premises**, and other things which **we** do not have control over. 
 
 17.3 What is our maximum liability? 
 
@@ -566,7 +566,7 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 
 23.4 How should you deal with equipment at your premises?
 
-**You** must ensure that any **metering equipment** which is supplied by **us** or a **meter** company, and any **energy** supply equipment of the network company or any other third party:
+**You** must ensure that any **metering equipment** which is supplied by **us** or a **meter company**, and any **energy** supply equipment of the network company or any other third party:
 
 • is not removed from its location without our consent;
 • is not encumbered or used as security in any way;
@@ -575,7 +575,7 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 
 **You** agree:
 
-• to provide **us**, the **meter** company, network company and any other third party who owns **energy** supply equipment on **your** **premises** with reasonable space for the safe, secure, weather tight, insect and vermin free, and accessible housing of the **metering equipment** and the equipment of the network company or other third party at no cost to **us**, and ensure the housing remains in such condition; and
+• to provide **us**, the **meter company**, network company and any other third party who owns **energy** supply equipment on **your** **premises** with reasonable space for the safe, secure, weather tight, insect and vermin free, and accessible housing of the **metering equipment** and the equipment of the network company or other third party at no cost to **us**, and ensure the housing remains in such condition; and
 • to look after the **meter** and prevent interference with, or damage to, or loss of, the **metering equipment**, the **energy** supply equipment of the network company or other third party and the **metering communications network**.
 
 If **you** do not own **your** **premises**, you confirm that **you** have any necessary approvals required from the owner, landlord or body corporate for the installation of any **meter** or **metering equipment** at **your** **premises**, for any alterations to **your** **premises** required to install any such equipment and to enable **us** to exercise our other rights under these terms and conditions. **You** will bear any costs incurred by **us**, the **meter** company, network company or our respective contractors if **you** do not have any such approval.
