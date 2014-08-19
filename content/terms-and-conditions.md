@@ -203,12 +203,12 @@ If **we** or a **meter company** make an appointment with **you** to install, co
 
 7.2 **You** must, if requested by **us**, turn off the **energy** at **your** **premises** to enable access for the purposes referred to above.
 
-7.3 Except in routine situations (such as reading or inspecting a **meter** that is located on the outside of a building) or emergency situations, before accessing **your** **premises**, either **we**, the **meter** company, **network company** and/or the other third parties who own **energy** supply equipment on **your** **premises**, will provide written notice to **you** of:
+7.3 Except in routine situations (such as reading or inspecting a **meter** that is located on the outside of a building) or **emergency situations**, before accessing **your** **premises**, either **we**, the **meter** company, **network company** and/or the other third parties who own **energy** supply equipment on **your** **premises**, will provide written notice to **you** of:
 
 • when access to **your** **premises** will be required; and
 • the purpose for requiring access to **your** **premises**.
 
-7.4 **We** will give **you** at least 10 working days notice of the intention to access **your** **premises** if the reason for requiring access relates to construction, upgrade, repair or maintenance.  Where **we** require access to **your** **premises** for any other reason (except for routine situations or emergency situations), **we** will give **you** reasonable notice.
+7.4 **We** will give **you** at least 10 working days notice of the intention to access **your** **premises** if the reason for requiring access relates to construction, upgrade, repair or maintenance.  Where **we** require access to **your** **premises** for any other reason (except for routine situations or **emergency situations**), **we** will give **you** reasonable notice.
 
 7.5 Where **we** require access to **your** **premises**, **we** will:
 • take reasonable steps to minimise any direct impacts on **your** property and any inconvenience to **you**; and
@@ -239,7 +239,7 @@ If **we** have a key or security information to enable **us** to gain access to 
 
 7.11 What if you wish to turn off your electricity at the mains? 
 
-Switching off **your** **energy** at the mains affects our ability to read **your** **advanced meter** remotely. **You** should only switch off **your** **energy** at the mains for essential maintenance or in the case of an emergency situation. If **you** wish to turn off **your** **energy** at the mains for longer than a week, **you** should contact **us** so **we** can explain how to turn off the **energy** at the **advanced meter**.
+Switching off **your** **energy** at the mains affects our ability to read **your** **advanced meter** remotely. **You** should only switch off **your** **energy** at the mains for essential maintenance or in the case of an **emergency situation**. If **you** wish to turn off **your** **energy** at the mains for longer than a week, **you** should contact **us** so **we** can explain how to turn off the **energy** at the **advanced meter**.
 
 8 HOW WILL WE INVOICE YOU?
 8.1 **We** will send **you** an invoice for payment on a monthly basis unless **we** have agreed otherwise. **Your** invoice will be delivered to the address provided by **you**.
@@ -335,12 +335,12 @@ If an **advanced meter** has been installed at **your** **premises**, **we** may
 
 11.2 Will we tell you about disconnecting your supply? 
 
-Except in the case of an emergency situation or for safety reasons, or where **we** suspect the **metering equipment** or other equipment at **your** **premises** supplied by **us** or a **network company** or **meter company** has been tampered or interfered with, **we** will tell **you** at least 7 days (and allow a further 3 days for delivery of the notice) before **we** disconnect **your** supply of **energy**. **We** will also contact **you**, at the contact details provided by **you**, to provide **you** with a final warning at least 24 hours prior to disconnecting **your** supply. If **disconnectio**n is not prevented by **you** and not completed within the timeframe notified to **you** (including where **we** grant **you** an extension to that timeframe, at our discretion), **we** will issue **you** with another final warning no less than 24 hours, or not more than 7 days, before **disconnection**. Any notice of **disconnection** from **us** will include information that **you** need to prevent **disconnection** if prevention is possible.  **We** may ask **you** to pay a **disconnection** fee or an attendance fee (where the **disconnection** does not proceed) in respect of the action taken by **us** under this section. **We** will provide reasonable notice to **you** if **you** are likely to incur a **disconnection** fee.
+Except in the case of an **emergency situation** or for safety reasons, or where **we** suspect the **metering equipment** or other equipment at **your** **premises** supplied by **us** or a **network company** or **meter company** has been tampered or interfered with, **we** will tell **you** at least 7 days (and allow a further 3 days for delivery of the notice) before **we** disconnect **your** supply of **energy**. **We** will also contact **you**, at the contact details provided by **you**, to provide **you** with a final warning at least 24 hours prior to disconnecting **your** supply. If **disconnectio**n is not prevented by **you** and not completed within the timeframe notified to **you** (including where **we** grant **you** an extension to that timeframe, at our discretion), **we** will issue **you** with another final warning no less than 24 hours, or not more than 7 days, before **disconnection**. Any notice of **disconnection** from **us** will include information that **you** need to prevent **disconnection** if prevention is possible.  **We** may ask **you** to pay a **disconnection** fee or an attendance fee (where the **disconnection** does not proceed) in respect of the action taken by **us** under this section. **We** will provide reasonable notice to **you** if **you** are likely to incur a **disconnection** fee.
 
 **We** will not disconnect **your** supply for non-payment of a disputed amount where **you** have initiated a dispute with the Electricity & Gas Complaints Commissioner in relation to that disputed amount, unless the Electricity & Gas Complaints Commissioner dispute resolution process or our own dispute resolution process has been exhausted.
 
 **We** will only disconnect **your** supply for non-payment of an invoice based on an estimate if it is fair and reasonable in the circumstances to do so. 
-Where **we** disconnect **your** electricity under this section 11 (other than in the case of an emergency situation or for safety reasons), such **disconnection** will not take place on a Friday, Saturday, Sunday, public holiday or the day before any public holiday in **your** area. 
+Where **we** disconnect **your** electricity under this section 11 (other than in the case of an **emergency situation** or for safety reasons), such **disconnection** will not take place on a Friday, Saturday, Sunday, public holiday or the day before any public holiday in **your** area. 
 
 If **your** supply has been disconnected for non-payment and **you** satisfy our requirements for reconnection (see section 12), **we** will restore **your** supply as soon as reasonably practicable.
 
@@ -351,7 +351,7 @@ The **network company** is entitled to disconnect **your** supply if:
 • **you** fail to grant the rights of access specified in this agreement; 
 • **your** equipment does not meet the **network company's** requirements; 
 • requested to do so by **us**; 
-• an emergency situation occurs;
+• an **emergency situation** occurs;
 • it considers **your** equipment to be unsafe; or 
 • **you** materially breach any other term of this agreement including the **network** requirements, and **you** agree that in respect of **your** electricity supply, section 105 of the Electricity Industry Act 2010 shall not apply in respect of such **disconnection**. 
 
@@ -617,7 +617,7 @@ If **you** do not own **your** **premises**, you confirm that **you** have any n
 
 and if any of this equipment looks unsafe, **you** should contact **your** own electrician and/or gas fitter (as appropriate) immediately. 
 
-If **you** need to immediately turn off **your** gas supply in the case of an emergency situation, **you** should locate the lever on **your** gas **meter** and turn the lever to a horizontal position or 90 degrees from the pipes.
+If **you** need to immediately turn off **your** gas supply in the case of an **emergency situation**, **you** should locate the lever on **your** gas **meter** and turn the lever to a horizontal position or 90 degrees from the pipes.
 
 **You** own and are responsible for **energy** supplied from **your** point of supply to the point where the **energy** is consumed. **You** must not supply **energy** to another property or person from **your** **premises**.  Where **your** point of supply supplies more than one customer **you** will be jointly responsible for the **metering equipment** and other equipment **you** are responsible for, and **we** may estimate the apportionment of **energy** consumption between customers or require **you** to install additional **metering equipment**, so that the **energy** consumption can be accurately apportioned.
 
@@ -648,7 +648,7 @@ decommission means the permanent **disconnection** of **your** **premises** and 
 
 Electricity Code means the Electricity Industry Participation Code 2010, as amended from time to time.
 
-emergency situation means a situation in which there is a probable danger to life or property or immediate risk to the continuity or safety of supply of distribution of **energy**. 
+**emergency situation** means a situation in which there is a probable danger to life or property or immediate risk to the continuity or safety of supply of distribution of **energy**. 
 
 **energy** means electricity and/or reticulated gas, but does not include reticulated LPG or bottled gas.
 
