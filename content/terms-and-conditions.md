@@ -98,17 +98,17 @@ If **we** keep **your** bond for longer than one year, **we** will explain why.<
 ## 4 WHAT IF YOU’RE MOVING HOUSE?
 <ol>
 <li>If **you** move house **you** must:
-
-• give **us** at least three business days’ notice of **your** move and **your** new address so **we** can send **you** a final invoice.  This requirement for **you** to provide **us** with three business days' notice of **your** move is consistent with applicable regulations and industry standards as at the date of these terms; and 
-• let **us** complete a final **meter** reading at **your** old **premises** (a charge applies) or let **us** take a final **meter** reading remotely if an **advanced meter** has been installed at **your** old **premises** (a charge may apply) or, at our discretion, provide **us** with a final reading over the phone or via our website.
+<ul>
+<li>give **us** at least three business days’ notice of **your** move and **your** new address so **we** can send **you** a final invoice.  This requirement for **you** to provide **us** with three business days' notice of **your** move is consistent with applicable regulations and industry standards as at the date of these terms; and</li> 
+<li>let **us** complete a final **meter** reading at **your** old **premises** (a charge applies) or let **us** take a final **meter** reading remotely if an **advanced meter** has been installed at **your** old **premises** (a charge may apply) or, at our discretion, provide **us** with a final reading over the phone or via our website.</li></ul>
 
 If the final **meter** reading provided by **you** does not match **your** rate of consumption **we** may ask for a final **meter** reading to be carried out by an approved **meter** reader, or take a final **meter** reading remotely if an **advanced meter** has been installed, and **we** may adjust **your** final invoice accordingly. If this is the case we will endeavour to contact **you** at the phone number **you** have provided **us**.  **We** will only take a reading from the **meter** at **your** **premises** in circumstances that are consistent with applicable regulations and industry standards.  
 
 If **we** agree to supply **energy** to **your** new **premises**, these terms and conditions will apply to **your** new **premises**.</li>
 
-<li>**What if you’re moving out but others are staying?**
+<li><dl><dt>**What if you’re moving out but others are staying?**</dt>
 
-If **you** leave **your** **premises** (e.g. if **you** move from a flat but **your** flatmates are staying on) and **your** name is on the **energy** account, it’s important to tell **us** that **you** are terminating your account with **us**, and if necessary make arrangements to transfer it to someone else. If **you** wish to transfer **your** account to someone else at the **premises**, **we** will need to speak to that person(s) and accept them as our customer before the account can be transferred. If **you** remain the account holder and **energy** is consumed at the **premises** after **you** leave, **you** will remain liable to **us**.</li> 
+<dd>If **you** leave **your** **premises** (e.g. if **you** move from a flat but **your** flatmates are staying on) and **your** name is on the **energy** account, it’s important to tell **us** that **you** are terminating your account with **us**, and if necessary make arrangements to transfer it to someone else. If **you** wish to transfer **your** account to someone else at the **premises**, **we** will need to speak to that person(s) and accept them as our customer before the account can be transferred. If **you** remain the account holder and **energy** is consumed at the **premises** after **you** leave, **you** will remain liable to **us**.</dd></dl></li> 
 
 <li>**What if you have a new connection, an altered connection or a reconnection?**
 
