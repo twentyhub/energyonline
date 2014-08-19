@@ -40,7 +40,7 @@ Hamilton 3240</li>
 <li>complete a Customer Application Form, available from our website; or</li>
 <li>email **us** at the email address set out above; or</li>
 <li>call **us** on the relevant number set out above; or</li>
-<li>fax **us** on the number set out above.</li>
+<li>fax **us** on the number set out above.</li></ul>
 
 **We** will respond to **your** application within 2 business days from receipt of **your** application if **we** require further information from **you** or **your** application to join has been declined.</li> 
 
