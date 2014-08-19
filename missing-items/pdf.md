@@ -5,3 +5,5 @@
 [Application to be removed as medically dependent on electricity](http://www.energyonline.co.nz/images/EOL-No-Longer-medically-dependent-Notice.pdf)
 
 [Standard Direct Debit form](http://www.energyonline.co.nz/images/J1883-EOL-Direct-Debit-Form_2.pdf)
+
+[credit card payment form](https://www.energyonline.co.nz/Portals/0/Forms/Direct_Debit_by_Credit_Card.pdf)
