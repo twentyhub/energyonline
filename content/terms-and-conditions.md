@@ -33,9 +33,9 @@ Hamilton 3240</li>
 
 **We** will try to respond to any written enquiries as soon as reasonably possible. Depending on levels of customer enquiries at the time **we** receive **your** enquiry, **we** expect to respond to **your** enquiry within two business days.
 
-2 HOW DO YOU BECOME AN ENERGY ONLINE CUSTOMER?
+## 2 HOW DO YOU BECOME AN ENERGY ONLINE CUSTOMER?
 <ol>
-<li>2.1 To apply to become a customer** you **can:
+<li>To apply to become a customer **you** can:
 <ul>
 <li>complete a Customer Application Form, available from our website; or</li>
 <li>email **us** at the email address set out above; or</li>
@@ -44,11 +44,11 @@ Hamilton 3240</li>
 
 **We** will respond to **your** application within 2 business days from receipt of **your** application if **we** require further information from **you** or **your** application to join has been declined.</li> 
 
-<li>2.2 An agreement between **you** and **us** is formed on these terms and conditions when in our sole discretion **we** accept **your** application to join **us** and the agreement will apply from the date on which **you** first use **energy** supplied by **us**, and **you** will be liable to pay our charges from that date.  **We** may require **you** to provide evidence of when **you** first use **energy** supplied by **us** through a certificate of title or tenancy agreement.  Where **you** apply to join **us** before using **energy** supplied by **us**, the supply of **energy** to **you** will commence as soon as possible following our acceptance of **your** application.
+<li>An agreement between **you** and **us** is formed on these terms and conditions when in our sole discretion **we** accept **your** application to join **us** and the agreement will apply from the date on which **you** first use **energy** supplied by **us**, and **you** will be liable to pay our charges from that date.  **We** may require **you** to provide evidence of when **you** first use **energy** supplied by **us** through a certificate of title or tenancy agreement.  Where **you** apply to join **us** before using **energy** supplied by **us**, the supply of **energy** to **you** will commence as soon as possible following our acceptance of **your** application.
 
 If **you** have moved to **premises** and started using **energy**, **you** will still need to call **us** to become a customer. If **you** do not contact **us** to become a customer, **we** will disconnect the property. **We** may also charge **you** a **disconnection** fee, the cost of any **energy** consumed, and any other costs **we** incur as a result of **you** consuming **energy** at the **premises** as specified in our **price list**.</li>
 
-<li>2.3 What information do we need from you? 
+<li>**What information do we need from you?** 
 
 To become a customer **you** will need to provide **us** with some personal information. **We** may use this information for a number of purposes, as set out in our Privacy Policy. **You** can view our Privacy Policy [here](http://www.energyonline.co.nz/home/site_map/privacy_policy).
 
@@ -56,17 +56,17 @@ To become a customer **you** will need to provide **us** with some personal info
 
 If any of **your** personal information changes (including **your** contact details) please tell **us**, and **we** will update **your** account information.</li>
 
-<li>2.4 What do we do with your personal information? 
+<li>**What do we do with your personal information?** 
 
 Any personal information **you **give **us** is strictly confidential and will be kept secure and held by **us** in accordance with the Privacy Act 1993. **You** can view our privacy policy [here](http://www.energyonline.co.nz/home/site_map/privacy_policy). That policy outlines how **we** deal with **your** personal information. **You** can access **your** personal information held by **us** on request and correct it if it is wrong.</li> 
 
-<li>2.5 Can more than one person be a customer?
+<li>**Can more than one person be a customer?**
 
 If more than one person is the customer at any **premises**, these terms will apply to each of **you **jointly and severally. This means that each of **you** may individually be responsible for paying our entire invoice, and that everyone who wishes to become a customer will have to contact **us**. 
 
 **You** may nominate a person as an account authority to make decisions for **you** under these terms. However, **you** are still responsible as a customer for payment of **your** account and for any costs associated with decisions made by the account authority.</li> 
 
-<li>2.6 What if you have unpaid invoices?
+<li>**What if you have unpaid invoices?**
 
 As a customer **you** will be responsible for paying all fees and charges and for making sure the requirements of this agreement are met.  **We** will give **you** reasonable notice if circumstances arise, or are likely to arise, which will mean that **you** will incur a fee in addition to **your** standard rates for **energy** supplied by **us**, including for unpaid invoices.  
 
@@ -74,15 +74,15 @@ As a customer **you** will be responsible for paying all fees and charges and fo
 
 Please note that if **you**, or another person at **your** **premises**, have any unpaid invoices with **us**, **we** may refuse to supply **energy** to **your** **premises** or accept **you** as a customer until that invoice has been paid.</li></ol>
 
-3 IS A BOND REQUIRED?
+## 3 IS A BOND REQUIRED?
 <ol>
-<li>3.1 **We** may ask **you** for a cash bond and/or a satisfactory credit check before **you** become our customer and **we** supply **energy** or other services. If this is the case, **we** will tell **you** when **you** become our customer and **we** will give **you** reasons for our decision.  This decision will comply with any relevant regulations or industry standards. If **we** require a bond, it will be invoiced as early as possible after **we** accept **you** as a customer. **You** must pay the bond within the timeframe specified on the invoice.
+<li>**We** may ask **you** for a cash bond and/or a satisfactory credit check before **you** become our customer and **we** supply **energy** or other services. If this is the case, **we** will tell **you** when **you** become our customer and **we** will give **you** reasons for our decision.  This decision will comply with any relevant regulations or industry standards. If **we** require a bond, it will be invoiced as early as possible after **we** accept **you** as a customer. **You** must pay the bond within the timeframe specified on the invoice.
 
 **We** may also ask **you** for a bond at any time if **you** are unable to establish a satisfactory credit record or maintain a satisfactory payment record with **us**.
 
 Any bond for electricity-only residential customers or for gas-only residential customers will not exceed $150. If **we** supply **you** with both electricity and gas for **your** residential **premises**, **your** bond will not exceed $200. If **you** are a commercial customer **your** bond will be as agreed with **you**, or as per our schedule of fees.  **We** will not pay interest on the bond. The bond will be held in trust on **your** behalf in a separate account.<li> 
 
-<li>3.2 **We** will repay **your** bond, less any amounts **you** owe **us**, within one month of:
+<li>**We** will repay **your** bond, less any amounts **you** owe **us**, within one month of:
 <ul>
 <li>**you** maintaining a satisfactory payment record for at least 12 months; or</li>
 <li>terminating our supply of **energy** to **you**, whichever is earlier.</li></ul>
@@ -95,9 +95,9 @@ Any bond for electricity-only residential customers or for gas-only residential 
 
 If **we** keep **your** bond for longer than one year, **we** will explain why.</li></ol>
 
-4 WHAT IF YOU’RE MOVING HOUSE?
+## 4 WHAT IF YOU’RE MOVING HOUSE?
 <ol>
-<li>4.1 If **you** move house **you** must:
+<li>If **you** move house **you** must:
 
 • give **us** at least three business days’ notice of **your** move and **your** new address so **we** can send **you** a final invoice.  This requirement for **you** to provide **us** with three business days' notice of **your** move is consistent with applicable regulations and industry standards as at the date of these terms; and 
 • let **us** complete a final **meter** reading at **your** old **premises** (a charge applies) or let **us** take a final **meter** reading remotely if an **advanced meter** has been installed at **your** old **premises** (a charge may apply) or, at our discretion, provide **us** with a final reading over the phone or via our website.
@@ -106,11 +106,11 @@ If the final **meter** reading provided by **you** does not match **your** rate 
 
 If **we** agree to supply **energy** to **your** new **premises**, these terms and conditions will apply to **your** new **premises**.</li>
 
-<li>4.2 What if you’re moving out but others are staying?
+<li>**What if you’re moving out but others are staying?**
 
 If **you** leave **your** **premises** (e.g. if **you** move from a flat but **your** flatmates are staying on) and **your** name is on the **energy** account, it’s important to tell **us** that **you** are terminating your account with **us**, and if necessary make arrangements to transfer it to someone else. If **you** wish to transfer **your** account to someone else at the **premises**, **we** will need to speak to that person(s) and accept them as our customer before the account can be transferred. If **you** remain the account holder and **energy** is consumed at the **premises** after **you** leave, **you** will remain liable to **us**.</li> 
 
-<li>4.3 What if you have a new connection, an altered connection or a reconnection?
+<li>**What if you have a new connection, an altered connection or a reconnection?**
 
 For safety reasons, if **you** have a new or altered gas or electricity connection, or if **your** supply has been disconnected, **we** may require **you** to provide a certificate of compliance or certificate of verification from a certified service provider before **we** can supply **you** with **energy**. **We** may also request a copy of this certificate at any time.</li></ol>
 
