@@ -315,7 +315,7 @@ This does not apply where **your** invoice is based on an estimate of **your** *
 
 <dd>No interest is due on any amounts over-paid or under-paid by **you** or **us** in relation to incorrect or late invoices.</dd></dl></li>
 
-<li>8.10 Payment if meter is faulty 
+<li>**Payment if meter is faulty** 
 
 If **your** **meter** is faulty, **we** may not be able to tell for certain how much **energy** has actually been used. Therefore:
 <ul>
