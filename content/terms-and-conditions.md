@@ -185,7 +185,7 @@ If an **advanced meter** cannot be installed at **your** **premises** because th
 
 6.7 Will there be manual meter readings with advanced meters?
 
-If an **advanced meter** has been installed at **your** **premises**, **we** may still need to read **your** **meter** manually in some situations (e.g. if the **advanced meter** is faulty, the mains switch is turned off or if there have been failures in the **metering communications network**). If the manual reading is required because **you** have caused a communications fault, **we** may pass on the cost of the manual reading to **you**.
+If an **advanced meter** has been installed at **your** **premises**, **we** may still need to read **your** **meter** manually in some situations (e.g. if the **advanced meter** is faulty, the mains switch is turned off or if there have been failures in the **metering **communications** network**). If the manual reading is required because **you** have caused a communications fault, **we** may pass on the cost of the manual reading to **you**.
 
 6.8 What if I miss an appointment?
 
@@ -248,7 +248,7 @@ Switching off **your** **energy** at the mains affects our ability to read **you
 
 • a breakdown of the **energy** charges into gas and electricity (if **you** are supplied with both by **us**);
 • the fixed charge component (if any) of **your** invoice including the quantity of **energy** supplied (or estimated to have been supplied);
-• any charges for goods or services **you** have asked **us** to provide other than **energy** and lines services;
+• any charges for goods or services **you** have asked **us** to provide other than **energy** and **lines services**;
 • a clear due date; and
 • the identifier number of all installation control points on **your** property.
 
@@ -324,8 +324,8 @@ Please contact **us** if **you** would like to change **your** pricing plan, pro
 11 WHEN WILL WE DISCONNECT YOUR SUPPLY?
 11.1 In addition to our, the **network company's** and the **meter company's** other rights of **disconnection** under this agreement, **your** **energy** supply may be disconnected: 
 
-• ­for non payment of the undisputed portion of any invoice associated with the supply of **energy**, lines services or other services supplied to **you**;
-• ­if **we** cease to have an agreement with the **network company** that provides lines services to **you**;
+• ­for non payment of the undisputed portion of any invoice associated with the supply of **energy**, **lines services** or other services supplied to **you**;
+• ­if **we** cease to have an agreement with the **network company** that provides **lines services** to **you**;
 • ­for a planned or unplanned supply interruption (including for safety reasons); or
 • ­if **you** materially or persistently breach any term of this agreement.
 
@@ -384,7 +384,7 @@ Where **you** have instructed **us** that **you** are switching to another retai
 
 **We** will only supply gas to **your** **premises** if **we** also supply **your** **premises** with electricity, therefore, if **you** no longer wish to receive electricity from **us**, **we** will also terminate our supply of gas to **you**.   **You** must provide **us** with at least 3 business days notice to terminate supply.
 
-If the **energy** supply at **your** **premises** is disconnected (but not decommissioned), **we** may still charge **you** a daily fixed charge. However, **we** will not charge **you** a daily fixed charge for **energy** if the **energy** supply at **your** **premises** has been decommissioned.
+If the **energy** supply at **your** **premises** is disconnected (but not **decommissioned**), **we** may still charge **you** a daily fixed charge. However, **we** will not charge **you** a daily fixed charge for **energy** if the **energy** supply at **your** **premises** has been **decommissioned**.
 
 13.3 Will a final meter reading be taken? 
 
@@ -576,7 +576,7 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 **You** agree:
 
 • to provide **us**, the **meter company**, **network company** and any other third party who owns **energy** supply equipment on **your** **premises** with reasonable space for the safe, secure, weather tight, insect and vermin free, and accessible housing of the **metering equipment** and the equipment of the network company or other third party at no cost to **us**, and ensure the housing remains in such condition; and
-• to look after the **meter** and prevent interference with, or damage to, or loss of, the **metering equipment**, the **energy** supply equipment of the **network company** or other third party and the metering communications network.
+• to look after the **meter** and prevent interference with, or damage to, or loss of, the **metering equipment**, the **energy** supply equipment of the **network company** or other third party and the **metering** **communications** network**.
 
 If **you** do not own **your** **premises**, you confirm that **you** have any necessary approvals required from the owner, landlord or body corporate for the installation of any **meter** or **metering equipment** at **your** **premises**, for any alterations to **your** **premises** required to install any such equipment and to enable **us** to exercise our other rights under these terms and conditions. **You** will bear any costs incurred by **us**, the **meter company**, **network company** or our respective contractors if **you** do not have any such approval.
 
@@ -642,7 +642,7 @@ If **you** do not have a direct agreement with **your** **meter company**, then 
 27 WORDS WE USE IN THIS AGREEMENT
 **advanced meter** means a remotely read interval **meter** and all associated **metering equipment**.
 
-decommission means the permanent **disconnection** of **your** **premises** and removal of **your** ICP so that **you** cannot receive the supply of **energy**, and will involve the permanent removal of **metering equipment** and may include removal of **your** service lines.
+**decommission** means the permanent **disconnection** of **your** **premises** and removal of **your** ICP so that **you** cannot receive the supply of **energy**, and will involve the permanent removal of **metering equipment** and may include removal of **your** service lines.
 
 **disconnection** and disconnected means the isolation of **your** **premises** from the **network**. **Your** **premises** remain connected to the **network** but **you** cannot receive supply of **energy**.
 
@@ -654,15 +654,15 @@ decommission means the permanent **disconnection** of **your** **premises** and 
 
 **Energy Online**, **we**, **us** and our means Genesis Energy Limited, its agents, successors and assignees.
 
-lines services means the provision and maintenance of works for the conveyance of electricity and the operation of such works, including the control of voltage.
+**lines services** means the provision and maintenance of works for the conveyance of electricity and the operation of such works, including the control of voltage.
 
 **medically dependent** customer means a customer who is dependent on mains electricity for critical medical support, such that loss of electricity may result in the loss of life or serious harm.  **Medically dependent** customer status can only be granted through the provision of a Notice of **Medically Dependent** Consumer Status, which is available from **your** primary healthcare provider. 
 
-**metering** communications **network** means the equipment and systems used to convey **meter** **reading information** from a **meter** to **us**.
+**metering** **communications** **network** means the equipment and systems used to convey **meter** **reading information** from a **meter** to **us**.
 
 **meter company** means the company or companies that own the **meter** situated on **your** **premises** and/or are responsible for installing, maintaining, repairing and reading **meters**.
 
-**metering equipment** and **meter** means the **metering** and other equipment which is used to measure and/or provide information about **your** consumption (and, if appropriate, demand) of **energy**, including any covering or housing for such equipment, and **meters**, loggers, communication devices, relays, current transformers, voltage transformers and any other equipment required to measure **energy** usage, and includes an **advanced meter** and the metering communications **network**.
+**metering equipment** and **meter** means the **metering** and other equipment which is used to measure and/or provide information about **your** consumption (and, if appropriate, demand) of **energy**, including any covering or housing for such equipment, and **meters**, loggers, communication devices, relays, current transformers, voltage transformers and any other equipment required to measure **energy** usage, and includes an **advanced meter** and the **metering communications** **network**.
 
 **meter reading** **information** means all information and data collected, measured or stored by any **metering equipment**. 
 
