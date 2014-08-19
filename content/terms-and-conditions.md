@@ -1,7 +1,7 @@
 
 Print this page
-Energy Online Terms and Conditions
-Energy Online terms and conditions effective on 16 January 2014.
+# Energy Online Terms and Conditions
+**Energy Online** terms and conditions effective on **16 January 2014**.
 
 For a copy of the current terms and conditions prior to 16 January 2014 [click here](http://www.energyonline.co.nz/terms-pre-16-jan-2014).
 
