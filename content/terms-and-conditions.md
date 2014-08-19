@@ -681,4 +681,16 @@ If **you** do not have a direct agreement with **your** **meter company**, then 
 **vulnerable customer** means a customer who has told **us**, or about whom it appears to **us**, that **disconnection** of **energy** at the customer's **premises** presents a clear threat to the health or well-being of the customer or a member of the customer's household, or who has mains powered equipment for critical medical support. This could be because of age, health or disability.  A **vulnerable customer** may also be a customer who cannot genuinely pay his or her bill because of severe financial difficulty, whether temporary or permanent. 
 
 **you**/**your** means **you**, the customer.
+
+
+
+
+
+[Terms & Conditions](http://www.energyonline.co.nz/terms)
+
+[Sitemap](http://www.energyonline.co.nz/home/site_map)
+
+[Disclaimer](http://www.energyonline.co.nz/home/site_map/disclaimer)
+
+[Privacy Policy](http://www.energyonline.co.nz/home/site_map/privacy_policy)
  
