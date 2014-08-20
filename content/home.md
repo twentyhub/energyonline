@@ -16,7 +16,7 @@ We reckon you’ve paid too much for too long. So we’d like to set off a few l
 ## [It's a hat trick!](http://www.energyonline.co.nz/residential)
 Energy Online is proud to announce that Roy Morgan has awarded us Electricity Provider of the year for the third year running by giving us another Customer Satisfaction Award. We couldn’t be happier and we have our customers to thank!.
 
-[Learn more about our award winning service and products.](http://www.energyonline.co.nz/residential)
+Learn more about our [award winning service and products](http://www.energyonline.co.nz/residential).
 
 ## [Sign up your natural gas supply with Energy Online](http://www.energyonline.co.nz/residential/gas)
 Great news - Energy Online now supplies gas. [Find out more.](http://www.energyonline.co.nz/residential/gas)
