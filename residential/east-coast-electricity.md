@@ -4,11 +4,11 @@ For customers connected to Eastland networks.
 
 You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Default.aspx?tabid=98).
 
-<p class="intro">If you pay on time, you'll receive our Prompt Payment Discount of 20%</p>
+**If you pay on time, you'll receive our Prompt Payment Discount of 20%**
 
 
 
-<p class="intro>Eastland (Low Density)</p>
+**Eastland (Low Density)**
 
 | Standard User	| Rate excl GST	| Network Operator Charges (incl in Energy Online prices) excluding GST| 
 | ----------------------- | 
@@ -28,7 +28,7 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 | Night Only - cents/kWh	| 14.82	| 2.21| 
  
 
-<p class="intro>Eastland (High Density)</p>
+**Eastland (High Density)**
 
 | Standard User| 	Rate excl GST| 	Network Operator Charges (incl in Energy Online prices) excluding GST|
 | --------------------- | 
