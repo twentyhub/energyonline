@@ -10,7 +10,7 @@ These are the terms of **your** relationship with **Energy Online**.
 
 In remaining, or becoming, an **Energy Online** customer, **you** and **Energy Online** agree to these terms and conditions, unless agreed otherwise in writing.
 
-These terms and conditions are a legally binding document between us. 
+These terms and conditions are a legally binding document between **us**. 
 
 These terms and conditions are effective from 16 January 2014. However, if **you** are an existing **Energy Online** customer on 16 January 2014, these terms and conditions will apply to **you** from 16 February 2014. These terms and conditions replace any previous agreement(s) **we** have with **you**.
 
