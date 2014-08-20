@@ -51,12 +51,12 @@ In order to have the energy supply disconnected and reconnected for safety reaso
 
 ||
 |------------------|
-|All networks not listed below (including gas)	0800 086 400|
-|Vector Networks	(09) 978 7788|
-|Unison Networks	(06) 873 9333|
-|Electra Networks	0800 353 2872|
-|Waipa Networks	(07) 870 4014|
-|The Lines Company	(07) 878 0600|
+|All networks not listed below (including gas)|	0800 086 400
+|Vector Networks|	(09) 978 7788
+|Unison Networks|	(06) 873 9333
+|Electra Networks|	0800 353 2872
+|Waipa Networks|	(07) 870 4014
+|The Lines Company|	(07) 878 0600
  
 
 48 hours notice will be required to ensure the work can be carried out.
