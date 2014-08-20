@@ -4,10 +4,11 @@ For customers connected to the Powerco network [Western A].
 
 You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Default.aspx?tabid=98).
 
-<p class="intro">If you pay on time, you'll receive our Prompt Payment Discount of 20%</p>
+**If you pay on time, you'll receive our Prompt Payment Discount of 20%**
 
 
 |Standard User	|Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
+|------------------------|
 |Daily Charge - cents/day|	104.85	|see below^|
 |Uncontrolled - cents/kWh|	27.09|	11.47|
 |All Inclusive - cents/kWh	|24.60|	9.45|
@@ -18,6 +19,7 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
  
 
 |Low User|	Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
+|----------------------|
 |Daily Charge - cents/day|	37.50	|see below^|
 |Uncontrolled - cents/kWh|	30.15	|11.47|
 |All Inclusive - cents/kWh	|27.65|	9.45|
