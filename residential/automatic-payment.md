@@ -11,8 +11,8 @@ The bank will set up the frequency and amount of your payments as per your instr
 
 | |
 | --------------------| 
-| Energy Online Bank Account Number:	03 0584 0225333 00| 
-| Energy Online Bank:	Westpac Bank| 
+| Energy Online Bank Account Number:|	03 0584 0225333 00 
+| Energy Online Bank:|	Westpac Bank 
 
 
 [Back to Payment Options](http://www.energyonline.co.nz/residential/residential_faqs/residential_faqs_-_payment_options)
