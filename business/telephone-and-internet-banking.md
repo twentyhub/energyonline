@@ -3,8 +3,8 @@ If you wish to pay your account by telephone or internet banking you will need t
  
 | | 
 | ------------------------| 
-| Energy Online Bank Account Number:    03 0584 0225333 00| 
-| Energy Online Bank:   Westpac Bank| 
+| Energy Online Bank Account Number:|    03 0584 0225333 00 
+| Energy Online Bank:|   Westpac Bank 
  
  
 The details that we require to be shown on our bank statement are:
