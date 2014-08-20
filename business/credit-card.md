@@ -3,10 +3,10 @@ Energy Online accepts credit card payments either as a monthly payment from your
 
 If you would like to pay by credit card each month, please complete the [credit card payment form](https://www.energyonline.co.nz/Portals/0/Forms/Direct_Debit_by_Credit_Card.pdf) and post to:
 
-Freepost
-Energy Online
-Private Bag 3131
-Waikato Mail Centre
+Freepost<br>
+Energy Online<br>
+Private Bag 3131<br>
+Waikato Mail Centre<br>
 Hamilton 3240
 
 You can call our [Customer Care Team](https://www.energyonline.co.nz/Default.aspx?tabid=66) for a copy of this to be posted or faxed to you.
