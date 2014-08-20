@@ -318,7 +318,7 @@ This does not apply where **your** invoice is based on an estimate of **your** *
 
 <dd>If **your** **meter** is faulty, **we** may not be able to tell for certain how much **energy** has actually been used. Therefore:
 <ul>
-<li>subject to section 23, **you** will be liable, in relation to the variable rate component of **your** price plan, for the quantity measured by the **meter**, unless **you** contributed to the fault, or could have reasonably been expected to know about the fault. In addition, you will still be liable for the fixed daily rate component of **your** price plan; and</li>
+<li>subject to section 23, **you** will be liable, in relation to the variable rate component of **your** price plan, for the quantity measured by the **meter**, unless **you** contributed to the fault, or could have reasonably been expected to know about the fault. In addition, **you** will still be liable for the fixed daily rate component of **your** price plan; and</li>
 <li>if it is apparent that **your** **meter** has measured more **energy** than **you** actually used and **you** have over-paid **us**, **we** will refund to **you** an amount **we** reasonably believe is a realistic estimate of the over-payment.</li></ul></dd></dl></li></ol>
 
 ## 9 WHAT FEES AND CHARGES WILL YOU PAY?
@@ -329,13 +329,13 @@ Please call our Customer Care Team, or click [here](http://www.energyonline.co.n
 
 <li>**We** don’t offer prepay pricing plans.  If **you** are interested in a prepay pricing plan, **you** may wish to contact another **energy** retailer to see if they can offer y**ou** a prepay pricing plan in **your** area. 
 
-Please contact **us** if **you** would like to change **your** pricing plan, products, or services.  If **you** do change pricing plans the change will be effected as soon as possible. If you choose to change **your** pricing plan more than once in any 12 month period a charge may be payable.</li>
+Please contact **us** if **you** would like to change **your** pricing plan, products, or services.  If **you** do change pricing plans the change will be effected as soon as possible. If **you** choose to change **your** pricing plan more than once in any 12 month period a charge may be payable.</li>
 
 <li>If circumstances arise, or are likely to arise, which mean that **you** may incur an additional fee, **we** will provide reasonable notice to **you** specifying the amount of the fee and the reason why **you** may incur the fee, and any steps **you** can take to avoid incurring the fee.  If **you** request a product or service that involves an additional cost, **we** will advise **you** of the amount of such additional cost where that cost is known, or provide an estimate of the cost (unless the cost is from a third party and that third party does not provide an estimate).</li></ol>
 
 ## 10 HOW DO YOU PAY YOUR INVOICE?
 
-**You** may pay **your** invoice by any of the methods described in the welcome pack sent to **you** when **you** became our customer, as updated from time to time on our website. If you would like to receive further details, please call our Customer Care Team.
+**You** may pay **your** invoice by any of the methods described in the welcome pack sent to **you** when **you** became our customer, as updated from time to time on our website. If **you** would like to receive further details, please call our Customer Care Team.
 
 ## 11 WHEN WILL WE DISCONNECT YOUR SUPPLY?
 <ol>
@@ -504,7 +504,7 @@ or by a combination of these methods.</li>
 
 <li>If **we** increase the special fees or charges set out in our **price list** **we** will notify **you** of these changes by advertising on our website or placing a statement on **your** invoice. **We** do not need to give **you** notice if **we** decrease **your** **energy** prices or the special fees and charges set out in our **price list**.</li> 
 
-<li>If **we** increase a fee or service charge by more than 5% or if **we** increase the total invoiced price for **energ**y **we** supply to **you** by more than 5% (and, in the case of a fee or service charge, the increase is reasonably likely to have a material effect on **you**), or change the frequency of billing or **meter** reading, **we** will always give **you** an individual written notice as soon as possible. However, **we** will not provide individual written notice of price increases where **you** have signed up to a flexible pricing plan, under which electricity prices may vary depending on the time and volume of **your** electricity consumption. **We** will not change the frequency of billing to less than approximately once a month (depending on when your **meter** is read) unless **you** have agreed otherwise, except for any one-off circumstances where it is necessary to send **you** a bill other than on a monthly basis.  If there has been an increase in **your** **energy** prices, the notice will explain the reasons for the increase.</li></ol> 
+<li>If **we** increase a fee or service charge by more than 5% or if **we** increase the total invoiced price for **energ**y **we** supply to **you** by more than 5% (and, in the case of a fee or service charge, the increase is reasonably likely to have a material effect on **you**), or change the frequency of billing or **meter** reading, **we** will always give **you** an individual written notice as soon as possible. However, **we** will not provide individual written notice of price increases where **you** have signed up to a flexible pricing plan, under which electricity prices may vary depending on the time and volume of **your** electricity consumption. **We** will not change the frequency of billing to less than approximately once a month (depending on when **your** **meter** is read) unless **you** have agreed otherwise, except for any one-off circumstances where it is necessary to send **you** a bill other than on a monthly basis.  If there has been an increase in **your** **energy** prices, the notice will explain the reasons for the increase.</li></ol> 
 
 ## 19 CAN YOU TRANSFER YOUR RIGHTS AND RESPONSIBILITIES?
 <ol>
@@ -602,7 +602,7 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 <li>to provide **us**, the **meter company**, **network company** and any other third party who owns **energy** supply equipment on **your** **premises** with reasonable space for the safe, secure, weather tight, insect and vermin free, and accessible housing of the **metering equipment** and the equipment of the network company or other third party at no cost to **us**, and ensure the housing remains in such condition; and</li>
 <li>to look after the **meter** and prevent interference with, or damage to, or loss of, the **metering equipment**, the **energy** supply equipment of the **network company** or other third party and the **metering** **communications** **network**.</li></ul>
 
-If **you** do not own **your** **premises**, you confirm that **you** have any necessary approvals required from the owner, landlord or body corporate for the installation of any **meter** or **metering equipment** at **your** **premises**, for any alterations to **your** **premises** required to install any such equipment and to enable **us** to exercise our other rights under these terms and conditions. **You** will bear any costs incurred by **us**, the **meter company**, **network company** or our respective contractors if **you** do not have any such approval.</dd></dl></li>
+If **you** do not own **your** **premises**, **you** confirm that **you** have any necessary approvals required from the owner, landlord or body corporate for the installation of any **meter** or **metering equipment** at **your** **premises**, for any alterations to **your** **premises** required to install any such equipment and to enable **us** to exercise our other rights under these terms and conditions. **You** will bear any costs incurred by **us**, the **meter company**, **network company** or our respective contractors if **you** do not have any such approval.</dd></dl></li>
 
 <li><dl><dt>**What if the meter is damaged?**</dt>
 
