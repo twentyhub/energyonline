@@ -2,7 +2,7 @@
 ## How often will my meter be read?
 We will make every effort to read your meter on a regular basis if there are no access issues.
 
-We are happy to take a meter reading from you at any time.  There are several ways for you to provide a reading to us; you can either log on to your account online, [email, fax or phone](http://www.energyonline.co.nz/Default.aspx?tabid=66)through your reading to us.
+We are happy to take a meter reading from you at any time.  There are several ways for you to provide a reading to us; you can either log on to your account online, [email, fax or phone](http://www.energyonline.co.nz/Default.aspx?tabid=66) through your reading to us.
 
 ## Why is my meter not being read?
 The most common reason for Energy Online not being able to read your meter is due to access issues; your meter may be in a location that is difficult for our meter readers to access.
