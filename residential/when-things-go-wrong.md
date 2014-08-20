@@ -1,5 +1,5 @@
 # When things go wrong
-<p class="intro>From time to time we may get something wrong; we'd like to talk to you about any concerns you might have, so please [contact us](help@energyonline.co.nz) so we can investigate a solution together.
+<p class="intro">From time to time we may get something wrong; we'd like to talk to you about any concerns you might have, so please [contact us](help@energyonline.co.nz) so we can investigate a solution together.
 
 At Energy Online it is our aim to resolve any complaints or problems that may arise between you, our customer, and us or our suppliers as quickly and effectively as possible. Details of our disputes resolution process below explain how we will deal with your concerns.</p>
 
@@ -15,6 +15,7 @@ At Energy Online we will do our best to resolve any complaint that arises betwee
 
 
 **The next option**
+
 We will do our best to resolve any issues directly with you.
 
 However you may take your complaint to the office of the Electricity and Gas Complaints Commissioner (EGCC) as a deadlocked complaint if ;
