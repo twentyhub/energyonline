@@ -210,46 +210,46 @@ To the extent that any **meter reading** **information** constitutes "personal i
 <li>keep **us** informed about any health and safety and/or Resource Management Act 1991 requirements or issues at **your** **premises** that could be relevant to our representatives or the representatives of a **meter company** or a **network company** or other third parties who own **energy** supply equipment on **your** **premises** when they visit **your** **premises**;</li> 
 <li>keep **your** trees and other vegetation regularly trimmed to a safe distance from any lines, pipes, substations, **meters** or equipment, to comply with the Electricity (Safety) Regulations 2010 in relation to any work near lines, the **network** or other electrical equipment, and the Electricity (Hazards from Trees) Regulations 2003. The Electricity (Hazards from Trees) Regulations 2003 specify the distances trees and other vegetation must be kept from power lines. If vegetation grows within these minimum distances (or Zones) cutting or trimming will be necessary.  **You** can view a summary of these regulations [here](http://www.legislation.govt.nz/regulation/public/2003/0375/latest/DLM233405.html).</li></ul> 
 
-If **you** do not comply with these regulations (including any amendments to these regulations), **you** will be liable for the costs of carrying out any work arising as a result of **your** non-compliance.</li>
+If **you** do not comply with these regulations (including any amendments to these regulations), **you** will be liable for the costs of carrying out any work arising as a result of **your** non-compliance.</li><br>
 
 
-<li>**You** must, if requested by **us**, turn off the **energy** at **your** **premises** to enable access for the purposes referred to above.</li>
+<li>**You** must, if requested by **us**, turn off the **energy** at **your** **premises** to enable access for the purposes referred to above.</li><br>
 
 <li>Except in routine situations (such as reading or inspecting a **meter** that is located on the outside of a building) or **emergency situations**, before accessing **your** **premises**, either **we**, the **meter** company, **network company** and/or the other third parties who own **energy** supply equipment on **your** **premises**, will provide written notice to **you** of:
 <ul>
 <li>when access to **your** **premises** will be required; and</li>
-<li>the purpose for requiring access to **your** **premises**.</li></ul></li>
+<li>the purpose for requiring access to **your** **premises**.</li></ul></li><br>
 
-<li>**We** will give **you** at least 10 working days notice of the intention to access **your** **premises** if the reason for requiring access relates to construction, upgrade, repair or maintenance.  Where **we** require access to **your** **premises** for any other reason (except for routine situations or **emergency situations**), **we** will give **you** reasonable notice.</li>
+<li>**We** will give **you** at least 10 working days notice of the intention to access **your** **premises** if the reason for requiring access relates to construction, upgrade, repair or maintenance.  Where **we** require access to **your** **premises** for any other reason (except for routine situations or **emergency situations**), **we** will give **you** reasonable notice.</li><br>
 
 <li>Where **we** require access to **your** **premises**, **we** will:
 <ul>
 <li>take reasonable steps to minimise any direct impacts on **your** property and any inconvenience to **you**; and</li>
 
-<li>try to comply with any reasonable requirements that **you** have given **us** (such as closing gates etc).</li></ul></li> 
+<li>try to comply with any reasonable requirements that **you** have given **us** (such as closing gates etc).</li></ul></li><br> 
 
 <li>Where **we** are able to, **we** will instruct the **metering company** or **network company** to take such steps and comply with such requirements.
 
 When accessing **your** property, our representatives will act in a courteous, considerate and professional manner at all times.  
 
-For more information on **energy** safety matters, contact the Energy Safety Service or the **network company**.</li> 
+For more information on **energy** safety matters, contact the Energy Safety Service or the **network company**.</li><br> 
 
-<li>Any of our representatives or any representatives of a **meter company** or the **network company** or other third parties who own **energy** supply equipment on **your** **premises** who are requesting access to **your** **premises** will carry identification and present their identification to **you** on request. If our representatives are visiting at **your** request and **you** are at **your** **premises**, they will identify themselves to **you** before entering **your** property (and **we** will procure that any representatives of a **meter company** or the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises** requesting access to **your** **premises** will also identify themselves to **you**).  In all other circumstances, **you** can ask the representative(s) to identify themselves at any time while they are on **your** property.  If they are unable or unwilling to show **you** their identification, **you** should not give them access.</li>
+<li>Any of our representatives or any representatives of a **meter company** or the **network company** or other third parties who own **energy** supply equipment on **your** **premises** who are requesting access to **your** **premises** will carry identification and present their identification to **you** on request. If our representatives are visiting at **your** request and **you** are at **your** **premises**, they will identify themselves to **you** before entering **your** property (and **we** will procure that any representatives of a **meter company** or the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises** requesting access to **your** **premises** will also identify themselves to **you**).  In all other circumstances, **you** can ask the representative(s) to identify themselves at any time while they are on **your** property.  If they are unable or unwilling to show **you** their identification, **you** should not give them access.</li><br>
 
 
 <li><dl><dt>**What if we have problems gaining access to your premises?**</dt>
 
 <dd>If **you** are not able to grant **us** access, please contact **us** to discuss alternative access options.
 
-If **you** do not provide access to **your** **meter** or to any other **meters** (where **you** control access to those other **meters**) **we**  may charge **you** for any callout fees where **we** could not gain access, and such refusal will be considered a material breach of these terms and conditions for which **we** may disconnect **your** supply.</dd></dl></li>
+If **you** do not provide access to **your** **meter** or to any other **meters** (where **you** control access to those other **meters**) **we**  may charge **you** for any callout fees where **we** could not gain access, and such refusal will be considered a material breach of these terms and conditions for which **we** may disconnect **your** supply.</dd></dl></li><br>
 
 <li><dl><dt>**What if we can't read the meter?**</dt> 
 
-<dd>If **we** have been unable to obtain a reading from the **meter** for any reason, the amount of **energy** **you** have used may be estimated by **us** and **you** will be charged on the basis of our estimate. **You** can, however, provide **us** with a **meter** reading via our website or by calling **us**.</dd></dl></li>
+<dd>If **we** have been unable to obtain a reading from the **meter** for any reason, the amount of **energy** **you** have used may be estimated by **us** and **you** will be charged on the basis of our estimate. **You** can, however, provide **us** with a **meter** reading via our website or by calling **us**.</dd></dl></li><br>
 
 <li><dl><dt>**What if we hold keys to your premises?**</dt>
 
-<dd>If **we** have a key or security information to enable **us** to gain access to **your** **premises**, **we** will be responsible for its safe keeping and will use it only for the purposes described in this section 7. **We** will comply with any direction from **you** to return or destroy keys that **you** have given **us**, and/or the **meter company** or the **network company**.</dd></dl></li>
+<dd>If **we** have a key or security information to enable **us** to gain access to **your** **premises**, **we** will be responsible for its safe keeping and will use it only for the purposes described in this section 7. **We** will comply with any direction from **you** to return or destroy keys that **you** have given **us**, and/or the **meter company** or the **network company**.</dd></dl></li><br>
 
 <li><dl><dt>**What if you wish to turn off your electricity at the mains?**</dt> 
 
@@ -265,13 +265,13 @@ If **you** do not provide access to **your** **meter** or to any other **meters*
 <li>the fixed charge component (if any) of **your** invoice including the quantity of **energy** supplied (or estimated to have been supplied);</li>
 <li>any charges for goods or services **you** have asked **us** to provide other than **energy** and **lines services**;</li>
 <li>a clear due date; and</li>
-<li>the identifier number of all installation control points on **your** property.</li></ul></li>
+<li>the identifier number of all installation control points on **your** property.</li></ul></li><br>
 
-<li>Any penalties or other charges that are additional to our usual fees will be separately itemised on **your** invoice.  **We** cannot tell **you** who **your** **network company** is on **your** invoice.  However, if **you** would like to know who **your** **network company** is, please call our Customer Care Team on 0800 086 400.</li>
+<li>Any penalties or other charges that are additional to our usual fees will be separately itemised on **your** invoice.  **We** cannot tell **you** who **your** **network company** is on **your** invoice.  However, if **you** would like to know who **your** **network company** is, please call our Customer Care Team on 0800 086 400.</li><br>
 
 <li>Our charges for **energy** consumption will be based on either an actual **meter** reading or an estimate of the **energy** consumed. Any estimate will be based on previous consumption if available or will be determined by following generally accepted industry practices and it will normally be clearly stated on **your** invoice if an estimate is used. 
 
-**You** must pay the total amount shown on each invoice (including GST).  Payment must be received by **us** by the due date specified on the invoice, whether the invoice is based on an actual or estimated **meter** reading. **You** may not deduct or set off any amount from the amount shown on the invoice.</li>
+**You** must pay the total amount shown on each invoice (including GST).  Payment must be received by **us** by the due date specified on the invoice, whether the invoice is based on an actual or estimated **meter** reading. **You** may not deduct or set off any amount from the amount shown on the invoice.</li><br>
 
 <li><dl><dt>**What if you have a dispute?**</dt>
 
@@ -279,7 +279,7 @@ If **you** do not provide access to **your** **meter** or to any other **meters*
 
 If **you** dispute the amount on **your** invoice, or any part of **your** invoice, **you** must still pay the undisputed amount by the due date. 
 
-**We** will not stop supplying **you** with **energy** if there is a genuine dispute between **us** in relation to an invoice and **you** have paid **us** any undisputed amount by the due date. Within 10 days of resolving any dispute about **your** invoice, **we** will credit **your** account with any amount **we** owe **you**, or **you** will pay **us** any amount **you** owe **us**, unless agreed otherwise.</dd></dl></li>
+**We** will not stop supplying **you** with **energy** if there is a genuine dispute between **us** in relation to an invoice and **you** have paid **us** any undisputed amount by the due date. Within 10 days of resolving any dispute about **your** invoice, **we** will credit **your** account with any amount **we** owe **you**, or **you** will pay **us** any amount **you** owe **us**, unless agreed otherwise.</dd></dl></li><br>
 
 <li><dl><dt>**What if you don't pay?**</dt> 
 
@@ -291,28 +291,28 @@ If **you** are having difficulties in paying **your** invoice to **us** because 
 
 If **you** are a **vulnerable customer**, **we** will not disconnect **your** **energy** supply unless all assistance with payment has been given under section 14 of this agreement.
 
-If **you** have verified **your** status as a **medically dependent** **customer** with **us**, **we** will not disconnect **your** electricity supply. In order to verify **your** status as a **medically dependent** **customer**, **you** will need to provide **us** with a Notice of Potential Medically Dependent Consumer Status Form.  **You** can request this form from **your** primary healthcare provider.  **We** may ask **you** to re-confirm **your** status as a **medically dependent** **customer** by providing **us** with a further Notice of Potential Medically Dependent Consumer Status Form no more than once every 12 months.</dd></dl></li>
+If **you** have verified **your** status as a **medically dependent** **customer** with **us**, **we** will not disconnect **your** electricity supply. In order to verify **your** status as a **medically dependent** **customer**, **you** will need to provide **us** with a Notice of Potential Medically Dependent Consumer Status Form.  **You** can request this form from **your** primary healthcare provider.  **We** may ask **you** to re-confirm **your** status as a **medically dependent** **customer** by providing **us** with a further Notice of Potential Medically Dependent Consumer Status Form no more than once every 12 months.</dd></dl></li><br>
 
 <li><dl><dt>**What if you don't receive an invoice or your invoice was late?**</dt>
 
 <dd>If **you** have not received an invoice, **you** should contact **us**.  If **we** determine that **you** are not responsible for the lateness of an invoice and:
 <ul>
 <li>the invoice is sent more than two months after the end of the period to which it relates, **you** will have at least the length of time covered by the invoice to pay it; or</li>
-<li>the invoice is more than three months late, **we** will give **you** a discount of 5%.</li></ul></dd></dl></li>
+<li>the invoice is more than three months late, **we** will give **you** a discount of 5%.</li></ul></dd></dl></li><br>
 
 <li><dl><dt>**What if your invoice is based on an estimate?**</dt> 
 
-<dd>If **your** invoice is based on our estimate of **your** **energy** consumption, **your** invoice will normally state clearly that an estimate has been used.  **You** may still pay for the exact amount of **energy** **you** have used by reading **your** own **meter** and advising **us** of **your** **meter** reading.  **We** will send **you** a new invoice based on this **meter** reading (unless **we** believe it is not correct), and **you** agree to pay the amount shown on that new invoice.  **You** can contact **us** if **you** would like a simple explanation of how any estimate has been calculated.</dd></dl></li>  
+<dd>If **your** invoice is based on our estimate of **your** **energy** consumption, **your** invoice will normally state clearly that an estimate has been used.  **You** may still pay for the exact amount of **energy** **you** have used by reading **your** own **meter** and advising **us** of **your** **meter** reading.  **We** will send **you** a new invoice based on this **meter** reading (unless **we** believe it is not correct), and **you** agree to pay the amount shown on that new invoice.  **You** can contact **us** if **you** would like a simple explanation of how any estimate has been calculated.</dd></dl></li><br>  
 
 <li><dl><dt>**What if your invoice is wrong?**</dt> 
 
 <dd>If **your** invoice is incorrect, **you** are only liable to pay the correct amount and **we** will refund any amount that **we** have over-charged, or **you** will pay any amount that **we** have under-charged. Any refunds for amounts that **we** have over-charged will be made promptly.  **We** may offset against any refund any amounts **you** owe **us** (or any debt collection agency to whom **we** have transferred any debt owing to **us** by **you**). Any amounts that **you** are required to pay because **we** have under-charged **you** will take into account whether **you** have contributed to the error in any way or could reasonably have been expected to know of the error.  
 
-This does not apply where **your** invoice is based on an estimate of **your** **energy** consumption, as an adjustment will be made automatically in the next invoice based on an actual **meter** reading. In any event, **you** will be responsible for the payment of all of the **energy** **you** use.</dd></dl></li>
+This does not apply where **your** invoice is based on an estimate of **your** **energy** consumption, as an adjustment will be made automatically in the next invoice based on an actual **meter** reading. In any event, **you** will be responsible for the payment of all of the **energy** **you** use.</dd></dl></li><br>
 
 <li><dl><dt>**Is interest payable?**</dt> 
 
-<dd>No interest is due on any amounts over-paid or under-paid by **you** or **us** in relation to incorrect or late invoices.</dd></dl></li>
+<dd>No interest is due on any amounts over-paid or under-paid by **you** or **us** in relation to incorrect or late invoices.</dd></dl></li><br>
 
 <li><dl><dt>**Payment if meter is faulty**</dt> 
 
@@ -327,7 +327,7 @@ This does not apply where **your** invoice is based on an estimate of **your** *
 
 Please call our Customer Care Team, or click [here](http://www.energyonline.co.nz/residential/pricing_plans), for a copy of our most recent **price list**.  **You** can contact **us** to check if **you** are on the right pricing plan for **your** requirements.</li> 
 
-<li>**We** don’t offer prepay pricing plans.  If **you** are interested in a prepay pricing plan, **you** may wish to contact another **energy** retailer to see if they can offer y**ou** a prepay pricing plan in **your** area. 
+<li>**We** don’t offer prepay pricing plans.  If **you** are interested in a prepay pricing plan, **you** may wish to contact another **energy** retailer to see if they can offer **you** a prepay pricing plan in **your** area. 
 
 Please contact **us** if **you** would like to change **your** pricing plan, products, or services.  If **you** do change pricing plans the change will be effected as soon as possible. If **you** choose to change **your** pricing plan more than once in any 12 month period a charge may be payable.</li>
 
