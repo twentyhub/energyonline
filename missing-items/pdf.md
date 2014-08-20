@@ -10,4 +10,3 @@
 
 [Download our “How to read your Advanced Meter” flyer here](http://www.energyonline.co.nz/Portals/0/PDFs/advanced-meter-flyer.pdf)
 
-[For further Residential Energy Saving Tips, you can find a helpful brochure from the Energy Efficiency Conservation Authority (EECA) here*](For further Residential Energy Saving Tips, you can find a helpful brochure from the Energy Efficiency Conservation Authority (EECA) here*)
