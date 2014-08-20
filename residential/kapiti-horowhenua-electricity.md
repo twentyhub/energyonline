@@ -4,7 +4,7 @@ For customers connected to the Electra network.
 
 You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Default.aspx?tabid=98).
 
-<p class="intro">If you pay on time, you'll receive our Prompt Payment Discount of 20%</p>
+**If you pay on time, you'll receive our Prompt Payment Discount of 20%**
 
 
 |Standard User	|Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
@@ -24,6 +24,7 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
  
 
 |Low User|	Rate excl GST|	Network Operator Charges (incl. in Energy Online prices) excluding GST|
+|---------------------|
 |Daily Charge - cents/day	|37.50|	15.00|
 |Uncontrolled - cents/kWh|	31.16|	11.88|
 |All Inclusive - cents/kWh	|27.89	|9.28|
