@@ -47,9 +47,9 @@ You may request an inspection, update or correction of the personal information 
 
 Postal address:   
 
-Energy Online
-Private Bag 3131
-Waikato Mail centre
+Energy Online<br>
+Private Bag 3131<br>
+Waikato Mail centre<br>
 Hamilton 3240
 
 Email: <mailto:help@energyonline.co.nz>
