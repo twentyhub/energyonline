@@ -3,7 +3,7 @@ For customers connected to the Vector Network.
 
  
 
-[Sign up and get $100 off your energy bill.](http://cheaperenergy.co.nz/index.php/join)
+## [Sign up and get $100 off your energy bill.](http://cheaperenergy.co.nz/)
 Auckland, here’s something to warm you up this winter. It’s $100 off your energy bill when you sign up to Energy Online. That’s on top of our cheaper energy prices, our 20% prompt payment discount and our award-winning service.
 
 [Sign up now](http://cheaperenergy.co.nz/index.php/join) and let’s get cosy.
@@ -14,7 +14,7 @@ Auckland, here’s something to warm you up this winter. It’s $100 off your en
 
 You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Default.aspx?tabid=98).
 
-<p class="intro">If you pay on time, you'll receive our Prompt Payment Discount of 20%</p>
+**If you pay on time, you'll receive our Prompt Payment Discount of 20%**
 
 |Standard User	|Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
 | --------------------- |
