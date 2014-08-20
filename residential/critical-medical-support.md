@@ -1,9 +1,9 @@
 # Critical medical support
-<p class="intro">If you or someone in your home depends on electricity for medical reasons, such as if you have an oxygen pump or a dialysis machine, please contact our [Customer Care Team](http://www.energyonline.co.nz/Default.aspx?tabid=66).
+<p class="intro">If you or someone in your home depends on electricity for medical reasons, such as if you have an oxygen pump or a dialysis machine, please contact our [Customer Care Team](http://www.energyonline.co.nz/Default.aspx?tabid=66).</p>
 
-[Application to be classified as medically dependent on electricity](http://www.energyonline.co.nz/images/EOL-medically-dependent-notice.pdf)
+## [Application to be classified as medically dependent on electricity](http://www.energyonline.co.nz/images/EOL-medically-dependent-notice.pdf)
 
-[Application to be removed as medically dependent on electricity](http://www.energyonline.co.nz/images/EOL-No-Longer-medically-dependent-Notice.pdf)</p>
+## [Application to be removed as medically dependent on electricity](http://www.energyonline.co.nz/images/EOL-No-Longer-medically-dependent-Notice.pdf)
 
 
 
