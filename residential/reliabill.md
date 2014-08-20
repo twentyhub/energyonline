@@ -7,7 +7,7 @@ As part of your ReliaBill® payment arrangement your prompt payment discounts wi
 
 At the end of the twelve months, when your ReliaBill® payment arrangement expires, it is reviewed to determine a new arrangement for the coming twelve months. If there is a credit balance on your account we will arrange for this to be paid to your bank account or we can retain it for inclusion in the review process of any new arrangement. If there is a balance owing this may need to be paid or alternatively can be included in a new ReliaBill® arrangement for the following year.
 
-To set up a ReliaBill® arrangement, please read the [ReliaBill® Terms and Conditions](http://www.energyonline.co.nz/reliabill_%E2%80%93_terms_and_conditions) and contact our [Customer Care Team](http://www.energyonline.co.nz/Default.aspx?tabid=66)or email <mailto:reliabill@energyonline.co.nz>
+To set up a ReliaBill® arrangement, please read the [ReliaBill® Terms and Conditions](http://www.energyonline.co.nz/reliabill_%E2%80%93_terms_and_conditions) and contact our [Customer Care Team](http://www.energyonline.co.nz/Default.aspx?tabid=66) or email <mailto:reliabill@energyonline.co.nz>
 
 [Back to Payment Options](http://www.energyonline.co.nz/residential/residential_faqs/residential_faqs_-_payment_options)
 
