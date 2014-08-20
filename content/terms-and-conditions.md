@@ -102,7 +102,7 @@ If **we** keep **your** bond for longer than one year, **we** will explain why.<
 <li>give **us** at least three business days’ notice of **your** move and **your** new address so **we** can send **you** a final invoice.  This requirement for **you** to provide **us** with three business days' notice of **your** move is consistent with applicable regulations and industry standards as at the date of these terms; and</li> 
 <li>let **us** complete a final **meter** reading at **your** old **premises** (a charge applies) or let **us** take a final **meter** reading remotely if an **advanced meter** has been installed at **your** old **premises** (a charge may apply) or, at our discretion, provide **us** with a final reading over the phone or via our website.</li></ul>
 
-If the final **meter** reading provided by **you** does not match **your** rate of consumption **we** may ask for a final **meter** reading to be carried out by an approved **meter** reader, or take a final **meter** reading remotely if an **advanced meter** has been installed, and **we** may adjust **your** final invoice accordingly. If this is the case we will endeavour to contact **you** at the phone number **you** have provided **us**.  **We** will only take a reading from the **meter** at **your** **premises** in circumstances that are consistent with applicable regulations and industry standards.  
+If the final **meter** reading provided by **you** does not match **your** rate of consumption **we** may ask for a final **meter** reading to be carried out by an approved **meter** reader, or take a final **meter** reading remotely if an **advanced meter** has been installed, and **we** may adjust **your** final invoice accordingly. If this is the case **we** will endeavour to contact **you** at the phone number **you** have provided **us**.  **We** will only take a reading from the **meter** at **your** **premises** in circumstances that are consistent with applicable regulations and industry standards.  
 
 If **we** agree to supply **energy** to **your** new **premises**, these terms and conditions will apply to **your** new **premises**.</li>
 
@@ -492,7 +492,7 @@ Notwithstanding any provision to the contrary in this agreement, nothing in this
 
 ## 18 CAN WE CHANGE THIS AGREEMENT?
 <ol>
-<li>**We** may make changes to this agreement, the **network** **requirements**, **your** payment methods, or our **price list**. If **we** make changes to this agreement, the **network** **requirements**, **your** payment methods, or if **we** increase the **energy** prices set out in our **price list**, **we** will give **you** notice of the changes as soon as possible and not later than 30 days before the change is to take effect, together with our reasons for making the changes. We will do this by any reasonable method of communication including by:
+<li>**We** may make changes to this agreement, the **network** **requirements**, **your** payment methods, or our **price list**. If **we** make changes to this agreement, the **network** **requirements**, **your** payment methods, or if **we** increase the **energy** prices set out in our **price list**, **we** will give **you** notice of the changes as soon as possible and not later than 30 days before the change is to take effect, together with our reasons for making the changes. **We** will do this by any reasonable method of communication including by:
 <ul>
 <li>advertising in a local daily newspaper; or</li> 
 <li>posting a notice on [our website](http://www.energyonline.co.nz/); or</li>
