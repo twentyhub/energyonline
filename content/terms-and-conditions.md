@@ -62,7 +62,7 @@ If any of **your** personal information changes (including **your** contact deta
 
 <li><dl><dt>**Can more than one person be a customer?**</dt>
 
-<dd>If more than one person is the customer at any **premises**, these terms will apply to each of **you **jointly and severally. This means that each of **you** may individually be responsible for paying our entire invoice, and that everyone who wishes to become a customer will have to contact **us**. 
+<dd>If more than one person is the customer at any **premises**, these terms will apply to each of **you** jointly and severally. This means that each of **you** may individually be responsible for paying our entire invoice, and that everyone who wishes to become a customer will have to contact **us**. 
 
 **You** may nominate a person as an account authority to make decisions for **you** under these terms. However, **you** are still responsible as a customer for payment of **your** account and for any costs associated with decisions made by the account authority.</dd></dl></li> 
 
@@ -108,7 +108,7 @@ If **we** agree to supply **energy** to **your** new **premises**, these terms a
 
 <li><dl><dt>**What if you’re moving out but others are staying?**</dt>
 
-<dd>If **you** leave **your** **premises** (e.g. if **you** move from a flat but **your** flatmates are staying on) and **your** name is on the **energy** account, it’s important to tell **us** that **you** are terminating your account with **us**, and if necessary make arrangements to transfer it to someone else. If **you** wish to transfer **your** account to someone else at the **premises**, **we** will need to speak to that person(s) and accept them as our customer before the account can be transferred. If **you** remain the account holder and **energy** is consumed at the **premises** after **you** leave, **you** will remain liable to **us**.</dd></dl></li> 
+<dd>If **you** leave **your** **premises** (e.g. if **you** move from a flat but **your** flatmates are staying on) and **your** name is on the **energy** account, it’s important to tell **us** that **you** are terminating **your** account with **us**, and if necessary make arrangements to transfer it to someone else. If **you** wish to transfer **your** account to someone else at the **premises**, **we** will need to speak to that person(s) and accept them as our customer before the account can be transferred. If **you** remain the account holder and **energy** is consumed at the **premises** after **you** leave, **you** will remain liable to **us**.</dd></dl></li> 
 
 <li><dl><dt>**What if you have a new connection, an altered connection or a reconnection?**</dt>
 
@@ -128,7 +128,7 @@ If **we** agree to supply **energy** to **your** new **premises**, these terms a
 
 If **you** have sensitive equipment or property which may be affected by an interrupted supply, **we** strongly recommend that **you** protect that equipment or property in case of an unplanned shutdown or outage. See also section 22 below on sensitive equipment.</li> 
 
-<li>If **you** have a controlled load pricing option i.e. a price plan that allows** Energy Online** to either directly, or via a third party, remotely control the supply of **energy** to some or all equipment in **your** **premises**, some of **your** electrical appliances (e.g. hot water cylinders and night store heaters) will be switched off or adjusted as agreed from time to time. Controlled load periods will be limited to those set out in our **price list** and **we** will respond to controlled load system faults in accordance with our normal practices, after you have advised **us** of the problem. 
+<li>If **you** have a controlled load pricing option i.e. a price plan that allows** Energy Online** to either directly, or via a third party, remotely control the supply of **energy** to some or all equipment in **your** **premises**, some of **your** electrical appliances (e.g. hot water cylinders and night store heaters) will be switched off or adjusted as agreed from time to time. Controlled load periods will be limited to those set out in our **price list** and **we** will respond to controlled load system faults in accordance with our normal practices, after **you** have advised **us** of the problem. 
 
 In the event of a local or national **energy** shortage, or in circumstances of extreme wholesale prices, **your** **energy** supply may be rationed or restricted. **Energy** may also be rationed as part of an **energy** industry rationing plan.</li></ol>
 
@@ -207,7 +207,7 @@ To the extent that any **meter reading** **information** constitutes "personal i
 <li>provide to **us**, the **meter company**, the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises**, immediate access to **your** **premises** at any time for safety reasons or to prevent serious damage to property or the environment;</li>
 <li>allow to **us**, the **meter company**, the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises**, access for installation, connection, testing, inspection, maintenance, repair, replacement, alteration, servicing, cleaning, **disconnection** or removal of any equipment owned by **us** and/or a **meter company** and/or a **network company** and/or other third parties including removal of any equipment up to 6 months after termination of supply to **you**;</li>
 <li>ensure that any dog or other animal that may make entry unsafe is secured to enable safe and easy access;</li>
-<li>keep **us** informed about any health and safety and/or Resource Management Act 1991 requirements or issues at **your** **premises** that could be relevant to our representatives or the representatives of a **meter company** or a **network company** or other third parties who own **energy** supply equipment on **your** **premises** when they visit your **premises**;</li> 
+<li>keep **us** informed about any health and safety and/or Resource Management Act 1991 requirements or issues at **your** **premises** that could be relevant to our representatives or the representatives of a **meter company** or a **network company** or other third parties who own **energy** supply equipment on **your** **premises** when they visit **your** **premises**;</li> 
 <li>keep **your** trees and other vegetation regularly trimmed to a safe distance from any lines, pipes, substations, **meters** or equipment, to comply with the Electricity (Safety) Regulations 2010 in relation to any work near lines, the **network** or other electrical equipment, and the Electricity (Hazards from Trees) Regulations 2003. The Electricity (Hazards from Trees) Regulations 2003 specify the distances trees and other vegetation must be kept from power lines. If vegetation grows within these minimum distances (or Zones) cutting or trimming will be necessary.  **You** can view a summary of these regulations [here](http://www.legislation.govt.nz/regulation/public/2003/0375/latest/DLM233405.html).</li></ul> 
 
 If **you** do not comply with these regulations (including any amendments to these regulations), **you** will be liable for the costs of carrying out any work arising as a result of **your** non-compliance.</li>
@@ -279,7 +279,7 @@ If **you** do not provide access to **your** **meter** or to any other **meters*
 
 If **you** dispute the amount on **your** invoice, or any part of **your** invoice, **you** must still pay the undisputed amount by the due date. 
 
-**We** will not stop supplying **you** with **energy** if there is a genuine dispute between **us** in relation to an invoice and **you** have paid **us** any undisputed amount by the due date. Within 10 days of resolving any dispute about **your** invoice, **we** will credit your account with any amount **we** owe **you**, or **you** will pay **us** any amount **you** owe **us**, unless agreed otherwise.</dd></dl></li>
+**We** will not stop supplying **you** with **energy** if there is a genuine dispute between **us** in relation to an invoice and **you** have paid **us** any undisputed amount by the due date. Within 10 days of resolving any dispute about **your** invoice, **we** will credit **your** account with any amount **we** owe **you**, or **you** will pay **us** any amount **you** owe **us**, unless agreed otherwise.</dd></dl></li>
 
 <li><dl><dt>**What if you don't pay?**</dt> 
 
