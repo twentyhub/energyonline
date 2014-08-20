@@ -3,7 +3,7 @@ For customers connected to Buller electricity networks.
 
 You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Default.aspx?tabid=98).
 
-<p class="intro">If you pay on time, you'll receive our Prompt Payment Discount of 20%</p>
+**If you pay on time, you'll receive our Prompt Payment Discount of 20%**
 
  
 
