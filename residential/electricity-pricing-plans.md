@@ -18,7 +18,7 @@ If you'd like to join Energy Online, please click [here](https://join-us.energyo
 
  
 
-*A 'standard residential customer’ is any residential customer in a common single phase pricing category and may exclude residential customers in a three phase residential pricing category. For more information on whether a 20% Prompt Payment Discount applies to you, please [contact us](http://www.energyonline.co.nz/home/contact_us).
+_*A 'standard residential customer’ is any residential customer in a common single phase pricing category and may exclude residential customers in a three phase residential pricing category. For more information on whether a 20% Prompt Payment Discount applies to you, please [contact us](http://www.energyonline.co.nz/home/contact_us)._
 
  
 
