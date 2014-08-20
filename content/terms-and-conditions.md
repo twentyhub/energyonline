@@ -21,10 +21,10 @@ Where **we** have used words in bold in these terms and conditions, they have a 
 If **you** wish to contact **us**, please:
 
 <ul>
-<li>write to **us** at:
-Energy Online
-Private Bag 3131
-Waikato Mail Centre
+<li>write to **us** at:<br>
+Energy Online<br>
+Private Bag 3131<br>
+Waikato Mail Centre<br>
 Hamilton 3240</li>
 
 <li>or fax **us** on 09 539 4633</li>
