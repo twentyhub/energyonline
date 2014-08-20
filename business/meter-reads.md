@@ -39,7 +39,7 @@ For suggestions on reducing your energy consumption, please refer to our [Energy
 
 [Back to FAQs](http://www.energyonline.co.nz/business/business_faqs)
 
-[Back to FAQs](http://www.energyonline.co.nz/business/business_faqs)
+
 
 
 
