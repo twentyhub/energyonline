@@ -3,10 +3,10 @@ You can use the Freepost envelope we provide with your invoice to send your paym
 
 When you post your cheque to us, please either send your remittance slip or write your account number on the reverse of the cheque. If you've misplaced your Freepost envelope, don't worry, please post your cheque to us at:
 
-Freepost 
-Energy Online
-PO Box 11793
-Ellerslie
+Freepost<br> 
+Energy Online<br>
+PO Box 11793<br>
+Ellerslie<br>
 Auckland 1542
 
 No stamp is needed.
