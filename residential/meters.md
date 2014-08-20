@@ -31,19 +31,19 @@ If you want to change your meter configuration, please email or call our Custome
 
 If your meter is located outside without any access issues, we may be able to change your meter without needing you (or someone you nominate) to be on site. Please note this will interrupt supply to your appliances so we recommend you turn your appliances off on the day the work is scheduled to be completed.
 
-Our [schedule of fees](http://www.energyonline.co.nz/Default.aspx?tabid=101)details what it will cost you to change your meter. In some instances you may need to arrange and pay for the services of your own electrician.
+Our [schedule of fees](http://www.energyonline.co.nz/Default.aspx?tabid=101) details what it will cost you to change your meter. In some instances you may need to arrange and pay for the services of your own electrician.
 
 ## I need to have the energy supply disconnected for safety while work is being carried out on my property. What do I need to do?
 In order to have the energy supply disconnected and reconnected for safety reasons while someone is working on your property, please call the network company in your area:
 
 | | 
 | ----------------| 
-| All networks not listed below (including gas)	0800 086 400| 
-| Vector Networks	(09) 978 7788| 
-| Unison Networks	(06) 873 9333| 
-| Electra Networks	0800 353 2872| 
-| Waipa Networks	(07) 870 4014| 
-| The Lines Company	(07) 878 0600| 
+| All networks not listed below (including gas)|	0800 086 400| 
+| Vector Networks|	(09) 978 7788 
+| Unison Networks|	(06) 873 9333| 
+| Electra Networks|	0800 353 2872| 
+| Waipa Networks|	(07) 870 4014| 
+| The Lines Company	|(07) 878 0600| 
 48 hours notice will be required to ensure the work can be carried out.
 
 Our [schedule of fees](http://www.energyonline.co.nz/Default.aspx?tabid=101) details what it will cost you to have your energy supply disconnected and reconnected for this service.
