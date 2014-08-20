@@ -1,5 +1,5 @@
 # Gas
-<p class="intro>We’ve got great news - you may now be able to receive both natural gas and electricity supply through one Energy Online account!</p>
+<p class="intro">We’ve got great news - you may now be able to receive both natural gas and electricity supply through one Energy Online account!</p>
 
 
 ## Let's Get Started
