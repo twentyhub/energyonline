@@ -4,10 +4,11 @@ For customers connected to the Unison network.
 
 You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Default.aspx?tabid=98).
 
-<p class="intro">If you pay on time, you'll receive our Prompt Payment Discount of 20%</p>
+**If you pay on time, you'll receive our Prompt Payment Discount of 20%**
 
 
 | Standard User	| Rate excl GST	| Network Operator Charges (incl in Energy Online prices) excluding GST| 
+|--------------------------|
 | Daily Charge - cents/day	| 225.04| 	106.00| 
 | Uncontrolled - cents/kWh| 	24.60	| 8.80| 
 | All Inclusive - cents/kWh| 	22.05| 	6.76| 
@@ -18,6 +19,7 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
  
 
 | Low User| 	Rate excl GST	| Network Operator Charges (incl in Energy Online prices) excluding GST| 
+|-------------------------|
 | Daily Charge - cents/day	| 37.50| 	15.00| 
 | Uncontrolled - cents/kWh| 	33.15	| 12.95| 
 | All Inclusive - cents/kWh| 	30.58| 	10.91| 
