@@ -9,3 +9,5 @@
 [credit card payment form](https://www.energyonline.co.nz/Portals/0/Forms/Direct_Debit_by_Credit_Card.pdf)
 
 [Download our “How to read your Advanced Meter” flyer here](http://www.energyonline.co.nz/Portals/0/PDFs/advanced-meter-flyer.pdf)
+
+[For further Residential Energy Saving Tips, you can find a helpful brochure from the Energy Efficiency Conservation Authority (EECA) here*](For further Residential Energy Saving Tips, you can find a helpful brochure from the Energy Efficiency Conservation Authority (EECA) here*)
