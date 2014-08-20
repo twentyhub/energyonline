@@ -1,7 +1,7 @@
 # About Energy Online
 <p class="intro">At Energy Online we acquired our first customers in May 2000.  From our humble beginnings we have grown to provide energy services throughout most of the North Island.</p>
 
-You can view our [coverage area](http://www.energyonline.co.nz/residential/pricing_plans) map to see if we supply your region.
+<p class="intro">You can view our [coverage area](http://www.energyonline.co.nz/residential/pricing_plans) map to see if we supply your region.</p>
 
 ## [Become an Energy Online Customer](https://join-us.energyonline.co.nz/web/eol/join)
 If you're interested in joining Energy Online, we'd love to hear from you.
