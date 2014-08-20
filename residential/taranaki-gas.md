@@ -4,7 +4,7 @@ For customers connected to the Powerco Gas network and the Powerco Western A ele
 
 You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Default.aspx?tabid=98).
 
-<p class="intro">If you pay on time, you'll receive our Prompt Payment Discount of 20%</p>
+**If you pay on time, you'll receive our Prompt Payment Discount of 20%**
 
 ### Electricity
 |Standard User	|Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
@@ -31,7 +31,7 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 
 
 ### Gas
-Standard User >4167 kWh per year|	Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Standard User >4167 kWh per year|	Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
 |------------------------------|
 |Daily Charge - cents/day|	136.00|	48.50|
 |General - cents/kWh	|6.20	|0.89|
