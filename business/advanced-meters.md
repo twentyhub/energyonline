@@ -146,8 +146,6 @@ When the Advanced Meter modem is in sleep mode – similar to a cell phone – i
 
 
 
-
-
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
 
 [Sitemap](http://www.energyonline.co.nz/home/site_map)
