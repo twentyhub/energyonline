@@ -29,3 +29,5 @@
 
 [award winning service]http://www.energyonline.co.nz/Portals/0/Images/EOL-offer-sidebar-2.png
 
+[example bill]https://www.energyonline.co.nz/DesktopModules/FourthMedia.AccountLogin/images/customer-bill.gif
+
