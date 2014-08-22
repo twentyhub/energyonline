@@ -7,6 +7,7 @@ The purpose of these regulations is to protect the security of the supply of ele
 <li>specifying who is liable if those rules are breached; and</li>
 <li>providing an arbitration system to resolve disputes between electricity retailers, network companies and tree owners about the operation of the regulations.</li>
 </ul>
+
 ## How the regulations work
 The regulations set out the circumstances in which the network company or we may warn you of a tree encroaching a specified zone, or the circumstances where the network company or we must give a "cut or trim" notice to you. The purpose of a cut or trim notice is to notify you (the tree owner) that a tree is encroaching a growth limit zone and must be cut or trimmed.
 
