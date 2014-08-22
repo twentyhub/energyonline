@@ -103,17 +103,17 @@ If we have changed the meter and your security alarm batteries are getting low, 
  <dl><dt>**Q: I am reliant on electricity/power for my critical medical equipment and received a letter from you to arrange an appointment. How do I do this?**</dt>
  <dd>**A**: You can call the contractor’s phone number on your letter to set up a time that suits you both. 
 
-We do recommend you arrange a temporary power supply or make other arrangements to ensure you can continue to use the medical equipment you might need during the outage and let the contractor know that you’ve done this.
+We do recommend you arrange a temporary power supply or make other arrangements to ensure you can continue to use the medical equipment you might need during the outage and let the contractor know that you’ve done this.<br>
 
 Some options are:
+<ol>
+<li>Arrange to have a power lead from the neighbour's supply to power any medical equipment you use. You will need to ensure the lead has Residual Current Device (RCD) protection on it.</li>
 
-1. Arrange to have a power lead from the neighbour's supply to power any medical equipment you use. You will need to ensure the lead has Residual Current Device (RCD) protection on it.
+<li>You can arrange to be at your neighbour’s property during the power outage at your house.</li>
 
-2. You can arrange to be at your neighbour’s property during the power outage at your house.
+<li>Hire a small generator to power any medical equipment.</li>
 
-3. Hire a small generator to power any medical equipment.
-
-4. Discuss the impacts of the power outage with your doctor and if required, access other medical equipment at your doctor’s surgery or hospital.</dd></dl><br>
+<li>Discuss the impacts of the power outage with your doctor and if required, access other medical equipment at your doctor’s surgery or hospital.</li></ol></dd></dl><br>
 
 
 <dl><dt>**Q: If I change energy supplier after my Advanced Meter is installed, is the new meter able to be used by a different supplier?**</dt>
