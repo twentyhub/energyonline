@@ -19,3 +19,13 @@
 
 [gst]http://www.energyonline.co.nz/Portals/0/Images/GSTIncrease.png
 
+[cake]http://www.energyonline.co.nz/Portals/0/Images/cake.gif
+
+[two is better than one]http://www.energyonline.co.nz/Portals/0/Images/gas_button_two_tp.gif
+
+[group photo]http://www.energyonline.co.nz/Portals/0/Images/News/winning_family.jpg
+
+[18 month price plan]http://www.energyonline.co.nz/Portals/0/Images/EOL-offer-sidebar-2.png
+
+[award winning service]http://www.energyonline.co.nz/Portals/0/Images/EOL-offer-sidebar-2.png
+
