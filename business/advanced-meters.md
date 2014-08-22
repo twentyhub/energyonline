@@ -28,7 +28,7 @@ Maybe our FAQs below can help you. If not, just send an e-mail to **customercare
 ## FAQs
   <dl>
   <dt>**Q: What is an Advanced Meter?**</dt>
- <dd>**A**: A meter that measures electricity usage in your home and communicates it to us through the Vodafone network.</dd></dl>
+ <dd>**A**: A meter that measures electricity usage in your home and communicates it to us through the Vodafone network.</dd></dl><br>
  
  
  
