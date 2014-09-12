@@ -5,11 +5,11 @@ Natural Gas is an instant, reliable, efficient and safe form of energy. However,
 You must always notify us and provide us with a copy of the Gasfitting Certification Certificate where you have installed new gas appliances in your home or business or where you have altered any existing gas installations.
 
 All gas appliances and fittings are capable of operating safely when installed correctly and used for their intended purpose. 
-<ul>
-<li>Always get a registered gasfitter (usually a craftsman gasfitter) to install your gas appliances or alter your gas supply. Ask to see their current registration.</li>
-<li>A craftsman gasfitter will ensure that your gas appliance or installation is connected correctly, has adequate ventilation, is appropriately flued and is in good working order.</li>
-<li>A Gasfitting Certification Certificate is required for all new gas installations and most alterations to existing installations in your home or business. Make sure your registered gasfitter gives you a Certificate to confirm the work was completed safely and in accordance with the gas regulations and manufacturer’s instructions.</li>
-<li>If you have not got a Certificate, you can request one from the registered gasfitter or company that carried out the work. Alternatively, request a copy from the Plumbers, Gasfitters and Drainlayers Board. The PGD Board can also tell you if your gasfitter is currently registered and able to provide the required Certification.</li></ul>
+
+- Always get a registered gasfitter (usually a craftsman gasfitter) to install your gas appliances or alter your gas supply. Ask to see their current registration.
+- A craftsman gasfitter will ensure that your gas appliance or installation is connected correctly, has adequate ventilation, is appropriately flued and is in good working order.
+- A Gasfitting Certification Certificate is required for all new gas installations and most alterations to existing installations in your home or business. Make sure your registered gasfitter gives you a Certificate to confirm the work was completed safely and in accordance with the gas regulations and manufacturer’s instructions.
+- If you have not got a Certificate, you can request one from the registered gasfitter or company that carried out the work. Alternatively, request a copy from the Plumbers, Gasfitters and Drainlayers Board. The PGD Board can also tell you if your gasfitter is currently registered and able to provide the required Certification.
 
 ## Maintain regularly
 Consumers and homeowners, including landlords and tenants, are responsible for ensuring the safe operation and maintenance of their gas appliances and equipment. To ensure the safety and efficiency of your gas appliance get it checked regularly by an authorised and competent person.  Check your manual or contact the appliance retailer to find out how often the appliance should be serviced.
@@ -29,33 +29,33 @@ If the smell is coming from or around your gas meter, turn this off immediately 
 
 ## Some things to do whenever you smell gas
 **Inside the Premises**
-<ul>
-<li>Check your gas appliances are turned off.</li>
-<li>Extinguish all naked flames - cigarettes, open fires, matches or lighters.</li>
-<li>Do not turn any electrical appliances or switches off or on. This includes mobile phones.</li>
-<li>Turn off your gas supply at the meter by turning the valve handle to horizontal (level with the ground). You may need a spanner to do this.
-Contact us on 0800 086 400 using a landline telephone that is located away from the area where you can smell gas.</li> 
-<li>If the smell is in the premises and it is safe to do so, open all the doors and windows to ventilate the area and if the smell persists in the premises, go outside to a safe place away from the premises.</li>
-<li>Do not turn your gas supply or appliances on again until a registered Gasfitter has visited your premises and ensured it is safe.</li></ul>
+
+- Check your gas appliances are turned off.
+- Extinguish all naked flames - cigarettes, open fires, matches or lighters.
+- Do not turn any electrical appliances or switches off or on. This includes mobile phones.
+- Turn off your gas supply at the meter by turning the valve handle to horizontal (level with the ground). You may need a spanner to do this.
+Contact us on 0800 086 400 using a landline telephone that is located away from the area where you can smell gas. 
+- If the smell is in the premises and it is safe to do so, open all the doors and windows to ventilate the area and if the smell persists in the premises, go outside to a safe place away from the premises.
+- Do not turn your gas supply or appliances on again until a registered Gasfitter has visited your premises and ensured it is safe.
  
 
 **Outside the Premises**
-<ul>
-<li>Keep all flames, cigarettes, vehicles or electrical equipment (including mobile phones) away from the area.</li>
-<li>Turn off the gas supply at the meter by turning the valve handle horizontal (level with the ground). You may need a spanner to do this.</li>
-<li>Leave the area.</li>
-<li>Contact us on 0800 086 400 using a landline telephone that is away from the area where you can smell gas, or call the gas emergency number listed in the ‘Emergency Services’ page in the White Pages phone book.</li></ul>
+
+- Keep all flames, cigarettes, vehicles or electrical equipment (including mobile phones) away from the area.
+- Turn off the gas supply at the meter by turning the valve handle horizontal (level with the ground). You may need a spanner to do this.
+- Leave the area.
+- Contact us on 0800 086 400 using a landline telephone that is away from the area where you can smell gas, or call the gas emergency number listed in the ‘Emergency Services’ page in the White Pages phone book.
 
 ## Additional information
 To help make sure gas appliances are used safely, the Energy Safety (ESS) in association with the Gas Association of New Zealand, the LPG Association and the Plumbers, Gasfitters and Drain Layers Board, has published an easy-to-read consumer leaflet, Living Safely with Gas.
 
 This leaflet contains important safety information for households where gas appliances are used and installed. It provides information on the following topics:
-<ul>
-<li>Safe installation</li>
-<li>The importance of ventilation</li>
-<li>Carbon monoxide - what to look out for</li>
-<li>Regular maintenance</li>
-<li>What to do if you smell gas</li></ul>
+
+- Safe installation
+- The importance of ventilation
+- Carbon monoxide - what to look out for
+- Regular maintenance
+- What to do if you smell gas
 
 Anyone who owns or uses natural gas will find the information useful. Copies of the pamphlet can be ordered by emailing or visiting the [Energy Safety Service](http://www.med.govt.nz/energysafety) website.
 
