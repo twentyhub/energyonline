@@ -186,7 +186,7 @@ To the extent that any **meter reading** **information** constitutes "personal i
 
 6.6. **What if an advanced meter cannot be installed at your premises?**
 
-<dd>If an **advanced meter** cannot be installed at **your** **premises** because the wiring at **your** **premises** does not comply with any applicable laws, regulations, codes or standards, or because the **advanced meter** would, when installed, represent a safety hazard or where there is insufficient space on the **meter** board, **we** may require **you** to fix, remedy or repair the wiring or safety hazard, or install a larger **meter** board or otherwise address the lack of space on **your** **meter** board at **your** cost before an **advanced meter** is installed at **your** **premises**.
+If an **advanced meter** cannot be installed at **your** **premises** because the wiring at **your** **premises** does not comply with any applicable laws, regulations, codes or standards, or because the **advanced meter** would, when installed, represent a safety hazard or where there is insufficient space on the **meter** board, **we** may require **you** to fix, remedy or repair the wiring or safety hazard, or install a larger **meter** board or otherwise address the lack of space on **your** **meter** board at **your** cost before an **advanced meter** is installed at **your** **premises**.
 
 **We** may also require **you** to provide a certificate of compliance from a certified service provider at **your** cost before the **advanced meter** is installed. **We** may also request a copy of this certificate at any time.  
 
@@ -210,7 +210,7 @@ If **we** or a **meter company** make an appointment with **you** to install, co
 - keep **us** informed about any health and safety and/or Resource Management Act 1991 requirements or issues at **your** **premises** that could be relevant to our representatives or the representatives of a **meter company** or a **network company** or other third parties who own **energy** supply equipment on **your** **premises** when they visit **your** **premises**; 
 - keep **your** trees and other vegetation regularly trimmed to a safe distance from any lines, pipes, substations, **meters** or equipment, to comply with the Electricity (Safety) Regulations 2010 in relation to any work near lines, the **network** or other electrical equipment, and the Electricity (Hazards from Trees) Regulations 2003. The Electricity (Hazards from Trees) Regulations 2003 specify the distances trees and other vegetation must be kept from power lines. If vegetation grows within these minimum distances (or Zones) cutting or trimming will be necessary.  **You** can view a summary of these regulations [here](http://www.legislation.govt.nz/regulation/public/2003/0375/latest/DLM233405.html). 
 
-If **you** do not comply with these regulations (including any amendments to these regulations), **you** will be liable for the costs of carrying out any work arising as a result of **your** non-compliance.</li><br>
+If **you** do not comply with these regulations (including any amendments to these regulations), **you** will be liable for the costs of carrying out any work arising as a result of **your** non-compliance.  
 
 
 7.2. **You** must, if requested by **us**, turn off the **energy** at **your** **premises** to enable access for the purposes referred to above.  
