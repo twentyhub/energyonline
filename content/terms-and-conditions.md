@@ -491,8 +491,8 @@ Notwithstanding any provision to the contrary in this agreement, nothing in this
 - cause any part of this section 17 to be void.
 
 ## 18 CAN WE CHANGE THIS AGREEMENT?
-<ol>
-<li>**We** may make changes to this agreement, the **network** **requirements**, **your** payment methods, or our **price list**. If **we** make changes to this agreement, the **network** **requirements**, **your** payment methods, or if **we** increase the **energy** prices set out in our **price list**, **we** will give **you** notice of the changes as soon as possible and not later than 30 days before the change is to take effect, together with our reasons for making the changes. **We** will do this by any reasonable method of communication including by:
+
+18.1. **We** may make changes to this agreement, the **network** **requirements**, **your** payment methods, or our **price list**. If **we** make changes to this agreement, the **network** **requirements**, **your** payment methods, or if **we** increase the **energy** prices set out in our **price list**, **we** will give **you** notice of the changes as soon as possible and not later than 30 days before the change is to take effect, together with our reasons for making the changes. **We** will do this by any reasonable method of communication including by:
 
 - advertising in a local daily newspaper; or 
 - posting a notice on [our website](http://www.energyonline.co.nz/); or
@@ -500,21 +500,21 @@ Notwithstanding any provision to the contrary in this agreement, nothing in this
 - emailing **you**; or
 - notifying **you** by other electronic means,
 
-or by a combination of these methods.</li><br>
+or by a combination of these methods.  
 
-<li>If **we** increase the special fees or charges set out in our **price list** **we** will notify **you** of these changes by advertising on our website or placing a statement on **your** invoice. **We** do not need to give **you** notice if **we** decrease **your** **energy** prices or the special fees and charges set out in our **price list**.</li><br> 
+18.2. If **we** increase the special fees or charges set out in our **price list** **we** will notify **you** of these changes by advertising on our website or placing a statement on **your** invoice. **We** do not need to give **you** notice if **we** decrease **your** **energy** prices or the special fees and charges set out in our **price list**.   
 
-<li>If **we** increase a fee or service charge by more than 5% or if **we** increase the total invoiced price for **energ**y **we** supply to **you** by more than 5% (and, in the case of a fee or service charge, the increase is reasonably likely to have a material effect on **you**), or change the frequency of billing or **meter** reading, **we** will always give **you** an individual written notice as soon as possible. However, **we** will not provide individual written notice of price increases where **you** have signed up to a flexible pricing plan, under which electricity prices may vary depending on the time and volume of **your** electricity consumption. **We** will not change the frequency of billing to less than approximately once a month (depending on when **your** **meter** is read) unless **you** have agreed otherwise, except for any one-off circumstances where it is necessary to send **you** a bill other than on a monthly basis.  If there has been an increase in **your** **energy** prices, the notice will explain the reasons for the increase.</li></ol> 
+18.3. If **we** increase a fee or service charge by more than 5% or if **we** increase the total invoiced price for **energ**y **we** supply to **you** by more than 5% (and, in the case of a fee or service charge, the increase is reasonably likely to have a material effect on **you**), or change the frequency of billing or **meter** reading, **we** will always give **you** an individual written notice as soon as possible. However, **we** will not provide individual written notice of price increases where **you** have signed up to a flexible pricing plan, under which electricity prices may vary depending on the time and volume of **your** electricity consumption. **We** will not change the frequency of billing to less than approximately once a month (depending on when **your** **meter** is read) unless **you** have agreed otherwise, except for any one-off circumstances where it is necessary to send **you** a bill other than on a monthly basis.  If there has been an increase in **your** **energy** prices, the notice will explain the reasons for the increase.
 
 ## 19 CAN YOU TRANSFER YOUR RIGHTS AND RESPONSIBILITIES?
-<ol>
-<li>This agreement may not be transferred or assigned by **you** to any other person.
 
-**We** may transfer to someone else all or any part of our rights and responsibilities under this agreement. **We** may also sub-contract or delegate our responsibilities under this agreement to other people or companies.  Where **we** transfer our rights and responsibilities under this agreement, **we** will advise **you** that the agreement is being transferred to another company, where **you** can access the information **you** need to contact the new company and when the transfer will take place.  If, for any reason, **we** have, or **we** are likely to have, a receiver, liquidator or other similar officer appointed, **we** will take all reasonable steps to ensure that the supply of **your** **energy** is not affected.</li><br>
+19.1. This agreement may not be transferred or assigned by **you** to any other person.
 
-<li>In addition to the above, the Electricity Authority is able to assign our rights and obligations in respect of the supply of electricity to **you** under these terms to another electricity retailer in the event that **we** commit an "event of default", as that term is defined in the **Electricity Code**.  In the event that such an assignment occurs, the terms on which **you** will be supplied with electricity by the recipient retailer will be amended to the standard terms that the recipient retailer would normally have offered to **you** immediately before the relevant "event of default" occurred (or such other terms that are more advantageous to **you** than the recipient retailer's standard terms, as the recipient retailer and the Electricity Authority agree).  On such an assignment, these terms may be amended to include a minimum term in respect of which **you** must pay an amount if **you** wish to cancel these terms prior to the expiry of that minimum term.  **We** may provide information about **you** to the Electricity Authority (and the Electricity Authority may pass this information on to the recipient electricity retailer), if required under the **Electricity Code**.</li><br>
+**We** may transfer to someone else all or any part of our rights and responsibilities under this agreement. **We** may also sub-contract or delegate our responsibilities under this agreement to other people or companies.  Where **we** transfer our rights and responsibilities under this agreement, **we** will advise **you** that the agreement is being transferred to another company, where **you** can access the information **you** need to contact the new company and when the transfer will take place.  If, for any reason, **we** have, or **we** are likely to have, a receiver, liquidator or other similar officer appointed, **we** will take all reasonable steps to ensure that the supply of **your** **energy** is not affected.  
 
-<li>The terms set out in section 19.2 are included for the benefit of the Electricity Authority for the purposes of the Contracts (Privity) Act 1982 and may not be amended without the consent of the Electricity Authority.</li></ol>
+19.2. In addition to the above, the Electricity Authority is able to assign our rights and obligations in respect of the supply of electricity to **you** under these terms to another electricity retailer in the event that **we** commit an "event of default", as that term is defined in the **Electricity Code**.  In the event that such an assignment occurs, the terms on which **you** will be supplied with electricity by the recipient retailer will be amended to the standard terms that the recipient retailer would normally have offered to **you** immediately before the relevant "event of default" occurred (or such other terms that are more advantageous to **you** than the recipient retailer's standard terms, as the recipient retailer and the Electricity Authority agree).  On such an assignment, these terms may be amended to include a minimum term in respect of which **you** must pay an amount if **you** wish to cancel these terms prior to the expiry of that minimum term.  **We** may provide information about **you** to the Electricity Authority (and the Electricity Authority may pass this information on to the recipient electricity retailer), if required under the **Electricity Code**.  
+
+19.3. The terms set out in section 19.2 are included for the benefit of the Electricity Authority for the purposes of the Contracts (Privity) Act 1982 and may not be amended without the consent of the Electricity Authority.
 
 ## 20 HOW WILL WE CONTACT YOU?
 Except as otherwise provided in this agreement, our invoices or notices to **you** will be:
@@ -531,36 +531,36 @@ All notices sent to **you** will be considered to have been received by **you**:
 - on the day after it was published on our website, or the notice appeared in **your** local newspaper.
 
 ## 21 GETTING OUR ENERGY TO YOU
-<ol>
-<li>The **network companies** and **meter** companies **we** work with require **us** to ensure that the information contained below is agreed to by **you**. When **you** become our customer, **you** agree to those arrangements as part of this agreement. 
 
-The **network company** owns and operates the **network** which transports **energy** to **your** **premises**. **We** will make arrangements with the **network company** to use the **network** and get our **energy** to **you**.</li><br> 
+21.1. The **network companies** and **meter** companies **we** work with require **us** to ensure that the information contained below is agreed to by **you**. When **you** become our customer, **you** agree to those arrangements as part of this agreement. 
 
-<li><dl><dt>**Do you need an agreement with the network company?**</dt>
+The **network company** owns and operates the **network** which transports **energy** to **your** **premises**. **We** will make arrangements with the **network company** to use the **network** and get our **energy** to **you**.   
 
-<dd>In some cases, the **network company** may require **you** to have an agreement directly with it to use the **network**. If this is the case, **we** will provide **you** with the contact details of the **network company**, and:
+21.2. **Do you need an agreement with the network company?**
+
+In some cases, the **network company** may require **you** to have an agreement directly with it to use the **network**. If this is the case, **we** will provide **you** with the contact details of the **network company**, and:
 
 - **you** must ensure that **you** have such an agreement; and
 - our agreement will cover the supply of **energy** only.
 
 **You** agree to comply with statutory and regulatory requirements and the **network company's** distribution code or other similar connection standards (a copy of the code or standards may be obtained from the **network company**). 
 
-**You** must also comply with the **network company's** technical requirements and specifications for connection to the **network** which are published from time to time.  This information can be obtained from the **network company**.  **You** can contact **us** to find out who **your** **network company** is.</dd></dl></li><br>
+**You** must also comply with the **network company's** technical requirements and specifications for connection to the **network** which are published from time to time.  This information can be obtained from the **network company**.  **You** can contact **us** to find out who **your** **network company** is.  
 
-<li><dl><dt>**Interference with the network**</dt> 
+21.3. **Interference with the network** 
 
-<dd>**You** must not, without the prior written consent of the local **network company**:
+**You** must not, without the prior written consent of the local **network company**:
 
 - attempt to send or receive signals or other forms of communication through the **network**;
 - install electricity generating equipment that will export **energy** back into the **network**;
 - connect or re-connect **your** equipment directly to the **network**; or 
 - interfere in any other way with the **network**.
 
-**You** must not, without our prior written consent, connect or modify any fittings or other equipment on **your** **premises** to enable any electricity generated on the **premises** to be conveyed through the **network**.</dd></dl></li><br>
+**You** must not, without our prior written consent, connect or modify any fittings or other equipment on **your** **premises** to enable any electricity generated on the **premises** to be conveyed through the **network**.  
 
-<li><dl><dt>**Some technical requirements relating to electricity**</dt> 
+21.4. **Some technical requirements relating to electricity** 
 
-<dd>In relation to **your** electricity supply, **you** agree that:
+In relation to **your** electricity supply, **you** agree that:
 
 - the power factor shall not be less than 0.95 lagging each month, or such other amount as specified by **your** local **network company**;
 - there is to be no interconnection at any time between **your** **point of supply** and any other **point of supply** without the **network company's** prior written consent;
@@ -568,7 +568,7 @@ The **network company** owns and operates the **network** which transports **ene
 - **you** will use all reasonable measures to ensure that the levels of harmonic voltages and currents injected back into the **network** from **your** **premises** conform with the New Zealand Electrical Code of Practice for Harmonic levels NZECP 36:1993 insofar as the harmonic disturbance results from a cause within **your** control; and
 - **you** agree to comply with all line function services, safety and technical requirements provided for under statute, regulations and codes of practice. 
 
-For more information contact the **network company**.</dd></dl></li></ol>
+For more information contact the **network company**.
 
 ## 22 WHAT SHOULD YOU DO ABOUT SENSITIVE EQUIPMENT?
 There may be planned or unplanned events which may cause outages or voltage fluctuations which could damage sensitive electrical appliances like computers, televisions, videos, cordless phones, computerised appliances and fridges and freezers. Voltage fluctuations can occur at any time and may be caused by events beyond our control, such as the events listed in section 17.2 above.
@@ -578,19 +578,19 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 **We** take no responsibility for any loss or damage caused to equipment or appliances, including loss of data, arising from these kinds of fluctuations.
 
 ## 23 METERING EQUIPMENT AND NETWORK COMPANY EQUIPMENT
-<ol>
-<li>The **energy** supplied to **you** will be **metered**. Different pricing options may require separate **meters**. **We**, or the **metering** company, will retain all ownership rights in any **meter** and **metering equipment** installed at **your** **premises**.  All **electricity and gas** **meters** will comply with applicable regulations and good industry practice.</li><br>  
 
-<li>If **you** do not have a suitable **meter** for **your** **energy** use or pricing option **we** will choose and arrange to install the appropriate **meter**. **You** may not provide or install **your** own **meter**. **You** must pay all reasonable costs relating to the installation of any **metering equipment**. However, **you** will not be charged:
+23.1. The **energy** supplied to **you** will be **metered**. Different pricing options may require separate **meters**. **We**, or the **metering** company, will retain all ownership rights in any **meter** and **metering equipment** installed at **your** **premises**.  All **electricity and gas** **meters** will comply with applicable regulations and good industry practice.    
+
+23.2. If **you** do not have a suitable **meter** for **your** **energy** use or pricing option **we** will choose and arrange to install the appropriate **meter**. **You** may not provide or install **your** own **meter**. **You** must pay all reasonable costs relating to the installation of any **metering equipment**. However, **you** will not be charged:
 
 - for the installation of the first **advanced meter** at **your** **premises**, unless additional work is required to install the **meter** or **metering equipment** (this includes additional wiring required to install the **meter** or work required to re-locate the position of the **metering equipment**) in which case **we** may charge **you** for this additional work;
 - where **we** decide to replace **meters** or related equipment if the existing **meters** or related equipment are unsuitable for **your** **energy** use or pricing option. In some cases it may be necessary to upgrade **your** **meter** if **your** **energy** use or pricing option changes. **We** may charge **you** the costs of installing a new **meter**. **We** will inform **you** if any upgrade is required and the costs of that upgrade.
 
-<li>If **you** request that a new **meter** be installed **you** will be charged for the installation of that new **meter** (as well as the cost of the new **meter**).</li><br>
+23.3. If **you** request that a new **meter** be installed **you** will be charged for the installation of that new **meter** (as well as the cost of the new **meter**).  
 
-<li><dl><dt>**How should you deal with equipment at your premises?**</dt>
+23.4. **How should you deal with equipment at your premises?**
 
-<dd>**You** must ensure that any **metering equipment** which is supplied by **us** or a **meter company**, and any **energy** supply equipment of the **network company** or any other third party:
+**You** must ensure that any **metering equipment** which is supplied by **us** or a **meter company**, and any **energy** supply equipment of the **network company** or any other third party:
 
 - is not removed from its location without our consent;
 - is not encumbered or used as security in any way;
@@ -602,11 +602,11 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 - to provide **us**, the **meter company**, **network company** and any other third party who owns **energy** supply equipment on **your** **premises** with reasonable space for the safe, secure, weather tight, insect and vermin free, and accessible housing of the **metering equipment** and the equipment of the network company or other third party at no cost to **us**, and ensure the housing remains in such condition; and
 - to look after the **meter** and prevent interference with, or damage to, or loss of, the **metering equipment**, the **energy** supply equipment of the **network company** or other third party and the **metering** **communications** **network**.
 
-If **you** do not own **your** **premises**, **you** confirm that **you** have any necessary approvals required from the owner, landlord or body corporate for the installation of any **meter** or **metering equipment** at **your** **premises**, for any alterations to **your** **premises** required to install any such equipment and to enable **us** to exercise our other rights under these terms and conditions. **You** will bear any costs incurred by **us**, the **meter company**, **network company** or our respective contractors if **you** do not have any such approval.</dd></dl></li><br>
+If **you** do not own **your** **premises**, **you** confirm that **you** have any necessary approvals required from the owner, landlord or body corporate for the installation of any **meter** or **metering equipment** at **your** **premises**, for any alterations to **your** **premises** required to install any such equipment and to enable **us** to exercise our other rights under these terms and conditions. **You** will bear any costs incurred by **us**, the **meter company**, **network company** or our respective contractors if **you** do not have any such approval.  
 
-<li><dl><dt>**What if the meter is damaged?**</dt>
+23.5. **What if the meter is damaged?**
 
-<dd>**You** must tell **us** immediately if: 
+**You** must tell **us** immediately if: 
 
 - any **metering equipment** or any **energy** supply equipment of the **network company** or other third party is damaged, defective, or looks unsafe; or 
 - **you** discover any fault with, or interference with, any **metering equipment**, the metering communication network or any **energy** supply equipment of the **network company** or other third party.
@@ -626,15 +626,15 @@ somebody has damaged, or tampered or interfered with, any **metering equipment**
 - estimate the value of **energy** stolen or lost and require **you** to pay for that **energy**;
 - charge **you** for the costs of any repairs and/or replacement of **metering equipment**;
 - terminate this agreement and refuse to reconnect **your** supply; and/or
-- inform the Police.</dd></dl></li></ol>
+- inform the Police.
 
 ## 24 WHAT ABOUT OTHER EQUIPMENT AT YOUR PREMISES?
-<ol>
-<li>**We**, or a **meter company**, will repair and maintain **meters** and associated equipment supplied by **us** or a **meter company**, except as outlined below.</li><br>
 
-<li><dl><dt>**What equipment are you responsible for?**</dt>
+24.1. **We**, or a **meter company**, will repair and maintain **meters** and associated equipment supplied by **us** or a **meter company**, except as outlined below.  
 
-<dd>**You** must repair and maintain:
+24.2. **What equipment are you responsible for?**
+
+**You** must repair and maintain:
 
 - **your** electricity and/or gas lines, pipes or cables (including any poles and fittings) from the **point of supply**;
 - the **meter** box or **meter** board itself, any sub or fuse board and any other wiring or piping on **your** **premises**; and
@@ -646,7 +646,7 @@ If **you** need to immediately turn off **your** gas supply in the case of an **
 
 **You** own and are responsible for **energy** supplied from **your** **point of supply** to the point where the **energy** is consumed. **You** must not supply **energy** to another property or person from **your** **premises**.  Where **your** **point of supply** supplies more than one customer **you** will be jointly responsible for the **metering equipment** and other equipment **you** are responsible for, and **we** may estimate the apportionment of **energy** consumption between customers or require **you** to install additional **metering equipment**, so that the **energy** consumption can be accurately apportioned.
 
-**You** must not interfere with the **network company's** equipment or allow anyone else to do so. **Your** rights and obligations in relation to trees are set out in the Electricity (Hazards from Trees) Regulations 2003. For more information, please contact **your** **network company**. If **you** do not know how to contact **your** **network company**, please ask **us**.</dd></dl></li></ol>
+**You** must not interfere with the **network company's** equipment or allow anyone else to do so. **Your** rights and obligations in relation to trees are set out in the Electricity (Hazards from Trees) Regulations 2003. For more information, please contact **your** **network company**. If **you** do not know how to contact **your** **network company**, please ask **us**.
 
 ## 25 WHAT IS THE NETWORK COMPANY'S LIABILITY FOR LOSS OR DAMAGE?
 <ol>
