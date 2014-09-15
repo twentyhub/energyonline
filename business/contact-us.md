@@ -19,10 +19,10 @@ Monday to Thursday 8am to 6pm and Friday 8am to 5pm.
 <mailto:reads@energyonline.co.nz>
 
 ### By post
-Freepost<br>
-Energy Online<br>
-Private Bag 3131<br>
-Waikato Mail centre<br>
+Freepost  
+Energy Online  
+Private Bag 3131  
+Waikato Mail centre  
 Hamilton 3240
 
 ## Sales Team
