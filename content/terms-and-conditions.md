@@ -34,49 +34,49 @@ Hamilton 3240
 **We** will try to respond to any written enquiries as soon as reasonably possible. Depending on levels of customer enquiries at the time **we** receive **your** enquiry, **we** expect to respond to **your** enquiry within two business days.
 
 ## 2 HOW DO YOU BECOME AN ENERGY ONLINE CUSTOMER?
-<ol>
-<li>To apply to become a customer **you** can:
+
+2.1. To apply to become a customer **you** can:
 
 - complete a Customer Application Form, available from our website; or
 - email **us** at the email address set out above; or
 - call **us** on the relevant number set out above; or
 - fax **us** on the number set out above.
 
-**We** will respond to **your** application within 2 business days from receipt of **your** application if **we** require further information from **you** or **your** application to join has been declined.</li><br> 
+**We** will respond to **your** application within 2 business days from receipt of **your** application if **we** require further information from **you** or **your** application to join has been declined.   
 
-<li>An agreement between **you** and **us** is formed on these terms and conditions when in our sole discretion **we** accept **your** application to join **us** and the agreement will apply from the date on which **you** first use **energy** supplied by **us**, and **you** will be liable to pay our charges from that date.  **We** may require **you** to provide evidence of when **you** first use **energy** supplied by **us** through a certificate of title or tenancy agreement.  Where **you** apply to join **us** before using **energy** supplied by **us**, the supply of **energy** to **you** will commence as soon as possible following our acceptance of **your** application.
+2.2. An agreement between **you** and **us** is formed on these terms and conditions when in our sole discretion **we** accept **your** application to join **us** and the agreement will apply from the date on which **you** first use **energy** supplied by **us**, and **you** will be liable to pay our charges from that date.  **We** may require **you** to provide evidence of when **you** first use **energy** supplied by **us** through a certificate of title or tenancy agreement.  Where **you** apply to join **us** before using **energy** supplied by **us**, the supply of **energy** to **you** will commence as soon as possible following our acceptance of **your** application.
 
-If **you** have moved to **premises** and started using **energy**, **you** will still need to call **us** to become a customer. If **you** do not contact **us** to become a customer, **we** will disconnect the property. **We** may also charge **you** a **disconnection** fee, the cost of any **energy** consumed, and any other costs **we** incur as a result of **you** consuming **energy** at the **premises** as specified in our **price list**.</li><br>
+If **you** have moved to **premises** and started using **energy**, **you** will still need to call **us** to become a customer. If **you** do not contact **us** to become a customer, **we** will disconnect the property. **We** may also charge **you** a **disconnection** fee, the cost of any **energy** consumed, and any other costs **we** incur as a result of **you** consuming **energy** at the **premises** as specified in our **price list**.  
 
-<li><dl><dt>**What information do we need from you?**</dt> 
+2.3. **What information do we need from you?** 
 
 <dd>To become a customer **you** will need to provide **us** with some personal information. **We** may use this information for a number of purposes, as set out in our Privacy Policy. **You** can view our Privacy Policy [here](http://www.energyonline.co.nz/home/site_map/privacy_policy).
 
 **We** may also request information (including credit information) from relevant third parties such as credit reference agencies and other **energy** retailers prior to **you** becoming an **Energy Online** customer and at any point while **you** are an **Energy Online** customer, as part of our credit criteria.
 
-If any of **your** personal information changes (including **your** contact details) please tell **us**, and **we** will update **your** account information.</dd></dl></li><br>
+If any of **your** personal information changes (including **your** contact details) please tell **us**, and **we** will update **your** account information.  
 
-<li><dl><dt>**What do we do with your personal information?**</dt> 
+2.4. **What do we do with your personal information?** 
 
-<dd>Any personal information **you **give **us** is strictly confidential and will be kept secure and held by **us** in accordance with the Privacy Act 1993. **You** can view our privacy policy [here](http://www.energyonline.co.nz/home/site_map/privacy_policy). That policy outlines how **we** deal with **your** personal information. **You** can access **your** personal information held by **us** on request and correct it if it is wrong.</dd></dl></li><br> 
+Any personal information **you **give **us** is strictly confidential and will be kept secure and held by **us** in accordance with the Privacy Act 1993. **You** can view our privacy policy [here](http://www.energyonline.co.nz/home/site_map/privacy_policy). That policy outlines how **we** deal with **your** personal information. **You** can access **your** personal information held by **us** on request and correct it if it is wrong.  
 
-<li><dl><dt>**Can more than one person be a customer?**</dt>
+2.5. **Can more than one person be a customer?**
 
-<dd>If more than one person is the customer at any **premises**, these terms will apply to each of **you** jointly and severally. This means that each of **you** may individually be responsible for paying our entire invoice, and that everyone who wishes to become a customer will have to contact **us**. 
+If more than one person is the customer at any **premises**, these terms will apply to each of **you** jointly and severally. This means that each of **you** may individually be responsible for paying our entire invoice, and that everyone who wishes to become a customer will have to contact **us**. 
 
-**You** may nominate a person as an account authority to make decisions for **you** under these terms. However, **you** are still responsible as a customer for payment of **your** account and for any costs associated with decisions made by the account authority.</dd></dl></li><br> 
+**You** may nominate a person as an account authority to make decisions for **you** under these terms. However, **you** are still responsible as a customer for payment of **your** account and for any costs associated with decisions made by the account authority.   
 
-<li><dl><dt>**What if you have unpaid invoices?**</dt>
+2.6. **What if you have unpaid invoices?**
 
-<dd>As a customer **you** will be responsible for paying all fees and charges and for making sure the requirements of this agreement are met.  **We** will give **you** reasonable notice if circumstances arise, or are likely to arise, which will mean that **you** will incur a fee in addition to **your** standard rates for **energy** supplied by **us**, including for unpaid invoices.  
+As a customer **you** will be responsible for paying all fees and charges and for making sure the requirements of this agreement are met.  **We** will give **you** reasonable notice if circumstances arise, or are likely to arise, which will mean that **you** will incur a fee in addition to **your** standard rates for **energy** supplied by **us**, including for unpaid invoices.  
 
 **You** agree that **we** may add any of **your** unpaid invoices with **us** from other **premises** to **your** next invoice for **energy** used at **your** new **premises**. The amount owing must be paid in accordance with the terms of **your** previous account, unless **we** agree otherwise, but a default in payment of **your** previous account may be treated by **us** as a default under this agreement. 
 
-Please note that if **you**, or another person at **your** **premises**, have any unpaid invoices with **us**, **we** may refuse to supply **energy** to **your** **premises** or accept **you** as a customer until that invoice has been paid.</dd></dl></li></ol>
+Please note that if **you**, or another person at **your** **premises**, have any unpaid invoices with **us**, **we** may refuse to supply **energy** to **your** **premises** or accept **you** as a customer until that invoice has been paid.
 
 ## 3 IS A BOND REQUIRED?
-<ol>
-<li>**We** may ask **you** for a cash bond and/or a satisfactory credit check before **you** become our customer and **we** supply **energy** or other services. If this is the case, **we** will tell **you** when **you** become our customer and **we** will give **you** reasons for our decision.  This decision will comply with any relevant regulations or industry standards. If **we** require a bond, it will be invoiced as early as possible after **we** accept **you** as a customer. **You** must pay the bond within the timeframe specified on the invoice.
+
+3.1. **We** may ask **you** for a cash bond and/or a satisfactory credit check before **you** become our customer and **we** supply **energy** or other services. If this is the case, **we** will tell **you** when **you** become our customer and **we** will give **you** reasons for our decision.  This decision will comply with any relevant regulations or industry standards. If **we** require a bond, it will be invoiced as early as possible after **we** accept **you** as a customer. **You** must pay the bond within the timeframe specified on the invoice.
 
 **We** may also ask **you** for a bond at any time if **you** are unable to establish a satisfactory credit record or maintain a satisfactory payment record with **us**.
 
