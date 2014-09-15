@@ -15,10 +15,10 @@ Join now & lock-in your price.
 
 ## Join us now and you’ll get:
 
-<ul>
-<li>An 18-month price promise so you can be sure your price won’t change for at least 18 months*.</li>
-<li>A massive 20% prompt payment discount every month you pay your bill on time and in full.</li>
-<li>Awesome service from the two-time winner of Roy Morgan’s Electricity Provider of the year. In case you didn’t know – that’s us.</li>
+
+- An 18-month price promise so you can be sure your price won’t change for at least 18 months*.
+- A massive 20% prompt payment discount every month you pay your bill on time and in full.
+- Awesome service from the two-time winner of Roy Morgan’s Electricity Provider of the year. In case you didn’t know – that’s us.
 
 
 
