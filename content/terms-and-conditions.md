@@ -331,7 +331,7 @@ Please call our Customer Care Team, or click [here](http://www.energyonline.co.n
 
 Please contact **us** if **you** would like to change **your** pricing plan, products, or services.  If **you** do change pricing plans the change will be effected as soon as possible. If **you** choose to change **your** pricing plan more than once in any 12 month period a charge may be payable.  
 
-9.3. If circumstances arise, or are likely to arise, which mean that **you** may incur an additional fee, **we** will provide reasonable notice to **you** specifying the amount of the fee and the reason why **you** may incur the fee, and any steps **you** can take to avoid incurring the fee.  If **you** request a product or service that involves an additional cost, **we** will advise **you** of the amount of such additional cost where that cost is known, or provide an estimate of the cost (unless the cost is from a third party and that third party does not provide an estimate).</li></ol>
+9.3. If circumstances arise, or are likely to arise, which mean that **you** may incur an additional fee, **we** will provide reasonable notice to **you** specifying the amount of the fee and the reason why **you** may incur the fee, and any steps **you** can take to avoid incurring the fee.  If **you** request a product or service that involves an additional cost, **we** will advise **you** of the amount of such additional cost where that cost is known, or provide an estimate of the cost (unless the cost is from a third party and that third party does not provide an estimate).
 
 ## 10 HOW DO YOU PAY YOUR INVOICE?
 
@@ -339,7 +339,7 @@ Please contact **us** if **you** would like to change **your** pricing plan, pro
 
 ## 11 WHEN WILL WE DISCONNECT YOUR SUPPLY?
 
-<li>In addition to our, the **network company's** and the **meter company's** other rights of **disconnection** under this agreement, **your** **energy** supply may be disconnected: 
+11.1. In addition to our, the **network company's** and the **meter company's** other rights of **disconnection** under this agreement, **your** **energy** supply may be disconnected: 
 
 - for non payment of the undisputed portion of any invoice associated with the supply of **energy**, **lines services** or other services supplied to **you**;
 - if **we** cease to have an agreement with the **network company** that provides **lines services** to **you**;
@@ -348,22 +348,22 @@ Please contact **us** if **you** would like to change **your** pricing plan, pro
 
 If **you** materially or persistently breach a term of this agreement in a way that is capable of being remedied, **we** will give **you** notice of the steps **you** can take to avoid the **disconnection** of **your** **energy** and/or termination of this agreement and **you** will have 5 business days to remedy the breach in accordance with the notice.
 
-If an **advanced meter** has been installed at **your** **premises**, **we** may disconnect **your** supply of **energy** remotely.</li><br>
+If an **advanced meter** has been installed at **your** **premises**, **we** may disconnect **your** supply of **energy** remotely.  
 
-<li><dl><dt>**Will we tell you about disconnecting your supply?**</dt> 
+11.2. **Will we tell you about disconnecting your supply?** 
 
-<dd>Except in the case of an **emergency situation** or for safety reasons, or where **we** suspect the **metering equipment** or other equipment at **your** **premises** supplied by **us** or a **network company** or **meter company** has been tampered or interfered with, **we** will tell **you** at least 7 days (and allow a further 3 days for delivery of the notice) before **we** disconnect **your** supply of **energy**. **We** will also contact **you**, at the contact details provided by **you**, to provide **you** with a final warning at least 24 hours prior to disconnecting **your** supply. If **disconnectio**n is not prevented by **you** and not completed within the timeframe notified to **you** (including where **we** grant **you** an extension to that timeframe, at our discretion), **we** will issue **you** with another final warning no less than 24 hours, or not more than 7 days, before **disconnection**. Any notice of **disconnection** from **us** will include information that **you** need to prevent **disconnection** if prevention is possible.  **We** may ask **you** to pay a **disconnection** fee or an attendance fee (where the **disconnection** does not proceed) in respect of the action taken by **us** under this section. **We** will provide reasonable notice to **you** if **you** are likely to incur a **disconnection** fee.
+Except in the case of an **emergency situation** or for safety reasons, or where **we** suspect the **metering equipment** or other equipment at **your** **premises** supplied by **us** or a **network company** or **meter company** has been tampered or interfered with, **we** will tell **you** at least 7 days (and allow a further 3 days for delivery of the notice) before **we** disconnect **your** supply of **energy**. **We** will also contact **you**, at the contact details provided by **you**, to provide **you** with a final warning at least 24 hours prior to disconnecting **your** supply. If **disconnectio**n is not prevented by **you** and not completed within the timeframe notified to **you** (including where **we** grant **you** an extension to that timeframe, at our discretion), **we** will issue **you** with another final warning no less than 24 hours, or not more than 7 days, before **disconnection**. Any notice of **disconnection** from **us** will include information that **you** need to prevent **disconnection** if prevention is possible.  **We** may ask **you** to pay a **disconnection** fee or an attendance fee (where the **disconnection** does not proceed) in respect of the action taken by **us** under this section. **We** will provide reasonable notice to **you** if **you** are likely to incur a **disconnection** fee.
 
 **We** will not disconnect **your** supply for non-payment of a disputed amount where **you** have initiated a dispute with the Electricity & Gas Complaints Commissioner in relation to that disputed amount, unless the Electricity & Gas Complaints Commissioner dispute resolution process or our own dispute resolution process has been exhausted.
 
 **We** will only disconnect **your** supply for non-payment of an invoice based on an estimate if it is fair and reasonable in the circumstances to do so. 
 Where **we** disconnect **your** electricity under this section 11 (other than in the case of an **emergency situation** or for safety reasons), such **disconnection** will not take place on a Friday, Saturday, Sunday, public holiday or the day before any public holiday in **your** area. 
 
-If **your** supply has been disconnected for non-payment and **you** satisfy our requirements for reconnection (see section 12), **we** will restore **your** supply as soon as reasonably practicable.</dd></dl></li><br>
+If **your** supply has been disconnected for non-payment and **you** satisfy our requirements for reconnection (see section 12), **we** will restore **your** supply as soon as reasonably practicable.  
 
-<li><dl><dt>**Can the network company also disconnect your supply?**</dt> 
+11.3. **Can the network company also disconnect your supply?** 
 
-<dd>The **network company** is entitled to disconnect **your** supply if:
+The **network company** is entitled to disconnect **your** supply if:
 
 - **you** fail to grant the rights of access specified in this agreement; 
 - **your** equipment does not meet the **network company's** requirements; 
@@ -371,7 +371,7 @@ If **your** supply has been disconnected for non-payment and **you** satisfy our
 - an **emergency situation** occurs;
 
 - it considers **your** equipment to be unsafe; or 
-- **you** materially breach any other term of this agreement including the **network** requirements, and **you** agree that in respect of **your** electricity supply, section 105 of the Electricity Industry Act 2010 shall not apply in respect of such **disconnection**.</dd></dl></li></ol> 
+- **you** materially breach any other term of this agreement including the **network** requirements, and **you** agree that in respect of **your** electricity supply, section 105 of the Electricity Industry Act 2010 shall not apply in respect of such **disconnection**.
 
 ## 12 HOW DO YOU RESUME SUPPLY?
 When **you** want to start **your** **energy** supply again, please call **us**. **You** may not attempt to reconnect the **energy** supply yourself. Before **we** agree to reconnect **your** **energy** supply **we** may require **you** to:
@@ -390,24 +390,24 @@ If an **advanced meter** has been installed at **your** **premises**, **we** may
 **You** will be responsible for any liability suffered or incurred by **you** as a result of **us** disconnecting or reconnecting the **energy** supply at **your** **premises**.
 
 ## 13 WHAT IF YOU WANT TO STOP YOUR SUPPLY?
-<ol>
-<li>If **you** no longer want **us** to supply **you** with **energy** or **you** want **your** supply disconnected, **you** must let **us** know at least 3 business days beforehand. This timeframe is consistent with applicable regulations and industry standards as at the date of these terms.  If **you** intend to leave **your** present **premises**, **you** must also tell **us** **your** forwarding address. 
+
+13.1. If **you** no longer want **us** to supply **you** with **energy** or **you** want **your** supply disconnected, **you** must let **us** know at least 3 business days beforehand. This timeframe is consistent with applicable regulations and industry standards as at the date of these terms.  If **you** intend to leave **your** present **premises**, **you** must also tell **us** **your** forwarding address. 
 
 If **you** don’t give **us** 3 business days' notice **you** will be required to pay for any **energy** used at the **premises** while the **premises** remain connected to the **network**, even if **you** are no longer at the **premises**, until the date on which 3 business days' notice has been given. 
 
 If **you** are not going to remain our customer after **your** move, our charges to **you** will stop on the date 3 business days after **you** have given **us** notice in accordance with this section, or if **you** have failed to give **us** notice, when **we** disconnect the **premises**, or a new customer has notified **us** that it has taken over the **premises**.  Where **you** have given **us** notice in accordance with this section, **disconnection** of **your** **premises** will occur as soon as possible on or from the date on which **your** notice takes effect.
 
-Where **you** have instructed **us** that **you** are switching to another retailer, **we** will work with **you** to facilitate the switch and terminate **your** supply in accordance with applicable regulations and industry standards.</li><br> 
+Where **you** have instructed **us** that **you** are switching to another retailer, **we** will work with **you** to facilitate the switch and terminate **your** supply in accordance with applicable regulations and industry standards.   
 
-<li><dl><dt>**What if you want to stop receiving electricity where we also supply you with gas?**</dt>
+13.2. **What if you want to stop receiving electricity where we also supply you with gas?**
 
-<dd>**We** will only supply gas to **your** **premises** if **we** also supply **your** **premises** with electricity, therefore, if **you** no longer wish to receive electricity from **us**, **we** will also terminate our supply of gas to **you**.   **You** must provide **us** with at least 3 business days notice to terminate supply.
+**We** will only supply gas to **your** **premises** if **we** also supply **your** **premises** with electricity, therefore, if **you** no longer wish to receive electricity from **us**, **we** will also terminate our supply of gas to **you**.   **You** must provide **us** with at least 3 business days notice to terminate supply.
 
-If the **energy** supply at **your** **premises** is disconnected (but not **decommissioned**), **we** may still charge **you** a daily fixed charge. However, **we** will not charge **you** a daily fixed charge for **energy** if the **energy** supply at **your** **premises** has been **decommissioned**.</dd></dl></li><br>
+If the **energy** supply at **your** **premises** is disconnected (but not **decommissioned**), **we** may still charge **you** a daily fixed charge. However, **we** will not charge **you** a daily fixed charge for **energy** if the **energy** supply at **your** **premises** has been **decommissioned**.  
 
-<li><dl><dt>**Will a final meter reading be taken?**</dt> 
+13.3. **Will a final meter reading be taken?** 
 
-<dd>**We** will arrange for a final **meter** reading and **we** will send a final invoice to **you** at **your** forwarding address. **We** may ask **you** to pay a final **meter** reading fee.  **We** will give **you** reasonable notice that **you** may incur a final **meter** reading fee and how **you** may avoid the fee if possible.</dd></dl></li></ol> 
+**We** will arrange for a final **meter** reading and **we** will send a final invoice to **you** at **your** forwarding address. **We** may ask **you** to pay a final **meter** reading fee.  **We** will give **you** reasonable notice that **you** may incur a final **meter** reading fee and how **you** may avoid the fee if possible.
 
 ## 14 CONTACTING WORK AND INCOME AND NOMINATED PERSON
 **You** are a **vulnerable customer** if **you** have told **us**, or it appears to **us**, that **disconnection** of **energy** at **your** **premises** presents a clear threat to the health or well-being of **you** or a member of **your** household, or if **you** have mains powered equipment for critical medical support. This could be because of age, health or disability. **You** can inform **us** at any time if **you** are or become a **vulnerable customer**. 
@@ -458,8 +458,8 @@ If:
 **you** may refer **your** complaint to the free independent dispute resolution service provided by the Electricity and Gas Complaints Commissioner on 0800 22 33 40 or visit www.egcomplaints.co.nz.  **You** may also refer **your** complaint to the Disputes Tribunal, the Court or other third party. 
 
 ## 17 WHAT IS ENERGY ONLINE’S LIABILITY FOR LOSS OR DAMAGE?
-<ol>
-<li>**What will we be liable for?** 
+
+17.1. **What will we be liable for?** 
 
 **We** will not be liable to **you** (in contract, tort (including negligence) or otherwise) for any loss or damage **you** may suffer unless, and to the extent that, that loss or damage is direct loss of or damage to **your** physical property and it occurs due to:
 
@@ -471,15 +471,15 @@ and the loss or damage is:
 - reasonably foreseeable and is directly caused by our breach or our negligence; and
 - is not caused by something beyond our control,  
 
-but **we** will not be liable in any cases for any other loss or damage including indirect or consequential losses, loss of profits or revenue, or similar.<br>
+but **we** will not be liable in any cases for any other loss or damage including indirect or consequential losses, loss of profits or revenue, or similar.  
 
-<li><dl><dt>**What is an event beyond our control?**</dt> 
+17.2. **What is an event beyond our control?** 
 
-<dd>An event or cause beyond our control includes, but is not limited to: acts of God, war, riot, civil commotion, malicious damage, compliance with any law or governmental order, rule, regulation or direction, accident, earthquake, fire, lightning, storm, flood or other similar event, interference with the **network** from birds, animals or vegetation, traffic accidents, faults in the **network**, acts or omissions by the **network company** or **meter company**, problems with generation, transmission or distribution of **energy**, problems with **your** wiring, problems arising because of health and safety hazards at **your** **premises**, and other things which **we** do not have control over.</dd></dl></li><br> 
+An event or cause beyond our control includes, but is not limited to: acts of God, war, riot, civil commotion, malicious damage, compliance with any law or governmental order, rule, regulation or direction, accident, earthquake, fire, lightning, storm, flood or other similar event, interference with the **network** from birds, animals or vegetation, traffic accidents, faults in the **network**, acts or omissions by the **network company** or **meter company**, problems with generation, transmission or distribution of **energy**, problems with **your** wiring, problems arising because of health and safety hazards at **your** **premises**, and other things which **we** do not have control over.   
 
-<li><dl><dt>**What is our maximum liability?**</dt> 
+17.3. **What is our maximum liability?** 
 
-<dd>If **we** are liable to **you**, the maximum amount **we** will pay as compensation for **your** loss is $10,000 in respect of any event or series of closely related events. **We** may choose to replace any damaged property or goods, up to the same maximum amount, instead of paying cash. **We** are not required to honour this agreement in circumstances where an event has occurred which is beyond our control and which prevents **us** from doing the things **we** would normally do. In these circumstances, **we** will carry on honouring our obligations as soon as it is reasonably practicable for **us** to do so. 
+If **we** are liable to **you**, the maximum amount **we** will pay as compensation for **your** loss is $10,000 in respect of any event or series of closely related events. **We** may choose to replace any damaged property or goods, up to the same maximum amount, instead of paying cash. **We** are not required to honour this agreement in circumstances where an event has occurred which is beyond our control and which prevents **us** from doing the things **we** would normally do. In these circumstances, **we** will carry on honouring our obligations as soon as it is reasonably practicable for **us** to do so. 
 
 If **you** acquire goods or services from **us** for personal, domestic or household use or consumption, any rights **you** have under the Consumer Guarantees Act 1993 are not affected by our limitations of liability. However, if **you** acquire goods or services from **us** for the purposes of a business, the Consumer Guarantees Act 1993 does not apply. 
 
@@ -488,7 +488,7 @@ Our limitations of liability extend to our employees and agents for the purposes
 Notwithstanding any provision to the contrary in this agreement, nothing in this agreement will exclude or limit the application of any law in New Zealand where such law applies to the supply of **energy**, or any other services **we** supply, to the extent that to do so would:
 
 - contravene that law; or 
-- cause any part of this section 17 to be void.</dd></dl></li></ol>
+- cause any part of this section 17 to be void.
 
 ## 18 CAN WE CHANGE THIS AGREEMENT?
 <ol>
