@@ -200,8 +200,8 @@ To the extent that any **meter reading** **information** constitutes "personal i
 
 ## 7 WHAT ACCESS DO YOU NEED TO PROVIDE?
 
-<ol>
-<li>**You** must:
+
+7.1**You** must:
 
 - provide to **us**, the **meter company**, the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises**, safe and unobstructed access to **metering equipment**, and any equipment of the **network company** or any other person on **your** **premises** between 8.00am and 7.00pm, Monday to Sunday, excluding public holidays;
 - provide to **us**, the **meter company**, the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises**, immediate access to **your** **premises** at any time for safety reasons or to prevent serious damage to property or the environment;
@@ -486,19 +486,19 @@ If **you** acquire goods or services from **us** for personal, domestic or house
 Our limitations of liability extend to our employees and agents for the purposes of the Contracts (Privity) Act 1982. 
 
 Notwithstanding any provision to the contrary in this agreement, nothing in this agreement will exclude or limit the application of any law in New Zealand where such law applies to the supply of **energy**, or any other services **we** supply, to the extent that to do so would:
-<ul>
-<li> contravene that law; or</li> 
-<li>cause any part of this section 17 to be void.</li></ul></dd></dl></li></ol>
+
+- contravene that law; or 
+- cause any part of this section 17 to be void.</dd></dl></li></ol>
 
 ## 18 CAN WE CHANGE THIS AGREEMENT?
 <ol>
 <li>**We** may make changes to this agreement, the **network** **requirements**, **your** payment methods, or our **price list**. If **we** make changes to this agreement, the **network** **requirements**, **your** payment methods, or if **we** increase the **energy** prices set out in our **price list**, **we** will give **you** notice of the changes as soon as possible and not later than 30 days before the change is to take effect, together with our reasons for making the changes. **We** will do this by any reasonable method of communication including by:
-<ul>
-<li>advertising in a local daily newspaper; or</li> 
-<li>posting a notice on [our website](http://www.energyonline.co.nz/); or</li>
-<li>writing to **you**; or</li>
-<li>emailing **you**; or</li>
-<li>notifying **you** by other electronic means,</li></ul>
+
+- advertising in a local daily newspaper; or 
+- posting a notice on [our website](http://www.energyonline.co.nz/); or
+- writing to **you**; or
+- emailing **you**; or
+- notifying **you** by other electronic means,
 
 or by a combination of these methods.</li><br>
 
@@ -518,17 +518,17 @@ or by a combination of these methods.</li><br>
 
 ## 20 HOW WILL WE CONTACT YOU?
 Except as otherwise provided in this agreement, our invoices or notices to **you** will be:
-<ul>
-<li>delivered to **your** **premises**; or</li>
-<li>mailed to the most recent postal address **you** have given **us**; or</li>
-<li>emailed to the most recent email address **you** have given **us**, posted on our internet billing system or sent to **you** by electronic means (where **you** have agreed to receive **your** invoices in this manner).</li></ul>
+
+- delivered to **your** **premises**; or
+- mailed to the most recent postal address **you** have given **us**; or
+- emailed to the most recent email address **you** have given **us**, posted on our internet billing system or sent to **you** by electronic means (where **you** have agreed to receive **your** invoices in this manner).
 
 All notices sent to **you** will be considered to have been received by **you**:
-<ul>
-<li>on the day it was delivered to the address to which **you** asked **us** to send notices; or</li>
-<li>3 days after being posted by **us** to the postal address **you** provided to **us**; or</li>
-<li>the day after it was transmitted to the email address or fax number **you** provided to **us**, or posted to our internet billing system or sent to **you** by electronic means; or</li>
-<li>on the day after it was published on our website, or the notice appeared in **your** local newspaper.</li></ul>
+
+- on the day it was delivered to the address to which **you** asked **us** to send notices; or
+- 3 days after being posted by **us** to the postal address **you** provided to **us**; or
+- the day after it was transmitted to the email address or fax number **you** provided to **us**, or posted to our internet billing system or sent to **you** by electronic means; or
+- on the day after it was published on our website, or the notice appeared in **your** local newspaper.
 
 ## 21 GETTING OUR ENERGY TO YOU
 <ol>
@@ -539,9 +539,9 @@ The **network company** owns and operates the **network** which transports **ene
 <li><dl><dt>**Do you need an agreement with the network company?**</dt>
 
 <dd>In some cases, the **network company** may require **you** to have an agreement directly with it to use the **network**. If this is the case, **we** will provide **you** with the contact details of the **network company**, and:
-<ul>
-<li>**you** must ensure that **you** have such an agreement; and</li>
-<li>our agreement will cover the supply of **energy** only.</li></ul>
+
+- **you** must ensure that **you** have such an agreement; and
+- our agreement will cover the supply of **energy** only.
 
 **You** agree to comply with statutory and regulatory requirements and the **network company's** distribution code or other similar connection standards (a copy of the code or standards may be obtained from the **network company**). 
 
@@ -550,23 +550,23 @@ The **network company** owns and operates the **network** which transports **ene
 <li><dl><dt>**Interference with the network**</dt> 
 
 <dd>**You** must not, without the prior written consent of the local **network company**:
-<ul>
-<li>attempt to send or receive signals or other forms of communication through the **network**;</li>
-<li>install electricity generating equipment that will export **energy** back into the **network**;</li>
-<li>connect or re-connect **your** equipment directly to the **network**; or</li> 
-<li>interfere in any other way with the **network**.</li></ul>
+
+- attempt to send or receive signals or other forms of communication through the **network**;
+- install electricity generating equipment that will export **energy** back into the **network**;
+- connect or re-connect **your** equipment directly to the **network**; or 
+- interfere in any other way with the **network**.
 
 **You** must not, without our prior written consent, connect or modify any fittings or other equipment on **your** **premises** to enable any electricity generated on the **premises** to be conveyed through the **network**.</dd></dl></li><br>
 
 <li><dl><dt>**Some technical requirements relating to electricity**</dt> 
 
 <dd>In relation to **your** electricity supply, **you** agree that:
-<ul>
-<li>the power factor shall not be less than 0.95 lagging each month, or such other amount as specified by **your** local **network company**;</li>
-<li>there is to be no interconnection at any time between **your** **point of supply** and any other **point of supply** without the **network company's** prior written consent;</li>
-<li>if the characteristics of **your** equipment or demand interferes with the quality of supply of **energy** to any other consumer on the **network** or interferes with the operation of any remote signalling services or other fittings of the **network company**, **you** will, upon notice from the **network company** or **us**, remedy the interference at **your** own cost as soon as practicable (and in any event within 20 business days of the date of the notice). If **we** become liable to any third party as a result of such interference, **you** must compensate **us** to the full extent of such liability and for all associated costs incurred by **us**;</li> 
-<li>**you** will use all reasonable measures to ensure that the levels of harmonic voltages and currents injected back into the **network** from **your** **premises** conform with the New Zealand Electrical Code of Practice for Harmonic levels NZECP 36:1993 insofar as the harmonic disturbance results from a cause within **your** control; and</li>
-<li>**you** agree to comply with all line function services, safety and technical requirements provided for under statute, regulations and codes of practice.</li></ul> 
+
+- the power factor shall not be less than 0.95 lagging each month, or such other amount as specified by **your** local **network company**;
+- there is to be no interconnection at any time between **your** **point of supply** and any other **point of supply** without the **network company's** prior written consent;
+- if the characteristics of **your** equipment or demand interferes with the quality of supply of **energy** to any other consumer on the **network** or interferes with the operation of any remote signalling services or other fittings of the **network company**, **you** will, upon notice from the **network company** or **us**, remedy the interference at **your** own cost as soon as practicable (and in any event within 20 business days of the date of the notice). If **we** become liable to any third party as a result of such interference, **you** must compensate **us** to the full extent of such liability and for all associated costs incurred by **us**; 
+- **you** will use all reasonable measures to ensure that the levels of harmonic voltages and currents injected back into the **network** from **your** **premises** conform with the New Zealand Electrical Code of Practice for Harmonic levels NZECP 36:1993 insofar as the harmonic disturbance results from a cause within **your** control; and
+- **you** agree to comply with all line function services, safety and technical requirements provided for under statute, regulations and codes of practice. 
 
 For more information contact the **network company**.</dd></dl></li></ol>
 
@@ -582,51 +582,51 @@ There may be planned or unplanned events which may cause outages or voltage fluc
 <li>The **energy** supplied to **you** will be **metered**. Different pricing options may require separate **meters**. **We**, or the **metering** company, will retain all ownership rights in any **meter** and **metering equipment** installed at **your** **premises**.  All **electricity and gas** **meters** will comply with applicable regulations and good industry practice.</li><br>  
 
 <li>If **you** do not have a suitable **meter** for **your** **energy** use or pricing option **we** will choose and arrange to install the appropriate **meter**. **You** may not provide or install **your** own **meter**. **You** must pay all reasonable costs relating to the installation of any **metering equipment**. However, **you** will not be charged:
-<ul>
-<li>for the installation of the first **advanced meter** at **your** **premises**, unless additional work is required to install the **meter** or **metering equipment** (this includes additional wiring required to install the **meter** or work required to re-locate the position of the **metering equipment**) in which case **we** may charge **you** for this additional work;</li>
-<li>where **we** decide to replace **meters** or related equipment if the existing **meters** or related equipment are unsuitable for **your** **energy** use or pricing option. In some cases it may be necessary to upgrade **your** **meter** if **your** **energy** use or pricing option changes. **We** may charge **you** the costs of installing a new **meter**. **We** will inform **you** if any upgrade is required and the costs of that upgrade.</li><ul>
+
+- for the installation of the first **advanced meter** at **your** **premises**, unless additional work is required to install the **meter** or **metering equipment** (this includes additional wiring required to install the **meter** or work required to re-locate the position of the **metering equipment**) in which case **we** may charge **you** for this additional work;
+- where **we** decide to replace **meters** or related equipment if the existing **meters** or related equipment are unsuitable for **your** **energy** use or pricing option. In some cases it may be necessary to upgrade **your** **meter** if **your** **energy** use or pricing option changes. **We** may charge **you** the costs of installing a new **meter**. **We** will inform **you** if any upgrade is required and the costs of that upgrade.
 
 <li>If **you** request that a new **meter** be installed **you** will be charged for the installation of that new **meter** (as well as the cost of the new **meter**).</li><br>
 
 <li><dl><dt>**How should you deal with equipment at your premises?**</dt>
 
 <dd>**You** must ensure that any **metering equipment** which is supplied by **us** or a **meter company**, and any **energy** supply equipment of the **network company** or any other third party:
-<ul>
-<li>is not removed from its location without our consent;</li>
-<li>is not encumbered or used as security in any way;</li>
-<li>is not, and does not, become a fixture or fitting of the **premises**; and</li>
-<li>is not switched off other than in accordance with section 7.11 above.</li></ul>
+
+- is not removed from its location without our consent;
+- is not encumbered or used as security in any way;
+- is not, and does not, become a fixture or fitting of the **premises**; and
+- is not switched off other than in accordance with section 7.11 above.
 
 **You** agree:
-<ul>
-<li>to provide **us**, the **meter company**, **network company** and any other third party who owns **energy** supply equipment on **your** **premises** with reasonable space for the safe, secure, weather tight, insect and vermin free, and accessible housing of the **metering equipment** and the equipment of the network company or other third party at no cost to **us**, and ensure the housing remains in such condition; and</li>
-<li>to look after the **meter** and prevent interference with, or damage to, or loss of, the **metering equipment**, the **energy** supply equipment of the **network company** or other third party and the **metering** **communications** **network**.</li></ul>
+
+- to provide **us**, the **meter company**, **network company** and any other third party who owns **energy** supply equipment on **your** **premises** with reasonable space for the safe, secure, weather tight, insect and vermin free, and accessible housing of the **metering equipment** and the equipment of the network company or other third party at no cost to **us**, and ensure the housing remains in such condition; and
+- to look after the **meter** and prevent interference with, or damage to, or loss of, the **metering equipment**, the **energy** supply equipment of the **network company** or other third party and the **metering** **communications** **network**.
 
 If **you** do not own **your** **premises**, **you** confirm that **you** have any necessary approvals required from the owner, landlord or body corporate for the installation of any **meter** or **metering equipment** at **your** **premises**, for any alterations to **your** **premises** required to install any such equipment and to enable **us** to exercise our other rights under these terms and conditions. **You** will bear any costs incurred by **us**, the **meter company**, **network company** or our respective contractors if **you** do not have any such approval.</dd></dl></li><br>
 
 <li><dl><dt>**What if the meter is damaged?**</dt>
 
 <dd>**You** must tell **us** immediately if: 
-<ul>
-<li>any **metering equipment** or any **energy** supply equipment of the **network company** or other third party is damaged, defective, or looks unsafe; or</li> 
-</li>**you** discover any fault with, or interference with, any **metering equipment**, the metering communication network or any **energy** supply equipment of the **network company** or other third party.</li></ul>
+
+- any **metering equipment** or any **energy** supply equipment of the **network company** or other third party is damaged, defective, or looks unsafe; or 
+- **you** discover any fault with, or interference with, any **metering equipment**, the metering communication network or any **energy** supply equipment of the **network company** or other third party.
 
 **You** agree to co-operate in good faith with any investigations by **us**, the **meter company** or other third party that owns **energy** supply equipment on **your** **premises** in respect of interference with any **metering equipment** on **your** **premises**. If **we** and/or the **metering company's** and/or other third party's investigations identify that the interference was caused by **you**, **you** agree to pay our and/or the **metering company's** and/or the third party's reasonable expenses of the investigation on demand. If **we** believe on reasonable grounds that:
-<ul>
-<li>somebody has damaged, or tampered or interfered with, any **metering equipment** or **energy** supply equipment of the **network company** or any other third party;</li> 
-<li>**you** have benefited from the fact that the **meter** was inaccurate or not working properly;</li> 
-<li>somebody has caused any loss or damage to **us**, a **meter company**, a **network company** and/or any of our other contractors; or</li> 
-<li>**you** have allowed anyone else to do so,</li></ul>
+
+somebody has damaged, or tampered or interfered with, any **metering equipment** or **energy** supply equipment of the **network company** or any other third party; 
+- **you** have benefited from the fact that the **meter** was inaccurate or not working properly; 
+- somebody has caused any loss or damage to **us**, a **meter company**, a **network company** and/or any of our other contractors; or 
+- **you** have allowed anyone else to do so,
 
 **you** will be responsible for the resulting loss, damage or costs suffered, including our and/or the **metering company** and/or the **network company's** and/or the other third party's reasonable expenses of the investigation on demand.
 
 **We** may also:
-<ul>
-<li>immediately disconnect, either temporarily or permanently, **your** supply if **your** action or omission constitutes a material breach of these terms and conditions;</li>
-<li>estimate the value of **energy** stolen or lost and require **you** to pay for that **energy**;</li>
-<li>charge **you** for the costs of any repairs and/or replacement of **metering equipment**;</li>
-<li>terminate this agreement and refuse to reconnect **your** supply; and/or</li>
-<li>inform the Police.</li></ul></dd></dl></li></ol>
+
+- immediately disconnect, either temporarily or permanently, **your** supply if **your** action or omission constitutes a material breach of these terms and conditions;
+- estimate the value of **energy** stolen or lost and require **you** to pay for that **energy**;
+- charge **you** for the costs of any repairs and/or replacement of **metering equipment**;
+- terminate this agreement and refuse to reconnect **your** supply; and/or
+- inform the Police.</dd></dl></li></ol>
 
 ## 24 WHAT ABOUT OTHER EQUIPMENT AT YOUR PREMISES?
 <ol>
@@ -635,10 +635,10 @@ If **you** do not own **your** **premises**, **you** confirm that **you** have a
 <li><dl><dt>**What equipment are you responsible for?**</dt>
 
 <dd>**You** must repair and maintain:
-<ul>
-<li>**your** electricity and/or gas lines, pipes or cables (including any poles and fittings) from the **point of supply**;</li>
-<li>the **meter** box or **meter** board itself, any sub or fuse board and any other wiring or piping on **your** **premises**; and</li>
-<li>any electrical and/or gas appliances and equipment not included above,</li></ul>
+
+- **your** electricity and/or gas lines, pipes or cables (including any poles and fittings) from the **point of supply**;
+- the **meter** box or **meter** board itself, any sub or fuse board and any other wiring or piping on **your** **premises**; and
+- any electrical and/or gas appliances and equipment not included above,
 
 and if any of this equipment looks unsafe, **you** should contact **your** own electrician and/or gas fitter (as appropriate) immediately. 
 
