@@ -322,23 +322,23 @@ If **your** **meter** is faulty, **we** may not be able to tell for certain how 
 - if it is apparent that **your** **meter** has measured more **energy** than **you** actually used and **you** have over-paid **us**, **we** will refund to **you** an amount **we** reasonably believe is a realistic estimate of the over-payment.
 
 ## 9 WHAT FEES AND CHARGES WILL YOU PAY?
-<ol>
-<li>**You** must pay the fees and charges set out in the **Energy Online** **price list** based on the **energy** **you** consume and the services **you** use unless **we** have agreed otherwise in writing. These fees and charges may change from time to time. 
 
-Please call our Customer Care Team, or click [here](http://www.energyonline.co.nz/residential/pricing_plans), for a copy of our most recent **price list**.  **You** can contact **us** to check if **you** are on the right pricing plan for **your** requirements.</li><br> 
+9.1. **You** must pay the fees and charges set out in the **Energy Online** **price list** based on the **energy** **you** consume and the services **you** use unless **we** have agreed otherwise in writing. These fees and charges may change from time to time. 
 
-<li>**We** don’t offer prepay pricing plans.  If **you** are interested in a prepay pricing plan, **you** may wish to contact another **energy** retailer to see if they can offer **you** a prepay pricing plan in **your** area. 
+Please call our Customer Care Team, or click [here](http://www.energyonline.co.nz/residential/pricing_plans), for a copy of our most recent **price list**.  **You** can contact **us** to check if **you** are on the right pricing plan for **your** requirements.   
 
-Please contact **us** if **you** would like to change **your** pricing plan, products, or services.  If **you** do change pricing plans the change will be effected as soon as possible. If **you** choose to change **your** pricing plan more than once in any 12 month period a charge may be payable.</li><br>
+9.2. **We** don’t offer prepay pricing plans.  If **you** are interested in a prepay pricing plan, **you** may wish to contact another **energy** retailer to see if they can offer **you** a prepay pricing plan in **your** area. 
 
-<li>If circumstances arise, or are likely to arise, which mean that **you** may incur an additional fee, **we** will provide reasonable notice to **you** specifying the amount of the fee and the reason why **you** may incur the fee, and any steps **you** can take to avoid incurring the fee.  If **you** request a product or service that involves an additional cost, **we** will advise **you** of the amount of such additional cost where that cost is known, or provide an estimate of the cost (unless the cost is from a third party and that third party does not provide an estimate).</li></ol>
+Please contact **us** if **you** would like to change **your** pricing plan, products, or services.  If **you** do change pricing plans the change will be effected as soon as possible. If **you** choose to change **your** pricing plan more than once in any 12 month period a charge may be payable.  
+
+9.3. If circumstances arise, or are likely to arise, which mean that **you** may incur an additional fee, **we** will provide reasonable notice to **you** specifying the amount of the fee and the reason why **you** may incur the fee, and any steps **you** can take to avoid incurring the fee.  If **you** request a product or service that involves an additional cost, **we** will advise **you** of the amount of such additional cost where that cost is known, or provide an estimate of the cost (unless the cost is from a third party and that third party does not provide an estimate).</li></ol>
 
 ## 10 HOW DO YOU PAY YOUR INVOICE?
 
 **You** may pay **your** invoice by any of the methods described in the welcome pack sent to **you** when **you** became our customer, as updated from time to time on our website. If **you** would like to receive further details, please call our Customer Care Team.
 
 ## 11 WHEN WILL WE DISCONNECT YOUR SUPPLY?
-<ol>
+
 <li>In addition to our, the **network company's** and the **meter company's** other rights of **disconnection** under this agreement, **your** **energy** supply may be disconnected: 
 
 - for non payment of the undisputed portion of any invoice associated with the supply of **energy**, **lines services** or other services supplied to **you**;
