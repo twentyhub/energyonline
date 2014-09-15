@@ -35,61 +35,61 @@ Maybe our FAQs below can help you. If not, just send an e-mail to **customercare
  <dl>
  <dt>**Q: When the Advanced Meter was installed, I was told that I was on the wrong tariff and my rates may change?**</dt> 
   <dd>**A**: The Advanced Meter upgrade will change your meter ‘like for like’. It   does not change your meter set up at the property. However, during installation, we may find you have been charged the different meter set up rate. 
- In all cases, we will notify you in advance if your rates require correction.</dd><dl><br>
+ In all cases, we will notify you in advance if your rates require correction.</dd><dl>
 
 
 
 
  <dl>
  <dt>**Q: How much will changing to this new meter cost me?**</dt> 
- <dd>**A**: There is no cost to you for the meter if we install the meter through our deployment programme. However you may need to fix your wiring or meter board at your own cost for safety reasons. We will contact you should this be required.</dd></dl><br>
+ <dd>**A**: There is no cost to you for the meter if we install the meter through our deployment programme. However you may need to fix your wiring or meter board at your own cost for safety reasons. We will contact you should this be required.</dd></dl>
 
 
 
  <dl>
  <dt>**Q: Why am I being upgraded to an Advanced Meter?**</dt> 
- <dd>**A**: All metering stock in New Zealand requires re-certification by 2015. Energy Online is choosing to upgrade our meters to meet these requirements.</dd></dl><br>
+ <dd>**A**: All metering stock in New Zealand requires re-certification by 2015. Energy Online is choosing to upgrade our meters to meet these requirements.</dd></dl>
 
   <dl>
   <dt>**Q: A contractor has just turned up to my property. Why wasn’t I informed that you were going to change my meter?**</dt>
  <dd>**A**: A letter would have been sent to your postal address telling you about the contractor’s visit.
 
-We apologise if you did not receive this in the mail. If you have any further questions, please contact our call centre on **0800 086 400**.</dd></dl><br> 
+We apologise if you did not receive this in the mail. If you have any further questions, please contact our call centre on **0800 086 400**.</dd></dl> 
 
   <dl><dt>**Q: Will I still be able to read my Advanced Meter?**</dt>
- <dd>**A**: Yes, Advanced Meters have a clear electronic display. You would have received instructions on how to read your meter with your letter.<dd></dl><br>
+ <dd>**A**: Yes, Advanced Meters have a clear electronic display. You would have received instructions on how to read your meter with your letter.<dd></dl>
 
  <dl><dt>**Q: What if I don’t want you to install this new meter?**</dt>
- <dd>**A**: Most electricity meters are only certified to 2015. If your meter is not re-certified before it expires we may be unable to continue supplying electricity to your property until the meter is certified. Energy Online has chosen to change your meter in advance to meet these obligations.</dd></dl><br>
+ <dd>**A**: Most electricity meters are only certified to 2015. If your meter is not re-certified before it expires we may be unable to continue supplying electricity to your property until the meter is certified. Energy Online has chosen to change your meter in advance to meet these obligations.</dd></dl>
 
  <dl><dt>**Q: If you are changing my meter for compliancy reasons, why can’t I wait till 2015?**<dt>
- <dd>**A**: There are over 50,000 meters that Energy Online needs to change. We have a geographical plan that will ensure we can change these meters at no cost to you. If you would like to have your meter installed later, this may be at a charge to you.</dd></dl><br>
+ <dd>**A**: There are over 50,000 meters that Energy Online needs to change. We have a geographical plan that will ensure we can change these meters at no cost to you. If you would like to have your meter installed later, this may be at a charge to you.</dd></dl>
 
  <dl><dt>**Q: Is there any health risk?**<dt>
- <dd>**A**: The Advanced Meter uses the Vodafone GPSR cellular network. The meter talks to the network through an internal modem. The modem used has passed stringent New Zealand regulations and transmits the same power as a standard cell phone. The transfer of information is generally once per night and is only for 20-30 seconds.</dd></dl><br>
+ <dd>**A**: The Advanced Meter uses the Vodafone GPSR cellular network. The meter talks to the network through an internal modem. The modem used has passed stringent New Zealand regulations and transmits the same power as a standard cell phone. The transfer of information is generally once per night and is only for 20-30 seconds.</dd></dl>
 
   <dl><dt>**Q: What if I own my meter?**</dt> 
-  <dd>**A**: You will be required to certify your meter by 2015. We recommend that you allow us to update your metering to an Advanced Meter to ensure it meets the requirements of the Electricity Authority.</dd><dl><br>
+  <dd>**A**: You will be required to certify your meter by 2015. We recommend that you allow us to update your metering to an Advanced Meter to ensure it meets the requirements of the Electricity Authority.</dd><dl>
 
  <dl><dt>**Q: If I move, will the property I move to have an Advanced Meter?**</dt>
- <dd>**A**: Our meter upgrade programme will take 18 months to complete. If your new property does not have an Advanced Meter now, we will try to schedule this as part of our deployment programme.</dd></dl><br>
+ <dd>**A**: Our meter upgrade programme will take 18 months to complete. If your new property does not have an Advanced Meter now, we will try to schedule this as part of our deployment programme.</dd></dl>
 
   <dl><dt>**Q: What happens if there is a power outage?**</dt>
-   <dd>**A**: Power is restored automatically. Then, once the power is restored, the meter and communications equipment will automatically come back on.</dd></dl><br>
+   <dd>**A**: Power is restored automatically. Then, once the power is restored, the meter and communications equipment will automatically come back on.</dd></dl>
 
  <dl><dt>**Q: What happens if my existing meter is inside – will you put the new one outside**</dt>
- <dd>**A**: No – the Advanced Meter replaces the existing meter in the same position.</dd></dl><br>
+ <dd>**A**: No – the Advanced Meter replaces the existing meter in the same position.</dd></dl>
 
  <dl><dt>**Q: How long will it take to change this meter over?**</dt>
- <dd>**A**: The electricity for your property will be off for about 30 minutes as our technician installs your Advanced Meter. Special arrangements can be made if you are (or someone in your household is) dependent on mains electricity for critical medical support. Special arrangements can also be made if the 30 minute outage will severely impact your business.</dd></dl><br>
+ <dd>**A**: The electricity for your property will be off for about 30 minutes as our technician installs your Advanced Meter. Special arrangements can be made if you are (or someone in your household is) dependent on mains electricity for critical medical support. Special arrangements can also be made if the 30 minute outage will severely impact your business.</dd></dl>
  
  <dl><dt>**Q: What do I have to do after the meter has been upgraded/changed?**</dt>
  <dd>**A**: You may find the time sensitive electrical equipment (such as clocks, alarms, computers, tropical fish tanks etc) needs to be reset, just as you would do after a normal electricity outage. 
 
-We do ask you to leave the main switch on and only switch off your main switch for essential maintenance or in the case of emergency. Should you wish to turn your electricity off at the main switch for long periods of time, please contact us and we’ll arrange for the electricity to be turned off at the meter.</dd></dl><br>
+We do ask you to leave the main switch on and only switch off your main switch for essential maintenance or in the case of emergency. Should you wish to turn your electricity off at the main switch for long periods of time, please contact us and we’ll arrange for the electricity to be turned off at the meter.</dd></dl>
 
   <dl><dt>**Q: What happens to my old meter?**</dt>
-  <dd>**A**: Your old meter will be returned back to the owner of the meters where it will either be destroyed or recycled.</dd></dl><br>
+  <dd>**A**: Your old meter will be returned back to the owner of the meters where it will either be destroyed or recycled.</dd></dl>
  
   <dl><dt>**Q: I have an alarm on my property, will it be affected?**</dt>
   <dd>**A**: Due to the power outage required to change your meter, some alarms may be sensitive and beep, warning you that your alarm battery is low, especially if your battery is already low before the outage. If your battery is low or flat, you will need to replace the battery even when the power is turned back on. 
@@ -98,7 +98,7 @@ More detailed information about alarms:
 
 Alarm batteries stay on a trickle charge for a long time so once the battery is flat it will not charge up again. After the outage, the alarm will beep saying the battery is flat and this typically requires the alarm company to come out and replace the battery.
 
-If we have changed the meter and your security alarm batteries are getting low, the alarm system will typically beep every few minutes warning you of a defective battery. Some alarm systems will continue to beep 24/7 until the battery is replaced. Please make sure that you do this.</dd></dl><br>
+If we have changed the meter and your security alarm batteries are getting low, the alarm system will typically beep every few minutes warning you of a defective battery. Some alarm systems will continue to beep 24/7 until the battery is replaced. Please make sure that you do this.</dd></dl>
 
  <dl><dt>**Q: I am reliant on electricity/power for my critical medical equipment and received a letter from you to arrange an appointment. How do I do this?**</dt>
  <dd>**A**: You can call the contractor’s phone number on your letter to set up a time that suits you both. 
@@ -113,31 +113,31 @@ Some options are:
 
 3. Hire a small generator to power any medical equipment.
 
-4. Discuss the impacts of the power outage with your doctor and if required, access other medical equipment at your doctor’s surgery or hospital.</dd></dl><br>
+4. Discuss the impacts of the power outage with your doctor and if required, access other medical equipment at your doctor’s surgery or hospital.</dd></dl>
 
 
 <dl><dt>**Q: If I change energy supplier after my Advanced Meter is installed, is the new meter able to be used by a different supplier?**</dt>
-  <dd>**A**: Yes.</dd></dl><br>
+  <dd>**A**: Yes.</dd></dl>
 
  
  <dl><dt>**Q: I have made an appointment and now I need to change this.**</dt>
- <dd>**A**: You will need to call the contractor on the contractor number given in the letter you received.</dd></dl><br>
+ <dd>**A**: You will need to call the contractor on the contractor number given in the letter you received.</dd></dl>
 
   
   <dl><dt>**Q: What happens if I want an appointment in the future?**</dt>
-   <dd>**A**: You will need to call the contractor number to see if they are able to accommodate you. We will need to change the meter in the timeframe on your letter to ensure this change is at no cost to you.</dd></dl><br>
+   <dd>**A**: You will need to call the contractor number to see if they are able to accommodate you. We will need to change the meter in the timeframe on your letter to ensure this change is at no cost to you.</dd></dl>
 
   
   <dl><dt>**Q: I made an appointment to meet the contractor and I missed this, what do I do?**</dt>
  <dd>**A**: You will need to call the contractor on the number given in the letter you received. 
 
-If the timeframe shown on your letter is now over, another appointment may not be available.</dd></dl><br>
+If the timeframe shown on your letter is now over, another appointment may not be available.</dd></dl>
 
  <dl><dt>**Q: I’ve heard about the Advanced Meter upgrade. Can I have my meter changed now?**</dt>
-   <dd>**A**: There are over 50,000 meters that Energy Online needs to replace by 2015. To minimise any risk of us not complying with the requirements of the Electricity Authority, we have set up a regional deployment programme to ensure that we can do this in time. Therefore we will not be processing any requests for Advanced Meters that are outside the scheduled regions.</dd></dl><br>
+   <dd>**A**: There are over 50,000 meters that Energy Online needs to replace by 2015. To minimise any risk of us not complying with the requirements of the Electricity Authority, we have set up a regional deployment programme to ensure that we can do this in time. Therefore we will not be processing any requests for Advanced Meters that are outside the scheduled regions.</dd></dl>
 
   <dl><dt>**Q: Why can I not make an appointment with you?**</dt>
-    <dd>**A**: Appointment times are arranged with the contractor company that will actually visit your property and carry out the work. As there are a number of other properties they will need to visit, they are the best point of contact to arrange an appointment.</dd></dl><br>
+    <dd>**A**: Appointment times are arranged with the contractor company that will actually visit your property and carry out the work. As there are a number of other properties they will need to visit, they are the best point of contact to arrange an appointment.</dd></dl>
 
   <dl><dt>**Q: I’ve heard that there are health risks from radio waves from Advanced Meters, am I at risk?**</dt>
   <dd>**A**: Energy Online is installing Advanced Meters that contain a modem to send electricity usage information to our billing system via the Vodafone network. The modem, similar to a cell phone, transmits low levels of radio frequency waves – not ionizing radiation. Many devices in the home such as baby monitors, Wifi modems and mobile phones transmit radio frequency waves. 
