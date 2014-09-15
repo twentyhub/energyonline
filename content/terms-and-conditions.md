@@ -50,7 +50,7 @@ If **you** have moved to **premises** and started using **energy**, **you** will
 
 2.3. **What information do we need from you?** 
 
-<dd>To become a customer **you** will need to provide **us** with some personal information. **We** may use this information for a number of purposes, as set out in our Privacy Policy. **You** can view our Privacy Policy [here](http://www.energyonline.co.nz/home/site_map/privacy_policy).
+To become a customer **you** will need to provide **us** with some personal information. **We** may use this information for a number of purposes, as set out in our Privacy Policy. **You** can view our Privacy Policy [here](http://www.energyonline.co.nz/home/site_map/privacy_policy).
 
 **We** may also request information (including credit information) from relevant third parties such as credit reference agencies and other **energy** retailers prior to **you** becoming an **Energy Online** customer and at any point while **you** are an **Energy Online** customer, as part of our credit criteria.
 
@@ -201,7 +201,7 @@ If **we** or a **meter company** make an appointment with **you** to install, co
 ## 7 WHAT ACCESS DO YOU NEED TO PROVIDE?
 
 
-7.1**You** must:
+7.1. **You** must:
 
 - provide to **us**, the **meter company**, the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises**, safe and unobstructed access to **metering equipment**, and any equipment of the **network company** or any other person on **your** **premises** between 8.00am and 7.00pm, Monday to Sunday, excluding public holidays;
 - provide to **us**, the **meter company**, the **network company** and/or other third parties who own **energy** supply equipment on **your** **premises**, immediate access to **your** **premises** at any time for safety reasons or to prevent serious damage to property or the environment;
