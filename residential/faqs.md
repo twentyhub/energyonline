@@ -23,9 +23,6 @@ If you have a query about meters, types of meters and what this means to you? Lo
 Your query isn't about one of the above subjects? Perhaps it is here. [Other queries](http://www.energyonline.co.nz/Default.aspx?tabid=152)
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
-
 [Sitemap](http://www.energyonline.co.nz/home/site_map)
-
 [Disclaimer](http://www.energyonline.co.nz/home/site_map/disclaimer)
-
 [Privacy Policy](http://www.energyonline.co.nz/home/site_map/privacy_policy)
