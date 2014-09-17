@@ -59,9 +59,6 @@ The below pricing plans are available to residential customers with an electrica
 [Back to regions](http://www.energyonline.co.nz/residential/pricing_plans/residential_electricity_pricing_plans)
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
-
 [Sitemap](http://www.energyonline.co.nz/home/site_map)
-
 [Disclaimer](http://www.energyonline.co.nz/home/site_map/disclaimer)
-
 [Privacy Policy](http://www.energyonline.co.nz/home/site_map/privacy_policy)
