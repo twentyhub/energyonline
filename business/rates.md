@@ -11,9 +11,6 @@ If Energy Online changed your prices during your billing period, you will have a
 
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
-
 [Sitemap](http://www.energyonline.co.nz/home/site_map)
-
 [Disclaimer](http://www.energyonline.co.nz/home/site_map/disclaimer)
-
 [Privacy Policy](http://www.energyonline.co.nz/home/site_map/privacy_policy)
