@@ -6,4 +6,7 @@ If you are not already and would like to become an Energy Online customer, pleas
 
 To register, you will need to have your Customer number and at least one ICP number available. If you would like to know where to find your customer and ICP numbers on your bill, please click for [help](https://www.energyonline.co.nz/DesktopModules/FourthMedia.AccountLogin/images/customer-bill.gif).
 
-
+[Terms & Conditions](https://www.energyonline.co.nz/terms)
+[Sitemap](https://www.energyonline.co.nz/Default.aspx?tabid=69)
+[Disclaimer](https://www.energyonline.co.nz/Default.aspx?tabid=71)
+[Privacy Policy](https://www.energyonline.co.nz/Default.aspx?tabid=72)
