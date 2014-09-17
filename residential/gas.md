@@ -21,9 +21,6 @@ You’ll also get all the great benefits our electricity customers already recei
 While gas is an efficient and safe form of energy, it's important you read some safety information about gas [here](http://www.energyonline.co.nz/Default.aspx?tabid=224).
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
-
 [Sitemap](http://www.energyonline.co.nz/home/site_map)
-
 [Disclaimer](http://www.energyonline.co.nz/home/site_map/disclaimer)
-
 [Privacy Policy](http://www.energyonline.co.nz/home/site_map/privacy_policy)
