@@ -29,9 +29,6 @@ If it is subsequently found that you do not meet the above eligibility criteria,
 6.Entry into this Offer implies full acceptance of all the terms and conditions of the Offer.
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms) 
-
 [Sitemap](http://www.energyonline.co.nz/Default.aspx?tabid=69)
-
 [Disclaimer](http://www.energyonline.co.nz/Default.aspx?tabid=71)
-
 [Privacy Policy](http://www.energyonline.co.nz/Default.aspx?tabid=72)
