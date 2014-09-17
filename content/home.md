@@ -28,9 +28,6 @@ We're pleased to bring you more choice!  Now you can choose to have your Energy 
 We like to make things as easy as possible so for your convenience, you can now make a payment online using your credit card.  If you've already registered for [My Account](http://www.energyonline.co.nz/home/about_my_account), just [log-in](https://www.energyonline.co.nz/my_account_-_login) with your customer number and password, otherwise you can [register here.](https://www.energyonline.co.nz/my_account_-_login/controltype/1/m/403)
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
-
 [Sitemap](http://www.energyonline.co.nz/home/site_map)
-
 [Disclaimer](http://www.energyonline.co.nz/home/site_map/disclaimer)
-
 [Privacy Policy](http://www.energyonline.co.nz/home/site_map/privacy_policy)
