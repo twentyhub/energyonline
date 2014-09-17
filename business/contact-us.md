@@ -32,13 +32,10 @@ Monday to Thursday 8am to 6pm and Friday 8am to 5pm.
 0800 089 089
 
 ### Email
-<mailto:sales@energyonline.co.nz>
+<mailto:sales@energyonline.co.nz><br>  
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
-
 [Sitemap](http://www.energyonline.co.nz/home/site_map)
-
 [Disclaimer](http://www.energyonline.co.nz/home/site_map/disclaimer)
-
 [Privacy Policy](http://www.energyonline.co.nz/home/site_map/privacy_policy)
 
