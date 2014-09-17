@@ -26,9 +26,6 @@ Under no circumstances are you to create a hyperlink to any of the pages on the 
 Energy Online needs to obtain personal information about you in the course of providing the Services. Your personal information is held in accordance with our [Privacy Policy](http://www.energyonline.co.nz/article+view.aspx?art_id=28) which can be found on the home page of the Website.
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
-
 [Sitemap](http://www.energyonline.co.nz/home/site_map)
-
 [Disclaimer](http://www.energyonline.co.nz/home/site_map/disclaimer)
-
 [Privacy Policy](http://www.energyonline.co.nz/home/site_map/privacy_policy)
