@@ -23,9 +23,6 @@ Your query isn't about one of the above subjects? Perhaps it is here. [Other que
 
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
-
 [Sitemap](http://www.energyonline.co.nz/home/site_map)
-
 [Disclaimer](http://www.energyonline.co.nz/home/site_map/disclaimer)
-
 [Privacy Policy](http://www.energyonline.co.nz/home/site_map/privacy_policy)
