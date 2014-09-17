@@ -24,9 +24,6 @@ The following terms and conditions apply to Customers using the ReliaBill paymen
 11. These ReliaBill  terms and conditions are in addition to the Energy Online standard terms and conditions that apply to the supply of energy that is paid for using ReliaBill.  If there is any inconsistency between the ReliaBill terms and conditions and Energy Online’s standard terms and conditions then the ReliaBill terms and conditions will prevail.
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
-
 [Sitemap](http://www.energyonline.co.nz/home/site_map)
-
 [Disclaimer](http://www.energyonline.co.nz/home/site_map/disclaimer)
-
 [Privacy Policy](http://www.energyonline.co.nz/home/site_map/privacy_policy)
