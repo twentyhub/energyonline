@@ -35,9 +35,6 @@ However, if you use 8,000 units or less in 12 months the total amount you will h
 
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
-
 [Sitemap](http://www.energyonline.co.nz/home/site_map)
-
 [Disclaimer](http://www.energyonline.co.nz/home/site_map/disclaimer)
-
 [Privacy Policy](http://www.energyonline.co.nz/home/site_map/privacy_policy)
