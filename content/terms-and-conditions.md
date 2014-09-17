@@ -294,27 +294,26 @@ If **you** are a **vulnerable customer**, **we** will not disconnect **your** **
 If **you** have verified **your** status as a **medically dependent** **customer** with **us**, **we** will not disconnect **your** electricity supply. In order to verify **your** status as a **medically dependent** **customer**, **you** will need to provide **us** with a Notice of Potential Medically Dependent Consumer Status Form.  **You** can request this form from **your** primary healthcare provider.  **We** may ask **you** to re-confirm **your** status as a **medically dependent** **customer** by providing **us** with a further Notice of Potential Medically Dependent Consumer Status Form no more than once every 12 months.  
 
 8.6. **What if you don't receive an invoice or your invoice was late?**
-
-8.7. If **you** have not received an invoice, **you** should contact **us**.  If **we** determine that **you** are not responsible for the lateness of an invoice and:
+If **you** have not received an invoice, **you** should contact **us**.  If **we** determine that **you** are not responsible for the lateness of an invoice and:
 
 - the invoice is sent more than two months after the end of the period to which it relates, **you** will have at least the length of time covered by the invoice to pay it; or
 - the invoice is more than three months late, **we** will give **you** a discount of 5%.
 
-8.8. **What if your invoice is based on an estimate?** 
+8.7. **What if your invoice is based on an estimate?** 
 
 If **your** invoice is based on our estimate of **your** **energy** consumption, **your** invoice will normally state clearly that an estimate has been used.  **You** may still pay for the exact amount of **energy** **you** have used by reading **your** own **meter** and advising **us** of **your** **meter** reading.  **We** will send **you** a new invoice based on this **meter** reading (unless **we** believe it is not correct), and **you** agree to pay the amount shown on that new invoice.  **You** can contact **us** if **you** would like a simple explanation of how any estimate has been calculated. 
 
-8.9. **What if your invoice is wrong?** 
+8.8. **What if your invoice is wrong?** 
 
 If **your** invoice is incorrect, **you** are only liable to pay the correct amount and **we** will refund any amount that **we** have over-charged, or **you** will pay any amount that **we** have under-charged. Any refunds for amounts that **we** have over-charged will be made promptly.  **We** may offset against any refund any amounts **you** owe **us** (or any debt collection agency to whom **we** have transferred any debt owing to **us** by **you**). Any amounts that **you** are required to pay because **we** have under-charged **you** will take into account whether **you** have contributed to the error in any way or could reasonably have been expected to know of the error.  
 
 This does not apply where **your** invoice is based on an estimate of **your** **energy** consumption, as an adjustment will be made automatically in the next invoice based on an actual **meter** reading. In any event, **you** will be responsible for the payment of all of the **energy** **you** use.  
 
-8.10. **Is interest payable?** 
+8.9. **Is interest payable?** 
 
 No interest is due on any amounts over-paid or under-paid by **you** or **us** in relation to incorrect or late invoices.  
 
-8.11. **Payment if meter is faulty** 
+8.10. **Payment if meter is faulty** 
 
 If **your** **meter** is faulty, **we** may not be able to tell for certain how much **energy** has actually been used. Therefore:
 
