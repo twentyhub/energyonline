@@ -27,9 +27,6 @@ Visit any New Zealand Post Shop or Books & More agent and pay by cash or Eftpos.
 For your convenience,we can charge your total invoice to your credit card each month. Alternatively, you can make a one-off payment online. [More about paying by credit card](http://www.energyonline.co.nz/home/payment_options/credit_card)
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
-
 [Sitemap](http://www.energyonline.co.nz/home/site_map)
-
 [Disclaimer](http://www.energyonline.co.nz/home/site_map/disclaimer)
-
 [Privacy Policy](http://www.energyonline.co.nz/home/site_map/privacy_policy)
