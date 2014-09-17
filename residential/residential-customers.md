@@ -16,9 +16,6 @@ We offer many ways to pay your account, take a look at our [payment options](htt
 If you would like help with any aspect of your account, please click here to look at [frequently asked questions](http://www.energyonline.co.nz/residential/residential_faqs).
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
-
 [Sitemap](http://www.energyonline.co.nz/home/site_map)
-
 [Disclaimer](http://www.energyonline.co.nz/home/site_map/disclaimer)
-
 [Privacy Policy](http://www.energyonline.co.nz/home/site_map/privacy_policy)
