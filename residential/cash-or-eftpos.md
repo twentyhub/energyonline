@@ -5,9 +5,6 @@ To pay your power account with cash, you can go to any NZ Post or Books & More o
 [Back to Payment Options](http://www.energyonline.co.nz/residential/residential_faqs/residential_faqs_-_payment_options)
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
-
 [Sitemap](http://www.energyonline.co.nz/home/site_map)
-
 [Disclaimer](http://www.energyonline.co.nz/home/site_map/disclaimer)
-
 [Privacy Policy](http://www.energyonline.co.nz/home/site_map/privacy_policy)
