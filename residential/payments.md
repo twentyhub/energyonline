@@ -8,9 +8,6 @@ The due date for payment of your account is printed on your invoice and will nor
 [Back to FAQs](http://www.energyonline.co.nz/residential/residential_faqs)
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
-
 [Sitemap](http://www.energyonline.co.nz/home/site_map)
-
 [Disclaimer](http://www.energyonline.co.nz/home/site_map/disclaimer)
-
 [Privacy Policy](http://www.energyonline.co.nz/home/site_map/privacy_policy)
