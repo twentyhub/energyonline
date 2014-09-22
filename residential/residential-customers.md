@@ -3,7 +3,7 @@ At Energy Online, we treat you as a person - not a number. As a New Zealand oper
 
 
 ## Here's what we can do for you:
-We offer a 20% Prompt Payment Discount - take a look at our [pricing page](http://www.energyonline.co.nz/residential/pricing_plans) to see the prices in your area. If you're not a customer already, please complete our [application form](https://join-us.energyonline.co.nz/web/eol/join) now to apply to join.
+We offer a 20% Prompt Payment Discount - take a look at our [pricing page](http://www.energyonline.co.nz/residential/pricing_plans) to see the prices in your area. If you're not a customer already, please complete our [application form](http://www.energyonline.co.nz/Default.aspx?tabid=98) now to apply to join.
 
 How good would it be to receive an accurate invoice each month? At Energy Online, we invoice you up to the date of your actual meter reads. If your meter can be accessed by our meter readers each month, this means no more estimation!
 
