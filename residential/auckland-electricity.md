@@ -1,14 +1,6 @@
 # Auckland residential pricing plans
 For customers connected to the Vector Network.
 
- 
-
-## [Sign up and get $100 off your energy bill.](http://cheaperenergy.co.nz/)
-Auckland, here’s something to warm you up this winter. It’s $100 off your energy bill when you sign up to Energy Online. That’s on top of our cheaper energy prices, our 20% prompt payment discount and our award-winning service.
-
-[Sign up now](http://cheaperenergy.co.nz/index.php/join) and let’s get cosy.
-
-<p class="legals">Terms and Conditions apply. Promotion ends 14 July 2014.</p>
 
  
 
