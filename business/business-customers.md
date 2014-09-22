@@ -5,7 +5,7 @@ Join us today. [Sign-up online](http://www.energyonline.co.nz/business/join) or 
 
 
 ## Blling to actual reads
-If your business is flexible with due dates, you now have the choice of being invoiced up to your actual meter reads. If your meter can be accessed by our meter readers each month, this means no more estimation! Please contact our [Customer Care Team](http://www.energyonline.co.nz/Default.aspx?tabid=66)if you'd like to take up this option.
+If your business is flexible with due dates, you now have the choice of being invoiced up to your actual meter reads. If your meter can be accessed by our meter readers each month, this means no more estimation! Please contact our [Customer Care Team](http://www.energyonline.co.nz/Default.aspx?tabid=66) if you'd like to take up this option.
 
 ## Business due dates
 Otherwise, if your business prefers certainty around the due date, you can choose to have your Energy Online invoice due on either the 18th or 22nd of each month. [Contact us](http://www.energyonline.co.nz/Default.aspx?tabid=66)to take up this option.
