@@ -14,7 +14,7 @@ By logging on to My Account you can:
 
 Best of all, registering is easy and it's free!  Just have your latest Energy Online invoice handy and you can [register right now.](https://www.energyonline.co.nz/my_account_-_login/controltype/1/m/403)  If you've already registered, you can log in on the left using your customer number and password.
 
-## [Click here to become an Energy Online customer.](https://join-us.energyonline.co.nz/web/eol/join)
+## [Click here to become an Energy Online customer.](http://www.energyonline.co.nz/Default.aspx?tabid=98)
  
 
 [Terms & Conditions](http://www.energyonline.co.nz/terms)
