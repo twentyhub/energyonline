@@ -6,7 +6,7 @@
 ## [Become an Energy Online Customer](https://join-us.energyonline.co.nz/web/eol/join)
 If you're interested in joining Energy Online, we'd love to hear from you.
 
-For your convenience, we have an [online application form](http://www.energyonline.co.nz/Default.aspx?tabid=98) for you to use to become an Energy Online customer.
+For your convenience, we have an [online application form](https://cheaperenergy.co.nz/) for you to use to become an Energy Online customer.
 
  
 ## [Become an Energy Online employee](http://www.energyonline.co.nz/home/about_us/careers)
