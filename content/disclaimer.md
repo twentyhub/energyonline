@@ -5,7 +5,7 @@ The supply of energy by Energy Online, and any special promotions of Energy Onli
 
 Energy Online reserves the right to vary the information on the Website, including these [Internet Access Terms](http://www.energyonline.co.nz/article+view.aspx?art_id=26), at any time without notice.
 
-Please check these [Internet Access Terms](http://www.energyonline.co.nz/article+view.aspx?art_id=26) periodically for changes. Your continued use of the Website following the posting of any changes to the [Internet Access Terms](http://www.energyonline.co.nz/article+view.aspx?art_id=26)indicates your acceptance of these changes.
+Please check these [Internet Access Terms](http://www.energyonline.co.nz/article+view.aspx?art_id=26) periodically for changes. Your continued use of the Website following the posting of any changes to the [Internet Access Terms](http://www.energyonline.co.nz/article+view.aspx?art_id=26) indicates your acceptance of these changes.
 
 ## Jurisdiction
 The Services referred to on the Website are available only to New Zealand residents. The Website is governed by New Zealand law, and users of the Website submit to the exclusive jurisdiction of the courts of New Zealand.
