@@ -34,7 +34,7 @@ Using heaters or air conditioning for extended periods can lead to an increase i
 If you provide shower facilities for staff, are they being used for excessive periods?
 
 
-For suggestions on reducing your energy consumption, please refer to our [Energy Saving Tips](http://www.energyonline.co.nz/business/energy_saving_tips_(business)). 
+For suggestions on reducing your energy consumption, please refer to our [Energy Saving Tips](http://www.energyonline.co.nz/business/energy_saving_tips_(business). 
 
 
 [Back to FAQs](http://www.energyonline.co.nz/business/business_faqs)
