@@ -9,7 +9,7 @@ You always have up to two days to call us if you want to discuss anything or sto
 ## [ReliaBill®](http://www.energyonline.co.nz/home/payment_options/reliabill)
 ReliaBill® is a product which allows you to make regular payments of the same amount, smoothing out the highs and lows of your Energy Online account throughout the year.
 
-You will automatically get all prompt payment discounts provided you don't miss any payments, and you can choose how often you would like to pay - monthly, fortnightly or weekly.[More about ReliaBill®](http://www.energyonline.co.nz/home/payment_options/reliabill)
+You will automatically get all prompt payment discounts provided you don't miss any payments, and you can choose how often you would like to pay - monthly, fortnightly or weekly. [More about ReliaBill®](http://www.energyonline.co.nz/home/payment_options/reliabill)
 
 ## [Automatic Payment](http://www.energyonline.co.nz/home/payment_options/automatic_payment)
 Automatic payment allows you to pay a fixed amount from your account each week, fortnight, or month. If there's still an amount owing when you receive your invoice, simply pay the outstanding balance by the due date. [More about Automatic Payment](http://www.energyonline.co.nz/home/payment_options/automatic_payment)
