@@ -105,13 +105,13 @@ If we have changed the meter and your security alarm batteries are getting low, 
 
 We do recommend you arrange a temporary power supply or make other arrangements to ensure you can continue to use the medical equipment you might need during the outage and let the contractor know that you’ve done this.
 
-Some options are:
+Some options are:  
 
-1. Arrange to have a power lead from the neighbour's supply to power any medical equipment you use. You will need to ensure the lead has Residual Current Device (RCD) protection on it.
+1. Arrange to have a power lead from the neighbour's supply to power any medical equipment you use. You will need to ensure the lead has Residual Current Device (RCD) protection on it.  
 
-2. You can arrange to be at your neighbour’s property during the power outage at your house.
+2. You can arrange to be at your neighbour’s property during the power outage at your house.  
 
-3. Hire a small generator to power any medical equipment.
+3. Hire a small generator to power any medical equipment.  
 
 4. Discuss the impacts of the power outage with your doctor and if required, access other medical equipment at your doctor’s surgery or hospital.</dd></dl>
 
