@@ -7,26 +7,26 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 **If you pay on time, you'll receive our Prompt Payment Discount of 20%**
 
 
-| Standard User	| Rate excl GST	| Network Operator Charges (incl in Energy Online prices) excluding GST| 
+| Standard User	| Rate excl GST	| 
 | ------------------- | 
-| Daily Charge - cents/day| 	100.00| 	15.00| 
-| Uncontrolled - cents/kWh| 	25.94	| 9.60| 
-| Controlled - cents/kWh	| 25.91	| 9.60| 
-| Night Only - cents/kWh	| 19.81	| 7.21| 
-| Day of Day/Night - cents/kWh| 	27.95	| 10.36| 
-| Night of Day/Night - cents/kWh	| 19.81| 	7.21| 
+| Daily Charge - cents/day| 	100.00| 	 
+| Uncontrolled - cents/kWh| 	25.94	| 
+| Controlled - cents/kWh	| 25.91	| 
+| Night Only - cents/kWh	| 19.81	|
+| Day of Day/Night - cents/kWh| 	27.95	| 
+| Night of Day/Night - cents/kWh	| 19.81| 	
  
 
-| Low User	| Rate excl GST	| Network Operator Charges (incl in Energy Online prices) excluding GST| 
+| Low User	| Rate excl GST	| 
 | ---------------------- | 
-| Daily Charge - cents/day	| 37.50	| 15.00| 
-| Uncontrolled - cents/kWh| 	28.77| 	9.60| 
-| Controlled - cents/kWh	| 28.74	| 9.60| 
-| Night Only - cents/kWh| 	22.01| 	7.21| 
-| Day of Day/Night - cents/kWh	| 31.00| 	10.36| 
-| Night of Day/Night - cents/kWh	| 22.01	| 7.21| 
+| Daily Charge - cents/day	| 37.50	|  
+| Uncontrolled - cents/kWh| 	28.77|  
+| Controlled - cents/kWh	| 28.74	|
+| Night Only - cents/kWh| 	22.01| 	 
+| Day of Day/Night - cents/kWh	| 31.00| 	 
+| Night of Day/Night - cents/kWh	| 22.01	|
 
-- Prices effective from 18 May 2014. Prices are subject to change.
+- Prices effective from 18 May 2014. Prices are subject to change. Prices are subject to change.
 - Standard [Terms and Conditions](http://www.energyonline.co.nz/Default.aspx?tabid=169) apply.
 - If your account is paid in full by the due date our Prompt Payment Discount of 20% will apply.
 - All rates include the Electricity Authority levy (the Electricity Authority is a government organisation that regulates New Zealand’s electricity market).
