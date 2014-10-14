@@ -7,26 +7,26 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 **If you pay on time, you'll receive our Prompt Payment Discount of 20%**
 
 
-| Standard User	| Rate excl GST	| Network Operator Charges (incl in Energy Online prices) excluding GST| 
+| Standard User	| Rate excl GST	|  
 | --------------------- | 
-| Daily Charge - cents/day	| 242.70	| 130.00| 
-| Uncontrolled - cents/kWh	| 27.47	| 11.12| 
-| All Inclusive - cents/kWh	| 24.20| 	8.50| 
-| Controlled - cents/kWh	| 19.28	| 4.56| 
-| Night Only - cents/kWh	| 14.53| 	3.20| 
-| Day of Day/Night - cents/kWh| 	33.90| 	15.37| 
-| Night of Day/Night - cents/kWh| 	14.53	| 3.20| 
+| Daily Charge - cents/day	| 242.70	| 
+| Uncontrolled - cents/kWh	| 27.47	| 
+| All Inclusive - cents/kWh	| 24.20| 	
+| Controlled - cents/kWh	| 19.28	| 
+| Night Only - cents/kWh	| 14.53| 	
+| Day of Day/Night - cents/kWh| 	33.90| 	
+| Night of Day/Night - cents/kWh| 	14.53	|  
  
 
-| Low User| 	Rate excl GST| 	Network Operator Charges (incl in Energy Online prices) excluding GST| 
+| Low User| 	Rate excl GST| 	 
 | --------------------- | 
-| Daily Charge - cents/day	| 37.50| 	15.00| 
-| Uncontrolled - cents/kWh| 	36.81| 	16.36| 
-| All Inclusive - cents/kWh| 	33.53| 	13.74| 
-| Controlled - cents/kWh	| 28.64| 	9.81| 
-| Night Only - cents/kWh	| 22.70	| 8.00| 
-| Day of Day/Night - cents/kWh| 	43.65| 	20.86| 
-| Night of Day/Night - cents/kWh| 	22.70	| 8.00| 
+| Daily Charge - cents/day	| 37.50| 	
+| Uncontrolled - cents/kWh| 	36.81| 	
+| All Inclusive - cents/kWh| 	33.53| 
+| Controlled - cents/kWh	| 28.64| 	
+| Night Only - cents/kWh	| 22.70	| 
+| Day of Day/Night - cents/kWh| 	43.65| 	
+| Night of Day/Night - cents/kWh| 	22.70	| 
 
 - Prices effective from 18 May 2014. Prices are subject to change.
 - Standard [Terms and Conditions](http://www.energyonline.co.nz/Default.aspx?tabid=169) apply.
