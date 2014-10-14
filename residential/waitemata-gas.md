@@ -21,36 +21,40 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 ### Electricity
 The below pricing plans are available to residential customers who do not have an electrical hot water cylinder in excess of 50 litres connected to United Networks’ load management system.
 
-|Standard User	|Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Standard User	|Rate excl GST|	
 |-------------------|
-|Daily Charge - cents/day|	184.16	|85.00|
-|Uncontrolled - cents/kWh	|22.29	|7.03|
+|Daily Charge - cents/day|	184.16	|
+|Uncontrolled - cents/kWh	|22.29	|
  
 
-|Low User	|Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Low User	|Rate excl GST	|
 |----------------------|
-|Daily Charge - cents/day	|37.50	|15.00|
-|Uncontrolled - cents/kWh|	28.97|	10.22|
+|Daily Charge - cents/day	|37.50	|
+|Uncontrolled - cents/kWh|	28.97|	
 
 The below pricing plans are available to residential customers with an electrical hot water cylinder in excess of 50 litres connected to UnitedNetworks’ load management system. These plans are not available in all areas, depending on the penetration of United Networks’ load management system.
 
-|Standard User|	Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Standard User|	Rate excl GST	|
 |----------------------|
-|Daily Charge - cents/day|	184.16|	85.00|
-|All Inclusive - cents/kWh|	20.19	|6.11|
+|Daily Charge - cents/day|	184.16|	
+|All Inclusive - cents/kWh|	20.19	|
  
 
-|Low User	|Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Low User	|Rate excl GST	|
 |----------------------|
-|Daily Charge - cents/day|	37.50|	15.00|
-|All Inclusive - cents/kWh	|26.88|	9.30|
+|Daily Charge - cents/day|	37.50|	
+|All Inclusive - cents/kWh	|26.88|	
  
 
 ### Gas
-|Residential	|Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
+
+**For customers connected to the Vector Gas network.	
+If you pay on time, you’ll receive our Prompt Payment Discount of 20% for Gas too!**	
+
+|Residential	|Rate excl GST|	
 |-------------------|
-|Daily Charge - cents/day|	87.00|	24.00|
-|General - cents/kWh	|8.01	|2.64|
+|Daily Charge - cents/day|	87.00|	
+|General - cents/kWh	|8.01	|
 
 - Gas prices effective 1 June 2010 and electricity prices effective 6 April 2014.
 - Standard [Terms and Conditions](http://www.energyonline.co.nz/Default.aspx?tabid=169) apply.
