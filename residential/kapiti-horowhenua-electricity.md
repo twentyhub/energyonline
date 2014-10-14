@@ -7,35 +7,35 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 **If you pay on time, you'll receive our Prompt Payment Discount of 20%**
 
 
-|Standard User	|Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Standard User	|Rate excl GST	|
 |-----------------------|
-|Daily Charge - cents/day|	100.83	|15.00|
-|Uncontrolled - cents/kWh|	28.29	|11.88|
-|All Inclusive - cents/kWh	|25.02|	9.28|
-|Controlled - cents/kWh	|17.68|	3.42|
-|Night Boost - cents/kWh	|11.75|	1.15|
-|Night Only - cents/kWh|	11.52	|0.96|
-|Day of Day/Night - cents/kWh|	30.14|	12.51|
-|Night of Day/Night - cents/kWh|	11.70|	1.11|
-|Triple Saver Peak - cents/kWh	|31.38	|13.52|
-|Triple Saver Off Peak - cents/kWh|	17.42|	2.37|
-|Triple Saver Night - cents/kWh	|11.52	|0.96|
+|Daily Charge - cents/day|	100.83	|
+|Uncontrolled - cents/kWh|	28.29	|
+|All Inclusive - cents/kWh	|25.02|	
+|Controlled - cents/kWh	|17.68|	
+|Night Boost - cents/kWh	|11.75|
+|Night Only - cents/kWh|	11.52	|
+|Day of Day/Night - cents/kWh|	30.14|	
+|Night of Day/Night - cents/kWh|	11.70|	
+|Triple Saver Peak - cents/kWh	|31.38	|
+|Triple Saver Off Peak - cents/kWh|	17.42|	
+|Triple Saver Night - cents/kWh	|11.52	|
 
  
 
-|Low User|	Rate excl GST|	Network Operator Charges (incl. in Energy Online prices) excluding GST|
+|Low User|	Rate excl GST|	
 |---------------------|
-|Daily Charge - cents/day	|37.50|	15.00|
-|Uncontrolled - cents/kWh|	31.16|	11.88|
-|All Inclusive - cents/kWh	|27.89	|9.28|
-|Controlled - cents/kWh|	20.55|	3.42|
-|Night Boost - cents/kWh	|13.97|	1.15|
-|Night Only - cents/kWh|	13.73|	0.96|
-|Day of Day/Night - cents/kWh	|33.25|	12.51|
-|Night of Day/Night - cents/kWh|	13.92	|1.11|
-|Triple Saver Peak - cents/kWh	|34.49	|13.52|
-|Triple Saver Off Peak - cents/kWh|	20.53	|2.37|
-|Triple Saver Night - cents/kWh	|13.73	|0.96|
+|Daily Charge - cents/day	|37.50|	
+|Uncontrolled - cents/kWh|	31.16|	
+|All Inclusive - cents/kWh	|27.89	
+|Controlled - cents/kWh|	20.55|	
+|Night Boost - cents/kWh	|13.97|	
+|Night Only - cents/kWh|	13.73|	
+|Day of Day/Night - cents/kWh	|33.25|	
+|Night of Day/Night - cents/kWh|	13.92	|
+|Triple Saver Peak - cents/kWh	|34.49	|
+|Triple Saver Off Peak - cents/kWh|	20.53	|
+|Triple Saver Night - cents/kWh	|13.73	|
 
 
 - Prices effective from 6th April 2014. Prices are subject to change.
