@@ -10,35 +10,39 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 
 
 ### Electricity
-|Standard User	|Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Standard User	|Rate excl GST|	
 |------------------|
-|Daily Charge - cents/day|	190.00|	90.00|
-|Uncontrolled - cents/kWh|	25.54	|8.75|
-|All Inclusive - cents/kWh|	22.52|	6.33|
-|Controlled - cents/kWh|	18.32	|2.96|
-|Night - cents/kWh|	13.75|	1.96|
+|Daily Charge - cents/day|	190.00|	
+|Uncontrolled - cents/kWh|	25.54	|
+|All Inclusive - cents/kWh|	22.52|	
+|Controlled - cents/kWh|	18.32	|
+|Night - cents/kWh|	13.75|	
  
 
-|Low User|	Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Low User|	Rate excl GST|
 |------------------|
-|Daily Charge - cents/day	|37.50|	15.00|
-|Uncontrolled - cents/kWh|	32.49|	12.15|
-|All Inclusive - cents/kWh	|29.24|	9.54|
-|Controlled - cents/kWh|	24.45|	5.69|
-|Night - cents/kWh	|16.04	|2.06|
+|Daily Charge - cents/day	|37.50|	
+|Uncontrolled - cents/kWh|	32.49|	
+|All Inclusive - cents/kWh	|29.24|	
+|Controlled - cents/kWh|	24.45|	
+|Night - cents/kWh	|16.04	|
 
 
 ### Gas
-|Standard User >4167 kWh per year	|Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
+
+**For customers connected to Powerco Gas network.	
+If you pay on time, you’ll receive our Prompt Payment Discount of 20% for Gas too!	**
+
+|Standard User >4167 kWh per year	|Rate excl GST	|
 |----------------------|
-|Daily Charge - cents/day	|155.00	|48.50|
-|General - cents/kWh|	7.78	|2.13|
+|Daily Charge - cents/day	|155.00	|
+|General - cents/kWh|	7.78	|
  
 
-|Low User <4167 kWh per year	|Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Low User <4167 kWh per year	|Rate excl GST|	
 |-------------------------|
-|Daily Charge - cents/day|	92.00|	0.00|
-|General - cents/kWh|	13.39	|5.91|
+|Daily Charge - cents/day|	92.00|	
+|General - cents/kWh|	13.39	|
 
 - Gas pricing effective 1 November 2009 and electricity pricing effective 18 May 2014. Prices are subject to change.
 - Standard [Terms and Conditions](http://www.energyonline.co.nz/terms) apply.
