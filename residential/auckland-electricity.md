@@ -8,18 +8,18 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 
 **If you pay on time, you'll receive our Prompt Payment Discount of 20%**
 
-|Standard User	|Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Standard User	|Rate excl GST|
 | --------------------- |
-|Daily Charge - cents/day|	88.00|	94.44|
-|Uncontrolled - cents/kWh|	27.20|	7.59|
-|All Inclusive - cents/kWh	|24.79	|6.58|
+|Daily Charge - cents/day|	88.00|	
+|Uncontrolled - cents/kWh|	27.20|	
+|All Inclusive - cents/kWh	|24.79	|
  
 
-|Low User	|Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Low User	|Rate excl GST	|
 | --------------------- |
-|Daily Charge - cents/day	|37.50	|16.67|
-|Uncontrolled - cents/kWh|	29.50	|11.13|
-|All Inclusive - cents/kWh|	27.09	|10.12|
+|Daily Charge - cents/day	|37.50	|
+|Uncontrolled - cents/kWh|	29.50	|
+|All Inclusive - cents/kWh|	27.09	|
  
 
 - Prices effective 23 May 2014.
