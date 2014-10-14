@@ -7,42 +7,46 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 **If you pay on time, you'll receive our Prompt Payment Discount of 20%**
 
 ### Electricity
-|Standard User	|Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Standard User	|Rate excl GST	|
 |-----------------------|
-|Daily Charge - cents/day	|104.85	|see below^|
-|Uncontrolled - cents/kWh|	27.09|	11.47|
-|All Inclusive - cents/kWh|	24.60|	9.45|
-|Controlled - cents/kWh	|22.10	|6.38|
-|Night Only - cents/kWh	|13.46|	1.86|
-|Day of Day/Night - cents/kWh|	28.94|	12.52|
-|Night of Day/Night - cents/kWh	|13.46	|1.86|
+|Daily Charge - cents/day	|104.85	|
+|Uncontrolled - cents/kWh|	27.09|	
+|All Inclusive - cents/kWh|	24.60|	
+|Controlled - cents/kWh	|22.10	|
+|Night Only - cents/kWh	|13.46|
+|Day of Day/Night - cents/kWh|	28.94|	
+|Night of Day/Night - cents/kWh	|13.46	|
 
  
 
-|Low User|	Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Low User|	Rate excl GST	|
 |------------------------|
-|Daily Charge - cents/day	|37.50	|see below^|
-|Uncontrolled - cents/kWh	|30.15	|11.47|
-|All Inclusive - cents/kWh	|27.65|	9.45|
-|Controlled - cents/kWh|	25.09	|6.38|
-|Night Only - cents/kWh	|15.00	|1.86|
-|Day of Day/Night - cents/kWh	|32.51	|12.52|
-|Night of Day/Night - cents/kWh	|15.00	|1.86|
+|Daily Charge - cents/day	|37.50	|
+|Uncontrolled - cents/kWh	|30.15	|
+|All Inclusive - cents/kWh	|27.65|	
+|Controlled - cents/kWh|	25.09	|
+|Night Only - cents/kWh	|15.00	|
+|Day of Day/Night - cents/kWh	|32.51	|
+|Night of Day/Night - cents/kWh	|15.00	|
 
 
 ### Gas
-|Standard User >4167 kWh per year|	Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
+
+**For customers connected to the Powerco Gas network.	
+If you pay on time, you’ll receive our Prompt Payment Discount of 20% for Gas too!**	
+
+|Standard User >4167 kWh per year|	Rate excl GST	|
 |------------------------------|
-|Daily Charge - cents/day|	136.00|	48.50|
-|General - cents/kWh	|6.20	|0.89|
+|Daily Charge - cents/day|	136.00|
+|General - cents/kWh	|6.20	|
  
 
-|Low User <4167 kWh per year|	Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Low User <4167 kWh per year|	Rate excl GST	|
 |------------------------|
-|Daily Charge - cents/day|	78.00|	0.00|
-|General - cents/kWh	|11.27	|4.72|
+|Daily Charge - cents/day|	78.00|	
+|General - cents/kWh	|11.27	|
 
-- Gas pricing effective 1 November 2009 and electricity pricing effective 18 May 2014. 
+- Gas pricing effective 1 November 2009 and electricity pricing effective 18 May 2014. Prices are subject to change. 
 - Standard [Terms and Conditions](http://www.energyonline.co.nz/terms) apply.
 - If your account is paid in full by the due date our Prompt Payment Discount of 20% will apply.
 - All rates include the Electricity Authority levy (the Electricity Authority is a government organisation that regulates New Zealand’s electricity market).
