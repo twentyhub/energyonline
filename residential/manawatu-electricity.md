@@ -19,19 +19,18 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 
  
 
-|Low User|	Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Low User|	Rate excl GST|	
 |---------------------|
-|Daily Charge - cents/day	|37.50|	see below^|
-|Uncontrolled - cents/kWh	|27.97	|10.37|
-|All Inclusive - cents/kWh|	26.88|	8.55|
-|Controlled - cents/kWh	|25.26|	5.77|
-|Night Only - cents/kWh	|15.00|	1.68|
-|Day of Day/Night - cents/kWh|	30.05|	11.32|
-|Night of Day/Night - cents/kWh|	15.00|	1.68|
+|Daily Charge - cents/day	|37.50|	
+|Uncontrolled - cents/kWh	|27.97	|
+|All Inclusive - cents/kWh|	26.88|	
+|Controlled - cents/kWh	|25.26|	
+|Night Only - cents/kWh	|15.00|	
+|Day of Day/Night - cents/kWh|	30.05|	
+|Night of Day/Night - cents/kWh|	15.00|	
 
 
-- Prices effective 13 May 2014.
-- ^The Network Operator charges component of the Daily Charge is 10.00 cents/day (excluding GST) for customers with a controlled tariff option and 15.00 cents/day (excluding GST) for customers without a controlled tariff option.
+- Prices effective 13 May 2014. Prices are subject to change.
 - Standard [Terms and Conditions](http://www.energyonline.co.nz/Default.aspx?tabid=169) apply.
 - If your account is paid in full by the due date our Prompt Payment Discount of 20% will apply.
 - All rates include the Electricity Authority levy (the Electricity Authority is a government organisation that regulates New Zealand’s electricity market).
