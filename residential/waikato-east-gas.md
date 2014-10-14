@@ -8,33 +8,37 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 
 
 ### Electricity
-|Standard User	|Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Standard User	|Rate excl GST|	
 |-----------------------|
-|Daily Charge - cents/day	|187.20|	85.00|
-|Uncontrolled - cents/kWh|	27.68|	10.57|
-|Controlled - cents/kWh	|16.43	|1.57|
+|Daily Charge - cents/day	|187.20|	
+|Uncontrolled - cents/kWh|	27.68|
+|Controlled - cents/kWh	|16.43	|
  
 
-|Low User	|Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Low User	|Rate excl GST	|
 |---------------------|
-|Daily Charge - cents/day|	37.50|	15.00|
-|Uncontrolled - cents/kWh|	34.51|	13.76|
-|Controlled - cents/kWh|	23.26|	4.76|
+|Daily Charge - cents/day|	37.50|	
+|Uncontrolled - cents/kWh|	34.51|	
+|Controlled - cents/kWh|	23.26|	
  
 
 ### Gas
-|Standard User	|Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
+
+**For customers connected to NGC Gas Network.	
+If you pay on time, you’ll receive our Prompt Payment Discount of 20% for Gas too!**	
+
+|Standard User	|Rate excl GST|	
 |----------------------|
-|Daily Charge - cents/day	|115.00	|30.00|
-|General - cents/kWh|	8.74|	2.35|
+|Daily Charge - cents/day	|115.00	|
+|General - cents/kWh|	8.74|	
  
 
-|Low User|	Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Low User|	Rate excl GST|	
 |---------------------|
-|Daily Charge - cents/day|	108.00	|30.00|
-|General - cents/kWh	|9.38	|2.35|
+|Daily Charge - cents/day|	108.00	|
+|General - cents/kWh	|9.38	|
 
-- Gas prices effective 28 January 2014 and electricity prices effective 18 May 2014.
+- Gas prices effective 28 January 2014 and electricity prices effective 18 May 2014. Prices are subject to change. 
 - Standard [Terms and Conditions](http://www.energyonline.co.nz/terms) apply.
 - If your account is paid in full by the due date our Prompt Payment Discount of 20% will apply.
 - All rates include the Electricity Authority levy (the Electricity Authority is a government organisation that regulates New Zealand’s electricity market).
