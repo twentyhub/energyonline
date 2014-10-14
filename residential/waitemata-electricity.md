@@ -21,31 +21,31 @@ You can join Energy Online by clicking [here](https://join-us.energyonline.co.nz
 The below pricing plans are available to residential customers who do not have an electrical hot water cylinder in excess of 50 litres connected to United Networks’ load management system.
 
 
-| Standard User	| Rate excl GST	| Network Operator Charges (incl in Energy Online  prices) excluding GST | 
+| Standard User	| Rate excl GST	|
 | ------------- | 
-| Daily Charge - cents/day	| 184.16| 85.00 | 
-| Uncontrolled - cents/kWh	| 22.29	| 7.03  | 
+| Daily Charge - cents/day	| 184.16| 
+| Uncontrolled - cents/kWh	| 22.29	|  
  
  
-| Low User	| Rate excl GST	| Network Operator Charges (incl in Energy Online prices) excluding GST | 
+| Low User	| Rate excl GST	|
 |  ---------- | 
-| Daily Charge - cents/day	| 37.50	| 15.00| 
-| Uncontrolled - cents/kWh	| 28.97	| 10.22| 
+| Daily Charge - cents/day	| 37.50	|  
+| Uncontrolled - cents/kWh	| 28.97	| 
  
 
 
 The below pricing plans are available to residential customers with an electrical hot water cylinder in excess of 50 litres connected to United Networks’ load management system. These plans are not available in all areas, depending on the penetration of United Networks’ load management system.
 
-| Standard User	| Rate excl GST	| Network Operator Charges (incl in Energy Online prices) excluding GST| 
+| Standard User	| Rate excl GST	| 
 |  ----------------- | 
-| Daily Charge - cents/day| 	184.16	| 85.00| 
-| All Inclusive- cents/kWh| 	20.19	| 6.11| 
+| Daily Charge - cents/day| 	184.16	|  
+| All Inclusive- cents/kWh| 	20.19	| 
  
 
-|  Low User	|  Rate excl GST| Network Operator Charges (incl in Energy Online prices) excluding GST |
+|  Low User	|  Rate excl GST| 
 | ----------- | 
-| Daily Charge - cents/day| 	37.50	| 15.00| 
-| All Inclusive - cents/kWh| 	26.88	| 9.30| 
+| Daily Charge - cents/day| 	37.50	|  
+| All Inclusive - cents/kWh| 	26.88	| 
  
 
 - Prices effective 6th April 2014. Prices are subject to change.
