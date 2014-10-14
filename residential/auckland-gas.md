@@ -10,26 +10,30 @@ You can join Energy Online by clicking [here](http://www.energyonline.co.nz/Defa
 
 
 ### Electricity
-|Standard User|	Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Standard User|	Rate excl GST|	
 |--------------------|
-|Daily Charge - cents/day	|88.00	|94.44|
-|Uncontrolled - cents/kWh|	27.20|	7.59|
-|All Inclusive - cents/kWh|	24.79|	6.58|
+|Daily Charge - cents/day	|88.00	|
+|Uncontrolled - cents/kWh|	27.20|	
+|All Inclusive - cents/kWh|	24.79|	
  
 
-|Low User|	Rate excl GST	|Network Operator Charges (incl in Energy Online prices) excluding GST|
+|Low User|	Rate excl GST	|
 |----------------------|
-|Daily Charge - cents/day|	37.50	|16.67|
-|Uncontrolled - cents/kWh|	29.50|	11.13|
-|All Inclusive - cents/kWh	|27.09|	10.12|
+|Daily Charge - cents/day|	37.50	|
+|Uncontrolled - cents/kWh|	29.50|	
+|All Inclusive - cents/kWh	|27.09|	
 
 ### Gas
-|Residential|	Rate excl GST|	Network Operator Charges (incl in Energy Online prices) excluding GST|
-|------------------|
-|Daily Charge - cents/day	|87.00	|24.00|
-|General - cents/kWh	|8.01|	2.79|
 
-- Gas prices effective 1 June 2010 and electricity prices effective 23 May 2014.
+**For customers connected to the Vector Gas network.	
+If you pay on time, you’ll receive our Prompt Payment Discount of 20% for Gas too!**	
+
+|Residential|	Rate excl GST|	
+|------------------|
+|Daily Charge - cents/day	|87.00	|
+|General - cents/kWh	|8.01|	
+
+- Gas prices effective 1 June 2010 and electricity prices effective 23 May 2014. Prices are subject to change.
 - Standard [Terms and Conditions](http://www.energyonline.co.nz/terms) apply.
 - If your account is paid in full by the due date our Prompt Payment Discount of 20% will apply.
 - All rates include the Electricity Authority levy (the Electricity Authority is a government organisation that regulates New Zealand’s electricity market).
